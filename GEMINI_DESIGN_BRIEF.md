@@ -101,4 +101,3 @@ Return the work in this order:
 8. Integration notes for Codex, including application order and likely conflicts.
 
 Do not return a single-file HTML prototype, mock data, pseudo-code, screenshots without implementation, or abbreviated code such as “the rest is unchanged.” If the response is too long, deliver complete files in clearly numbered batches.
-
