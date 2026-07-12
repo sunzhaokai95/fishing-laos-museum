@@ -1,14 +1,20 @@
 import { AnimatePresence, motion } from 'motion/react'
-import { Calendar, ChevronDown, Image as ImageIcon, ScrollText } from 'lucide-react'
+import { Calendar, ChevronDown, Image as ImageIcon, ScrollText, ZoomIn } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import ExhibitHeader from '../components/ExhibitHeader.jsx'
 import { timelineImageId } from '../data/history.js'
+import HistoryEraFilter from '../experiences/history/HistoryEraFilter.jsx'
+import HistoryImageViewer from '../experiences/history/HistoryImageViewer.jsx'
+import { historyEra } from '../lib/experienceAdapters.js'
 import { imageUrl } from '../lib/content.js'
 
 export default function HistoryHall({ hall, data }) {
   const timeline = data['history-timeline']
   const [open, setOpen] = useState(timeline[0]?.id)
+  const [activeEra, setActiveEra] = useState('all')
+  const [selectedImage, setSelectedImage] = useState(null)
   const images = useMemo(() => new Map(data.images.map((item) => [item.id, item])), [data.images])
+  const visibleTimeline = useMemo(() => timeline.map((item, index) => ({ item, index, era: historyEra(item, index) })).filter(({ era }) => activeEra === 'all' || era.id === activeEra), [activeEra, timeline])
 
   return (
     <main className="min-h-screen bg-[#f5f5f7] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans">
@@ -19,9 +25,10 @@ export default function HistoryHall({ hall, data }) {
           <span className="px-3 py-1.5 bg-white border border-zinc-200 rounded-lg shadow-xs">纵向时间轴</span>
         </ExhibitHeader>
 
+        <HistoryEraFilter active={activeEra} onChange={(era) => { setActiveEra(era); setOpen(null) }} />
         <section className="relative ml-3 md:ml-12 pl-7 md:pl-14 py-4 space-y-7" aria-label="中国钓鱼史纵向时间轴">
           <motion.div initial={{ scaleY: 0 }} animate={{ scaleY: 1 }} transition={{ duration: 1.1, ease: 'easeOut' }} className="absolute left-0 top-0 bottom-0 w-px bg-zinc-300 origin-top" aria-hidden="true" />
-          {timeline.map((item, index) => {
+          {visibleTimeline.map(({ item, index }) => {
             const expanded = open === item.id
             const timelineImage = images.get(timelineImageId(item.image))
             return (
@@ -37,7 +44,7 @@ export default function HistoryHall({ hall, data }) {
                     <motion.div initial={{ height: 0, opacity: 0 }} animate={{ height: 'auto', opacity: 1 }} exit={{ height: 0, opacity: 0 }} transition={{ duration: 0.45, ease: [0.22, 1, 0.36, 1] }} className="overflow-hidden">
                       <div className={`pt-6 md:ml-[182px] grid gap-7 ${timelineImage ? 'lg:grid-cols-[1fr_260px]' : 'grid-cols-1'}`}>
                         <div className="space-y-5"><p className="text-sm leading-8 text-zinc-700 font-light">{item.detail}</p><div className="inline-flex items-center gap-2 text-[10px] font-mono text-zinc-500"><ScrollText size={13} aria-hidden="true" /><span>{item.theme}</span></div></div>
-                        {timelineImage ? <figure className="space-y-2"><motion.img whileHover={{ scale: 1.025 }} transition={{ duration: 0.5 }} src={imageUrl(timelineImage)} alt={timelineImage.title.replaceAll('*', '')} className="w-full aspect-[4/3] object-cover rounded-2xl border border-zinc-200 bg-white shadow-sm" /><figcaption className="text-[10px] leading-relaxed text-zinc-500 flex gap-1.5"><ImageIcon size={11} className="mt-0.5 shrink-0" aria-hidden="true" />{timelineImage.title.replaceAll('*', '')}</figcaption></figure> : null}
+                        {timelineImage ? <figure className="space-y-2"><button type="button" aria-label={`查看图像 ${timelineImage.title.replaceAll('*', '')}`} onClick={() => setSelectedImage({ title: timelineImage.title.replaceAll('*', ''), url: imageUrl(timelineImage) })} className="relative w-full overflow-hidden rounded-2xl group"><motion.img whileHover={{ scale: 1.035 }} transition={{ duration: 0.5 }} src={imageUrl(timelineImage)} alt={timelineImage.title.replaceAll('*', '')} className="w-full aspect-[4/3] object-cover border border-zinc-200 bg-white shadow-sm" /><span className="absolute right-3 bottom-3 w-9 h-9 rounded-full bg-white/90 border border-zinc-200 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity"><ZoomIn size={15} /></span></button><figcaption className="text-[10px] leading-relaxed text-zinc-500 flex gap-1.5"><ImageIcon size={11} className="mt-0.5 shrink-0" aria-hidden="true" />{timelineImage.title.replaceAll('*', '')}</figcaption></figure> : null}
                       </div>
                     </motion.div>
                   ) : null}
@@ -47,6 +54,7 @@ export default function HistoryHall({ hall, data }) {
           })}
         </section>
       </div>
+      <HistoryImageViewer image={selectedImage} onClose={() => setSelectedImage(null)} />
     </main>
   )
 }
