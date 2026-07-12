@@ -56,18 +56,16 @@ export default function HomePage() {
       </div>
 
       <div className="absolute inset-0 z-10 pointer-events-none overflow-hidden">
-        <AnimatePresence>
           {ripples.map((ripple) => (
             <motion.span
+              data-testid="home-ripple"
               key={ripple.id}
               initial={{ position: 'absolute', left: ripple.x, top: ripple.y, x: '-50%', y: '-50%', width: 16, height: 16, borderRadius: '50%', border: '1px solid rgba(9,9,11,.15)', scale: 0.5, opacity: 0.8 }}
               animate={{ scale: 16, opacity: 0, borderWidth: '0.5px' }}
-              exit={{ opacity: 0 }}
               transition={{ duration: 1.8, ease: [0.1, 0.8, 0.2, 1] }}
               onAnimationComplete={() => setRipples((current) => current.filter((item) => item.id !== ripple.id))}
             />
           ))}
-        </AnimatePresence>
       </div>
 
       <header className="relative z-20 w-full max-w-7xl mx-auto px-6 py-8 flex justify-between items-center border-b border-zinc-200/60">

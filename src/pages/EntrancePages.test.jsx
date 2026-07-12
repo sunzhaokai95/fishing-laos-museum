@@ -1,4 +1,4 @@
-import { cleanup, render, screen } from '@testing-library/react'
+import { cleanup, fireEvent, render, screen } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
 import { afterEach, describe, expect, it } from 'vitest'
 import EpilogueHall from '../halls/EpilogueHall.jsx'
@@ -20,10 +20,22 @@ describe('entrance, prologue and epilogue content contract', () => {
     expect(screen.queryByRole('img')).not.toBeInTheDocument()
   })
 
+  it('keeps the homepage ripple field bounded during continuous movement', () => {
+    const { container } = render(<MemoryRouter><HomePage /></MemoryRouter>)
+    for (let index = 0; index < 30; index += 1) fireEvent.mouseMove(container.firstChild, { clientX: index * 4, clientY: index * 3 })
+    expect(screen.getAllByTestId('home-ripple').length).toBeLessThanOrEqual(9)
+  })
+
   it('keeps the prologue as one continuous paragraph', () => {
     const { container } = render(<PrologueHall />)
     expect(screen.getByRole('heading', { name: '水面之下' })).toBeInTheDocument()
     expect(container.querySelectorAll('p')).toHaveLength(1)
+  })
+
+  it('synchronizes the prologue depth slider and numerical readout', () => {
+    render(<PrologueHall />)
+    fireEvent.change(screen.getByRole('slider', { name: '观察深度' }), { target: { value: '68' } })
+    expect(screen.getByText('68 / 100')).toBeInTheDocument()
   })
 
   it('keeps the epilogue as one concluding paragraph', () => {
