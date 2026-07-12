@@ -11,6 +11,7 @@
     "build": "vite build",
     "lint": "oxlint",
     "test": "vitest run",
+    "verify:parity": "node scripts/verify-interaction-parity.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

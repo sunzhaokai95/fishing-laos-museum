@@ -15,6 +15,7 @@ describe('culture reading modes', () => {
   it('uses a paged folio for poetry and image culture', () => {
     render(<PoetryFolios items={items} onOpen={() => {}} />)
     expect(screen.getByRole('region', { name: '诗画册页' })).toBeInTheDocument()
+    expect(screen.queryByText('鱼')).not.toBeInTheDocument()
     fireEvent.click(screen.getByRole('button', { name: '下一册页' }))
     expect(screen.getByRole('heading', { name: '条目二' })).toBeInTheDocument()
   })

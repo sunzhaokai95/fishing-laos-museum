@@ -1,0 +1,247 @@
+{
+  "generatedAt": "2026-07-12T22:20:35.151Z",
+  "baseUrl": "http://127.0.0.1:63255",
+  "results": [
+    {
+      "viewport": "desktop",
+      "route": "/",
+      "h1": "钓鱼佬博物馆",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/prologue",
+      "h1": "水面之下",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/history",
+      "h1": "从生存到垂钓",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/fish",
+      "h1": "鱼各有其水",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/tackle",
+      "h1": "手中的水下仪器",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/techniques",
+      "h1": "读懂看不见的鱼",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/anglers",
+      "h1": "谁坐在水边",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/culture",
+      "h1": "鱼不只活在水里",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/ethics",
+      "h1": "钓获之后",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "desktop",
+      "route": "/visit/epilogue",
+      "h1": "回到水边",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/",
+      "h1": "钓鱼佬博物馆",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/prologue",
+      "h1": "水面之下",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/history",
+      "h1": "从生存到垂钓",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/fish",
+      "h1": "鱼各有其水",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/tackle",
+      "h1": "手中的水下仪器",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/techniques",
+      "h1": "读懂看不见的鱼",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/anglers",
+      "h1": "谁坐在水边",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/culture",
+      "h1": "鱼不只活在水里",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/ethics",
+      "h1": "钓获之后",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "tablet",
+      "route": "/visit/epilogue",
+      "h1": "回到水边",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/",
+      "h1": "钓鱼佬博物馆",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/prologue",
+      "h1": "水面之下",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/history",
+      "h1": "从生存到垂钓",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/fish",
+      "h1": "鱼各有其水",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/tackle",
+      "h1": "手中的水下仪器",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/techniques",
+      "h1": "读懂看不见的鱼",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/anglers",
+      "h1": "谁坐在水边",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/culture",
+      "h1": "鱼不只活在水里",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/ethics",
+      "h1": "钓获之后",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    },
+    {
+      "viewport": "mobile",
+      "route": "/visit/epilogue",
+      "h1": "回到水边",
+      "overflow": 0,
+      "brokenImages": 0,
+      "consoleErrors": 0
+    }
+  ],
+  "failures": []
+}
