@@ -1,0 +1,9 @@
+import { motion } from 'motion/react'
+import { Sparkles } from 'lucide-react'
+import { useState } from 'react'
+
+export default function MetaphysicsCabinet({ items }) {
+  const [activeId, setActiveId] = useState(items[0]?.id)
+  const active = items.find((item) => item.id === activeId) || items[0]
+  return <section className="grid min-h-[560px] border-y border-stone-300 lg:grid-cols-[minmax(300px,.85fr)_1.15fr]" aria-label="玄学标本柜"><div className="grid grid-cols-2 gap-px bg-stone-300 p-px sm:grid-cols-3">{items.map((item, index) => <button type="button" key={item.id} aria-label={`打开标本 ${item.title}`} onClick={() => setActiveId(item.id)} className={`min-h-40 bg-[#f8f6f2] p-4 text-center ${active?.id === item.id ? 'shadow-[inset_0_0_0_2px_#27272a]' : 'hover:bg-white'}`}><Sparkles size={15} className="mx-auto text-zinc-400" aria-hidden="true" /><small className="mt-4 block font-mono text-[8px] text-zinc-400">SPECIMEN {String(index + 1).padStart(2, '0')}</small><span className="mt-3 block text-sm leading-5 text-zinc-800">{item.title}</span></button>)}</div>{active ? <motion.article key={active.id} initial={{ opacity: 0, y: 15 }} animate={{ opacity: 1, y: 0 }} className="relative flex flex-col justify-center bg-[#fbfaf7] p-7 md:p-12"><span className="absolute right-6 top-6 grid h-9 w-9 place-items-center rounded-full border border-red-300 text-xs text-red-500" aria-hidden="true">俗</span><small className="font-mono text-[9px] text-zinc-400">FOLK BELIEF ANALYSIS / 民俗分析</small><h2 className="mt-3 max-w-xl font-serif text-3xl text-zinc-900">{active.title}</h2><p className="mt-6 max-w-2xl text-sm leading-8 text-zinc-600">{active.text}</p><p className="mt-7 border-l-2 border-red-300 pl-4 text-xs leading-6 text-zinc-500">本柜保存的是水边经验、玩笑和民俗表达，不把相关性写成因果，也不提供预测。</p></motion.article> : null}</section>
+}
