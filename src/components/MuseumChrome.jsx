@@ -1,21 +1,30 @@
 import { AnimatePresence, motion, MotionConfig } from 'motion/react'
 import { ChevronLeft, ChevronRight, Eye, EyeOff, Map, X } from 'lucide-react'
-import { useEffect, useState } from 'react'
-import { Link, useLocation } from 'react-router-dom'
+import { useCallback, useEffect, useState } from 'react'
+import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { MUSEUM_ROUTE, routeContext } from '../data/museumRoute.js'
+import useDialogBehavior from '../hooks/useDialogBehavior.js'
 
 export default function MuseumChrome({ children }) {
   const { pathname } = useLocation()
+  const navigate = useNavigate()
   const { current, previous, next, index } = routeContext(pathname)
   const [mapOpen, setMapOpen] = useState(false)
   const [reducedMotion, setReducedMotion] = useState(false)
 
+  const closeMap = useCallback(() => setMapOpen(false), [])
+  const mapRef = useDialogBehavior(mapOpen, closeMap)
+
   useEffect(() => {
-    if (!mapOpen) return undefined
-    const close = (event) => event.key === 'Escape' && setMapOpen(false)
-    document.addEventListener('keydown', close)
-    return () => document.removeEventListener('keydown', close)
-  }, [mapOpen])
+    const moveThroughRoute = (event) => {
+      const tag = document.activeElement?.tagName
+      if (['INPUT', 'SELECT', 'TEXTAREA'].includes(tag) || document.activeElement?.getAttribute('role') === 'slider') return
+      if (event.key === 'ArrowRight' && next) navigate(next.url)
+      if (event.key === 'ArrowLeft' && previous) navigate(previous.url)
+    }
+    window.addEventListener('keydown', moveThroughRoute)
+    return () => window.removeEventListener('keydown', moveThroughRoute)
+  }, [navigate, next, previous])
 
   return (
     <MotionConfig reducedMotion={reducedMotion ? 'always' : 'user'}>
@@ -99,11 +108,13 @@ export default function MuseumChrome({ children }) {
         <AnimatePresence>
           {mapOpen ? (
             <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-              <motion.div initial={{ opacity: 0 }} animate={{ opacity: 0.4 }} exit={{ opacity: 0 }} onClick={() => setMapOpen(false)} className="absolute inset-0 bg-black" />
+              <motion.div initial={{ opacity: 0 }} animate={{ opacity: 0.4 }} exit={{ opacity: 0 }} onClick={closeMap} className="absolute inset-0 bg-black" />
               <motion.section
+                ref={mapRef}
                 role="dialog"
                 aria-modal="true"
                 aria-label="展厅地图"
+                tabIndex={-1}
                 initial={{ scale: 0.95, opacity: 0 }}
                 animate={{ scale: 1, opacity: 1 }}
                 exit={{ scale: 0.95, opacity: 0 }}
@@ -112,7 +123,7 @@ export default function MuseumChrome({ children }) {
               >
                 <header className="flex justify-between items-start border-b border-zinc-200/60 pb-4">
                   <div><h2 className="text-lg md:text-xl font-bold tracking-normal text-zinc-900">展厅地图</h2><p className="text-xs text-zinc-500 font-light mt-1">首页、序厅、七个展厅与尾厅组成一条固定的参观顺序。</p></div>
-                  <button type="button" onClick={() => setMapOpen(false)} className="p-2 rounded-xl bg-zinc-100 border border-zinc-200 text-zinc-700 hover:bg-zinc-200/50" aria-label="关闭展厅地图"><X size={15} aria-hidden="true" /></button>
+                  <button type="button" onClick={closeMap} className="p-2 rounded-xl bg-zinc-100 border border-zinc-200 text-zinc-700 hover:bg-zinc-200/50" aria-label="关闭展厅地图"><X size={15} aria-hidden="true" /></button>
                 </header>
 
                 <div className="relative h-28 bg-zinc-50 border border-zinc-200/80 rounded-2xl p-4 overflow-hidden hidden sm:flex items-center justify-center" aria-hidden="true">
@@ -130,7 +141,7 @@ export default function MuseumChrome({ children }) {
                     <li key={item.id}>
                       <Link
                         to={item.url}
-                        onClick={() => setMapOpen(false)}
+                        onClick={closeMap}
                         aria-label={`第${itemIndex + 1}站 ${item.title}`}
                         className={`p-3.5 rounded-[18px] border text-left transition-all flex flex-col justify-between h-24 ${itemIndex === index ? 'bg-zinc-900 border-zinc-900 text-white shadow-lg' : itemIndex < index ? 'bg-zinc-50 border-zinc-200 text-zinc-700 hover:bg-zinc-100/70' : 'bg-white border-zinc-200 text-zinc-400 hover:border-zinc-300 hover:text-zinc-700'}`}
                       >
