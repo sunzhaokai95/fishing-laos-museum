@@ -152,6 +152,40 @@ main[class*="bg-[#f4f0ea]"] div[class*="grid md:grid-cols-2 gap-px bg-stone-300"
 .fish-orbit-depth-surface { top: 0.75rem; }
 .fish-orbit-depth-bed { bottom: 0.75rem; }
 
+.technique-lab {
+  overflow: hidden;
+  border: 1px solid rgb(212 212 216);
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.technique-lab-heading {
+  padding: 1rem;
+  border-bottom: 1px solid rgb(228 228 231);
+}
+
+.technique-lab-heading small {
+  display: block;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.55rem;
+  color: rgb(113 113 122);
+}
+
+.technique-lab-heading h2 {
+  margin-top: 0.25rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: rgb(24 24 27);
+}
+
+.technique-lab-note {
+  min-height: 5.2rem;
+  padding: 1rem;
+  border-top: 1px solid rgb(228 228 231);
+  font-size: 0.75rem;
+  line-height: 1.65;
+  color: rgb(82 82 91);
+}
+
 @media (max-width: 639px) {
   .fish-orbit-stage {
     height: 500px;
