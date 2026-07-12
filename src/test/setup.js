@@ -7,3 +7,5 @@ class TestIntersectionObserver {
 }
 
 globalThis.IntersectionObserver = TestIntersectionObserver
+
+HTMLCanvasElement.prototype.getContext = () => null

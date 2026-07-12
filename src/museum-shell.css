@@ -68,6 +68,109 @@ main[class*="bg-[#f4f0ea]"] div[class*="grid md:grid-cols-2 gap-px bg-stone-300"
   border: 1px solid rgb(214 211 209);
 }
 
+.fish-orbit {
+  position: relative;
+}
+
+.fish-orbit-stage {
+  position: relative;
+  height: min(52vw, 610px);
+  min-height: 430px;
+  overflow: hidden;
+  border-bottom: 1px solid rgba(63, 63, 70, 0.2);
+  background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 24.8%, rgba(63, 63, 70, 0.08) 25%);
+}
+
+.fish-orbit-planet {
+  position: absolute;
+  z-index: 2;
+  translate: -50% -50%;
+  display: grid;
+  justify-items: center;
+  gap: 0.35rem;
+  width: 7.5rem;
+  color: rgb(63 63 70);
+  transition: color 220ms ease;
+  will-change: transform;
+}
+
+.fish-orbit-planet:hover,
+.fish-orbit-planet:focus-visible {
+  z-index: 4;
+  color: rgb(9 9 11);
+}
+
+.fish-orbit-image {
+  display: grid;
+  place-items: center;
+  width: clamp(3.4rem, 6vw, 5.5rem);
+  aspect-ratio: 1;
+  overflow: hidden;
+  border: 1px solid rgba(63, 63, 70, 0.24);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.86);
+  box-shadow: 0 12px 30px rgba(24, 24, 27, 0.07);
+  transition: border-color 220ms ease, box-shadow 220ms ease, scale 220ms ease;
+}
+
+.fish-orbit-planet:hover .fish-orbit-image,
+.fish-orbit-planet:focus-visible .fish-orbit-image {
+  scale: 1.08;
+  border-color: rgba(24, 24, 27, 0.65);
+  box-shadow: 0 16px 36px rgba(24, 24, 27, 0.13);
+}
+
+.fish-orbit-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 0.45rem;
+}
+
+.fish-orbit-image b {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.fish-orbit-name {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  font-size: 0.65rem;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.fish-orbit-depth {
+  position: absolute;
+  left: 0;
+  z-index: 1;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.55rem;
+  color: rgba(63, 63, 70, 0.52);
+}
+
+.fish-orbit-depth-surface { top: 0.75rem; }
+.fish-orbit-depth-bed { bottom: 0.75rem; }
+
+@media (max-width: 639px) {
+  .fish-orbit-stage {
+    height: 500px;
+    min-height: 500px;
+  }
+
+  .fish-orbit-planet {
+    width: 5rem;
+  }
+
+  .fish-orbit-planet:nth-of-type(n + 10) {
+    display: none;
+  }
+
+  .fish-orbit-image {
+    width: 3.5rem;
+  }
+}
+
 @keyframes museum-float-up {
   0% { transform: translateY(0) scale(0.9); opacity: 0.1; }
   50% { opacity: 0.5; }

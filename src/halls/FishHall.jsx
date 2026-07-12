@@ -1,8 +1,10 @@
 import { AnimatePresence, motion } from 'motion/react'
-import { ChevronDown, Search, SlidersHorizontal, Waves } from 'lucide-react'
+import { ChevronDown, RotateCcw, Search, SlidersHorizontal, Waves } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import ExhibitHeader from '../components/ExhibitHeader.jsx'
 import ObjectDrawer from '../components/ObjectDrawer.jsx'
+import FishOrbitCanopy from '../experiences/fish/FishOrbitCanopy.jsx'
+import FishStats from '../experiences/fish/FishStats.jsx'
 import { filterFish, uniqueValues } from '../lib/exhibition.js'
 import { fishDifficulty } from '../lib/fishDifficulty.js'
 
@@ -12,12 +14,13 @@ const DIETS = ['杂食', '肉食', '草食', '滤食']
 
 export default function FishHall({ hall, data }) {
   const fish = data['fish-library']
-  const [filters, setFilters] = useState({ query: '', family: '', layer: '', diet: '' })
+  const [filters, setFilters] = useState({ query: '', family: '', layer: '', diet: '', difficulty: '' })
   const [limit, setLimit] = useState(PAGE_SIZE)
   const [selected, setSelected] = useState(null)
   const families = useMemo(() => uniqueValues(fish, (item) => item.fields?.科), [fish])
-  const visible = useMemo(() => filterFish(fish, filters), [fish, filters])
+  const visible = useMemo(() => filterFish(fish, filters).filter((item) => !filters.difficulty || fishDifficulty(item).level === Number(filters.difficulty)), [fish, filters])
   const update = (key, value) => { setFilters((current) => ({ ...current, [key]: value })); setLimit(PAGE_SIZE) }
+  const reset = () => { setFilters({ query: '', family: '', layer: '', diet: '', difficulty: '' }); setLimit(PAGE_SIZE) }
 
   return (
     <main className="min-h-screen bg-[#eef4f5] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans">
@@ -27,12 +30,17 @@ export default function FishHall({ hall, data }) {
           <span className="px-3 py-1.5 bg-white/80 border border-zinc-200 rounded-lg">{fish.length} 种鱼</span><span className="px-3 py-1.5 bg-white/80 border border-zinc-200 rounded-lg">{families.length} 个科</span><span className="px-3 py-1.5 bg-white/80 border border-zinc-200 rounded-lg">{fish.filter((item) => item.image_url).length} 张图像</span>
         </ExhibitHeader>
 
+        <FishStats fish={fish} />
+        <FishOrbitCanopy fish={fish} onSelect={setSelected} />
+
         <section className="space-y-7" aria-label="鱼类标本检索">
-          <div className="sticky top-[65px] z-20 bg-white/80 backdrop-blur-xl border border-zinc-200/80 rounded-2xl p-3 md:p-4 shadow-sm grid grid-cols-1 md:grid-cols-[minmax(240px,1fr)_repeat(3,minmax(130px,auto))] gap-3">
+          <div className="sticky top-[65px] z-20 bg-white/90 backdrop-blur-xl border border-zinc-200/80 p-3 md:p-4 shadow-sm grid grid-cols-1 md:grid-cols-2 xl:grid-cols-[minmax(240px,1fr)_repeat(4,minmax(120px,auto))_auto] gap-3">
             <label className="relative flex items-center"><Search className="absolute left-3.5 text-zinc-400" size={16} aria-hidden="true" /><input className="w-full h-11 pl-10 pr-4 rounded-xl border border-zinc-200 bg-white text-sm outline-none focus:border-zinc-500" value={filters.query} onChange={(event) => update('query', event.target.value)} placeholder="搜索鱼名、别名或学名" /></label>
             <FilterSelect label="科" value={filters.family} onChange={(value) => update('family', value)} options={families} all="全部科" />
             <FilterSelect label="水层" value={filters.layer} onChange={(value) => update('layer', value)} options={LAYERS} all="全部水层" />
             <FilterSelect label="食性" value={filters.diet} onChange={(value) => update('diet', value)} options={DIETS} all="全部食性" />
+            <FilterSelect label="钓获难度" value={filters.difficulty} onChange={(value) => update('difficulty', value)} options={['1', '2', '3', '4', '5']} all="全部难度" format={(value) => `${value} 级`} />
+            <button type="button" onClick={reset} className="inline-flex h-11 items-center justify-center gap-2 border border-zinc-200 bg-white px-3 text-xs text-zinc-600 hover:border-zinc-500" aria-label="重置全部筛选"><RotateCcw size={14} aria-hidden="true" />重置</button>
           </div>
           <div className="flex items-center justify-between border-b border-zinc-300/70 pb-3 text-[10px] font-mono text-zinc-500"><span className="flex items-center gap-2"><Waves size={14} aria-hidden="true" />当前水域找到 {visible.length} 种</span><span>馆内钓获难度为五级策展评估</span></div>
           <motion.div layout className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-5">
@@ -54,8 +62,8 @@ export default function FishHall({ hall, data }) {
   )
 }
 
-function FilterSelect({ label, value, onChange, options, all }) {
-  return <label className="relative flex items-center"><SlidersHorizontal className="absolute left-3 text-zinc-400" size={13} aria-hidden="true" /><span className="sr-only">{label}</span><select className="w-full h-11 pl-9 pr-8 rounded-xl border border-zinc-200 bg-white text-xs text-zinc-700 outline-none focus:border-zinc-500" value={value} onChange={(event) => onChange(event.target.value)}><option value="">{all}</option>{options.map((option) => <option key={option}>{option}</option>)}</select></label>
+function FilterSelect({ label, value, onChange, options, all, format = (option) => option }) {
+  return <label className="relative flex items-center"><SlidersHorizontal className="absolute left-3 text-zinc-400" size={13} aria-hidden="true" /><span className="sr-only">{label}</span><select aria-label={label} className="w-full h-11 pl-9 pr-8 rounded-xl border border-zinc-200 bg-white text-xs text-zinc-700 outline-none focus:border-zinc-500" value={value} onChange={(event) => onChange(event.target.value)}><option value="">{all}</option>{options.map((option) => <option key={option} value={option}>{format(option)}</option>)}</select></label>
 }
 
 function FishDetail({ fish }) {
