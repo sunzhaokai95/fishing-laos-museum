@@ -23,8 +23,8 @@ export default function FishHall({ hall, data }) {
   const reset = () => { setFilters({ query: '', family: '', layer: '', diet: '', difficulty: '' }); setLimit(PAGE_SIZE) }
 
   return (
-    <main className="min-h-screen bg-[#eef4f5] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans">
-      <div className="absolute inset-0 pointer-events-none overflow-hidden" aria-hidden="true"><span className="absolute top-32 left-[8%] w-72 h-72 rounded-full bg-cyan-100/70 blur-[120px] animate-pulse" /><span className="absolute top-[38rem] right-[-8rem] w-96 h-96 rounded-full bg-sky-100/60 blur-[130px]" /><span className="fish-current fish-current-one" /><span className="fish-current fish-current-two" /></div>
+    <main className="min-h-screen bg-[#f5f5f7] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans">
+      <div className="absolute inset-0 pointer-events-none overflow-hidden" aria-hidden="true"><span className="absolute top-32 left-[8%] w-72 h-72 rounded-full bg-zinc-200/50 blur-[120px] animate-pulse" /><span className="absolute top-[38rem] right-[-8rem] w-96 h-96 rounded-full bg-zinc-300/35 blur-[130px]" /><span className="fish-current fish-current-one" /><span className="fish-current fish-current-two" /></div>
       <div className="max-w-7xl mx-auto relative z-10 space-y-10">
         <ExhibitHeader eyebrow="HALL 02 / 第二展厅" title={hall.title} summary={hall.summary}>
           <span className="px-3 py-1.5 bg-white/80 border border-zinc-200 rounded-lg">{fish.length} 种鱼</span><span className="px-3 py-1.5 bg-white/80 border border-zinc-200 rounded-lg">{families.length} 个科</span><span className="px-3 py-1.5 bg-white/80 border border-zinc-200 rounded-lg">{fish.filter((item) => item.image_url).length} 张图像</span>
