@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { rebaseContentPaths, withBasePath } from '../lib/publicPath.js'
 
 const DATA_FILES = [
   'route-pages',
@@ -16,11 +17,11 @@ export default function useMuseumData() {
     const controller = new AbortController()
     Promise.all(
       DATA_FILES.map(async (name) => {
-        const response = await fetch(`/content/data/${name}.json`, {
+        const response = await fetch(withBasePath(`/content/data/${name}.json`), {
           signal: controller.signal,
         })
         if (!response.ok) throw new Error(`无法读取 ${name}.json`)
-        return [name, await response.json()]
+        return [name, rebaseContentPaths(await response.json())]
       }),
     )
       .then((entries) => {

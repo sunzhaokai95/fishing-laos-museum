@@ -1,3 +1,5 @@
+import { withBasePath } from './publicPath.js'
+
 const STAGE_MAP = new Map([
   ['home', '首页'],
   ['prologue', '序厅'],
@@ -58,7 +60,7 @@ export function rewriteAssetPaths(markdown, sourceFile) {
   const base = new URL(`/content/${sourceFile}`, 'https://museum.local')
   return markdown.replace(/(!\[[^\]]*\]\()([^)]+)(\))/g, (match, open, path, close) => {
     if (/^(?:https?:|data:)/.test(path)) return match
-    return `${open}${new URL(path, base).pathname}${close}`
+    return `${open}${withBasePath(new URL(path, base).pathname)}${close}`
   })
 }
 
@@ -85,7 +87,7 @@ export function introParagraphs(markdown, limit = 2) {
 }
 
 export function imageUrl(image) {
-  return image?.local_path ? `/content/${image.local_path}` : null
+  return image?.local_path ? withBasePath(`/content/${image.local_path}`) : null
 }
 
 export function cleanInlineText(text = '') {

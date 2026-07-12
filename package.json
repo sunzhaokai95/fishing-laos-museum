@@ -8,7 +8,7 @@
     "predev": "pnpm sync:content",
     "dev": "vite",
     "prebuild": "pnpm sync:content",
-    "build": "vite build",
+    "build": "vite build && node scripts/build-static-routes.mjs",
     "lint": "oxlint",
     "test": "vitest run",
     "verify:parity": "node scripts/verify-interaction-parity.mjs",

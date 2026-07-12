@@ -1,24 +1,16 @@
+import { lazy, Suspense } from 'react'
 import { hallById } from '../data/halls.js'
-import AnglersHall from '../halls/AnglersHall.jsx'
-import CultureHall from '../halls/CultureHall.jsx'
-import EpilogueHall from '../halls/EpilogueHall.jsx'
-import EthicsHall from '../halls/EthicsHall.jsx'
-import FishHall from '../halls/FishHall.jsx'
-import HistoryHall from '../halls/HistoryHall.jsx'
-import PrologueHall from '../halls/PrologueHall.jsx'
-import TackleHall from '../halls/TackleHall.jsx'
-import TechniquesHall from '../halls/TechniquesHall.jsx'
 
 const SCENES = {
-  prologue: PrologueHall,
-  history: HistoryHall,
-  fish: FishHall,
-  tackle: TackleHall,
-  techniques: TechniquesHall,
-  anglers: AnglersHall,
-  culture: CultureHall,
-  ethics: EthicsHall,
-  epilogue: EpilogueHall,
+  prologue: lazy(() => import('../halls/PrologueHall.jsx')),
+  history: lazy(() => import('../halls/HistoryHall.jsx')),
+  fish: lazy(() => import('../halls/FishHall.jsx')),
+  tackle: lazy(() => import('../halls/TackleHall.jsx')),
+  techniques: lazy(() => import('../halls/TechniquesHall.jsx')),
+  anglers: lazy(() => import('../halls/AnglersHall.jsx')),
+  culture: lazy(() => import('../halls/CultureHall.jsx')),
+  ethics: lazy(() => import('../halls/EthicsHall.jsx')),
+  epilogue: lazy(() => import('../halls/EpilogueHall.jsx')),
 }
 
 export default function HallPage({ hallId, data }) {
@@ -26,7 +18,9 @@ export default function HallPage({ hallId, data }) {
   const Scene = SCENES[hallId]
   return (
     <div className={`hall-page hall-${hallId}`}>
-      <Scene hall={hall} data={data} />
+      <Suspense fallback={<div className="load-state" role="status"><span className="loading-line" aria-hidden="true" /><p>正在打开展厅</p></div>}>
+        <Scene hall={hall} data={data} />
+      </Suspense>
     </div>
   )
 }

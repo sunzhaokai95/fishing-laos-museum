@@ -3,6 +3,7 @@ import { mkdir, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
 const baseUrl = process.env.BASE_URL || 'http://127.0.0.1:63255'
+const appPath = process.env.APP_PATH ?? '/museums/fishing-laos'
 const chrome = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
 const outputDir = path.resolve('.design/gemini-parity-audit/screenshots')
 const routes = [
@@ -41,7 +42,7 @@ for (const [viewportName, viewport] of viewports) {
     page.on('console', (message) => { if (message.type() === 'error') consoleErrors.push(message.text()) })
     page.on('pageerror', (error) => consoleErrors.push(error.message))
     try {
-      await page.goto(`${baseUrl}${route}`, { waitUntil: 'networkidle', timeout: 45000 })
+      await page.goto(`${baseUrl}${appPath}${route}`, { waitUntil: 'networkidle', timeout: 45000 })
       await page.waitForSelector('h1', { timeout: 15000 })
       await page.waitForTimeout(350)
       const audit = await page.evaluate(() => ({
@@ -68,7 +69,7 @@ for (const [viewportName, viewport] of viewports) {
 }
 
 await browser.close()
-await writeFile(path.resolve('.design/gemini-parity-audit/parity-results.json'), `${JSON.stringify({ generatedAt: new Date().toISOString(), baseUrl, results, failures }, null, 2)}\n`)
+await writeFile(path.resolve('.design/gemini-parity-audit/parity-results.json'), `${JSON.stringify({ generatedAt: new Date().toISOString(), baseUrl, appPath, results, failures }, null, 2)}\n`)
 if (failures.length) {
   console.error(failures.join('\n'))
   process.exitCode = 1
