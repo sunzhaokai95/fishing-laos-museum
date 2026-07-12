@@ -1,31 +1,15 @@
+import { AnimatePresence, motion } from 'motion/react'
 import { BookOpen, MessageCircle, Sparkles } from 'lucide-react'
 import { useMemo, useState } from 'react'
+import ExhibitHeader from '../components/ExhibitHeader.jsx'
 import ObjectDrawer from '../components/ObjectDrawer.jsx'
 import { introParagraphs } from '../lib/content.js'
 
-const VIEWS = [
-  { id: 'works', label: '诗画与典故', icon: BookOpen },
-  { id: 'language', label: '钓鱼人的语言', icon: MessageCircle },
-  { id: 'belief', label: '玄学标本柜', icon: Sparkles },
-]
+const VIEWS = [{ id: 'works', label: '诗画与典故', icon: BookOpen }, { id: 'language', label: '钓鱼人的语言', icon: MessageCircle }, { id: 'belief', label: '玄学标本柜', icon: Sparkles }]
 
 export default function CultureHall({ hall, data }) {
   const [view, setView] = useState('works')
   const [selected, setSelected] = useState(null)
-  const items = useMemo(() => {
-    const collections = data['collection-items']
-    if (view === 'works') return collections.filter((item) => item.collection_type === 'works')
-    if (view === 'language') return collections.filter((item) => item.collection_type === 'folklore' && !/天气|幸运/.test(item.title))
-    return collections.filter((item) => item.collection_type === 'folklore' && /天气|幸运/.test(item.title))
-  }, [data, view])
-  return (
-    <main className="exhibition-scene culture-scene">
-      <header className="scene-intro culture-intro"><span>第六展厅</span><h1>{hall.title}</h1><p>{hall.summary}</p></header>
-      <section className="culture-cabinet">
-        <nav aria-label="鱼文化分类">{VIEWS.map(({ id, label, icon: Icon }) => <button type="button" className={view === id ? 'is-active' : ''} onClick={() => setView(id)} key={id}><Icon aria-hidden="true" />{label}</button>)}</nav>
-        <div className={`culture-display view-${view}`}>{items.map((item, index) => { const text = introParagraphs(item.body_markdown, 1)[0]; return <button type="button" onClick={() => setSelected({ ...item, text })} key={item.id}><span>{String(index + 1).padStart(2, '0')}</span><h2>{item.title}</h2><p>{text}</p></button> })}</div>
-      </section>
-      <ObjectDrawer open={Boolean(selected)} title={selected?.title ?? ''} onClose={() => setSelected(null)}>{selected ? <div className="culture-detail"><span>{VIEWS.find((item) => item.id === view)?.label}</span><h2>{selected.title}</h2><p>{selected.text}</p></div> : null}</ObjectDrawer>
-    </main>
-  )
+  const items = useMemo(() => { const collections = data['collection-items']; if (view === 'works') return collections.filter((item) => item.collection_type === 'works'); if (view === 'language') return collections.filter((item) => item.collection_type === 'folklore' && !/天气|幸运/.test(item.title)); return collections.filter((item) => item.collection_type === 'folklore' && /天气|幸运/.test(item.title)) }, [data, view])
+  return <main className="min-h-screen bg-[#f2f0ec] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans"><div className="absolute top-40 right-[5%] w-80 h-80 rounded-full bg-red-100/25 blur-[140px] pointer-events-none" /><div className="max-w-7xl mx-auto relative z-10 space-y-10"><ExhibitHeader eyebrow="HALL 06 / 第六展厅" title={hall.title} summary={hall.summary} /><nav className="flex gap-8 overflow-x-auto border-b border-stone-300" aria-label="鱼文化分类">{VIEWS.map(({ id, label, icon: Icon }) => <button type="button" className={`relative flex-none pb-4 flex items-center gap-2 text-xs ${view === id ? 'text-zinc-900 font-semibold' : 'text-zinc-500'}`} onClick={() => setView(id)} key={id}><Icon size={15} aria-hidden="true" />{label}{view === id ? <motion.span layoutId="culture-view" className="absolute left-0 right-0 bottom-0 h-0.5 bg-zinc-900" /> : null}</button>)}</nav><AnimatePresence mode="wait"><motion.section key={view} initial={{ opacity: 0, y: 22 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -12 }} className={view === 'works' ? 'columns-1 md:columns-2 lg:columns-3 gap-5' : view === 'language' ? 'grid md:grid-cols-2 gap-px bg-stone-300 border border-stone-300' : 'grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3'}>{items.map((item, index) => { const text = introParagraphs(item.body_markdown, 1)[0]; const common = { ...item, text }; if (view === 'works') return <motion.button whileHover={{ rotate: index % 2 ? 0.6 : -0.6, y: -3 }} type="button" onClick={() => setSelected(common)} key={item.id} className="break-inside-avoid mb-5 w-full text-left p-6 md:p-8 bg-[#fbfaf7] border border-stone-200 shadow-sm relative"><span className="text-[9px] font-mono text-zinc-400">FOLIO {String(index + 1).padStart(2, '0')}</span><h2 className="font-serif text-2xl text-zinc-900 mt-7 mb-4">{item.title}</h2><p className="text-xs leading-7 text-zinc-600">{text}</p><i className="absolute top-4 right-4 w-5 h-5 rounded-full border border-red-300/70 text-[7px] text-red-500 flex items-center justify-center not-italic">鱼</i></motion.button>; if (view === 'language') return <button type="button" onClick={() => setSelected(common)} key={item.id} className="bg-[#f8f6f2] hover:bg-white min-h-48 p-6 text-left group"><span className="text-[9px] font-mono text-zinc-400">TERM {String(index + 1).padStart(2, '0')}</span><h2 className="text-xl font-bold text-zinc-900 mt-5 group-hover:translate-x-1 transition-transform">{item.title}</h2><p className="text-xs leading-6 text-zinc-600 mt-3 line-clamp-3">{text}</p></button>; return <motion.button whileHover={{ y: -5 }} type="button" onClick={() => setSelected(common)} key={item.id} className="aspect-[4/5] p-4 md:p-5 rounded-2xl border border-stone-300 bg-white/65 text-center flex flex-col items-center justify-between shadow-xs"><Sparkles size={18} className="text-zinc-400" /><span className="text-[9px] font-mono text-zinc-400">SPECIMEN {String(index + 1).padStart(2, '0')}</span><h2 className="text-sm md:text-base font-bold text-zinc-900">{item.title}</h2><small className="text-[9px] text-zinc-500">打开标本柜</small></motion.button>})}</motion.section></AnimatePresence></div><ObjectDrawer open={Boolean(selected)} title={selected?.title ?? ''} onClose={() => setSelected(null)}>{selected ? <div className="space-y-6 -mt-5"><span className="text-[10px] font-mono text-zinc-500">{VIEWS.find((item) => item.id === view)?.label}</span><h2 className="font-serif text-3xl text-zinc-900">{selected.title}</h2><p className="text-sm leading-8 text-zinc-600">{selected.text}</p></div> : null}</ObjectDrawer></main>
 }

@@ -51,9 +51,8 @@ export default function App() {
   }
 
   return (
-    <div className="museum-experience">
+    <MuseumChrome>
       <ScrollToTop />
-      <MuseumChrome />
       <AnimatePresence mode="wait" initial={false}>
         <motion.div
           className="museum-stage"
@@ -84,6 +83,6 @@ export default function App() {
           </Routes>
         </motion.div>
       </AnimatePresence>
-    </div>
+    </MuseumChrome>
   )
 }
