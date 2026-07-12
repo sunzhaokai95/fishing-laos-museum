@@ -16,8 +16,8 @@ export default function TechniquesHall({ hall }) {
   const active = TECHNIQUE_MODES.find((item) => item.id === mode)
   const chooseMode = (id) => { const next = TECHNIQUE_MODES.find((item) => item.id === id); setMode(id); setOpen(next.items[0].id) }
   return (
-    <main className="min-h-screen bg-[#edf2ef] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans">
-      <div className="absolute top-20 right-[-12rem] w-[38rem] h-[38rem] rounded-full bg-emerald-100/45 blur-[150px] pointer-events-none" />
+    <main className="min-h-screen bg-[#f5f5f7] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans">
+      <div className="absolute top-20 right-[-12rem] w-[38rem] h-[38rem] rounded-full bg-zinc-200/45 blur-[150px] pointer-events-none" />
       <div className="max-w-7xl mx-auto relative z-10 space-y-10">
         <ExhibitHeader eyebrow="HALL 04 / 第四展厅" title={hall.title} summary={hall.summary}><span className="px-3 py-1.5 bg-white/75 border border-zinc-200 rounded-lg">{TECHNIQUE_MODES.reduce((sum, item) => sum + item.items.length, 0)} 项完整技法</span></ExhibitHeader>
         <section className="space-y-7" aria-label="技法展台">

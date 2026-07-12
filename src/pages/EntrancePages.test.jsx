@@ -30,6 +30,7 @@ describe('entrance, prologue and epilogue content contract', () => {
     const { container } = render(<PrologueHall />)
     expect(screen.getByRole('heading', { name: '水面之下' })).toBeInTheDocument()
     expect(container.querySelectorAll('p')).toHaveLength(1)
+    expect(container.firstChild).toHaveClass('min-h-[calc(100svh-132px)]')
   })
 
   it('synchronizes the prologue depth slider and numerical readout', () => {
@@ -39,12 +40,13 @@ describe('entrance, prologue and epilogue content contract', () => {
   })
 
   it('keeps the epilogue as one concluding paragraph', () => {
-    render(
+    const { container } = render(
       <MemoryRouter>
         <EpilogueHall />
       </MemoryRouter>,
     )
     expect(screen.getByRole('heading', { name: '回到水边' })).toBeInTheDocument()
     expect(screen.getAllByText(/./, { selector: 'p' })).toHaveLength(1)
+    expect(container.firstChild).toHaveClass('min-h-[calc(100svh-132px)]')
   })
 })

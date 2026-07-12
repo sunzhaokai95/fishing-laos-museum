@@ -71,8 +71,8 @@ export default function MuseumChrome({ children }) {
 
         <main className="flex-grow">{children}</main>
 
-        <footer className="sticky bottom-0 z-30 bg-white/95 border-t border-zinc-200/60 py-4 px-4 md:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 shadow-[0_-1px_0_rgba(0,0,0,0.02)]">
-          <div className="flex items-center gap-2.5">
+        <footer className="sticky bottom-0 z-30 bg-white/95 border-t border-zinc-200/60 py-3 px-4 md:px-8 flex flex-row items-center justify-center sm:justify-between gap-2 sm:gap-4 shadow-[0_-1px_0_rgba(0,0,0,0.02)]">
+          <div className="hidden sm:flex items-center gap-2.5">
             <span className="text-[10px] text-zinc-400 font-mono block">
               {index === 0 ? 'WELCOME / 参观起点' : index === MUSEUM_ROUTE.length - 1 ? 'CONCLUDED / 参观结束' : 'PROGRESSING TOUR / 常设展参观路线'}
             </span>
@@ -87,7 +87,7 @@ export default function MuseumChrome({ children }) {
             </ol>
           </div>
 
-          <nav className="flex items-center gap-3" aria-label="参观路线前后页">
+          <nav className="flex w-full sm:w-auto items-center justify-center gap-3" aria-label="参观路线前后页">
             {previous ? (
               <Link to={previous.url} aria-label={`上一厅 ${previous.title}`} className="px-4 py-2 rounded-xl bg-white border border-zinc-200 text-zinc-600 hover:text-zinc-900 hover:bg-zinc-50 hover:border-zinc-300 text-xs transition-all flex items-center gap-1.5 shadow-xs">
                 <ChevronLeft size={14} aria-hidden="true" /><span>上一厅</span><span className="hidden lg:inline text-zinc-400">{previous.title}</span>

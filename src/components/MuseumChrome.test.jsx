@@ -19,6 +19,12 @@ describe('MuseumChrome', () => {
     expect(screen.getByRole('link', { name: /下一厅.*鱼各有其水/ })).toHaveAttribute('href', '/visit/fish')
   })
 
+  it('keeps the mobile route footer compact and single-row', () => {
+    render(<MemoryRouter initialEntries={['/visit/history']}><MuseumChrome /></MemoryRouter>)
+    expect(screen.getByRole('contentinfo')).toHaveClass('flex-row')
+    expect(screen.getByText('PROGRESSING TOUR / 常设展参观路线').parentElement).toHaveClass('hidden', 'sm:flex')
+  })
+
   it('opens one ordered museum map with all ten stages', () => {
     render(
       <MemoryRouter initialEntries={['/visit/history']}>

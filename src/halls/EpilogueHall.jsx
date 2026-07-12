@@ -2,7 +2,7 @@ import { motion } from 'motion/react'
 
 export default function EpilogueHall() {
   return (
-    <div className="relative min-h-screen bg-[#f5f5f7] flex items-center justify-center px-6 py-20 overflow-hidden font-sans">
+    <div className="relative min-h-[calc(100svh-132px)] bg-[#f5f5f7] flex items-center justify-center px-6 py-12 overflow-hidden font-sans">
       <div className="absolute inset-0 pointer-events-none"><div className="absolute inset-0 opacity-[0.04] gemini-dot-field" /><motion.span className="absolute left-1/2 top-1/2 w-[70vw] h-[20vw] -translate-x-1/2 -translate-y-1/2 rounded-full border border-zinc-300/40" animate={{ scale: [0.9, 1.08], opacity: [0.25, 0.7, 0.25] }} transition={{ duration: 7, repeat: Infinity, ease: 'easeInOut' }} /><motion.span className="absolute left-1/2 top-1/2 w-[50vw] h-[14vw] -translate-x-1/2 -translate-y-1/2 rounded-full border border-zinc-300/50" animate={{ scale: [1.08, 0.92], opacity: [0.6, 0.2, 0.6] }} transition={{ duration: 8, repeat: Infinity, ease: 'easeInOut' }} /></div>
       <motion.article initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 1 }} className="relative z-10 max-w-3xl text-center space-y-8">
         <span className="inline-flex px-3.5 py-1.5 rounded-full bg-white/80 border border-zinc-200 text-[10px] font-mono text-zinc-600">EPILOGUE / 尾厅</span>
