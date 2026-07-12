@@ -186,6 +186,47 @@ main[class*="bg-[#f4f0ea]"] div[class*="grid md:grid-cols-2 gap-px bg-stone-300"
   color: rgb(82 82 91);
 }
 
+.angler-tool-stage {
+  width: 100%;
+  max-width: 42rem;
+  margin-inline: auto;
+  padding-block: clamp(1.5rem, 5vw, 4rem);
+}
+
+.angler-tool-stage > small {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.58rem;
+  color: rgb(113 113 122);
+}
+
+.angler-tool-stage > h2 {
+  margin-top: 0.6rem;
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 600;
+  color: rgb(24 24 27);
+}
+
+.angler-tool-stage > p {
+  max-width: 36rem;
+  margin: 1rem auto 0;
+  font-size: 0.875rem;
+  line-height: 1.8;
+  color: rgb(82 82 91);
+}
+
+.angler-primary-action {
+  display: inline-flex;
+  min-height: 2.75rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.75rem;
+  padding-inline: 1.25rem;
+  background: rgb(24 24 27);
+  color: white;
+  font-size: 0.75rem;
+}
+
 @media (max-width: 639px) {
   .fish-orbit-stage {
     height: 500px;
