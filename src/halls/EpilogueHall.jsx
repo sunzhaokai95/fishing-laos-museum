@@ -1,10 +1,14 @@
-import { RotateCcw } from 'lucide-react'
-import { Link } from 'react-router-dom'
-
 export default function EpilogueHall() {
   return (
-    <main className="epilogue-scene">
-      <div><span>尾厅</span><h1>回到水边</h1><p>水面仍然平静，但你已经知道，下面有鱼的身体、水的变化、器物传来的信号，也有人的欲望、记忆和边界。</p><p>钓鱼并不保证获得一条鱼。它更像一次持续的判断：什么时候靠近，怎样理解，带走什么，又留下什么。</p><Link to="/"><RotateCcw aria-hidden="true" /> 回到博物馆入口</Link></div>
+    <main className="quiet-hall epilogue-hall">
+      <div className="quiet-water closing" aria-hidden="true"><span /><span /><i /></div>
+      <article>
+        <span>尾厅</span>
+        <h1>回到水边</h1>
+        <p>
+          参观从水面开始，也在水面结束。沿途出现的鱼、器物、动作、诗画、行话和规则，都指向同一件事：钓鱼是一种观察、等待、使用工具并承担后果的方式。回到真实水边时，它留下的不是一条万能经验，而是更清楚的依据，以及在必要时停手的能力。
+        </p>
+      </article>
     </main>
   )
 }

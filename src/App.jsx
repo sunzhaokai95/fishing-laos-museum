@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
+import { AnimatePresence, motion } from 'motion/react'
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom'
+import MuseumChrome from './components/MuseumChrome.jsx'
 import useMuseumData from './hooks/useMuseumData.js'
 import { legacyHallUrl } from './lib/exhibition.js'
 import HallPage from './pages/HallPage.jsx'
@@ -7,6 +9,7 @@ import HomePage from './pages/HomePage.jsx'
 import NotFound from './pages/NotFound.jsx'
 import './App.css'
 import './editorial.css'
+import './museum-shell.css'
 
 export function ScrollToTop() {
   const { pathname } = useLocation()
@@ -24,6 +27,7 @@ function LegacyResolver() {
 
 export default function App() {
   const { data, error } = useMuseumData()
+  const location = useLocation()
 
   if (error) {
     return (
@@ -47,27 +51,39 @@ export default function App() {
   }
 
   return (
-    <>
+    <div className="museum-experience">
       <ScrollToTop />
-      <Routes>
-        <Route path="/" element={<HomePage page={data['route-pages'][0]} collections={data['collection-items']} images={data.images} />} />
-        <Route path="/visit/prologue" element={<HallPage hallId="prologue" data={data} />} />
-        <Route path="/visit/history" element={<HallPage hallId="history" data={data} />} />
-        <Route path="/visit/fish" element={<HallPage hallId="fish" data={data} />} />
-        <Route path="/visit/tackle" element={<HallPage hallId="tackle" data={data} />} />
-        <Route path="/visit/techniques" element={<HallPage hallId="techniques" data={data} />} />
-        <Route path="/visit/anglers" element={<HallPage hallId="anglers" data={data} />} />
-        <Route path="/visit/culture" element={<HallPage hallId="culture" data={data} />} />
-        <Route path="/visit/ethics" element={<HallPage hallId="ethics" data={data} />} />
-        <Route path="/visit/epilogue" element={<HallPage hallId="epilogue" data={data} />} />
-        <Route path="/collection/species/*" element={<Navigate to="/visit/fish" replace />} />
-        <Route path="/collection/objects/*" element={<Navigate to="/visit/tackle" replace />} />
-        <Route path="/collection/techniques/*" element={<Navigate to="/visit/techniques" replace />} />
-        <Route path="/collection/people/*" element={<Navigate to="/visit/anglers" replace />} />
-        <Route path="/collection/works/*" element={<Navigate to="/visit/culture" replace />} />
-        <Route path="/collection/folklore/*" element={<Navigate to="/visit/culture" replace />} />
-        <Route path="*" element={<LegacyResolver />} />
-      </Routes>
-    </>
+      <MuseumChrome />
+      <AnimatePresence mode="wait" initial={false}>
+        <motion.div
+          className="museum-stage"
+          key={location.pathname}
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: -8 }}
+          transition={{ duration: 0.46, ease: [0.25, 1, 0.5, 1] }}
+        >
+          <Routes location={location}>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/visit/prologue" element={<HallPage hallId="prologue" data={data} />} />
+            <Route path="/visit/history" element={<HallPage hallId="history" data={data} />} />
+            <Route path="/visit/fish" element={<HallPage hallId="fish" data={data} />} />
+            <Route path="/visit/tackle" element={<HallPage hallId="tackle" data={data} />} />
+            <Route path="/visit/techniques" element={<HallPage hallId="techniques" data={data} />} />
+            <Route path="/visit/anglers" element={<HallPage hallId="anglers" data={data} />} />
+            <Route path="/visit/culture" element={<HallPage hallId="culture" data={data} />} />
+            <Route path="/visit/ethics" element={<HallPage hallId="ethics" data={data} />} />
+            <Route path="/visit/epilogue" element={<HallPage hallId="epilogue" data={data} />} />
+            <Route path="/collection/species/*" element={<Navigate to="/visit/fish" replace />} />
+            <Route path="/collection/objects/*" element={<Navigate to="/visit/tackle" replace />} />
+            <Route path="/collection/techniques/*" element={<Navigate to="/visit/techniques" replace />} />
+            <Route path="/collection/people/*" element={<Navigate to="/visit/anglers" replace />} />
+            <Route path="/collection/works/*" element={<Navigate to="/visit/culture" replace />} />
+            <Route path="/collection/folklore/*" element={<Navigate to="/visit/culture" replace />} />
+            <Route path="*" element={<LegacyResolver />} />
+          </Routes>
+        </motion.div>
+      </AnimatePresence>
+    </div>
   )
 }

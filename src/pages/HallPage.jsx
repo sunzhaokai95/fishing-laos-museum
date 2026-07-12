@@ -1,7 +1,4 @@
-import MuseumHeader from '../components/MuseumHeader.jsx'
-import RoutePager from '../components/RoutePager.jsx'
-import RouteProgress from '../components/RouteProgress.jsx'
-import { adjacentHalls, hallById } from '../data/halls.js'
+import { hallById } from '../data/halls.js'
 import AnglersHall from '../halls/AnglersHall.jsx'
 import CultureHall from '../halls/CultureHall.jsx'
 import EpilogueHall from '../halls/EpilogueHall.jsx'
@@ -27,13 +24,9 @@ const SCENES = {
 export default function HallPage({ hallId, data }) {
   const hall = hallById(hallId)
   const Scene = SCENES[hallId]
-  const { previous, next } = adjacentHalls(hallId)
   return (
     <div className={`hall-page hall-${hallId}`}>
-      <MuseumHeader />
-      <RouteProgress currentStage={hall.stage} />
       <Scene hall={hall} data={data} />
-      <RoutePager previous={previous} next={next} />
     </div>
   )
 }

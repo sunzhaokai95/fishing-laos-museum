@@ -1,87 +1,36 @@
-import { ArrowDown, ArrowRight } from 'lucide-react'
+import { ArrowRight } from 'lucide-react'
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import MuseumHeader from '../components/MuseumHeader.jsx'
-import { HALLS } from '../data/halls.js'
-import { cleanInlineText, firstHeading, imageUrl, introParagraphs } from '../lib/content.js'
 
-const FEATURED_SPECIES = [
-  'species-crucian-carp',
-  'species-common-carp',
-  'species-grass-carp',
-]
+export default function HomePage() {
+  const [ripples, setRipples] = useState([])
 
-export default function HomePage({ page, collections, images }) {
-  const galleries = HALLS.slice(1, 8)
-  const imageMap = new Map(images.map((image) => [image.id, image]))
-  const collectionMap = new Map(collections.map((item) => [item.id, item]))
-  const featured = FEATURED_SPECIES.map((id) => collectionMap.get(id)).filter(Boolean)
-  const paragraphs = introParagraphs(page.body_markdown, 2)
+  const addRipple = (event) => {
+    const rect = event.currentTarget.getBoundingClientRect()
+    const ripple = { id: Date.now(), x: event.clientX - rect.left, y: event.clientY - rect.top }
+    setRipples((current) => [...current.slice(-4), ripple])
+    window.setTimeout(() => setRipples((current) => current.filter((item) => item.id !== ripple.id)), 1300)
+  }
 
   return (
-    <div className="home-page">
-      <section className="home-hero">
-        <MuseumHeader overlay />
-        <div className="hero-content">
-          <h1>{firstHeading(page.body_markdown) || '水面之上，水面之下'}</h1>
-          <div className="hero-copy">
-            {paragraphs.map((paragraph) => (
-              <p key={paragraph}>{paragraph}</p>
-            ))}
-          </div>
-          <Link className="primary-entry" to="/visit/prologue">
-            进入博物馆 <ArrowRight aria-hidden="true" />
-          </Link>
-        </div>
-        <a className="scroll-cue" href="#route-overview" aria-label="查看展览概览">
-          <span>向下探索</span>
-          <ArrowDown size={18} aria-hidden="true" />
-        </a>
+    <main className="museum-home" onPointerDown={addRipple}>
+      <div className="water-field" aria-hidden="true">
+        <span className="water-line line-one" />
+        <span className="water-line line-two" />
+        <span className="float-mark" />
+        {ripples.map((ripple) => <span className="touch-ripple" style={{ left: ripple.x, top: ripple.y }} key={ripple.id} />)}
+      </div>
+      <section className="museum-home-copy">
+        <span className="home-index">MUSEUM OF ANGLING</span>
+        <h1>钓鱼佬博物馆</h1>
+        <p>
+          一根钓线穿过水面以后，人能看见的东西很少。浮漂停在明处，鱼钩和饵沉入暗处。这座线上博物馆沿着钓的历史、鱼与水域、器物、技法、人的生活和钓获之后的责任，进入水面之下。
+        </p>
+        <Link className="museum-enter" to="/visit/prologue" aria-label="进入博物馆">
+          <span>进入博物馆</span><ArrowRight aria-hidden="true" />
+        </Link>
       </section>
-
-      <section className="route-overview" id="route-overview">
-        <div className="section-heading">
-          <h2>一根线牵起万千故事</h2>
-          <p>沿唯一参观路线，从钓的历史走到水边责任。每一厅都由真实材料、图像和仍然存在的问题构成。</p>
-        </div>
-        <ol className="gallery-list">
-          {galleries.map((gallery, index) => (
-            <li key={gallery.id}>
-              <Link to={gallery.url}>
-                <span>{String(index + 1).padStart(2, '0')}</span>
-                <strong>{gallery.title}</strong>
-                <p>{gallery.summary}</p>
-                <ArrowRight aria-hidden="true" />
-              </Link>
-            </li>
-          ))}
-        </ol>
-      </section>
-
-      <section className="featured-collection">
-        <div className="section-heading compact">
-          <h2>开放馆藏</h2>
-          <Link to="/visit/fish">查看806种鱼类标本</Link>
-        </div>
-        <div className="featured-grid">
-          {featured.map((item) => {
-            const image = imageMap.get(item.image_ids[0])
-            return (
-              <Link className="collection-card" to="/visit/fish" key={item.id}>
-                <div className="collection-image">
-                  {image ? (
-                    <img src={imageUrl(image)} alt={cleanInlineText(image.title)} />
-                  ) : null}
-                </div>
-                <div>
-                  <h3>{item.title}</h3>
-                  <p>{item.metadata.scientific_name}</p>
-                </div>
-                <ArrowRight aria-hidden="true" />
-              </Link>
-            )
-          })}
-        </div>
-      </section>
-    </div>
+      <div className="home-coordinate" aria-hidden="true">30°N / 120°E</div>
+    </main>
   )
 }
