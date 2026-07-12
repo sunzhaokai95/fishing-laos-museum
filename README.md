@@ -50,6 +50,8 @@ pnpm build
 - `public/content/assets/`：网站使用的本地图片
 - `DESIGN.md`：视觉系统和各厅设计语言
 - `PRODUCT.md`：产品定位与不可破坏的体验原则
+- `design/current/`：当前桌面端和手机端页面截图
+- `GEMINI_DESIGN_BRIEF.md`：供 Gemini 从 GitHub 读取的线上视觉优化任务书
 
 ## 设计与内容边界
 
