@@ -1,0 +1,50 @@
+{
+  "name": "许氏犁头鳐",
+  "slug": "xu-shi-li-tou-yao",
+  "source_url": "https://fishweather.cn/fish/xu-shi-li-tou-yao",
+  "list_page": 32,
+  "list_position": 746,
+  "scientific_name": "Rhinobatos schlegelii",
+  "aliases": "犁头鲨、饭匙鲨、琵琶鲨",
+  "headline": "许氏犁头鳐怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体盘菱形，吻尖长，向前突出，吻长略大于眼眶前缘至喷水孔的距离。眼小，椭圆形，上侧位。喷水孔大，位于眼后下方。鼻孔横裂，鼻瓣发达。口小，下位，弧形。牙细小，铺石状排列。背鳍2个，位于腹鳍之后，尾鳍中等大小，无臀鳍。体背部灰褐色或棕褐色，腹部白色。体表粗糙，具有细小盾鳞。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "鳐形目",
+    "科": "犁头鳐科",
+    "水层": "底层",
+    "食性": "主要以底栖无脊椎动物为食，如虾、蟹、贝类等，也捕食小型鱼类。",
+    "栖息环境": "主要栖息于近岸浅海沙泥底质海域，也见于岩礁区和河口附近。",
+    "体长": "100 cm",
+    "体重": "10 kg",
+    "寿命": "寿命较长，具体寿命数据缺乏详细研究，但估计可达10年以上。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "尖犁头鳐",
+    "中国犁头鳐",
+    "斑纹犁头鳐"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xu-shi-li-tou-yao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "03ee6f76e8b539a7814bd30cbdcc83b43dd61f362cb42cd5bc6599c16f2f3432",
+  "raw_line_count": 30,
+  "local_dir": "by_family/犁头鳐科/xu-shi-li-tou-yao_许氏犁头鳐",
+  "local_images": {
+    "fish": [
+      "by_family/犁头鳐科/xu-shi-li-tou-yao_许氏犁头鳐/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "半蓝金翅雀鲷",
+  "slug": "ban-lan-jin-chi-que-diao",
+  "source_url": "https://fishweather.cn/fish/ban-lan-jin-chi-que-diao",
+  "list_page": 23,
+  "list_position": 535,
+  "scientific_name": "Chrysiptera hemicyanea",
+  "aliases": "青魔鬼、蓝线雀鲷、半蓝雀鲷",
+  "headline": "半蓝金翅雀鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "蓝魔鬼鱼体型娇小，呈卵圆形，侧扁。通体鲜艳的亮蓝色，幼鱼时期身体前端为黄色，随着成长黄色区域逐渐缩小至头部，最终完全变为蓝色。眼睛黑色，口小。背鳍和臀鳍边缘呈蓝色，胸鳍透明，尾鳍为浅蓝色或白色，呈叉形。鳞片较大，排列整齐。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "雀鲷科",
+    "水层": "中层,中上层",
+    "食性": "杂食性，主要以藻类为食，也摄食小型浮游动物、底栖无脊椎动物和珊瑚碎屑。",
+    "栖息环境": "珊瑚礁区域，通常在水流缓慢、珊瑚茂盛的礁盘或泻湖中活动，喜欢躲藏在珊瑚丛中。",
+    "体长": "7 cm",
+    "体重": "0.01 kg",
+    "寿命": "在自然条件下，寿命通常为3-5年，人工饲养条件下，如果环境适宜，管理得当，寿命可能略长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [
+    "不适用"
+  ],
+  "float_signals": [
+    "不适用",
+    "：",
+    "蓝魔鬼鱼不作为垂钓目标鱼种，故无典型漂像。"
+  ],
+  "practical_tips": [
+    "不适用"
+  ],
+  "recommended_spots": "不适用",
+  "distribution": [],
+  "similar_fish": [
+    "三点白",
+    "丝鳍鹦鲷",
+    "克氏海葵鱼",
+    "双带小丑鱼",
+    "公子小丑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ban-lan-jin-chi-que-diao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "255063b9f4c1128e37df55e31a90102f660f6f52a352d6ecb2663ca5613802e5",
+  "raw_line_count": 46,
+  "local_dir": "by_family/雀鲷科/ban-lan-jin-chi-que-diao_半蓝金翅雀鲷",
+  "local_images": {
+    "fish": [
+      "by_family/雀鲷科/ban-lan-jin-chi-que-diao_半蓝金翅雀鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

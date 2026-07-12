@@ -1,0 +1,52 @@
+{
+  "name": "细鳞斜颌鲴",
+  "slug": "xi-lin-xie-he-gu",
+  "source_url": "https://fishweather.cn/fish/xi-lin-xie-he-gu",
+  "list_page": 5,
+  "list_position": 97,
+  "scientific_name": "Plagiognathops microlepis",
+  "aliases": "高原细鳞鱼、细甲鱼",
+  "headline": "细鳞斜颌鲴是保护动物吗？习性与识别图鉴",
+  "summary": "体长，稍侧扁，呈纺锤形。头小，吻钝圆。口下位，呈马蹄形。唇厚，具乳突状突起。眼小。鳞细小而密集。体色银灰色，背部颜色较深。背鳍和臀鳍相对较小，尾鳍叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性，主要以底栖无脊椎动物、水生昆虫幼虫、藻类和植物碎屑为食。",
+    "栖息环境": "主要栖息于水流清澈、冰冷的高原湖泊和河流中，偏好砾石底质的缓流区域。",
+    "体长": "30 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较长，推测在自然条件下可达10年以上。",
+    "适温": "5-15 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "拉萨裂腹鱼",
+    "异齿裂腹鱼",
+    "双唇裂腹鱼",
+    "裸裂尻鱼",
+    "重唇裂腹鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xi-lin-xie-he-gu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "ceff7e73a6c4f155f81dbc652dbcc095c3fb686a61d5d4a960445a0fe8e2b590",
+  "raw_line_count": 37,
+  "local_dir": "by_family/鲤科/xi-lin-xie-he-gu_细鳞斜颌鲴",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/xi-lin-xie-he-gu_细鳞斜颌鲴/images/main.webp"
+    ],
+    "catch": []
+  }
+}

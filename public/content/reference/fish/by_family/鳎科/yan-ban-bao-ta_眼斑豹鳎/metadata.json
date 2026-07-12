@@ -1,0 +1,52 @@
+{
+  "name": "眼斑豹鳎",
+  "slug": "yan-ban-bao-ta",
+  "source_url": "https://fishweather.cn/fish/yan-ban-bao-ta",
+  "list_page": 24,
+  "list_position": 570,
+  "scientific_name": "Pardachirus pavoninus",
+  "aliases": "孔雀鳎、花豹鲆、斑点鲆",
+  "headline": "眼斑豹鳎怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，极侧扁，形似叶片。口小，端位，下颌略突出。眼位于身体左侧。体表光滑，无鳞。体色黄褐色至浅棕色，全身布满圆形深褐色斑点，斑点边缘有浅色环纹，形似孔雀羽翎上的眼斑，故名孔雀鲆。背鳍和臀鳍长，分别延伸至尾鳍基部，尾鳍圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲽形目",
+    "科": "鳎科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如小型甲壳类（虾、蟹等）、多毛类、软体动物以及小型鱼类等。",
+    "栖息环境": "主要栖息于热带和亚热带沿海地区的珊瑚礁、岩礁、沙质或泥沙质海底。常生活在水深0-30米的浅海区域，喜欢躲藏在礁石缝隙或沙",
+    "体长": "28 cm",
+    "体重": null,
+    "寿命": "寿命较长，具体年限数据缺乏，但推测在自然条件下可存活5年以上。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "条纹斑鲆",
+    "豹纹鲆",
+    "星点斑鲆",
+    "舌鳎",
+    "牙鲆"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yan-ban-bao-ta.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "f0ef6cc257e6540123af565d121f49fba7752a26d2517c9ec0bb3a8acdabf9ca",
+  "raw_line_count": 30,
+  "local_dir": "by_family/鳎科/yan-ban-bao-ta_眼斑豹鳎",
+  "local_images": {
+    "fish": [
+      "by_family/鳎科/yan-ban-bao-ta_眼斑豹鳎/images/main.webp"
+    ],
+    "catch": []
+  }
+}

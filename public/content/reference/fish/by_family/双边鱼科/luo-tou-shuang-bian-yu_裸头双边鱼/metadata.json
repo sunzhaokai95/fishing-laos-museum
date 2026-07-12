@@ -1,0 +1,88 @@
+{
+  "name": "裸头双边鱼",
+  "slug": "luo-tou-shuang-bian-yu",
+  "source_url": "https://fishweather.cn/fish/luo-tou-shuang-bian-yu",
+  "list_page": 9,
+  "list_position": 193,
+  "scientific_name": "Ambassis gymnocephalus",
+  "aliases": "玻璃鱼",
+  "headline": "裸头双边鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，略呈卵圆形。头中等大，吻尖。眼大，位于头侧上方。口大，倾斜。下颌略突出于上颌。前鳃盖骨后缘具锯齿。体被薄栉鳞，易脱落。体透明，新鲜时略带银白色光泽。背鳍两个，分离，第一背鳍棘弱小，第二背鳍与臀鳍相对。尾鳍深叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "双边鱼科",
+    "水层": "中层",
+    "食性": "肉食性，主要摄食小型甲壳类、小鱼、鱼卵及浮游动物。",
+    "栖息环境": "主要栖息于沿海和河口半咸水水域，也进入淡水河流下游。常见于红树林、河口、港湾等水域。",
+    "体长": "10 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为1-2年。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "沙蚕",
+    "面包糠",
+    "虾粉",
+    "鱼粉",
+    "商品小药（腥味）",
+    "冷冻红虫",
+    "颗粒饲料（小型鱼用）",
+    "藻类饵料（素食性玻璃鱼）"
+  ],
+  "float_signals": [
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而匀速地向下沉没，可能是玻璃鱼吸食饵料后缓慢游动。",
+    "横向移动",
+    "：",
+    "浮漂在水面或水下横向移动，可能是玻璃鱼咬饵后拖动鱼线。",
+    "停顿后下沉",
+    "：",
+    "浮漂先出现轻微点动或上浮，短暂静止后突然下沉，可能是玻璃鱼试探后最终吞食饵料。",
+    "加速下沉",
+    "：",
+    "浮漂突然加速下沉，快速没入水中，通常是玻璃鱼吞食饵料的信号。",
+    "轻微点动",
+    "：",
+    "浮漂出现连续轻微的颤动或点动，幅度小，频率快，可能是玻璃鱼试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:玻璃鱼多栖息于水流较缓、饵料丰富的区域，如红树林根系附近、礁石缝隙、水草丛生处等，选择这些区域作为钓点能提高中鱼率。",
+    "采用轻巧灵敏的钓组:玻璃鱼体型小，咬口轻缓，需采用轻巧灵敏的钓组，如细线、小钩、小漂等，提高钓组的灵敏度，以便及时感知鱼讯。",
+    "使用合适的饵料:玻璃鱼食性杂，但偏爱荤腥饵料，可选择南极虾、海蚯蚓、沙蚕等腥味饵料，提高诱鱼效果。",
+    "掌握正确的作钓手法:玻璃鱼咬口轻缓，需耐心观察漂相，及时提竿。可采用逗钓手法，轻轻提动竿梢，吸引玻璃鱼注意。路亚钓法可采用慢速匀速回收或轻微抽动结合停顿的手法。",
+    "注意放流小鱼:玻璃鱼生长速度快，寿命短，但数量较多，建议放流小型玻璃鱼，保护资源可持续利用。"
+  ],
+  "recommended_spots": "河口、红树林、港湾、礁石区、近岸浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "银汉鱼",
+    "青鱂",
+    "鱵鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/luo-tou-shuang-bian-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/luo-tou-shuang-bian-yu-0-acb071e5.webp",
+      "https://fishweather.cn/asset-images/catch/luo-tou-shuang-bian-yu-1-58c227f7.webp",
+      "https://fishweather.cn/asset-images/catch/luo-tou-shuang-bian-yu-2-2ceba8e8.webp",
+      "https://fishweather.cn/asset-images/catch/luo-tou-shuang-bian-yu-3-92f2580a.webp"
+    ]
+  },
+  "profile_text_sha256": "53bbdf0719e62d49ce58ae42d0a89cc53cdb6b71c373e3f2a4f14f000e6d421e",
+  "raw_line_count": 119,
+  "local_dir": "by_family/双边鱼科/luo-tou-shuang-bian-yu_裸头双边鱼",
+  "local_images": {
+    "fish": [
+      "by_family/双边鱼科/luo-tou-shuang-bian-yu_裸头双边鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

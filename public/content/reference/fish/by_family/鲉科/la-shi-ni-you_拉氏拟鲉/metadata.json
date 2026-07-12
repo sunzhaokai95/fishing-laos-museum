@@ -1,0 +1,92 @@
+{
+  "name": "拉氏拟鲉",
+  "slug": "la-shi-ni-you",
+  "source_url": "https://fishweather.cn/fish/la-shi-ni-you",
+  "list_page": 8,
+  "list_position": 188,
+  "scientific_name": "Scorpaenopsis ramaraoi",
+  "aliases": "石头鱼、虎鱼、狮子鱼",
+  "headline": "拉氏拟鲉怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "拉氏蝎鲎是一种小型底栖鱼类，体型粗壮，头部和身体覆盖着许多皮瓣和棘刺，使其外观凹凸不平，极具伪装性。体色多变，常为棕色、红色或黄色，并带有深色斑点或条纹，能够很好地融入周围的礁石环境。眼睛小而突出，口裂大，略微倾斜向上。胸鳍宽大，尾鳍圆形。体表粗糙，无鳞，但覆盖着小而粗糙的突起。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲉形目",
+    "科": "鲉科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类动物和底栖无脊椎动物",
+    "栖息环境": "珊瑚礁区、岩礁海底、碎石堆积区",
+    "体长": "15 cm",
+    "体重": null,
+    "寿命": "寿命信息缺乏，但一般小型蝎鲎属鱼类寿命可能在5年以上。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "软饵（卷尾蛆",
+    "T尾",
+    "虾形软饵等）",
+    "小铁板",
+    "缓沉型米诺",
+    "虾肉",
+    "鱼肉",
+    "海蜈蚣",
+    "南极虾",
+    "小螃蟹",
+    "海蟑螂",
+    "贝肉"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，是蝎鲎吞食饵料的明显信号。",
+    "点动",
+    "：",
+    "浮漂轻微颤动或点动，可能是小鱼闹窝或蝎鲎轻微触碰饵料，需仔细辨别。",
+    "顿口",
+    "：",
+    "浮漂快速下沉半目或一目，随即停止，可能是蝎鲎试探性咬饵。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是蝎鲎吸食饵料。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是蝎鲎拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:蝎鲎常藏身于礁石缝隙、洞穴等隐蔽处，钓点选择需靠近这些区域。",
+    "慢速搜索:蝎鲎不善于追逐，需缓慢搜索，给其充分的攻击机会。",
+    "灵敏感知鱼讯:蝎鲎咬口可能轻缓，需集中注意力，灵敏感知漂相或竿尖的细微变化。",
+    "快速扬竿:中鱼后需快速扬竿，将其拉离底部，防止其钻入石缝。",
+    "注意安全:蝎鲎背鳍棘刺有毒，处理时需小心，避免被刺伤。"
+  ],
+  "recommended_spots": "礁石区、防波堤、码头、沉船区、人工鱼礁",
+  "distribution": [],
+  "similar_fish": [
+    "斑鰧",
+    "褐菖鲉",
+    "真裸皮鲉",
+    "拟态蝎子鱼",
+    "鬼鮋"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/la-shi-ni-you.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/la-shi-ni-you-0-7c090c18.webp",
+      "https://fishweather.cn/asset-images/catch/la-shi-ni-you-1-6ed2e3fa.webp",
+      "https://fishweather.cn/asset-images/catch/la-shi-ni-you-2-a833a9c4.webp",
+      "https://fishweather.cn/asset-images/catch/la-shi-ni-you-3-abfc4814.webp"
+    ]
+  },
+  "profile_text_sha256": "3d0560b29e2e79d69d2c347ee4414441cc485f8c786c946236c1b412a597e77a",
+  "raw_line_count": 125,
+  "local_dir": "by_family/鲉科/la-shi-ni-you_拉氏拟鲉",
+  "local_images": {
+    "fish": [
+      "by_family/鲉科/la-shi-ni-you_拉氏拟鲉/images/main.webp"
+    ],
+    "catch": []
+  }
+}

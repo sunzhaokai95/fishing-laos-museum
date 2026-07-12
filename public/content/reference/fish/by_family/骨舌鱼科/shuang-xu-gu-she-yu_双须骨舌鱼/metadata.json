@@ -1,0 +1,54 @@
+{
+  "name": "双须骨舌鱼",
+  "slug": "shuang-xu-gu-she-yu",
+  "source_url": "https://fishweather.cn/fish/shuang-xu-gu-she-yu",
+  "list_page": 12,
+  "list_position": 269,
+  "scientific_name": "Osteoglossum bicirrhosum",
+  "aliases": "亚洲龙鱼、龙吐珠、白金龙鱼（指特殊品系）",
+  "headline": "双须骨舌鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型延长而侧扁，呈带状。背部平直，腹部略凸。头较大，头背部平直。口上位，口裂大，下颌突出，具有一对长而明显的须。眼大而圆，位于头部前上方。鳞片大而圆，呈银白色，在光照下闪耀金属光泽。各鳍均较发达，背鳍和臀鳍相对，位于身体后部，尾鳍呈圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "骨舌鱼目",
+    "科": "骨舌鱼科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、昆虫、甲壳类动物、两栖类动物等，也摄食水面漂浮的食物。",
+    "栖息环境": "主要栖息于亚马逊河流域及其支流、圭亚那和苏里南的河流、湖泊和沼泽等淡水水域，喜欢水流缓慢、水草丰盛的环境。",
+    "体长": "120 cm",
+    "体重": "20 kg",
+    "寿命": "寿命较长，一般可达10-20年，人工饲养条件下，若环境适宜、管理得当，寿命可超过20年甚至更长。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "黑龙鱼",
+    "金龙鱼",
+    "星点珍珠龙鱼",
+    "象鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shuang-xu-gu-she-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/shuang-xu-gu-she-yu-0-cb80c891.webp",
+      "https://fishweather.cn/asset-images/catch/shuang-xu-gu-she-yu-1-7133215d.webp"
+    ]
+  },
+  "profile_text_sha256": "0069fb2f70b427982ca83765b12f9e0caaa17e670bcdecd09ee0e679276cdef5",
+  "raw_line_count": 59,
+  "local_dir": "by_family/骨舌鱼科/shuang-xu-gu-she-yu_双须骨舌鱼",
+  "local_images": {
+    "fish": [
+      "by_family/骨舌鱼科/shuang-xu-gu-she-yu_双须骨舌鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "中华单角鲀",
+  "slug": "zhong-hua-dan-jiao-tun",
+  "source_url": "https://fishweather.cn/fish/zhong-hua-dan-jiao-tun",
+  "list_page": 7,
+  "list_position": 160,
+  "scientific_name": "Monacanthus chinensis",
+  "aliases": "鸡泡鱼、剥皮鱼、猪鱼、砂纸鱼、皮剥",
+  "headline": "中华单角鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈菱形，侧扁，吻尖突。背鳍第一棘强大且粗糙，位于眼眶上方，可折叠于背鳍沟中；腹鳍退化为腹鳍棘，不明显。体表粗糙，被小棘鳞。体色多变，通常为灰褐色、黄褐色或绿色，具不规则深色斑纹。尾柄细长，尾鳍圆形或稍截形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "单角鲀科",
+    "水层": "底层,近底层",
+    "食性": "杂食性，主要摄食藻类、小型底栖无脊椎动物、甲壳类、软体动物及有机碎屑。",
+    "栖息环境": "近海珊瑚礁、岩礁、海藻床及沙泥底质海域",
+    "体长": "40 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较长，一般可达5年以上，在适宜的自然环境下，甚至可能更长，但具体寿命数据缺乏详细研究。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "虾肉",
+    "鱿鱼肉",
+    "贝肉",
+    "沙蚕",
+    "海藻",
+    "南极虾",
+    "鱼肉块",
+    "海胆黄",
+    "鸡肝（少量）",
+    "商品海钓饵料"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是鱼吞饵较深，是扬竿的好时机。",
+    "顿口",
+    "：",
+    "浮漂快速有力地向下顿一下，幅度可能不大，但动作干脆，是鱼咬钩的明显信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，速度不快，可能是鱼轻口吸食饵料，需要耐心观察，适时扬竿。",
+    "上浮",
+    "：",
+    "浮漂先是轻微下沉，然后又缓缓上浮，可能是鱼将饵料叼起又吐出，需注意抓住上浮瞬间的信号。",
+    "移位",
+    "：",
+    "浮漂在水面左右缓慢移动，不规则漂移，可能是鱼拖动饵料，需及时扬竿。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:中国单棘鲀喜欢栖息在复杂水域，如礁石缝隙、海藻丛中，选择这些区域作为钓点。",
+    "慢速搜索:由于其活动范围较小，需要耐心慢速搜索，在目标区域仔细探钓。",
+    "轻口应对:中国单棘鲀咬口可能较轻，漂相不明显，需集中注意力，细微动作也要及时把握。",
+    "注意障碍物:礁石区或沉船区容易挂底，采用离底钓法或轻铅钓法，减少挂底风险。",
+    "多尝试不同饵料:根据当地鱼情，尝试不同饵料，如虾肉、贝肉、海藻等，找到鱼最喜欢的饵料。"
+  ],
+  "recommended_spots": "礁石区、防波堤、码头、海藻床、沉船区、近岸浅海",
+  "distribution": [],
+  "similar_fish": [
+    "绿鳍马面鲀",
+    "丝背革鲀",
+    "牛角箱鲀",
+    "黄鳍triggerfish",
+    "斑点filefish"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhong-hua-dan-jiao-tun.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dan-jiao-tun-0-b62b3a81.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dan-jiao-tun-1-6ff661b8.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dan-jiao-tun-2-a4244ec9.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dan-jiao-tun-3-20c46fd7.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dan-jiao-tun-4-d837e4d0.webp"
+    ]
+  },
+  "profile_text_sha256": "491cdffc7ceb0bfe0c1227d3c70a78d4d464d267ebac16dfb0d1ea3300989af9",
+  "raw_line_count": 137,
+  "local_dir": "by_family/单角鲀科/zhong-hua-dan-jiao-tun_中华单角鲀",
+  "local_images": {
+    "fish": [
+      "by_family/单角鲀科/zhong-hua-dan-jiao-tun_中华单角鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

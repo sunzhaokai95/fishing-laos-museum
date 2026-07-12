@@ -1,0 +1,91 @@
+{
+  "name": "半纹小鲃",
+  "slug": "ban-wen-xiao-ba",
+  "source_url": "https://fishweather.cn/fish/ban-wen-xiao-ba",
+  "list_page": 7,
+  "list_position": 151,
+  "scientific_name": "Puntius semifasciolatus",
+  "aliases": "绿玫瑰鲫、樱桃鲫、半纹胡须鲃、侧条纹小鲃",
+  "headline": "半纹小鲃怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型较小，呈纺锤形，略侧扁。体色鲜艳，通常为黄绿色或橙红色，并带有数条黑色横纹，横纹数量和清晰度因个体和产地而异。口亚下位，吻钝。眼较大，侧上位。须2对，吻须和颌须均存在，但较短小。鳞片较大，侧线完全。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要摄食藻类、植物碎屑、小型无脊椎动物、人工饲料等",
+    "栖息环境": "溪流,池塘,稻田,以及流速缓慢的水域，偏好植被茂盛、水质清澈的环境",
+    "体长": "8 cm",
+    "体重": "0.01 kg",
+    "寿命": "通常为2-3年，人工饲养条件下，若环境适宜，可达3-5年。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓",
+    "面包屑",
+    "米饭粒",
+    "藻类颗粒",
+    "商品鲫鱼饵料（腥香型）",
+    "麸皮",
+    "玉米粉",
+    "豆饼粉",
+    "虾粉"
+  ],
+  "float_signals": [
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而有力地向下沉没，通常是鱼已吸饵并开始游动。",
+    "上顶",
+    "：",
+    "浮漂先是轻微上顶，然后快速下沉，表示鱼已抬头吞饵。",
+    "停顿",
+    "：",
+    "浮漂原本正常的动作突然停止，也可能是鱼咬钩的信号。",
+    "轻微点动",
+    "：",
+    "浮漂出现连续轻微的点动，幅度小而频率快，可能是鱼在试探或啄食。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:玫瑰鲫喜欢栖息在水草丰茂、有遮蔽物的水域，如水草边、树根旁、乱石堆等。",
+    "采用轻巧灵敏的钓组:由于玫瑰鲫体型小，吃口轻，钓组要尽量轻巧灵敏，提高中鱼率。",
+    "使用天然饵料或腥香型饵料:玫瑰鲫杂食性，对红虫、蚯蚓等天然饵料和腥香型商品饵料接受度高。",
+    "逗钓结合:在静水水域，可采用逗钓的方式，通过轻微提动饵料来吸引鱼的注意。",
+    "注意扬竿时机:玫瑰鲫吃口轻缓，需仔细观察漂相，抓住清晰的信号及时扬竿，但扬竿力度不宜过大，以免切线或跑鱼。"
+  ],
+  "recommended_spots": "溪流、池塘、水库浅滩、公园水体、稻田",
+  "distribution": [],
+  "similar_fish": [
+    "金丝鱼",
+    "白云金丝鱼",
+    "条纹小鲃",
+    "细纹小鲃",
+    "红鲫"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ban-wen-xiao-ba.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ban-wen-xiao-ba-0-9539aeff.webp",
+      "https://fishweather.cn/asset-images/catch/ban-wen-xiao-ba-1-12cf14c6.webp",
+      "https://fishweather.cn/asset-images/catch/ban-wen-xiao-ba-2-fd3466c6.webp",
+      "https://fishweather.cn/asset-images/catch/ban-wen-xiao-ba-3-33d0a92f.webp",
+      "https://fishweather.cn/asset-images/catch/ban-wen-xiao-ba-4-974a4aed.webp"
+    ]
+  },
+  "profile_text_sha256": "888cea51abc742e8548148995dc3ecacf25dda6156ad81b5136559032d0b7f18",
+  "raw_line_count": 135,
+  "local_dir": "by_family/鲤科/ban-wen-xiao-ba_半纹小鲃",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/ban-wen-xiao-ba_半纹小鲃/images/main.webp"
+    ],
+    "catch": []
+  }
+}

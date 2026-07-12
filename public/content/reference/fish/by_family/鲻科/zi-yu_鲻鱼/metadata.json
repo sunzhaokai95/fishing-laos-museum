@@ -1,0 +1,103 @@
+{
+  "name": "鲻鱼",
+  "slug": "zi-yu",
+  "source_url": "https://fishweather.cn/fish/zi-yu",
+  "list_page": 2,
+  "list_position": 39,
+  "scientific_name": "Mugil cephalus",
+  "aliases": "白眼、九土鱼、葵龙、海鲻、赤眼鯔、乌支、正鯔、信鱼",
+  "headline": "鲻鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长圆筒形，前部粗圆，后部侧扁。头宽而稍平扁。吻短钝，口小，端位。脂眼睑发达。体被大型圆鳞，侧线不明显。体背部青灰色，腹部银白色。背鳍两个，间隔较远。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲻形目",
+    "科": "鲻科",
+    "水层": "中上层",
+    "食性": "杂食性，主要摄食底栖硅藻、有机碎屑、小型无脊椎动物和藻类。",
+    "栖息环境": "广盐性鱼类，生活于近海、河口及江河淡水水域。喜栖息于沙底和泥底，通常位于浅海岸水域、河口和泻湖。",
+    "体长": "100 cm",
+    "体重": "8 kg",
+    "寿命": "寿命较长，一般为8-12年，最长可达16年。",
+    "适温": "15-30 °C"
+  },
+  "bait_options": [
+    "海藻",
+    "商品藻饵",
+    "虾粉饵料",
+    "麸皮",
+    "麦麸",
+    "玉米粉",
+    "豆饼",
+    "面包屑",
+    "南极虾粉",
+    "颗粒饲料（沉性）"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是鲻鱼吞食死口。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿一下，或出现明显的停顿，是鲻鱼咬钩的信号。",
+    "持续抖动",
+    "：",
+    "浮漂持续轻微抖动，可能是小鱼闹窝或鲻鱼轻微触碰饵料。",
+    "移位",
+    "：",
+    "浮漂在水面水平方向移动，可能是鲻鱼拖动饵料。",
+    "缓沉慢поднятие",
+    "：",
+    "浮漂缓慢下沉或轻微上顶，幅度不大，速度较慢，可能是鲻鱼试探性吸食饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:鲻鱼喜欢在水流缓慢、饵料丰富的区域活动，如码头、河口、海湾等。",
+    "打窝诱鱼:使用麸皮、麦麸、藻类等饵料打窝，提前诱鱼聚窝。",
+    "灵活调整钓组:根据水深、水流、风力等因素，灵活调整浮漂、铅坠和钓饵。",
+    "耐心等待鱼讯:鲻鱼吃口有时较轻，需要耐心观察浮漂动作，及时扬竿。",
+    "注意防浪防滑:海边垂钓注意安全，穿防滑鞋，注意海浪和礁石。"
+  ],
+  "recommended_spots": "海边码头、海湾、河口、内陆咸淡水水域、近海礁石区",
+  "distribution": [
+    "上海市",
+    "台湾省",
+    "天津市",
+    "山东省",
+    "广东省",
+    "河北省",
+    "海南省",
+    "澳门特别行政区",
+    "福建省",
+    "辽宁省",
+    "香港特别行政区"
+  ],
+  "similar_fish": [
+    "梭鱼",
+    "蓝点马鲛",
+    "金鲳鱼",
+    "真鲷",
+    "鲻鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zi-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zi-yu-0-5210c791.webp",
+      "https://fishweather.cn/asset-images/catch/zi-yu-1-44d46844.webp",
+      "https://fishweather.cn/asset-images/catch/zi-yu-2-49bc10b0.webp",
+      "https://fishweather.cn/asset-images/catch/zi-yu-3-d13307c2.webp",
+      "https://fishweather.cn/asset-images/catch/zi-yu-4-6cc4f611.webp"
+    ]
+  },
+  "profile_text_sha256": "c71fe7d19c87534f5d1b09e1a9ae5f69e0f74c80e013efb559a7990f469f7414",
+  "raw_line_count": 154,
+  "local_dir": "by_family/鲻科/zi-yu_鲻鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲻科/zi-yu_鲻鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

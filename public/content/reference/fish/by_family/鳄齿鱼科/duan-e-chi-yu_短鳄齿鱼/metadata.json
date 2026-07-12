@@ -1,0 +1,52 @@
+{
+  "name": "短鳄齿鱼",
+  "slug": "duan-e-chi-yu",
+  "source_url": "https://fishweather.cn/fish/duan-e-chi-yu",
+  "list_page": 20,
+  "list_position": 462,
+  "scientific_name": "Champsodon snyderi",
+  "aliases": "暂无",
+  "headline": "短鳄齿鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，小型鱼类。头大，口大且倾斜，下颌突出。眼大。背鳍两个，分离；胸鳍中长；腹鳍喉位；尾鳍叉形。体表覆盖细小栉鳞，触感如丝绒。体色通常为浅棕色或灰色，半透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鳄齿鱼科",
+    "水层": "深海底层至中层",
+    "食性": "肉食性，主要捕食小型鱼类和甲壳类等小型无脊椎动物",
+    "栖息环境": "主要栖息于深海大陆架和大陆坡的底栖或近底层水域",
+    "体长": "12 cm",
+    "体重": null,
+    "寿命": "寿命信息缺乏，深海鱼类寿命通常较长，但具体চাম鱼属鱼类寿命有待进一步研究",
+    "适温": "深海鱼类，适应低温环境，具体优势温度范围未知，推测为深海冷水温度 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "其他চাম鱼属鱼类",
+    "龙头鱼",
+    "狗母鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/duan-e-chi-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/duan-e-chi-yu-0-ff286c26.webp"
+    ]
+  },
+  "profile_text_sha256": "76c1c2e1899c385fe43423ba543cb56e0949f5e77dc9a8c28edfb8dbaac5b2e3",
+  "raw_line_count": 44,
+  "local_dir": "by_family/鳄齿鱼科/duan-e-chi-yu_短鳄齿鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鳄齿鱼科/duan-e-chi-yu_短鳄齿鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

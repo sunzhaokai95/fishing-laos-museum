@@ -1,0 +1,52 @@
+{
+  "name": "双棘原黄姑鱼",
+  "slug": "shuang-ji-yuan-huang-gu-yu",
+  "source_url": "https://fishweather.cn/fish/shuang-ji-yuan-huang-gu-yu",
+  "list_page": 24,
+  "list_position": 560,
+  "scientific_name": "Protonibea diacanthus",
+  "aliases": "金钱鮸、鱼高",
+  "headline": "双棘原黄姑鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体延长，侧扁，背腹缘均浅弧形。头中大，吻钝圆。口大，前上位，倾斜。下颌稍突出。上颌前端齿呈犬牙状，侧后方为绒毛状齿带。下颌齿亦为绒毛状齿带。眼中等大，侧上位。前鳃盖骨后缘具锯齿。鳃盖膜分离，不与峡部相连。体被栉鳞，侧线完全，与背缘平行。背鳍2个，连续，第一背鳍鳍棘9-10根，第二背鳍鳍条26-29根。臀鳍第二鳍棘粗壮。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "石首鱼科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食鱼类、虾、蟹等底栖无脊椎动物。",
+    "栖息环境": "近海暖温性底层鱼类，栖息于近岸浅海和河口咸淡水水域，常在沙洲和珊瑚礁附近活动。",
+    "体长": "200 cm",
+    "体重": "100 kg",
+    "寿命": "寿命长，可达数十年，推测自然寿命可超过50年。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "大黄鱼",
+    "鮸鱼",
+    "鲈鱼",
+    "石斑鱼",
+    "鳕鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shuang-ji-yuan-huang-gu-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "22d9046bb3f8c33adfbf387d7c92ab3e4e511688d23175535406f58f382b6234",
+  "raw_line_count": 37,
+  "local_dir": "by_family/石首鱼科/shuang-ji-yuan-huang-gu-yu_双棘原黄姑鱼",
+  "local_images": {
+    "fish": [
+      "by_family/石首鱼科/shuang-ji-yuan-huang-gu-yu_双棘原黄姑鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

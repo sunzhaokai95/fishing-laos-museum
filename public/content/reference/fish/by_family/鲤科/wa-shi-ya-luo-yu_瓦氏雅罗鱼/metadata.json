@@ -1,0 +1,97 @@
+{
+  "name": "瓦氏雅罗鱼",
+  "slug": "wa-shi-ya-luo-yu",
+  "source_url": "https://fishweather.cn/fish/wa-shi-ya-luo-yu",
+  "list_page": 3,
+  "list_position": 61,
+  "scientific_name": "Leuciscus waleckii",
+  "aliases": "小白鱼、鲢子",
+  "headline": "瓦氏雅罗鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "瓦氏雅罗鱼体型细长，略呈圆筒形，后部侧扁。头部较小，吻尖。口端位，口裂较大，倾斜。眼较大，位于头侧上方。鳞片较大，侧线完全。体背部灰黑色，体侧及腹部银白色。各鳍浅灰色。背鳍和臀鳍相对，尾鳍叉形较深。体表光滑，粘液丰富。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中上层",
+    "食性": "杂食性，主要以浮游动物、水生昆虫及其幼虫、小型甲壳类和藻类等为食。",
+    "栖息环境": "主要栖息于水流缓慢或静止的河流、湖泊、水库及池塘等水域的上层。",
+    "体长": "30 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命相对较短，一般为3-5年。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓",
+    "面包屑",
+    "麦粒",
+    "玉米粒",
+    "商品饵（腥味）",
+    "面包虫",
+    "蚂蚱",
+    "蚕蛹",
+    "米饭"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，幅度小而频率快，可能是鱼试探性咬钩。",
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，消失不见，是典型的顿口信号，需及时提竿。",
+    "快升",
+    "：",
+    "浮漂快速上升2目以上，通常是鱼积极抢食，可立即提竿。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼拖动饵料或吞饵入喉。",
+    "缓升",
+    "：",
+    "浮漂缓缓上升1-2目，可能是鱼轻口吸食饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:瓦氏雅罗鱼常在水草边、乱石堆、缓流区等觅食，选择这些区域作为钓点。",
+    "灵活调整钓组:根据水深、水流和鱼情，灵活调整浮漂、铅坠和鱼钩的大小，以适应不同的环境。",
+    "逗钓结合:在传统钓法中，可采用逗钓手法，轻提慢放，吸引鱼的注意；路亚钓法中，可通过不同的操作手法，使拟饵呈现更具吸引力的泳姿。",
+    "注意轻声细语:瓦氏雅罗鱼较为胆小，垂钓时应保持安静，避免惊扰鱼群。",
+    "勤换钓位:如果长时间没有鱼讯，应及时更换钓位，寻找鱼群。"
+  ],
+  "recommended_spots": "河流、溪流、湖泊、水库、池塘",
+  "distribution": [
+    "内蒙古自治区",
+    "吉林省",
+    "新疆维吾尔自治区",
+    "甘肃省",
+    "黑龙江省"
+  ],
+  "similar_fish": [
+    "红眼鳟",
+    "蒙古雅罗鱼",
+    "黑线雅罗鱼",
+    "鱤鱼",
+    "鳊鲂"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/wa-shi-ya-luo-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/wa-shi-ya-luo-yu-0-0db90fb0.webp",
+      "https://fishweather.cn/asset-images/catch/wa-shi-ya-luo-yu-1-532557e3.webp",
+      "https://fishweather.cn/asset-images/catch/wa-shi-ya-luo-yu-2-fabc6464.webp",
+      "https://fishweather.cn/asset-images/catch/wa-shi-ya-luo-yu-3-8c7e1e47.webp",
+      "https://fishweather.cn/asset-images/catch/wa-shi-ya-luo-yu-4-75c8455d.webp"
+    ]
+  },
+  "profile_text_sha256": "386b8dedeabe0259ffba6dfcb3ec3ebb9704d886e7643544db631acd40327a51",
+  "raw_line_count": 143,
+  "local_dir": "by_family/鲤科/wa-shi-ya-luo-yu_瓦氏雅罗鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/wa-shi-ya-luo-yu_瓦氏雅罗鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

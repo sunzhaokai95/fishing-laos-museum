@@ -1,0 +1,55 @@
+{
+  "name": "线翎电鳗",
+  "slug": "xian-ling-dian-man",
+  "source_url": "https://fishweather.cn/fish/xian-ling-dian-man",
+  "list_page": 11,
+  "list_position": 259,
+  "scientific_name": "Apteronotus albifrons",
+  "aliases": "幽灵刀鱼",
+  "headline": "线翎电鳗怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "黑魔鬼鱼体型呈侧扁刀状，通体黑色或深棕色，最显著的特征是尾柄处有一条宽阔的白色环带，部分个体在背部也可能出现白色斑点。它们没有背鳍和腹鳍，但具有极长的臀鳍，几乎延伸至尾部，用于波动游动。眼睛小而隐蔽，口部末端略尖。身体光滑无鳞，覆盖着一层粘液。成鱼体型较大，优雅飘逸。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "裸背鱼目",
+    "科": "线翎电鳗科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型无脊椎动物、昆虫幼虫、小型鱼类和水生蠕虫为食。在人工饲养条件下，可接受活食、冷冻饵料和人工饲料。",
+    "栖息环境": "主要栖息于南美洲热带地区的河流、溪流和湖泊中，偏好水流缓慢、植被茂盛、底部有落叶或洞穴的环境。",
+    "体长": "50 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较长，通常在8-15年，人工饲养条件下，如果环境适宜且管理得当，寿命可能更长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "玻璃刀鱼",
+    "花刀鱼",
+    "金带刀鱼",
+    "线鳍电鳗",
+    "非洲肺鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xian-ling-dian-man.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xian-ling-dian-man-0-e6711562.webp",
+      "https://fishweather.cn/asset-images/catch/xian-ling-dian-man-1-ee00ba54.webp"
+    ]
+  },
+  "profile_text_sha256": "6db98019cd316bd89a9c06c7c02de6cf1b5562b0ab0c55c476a538bbf09a3017",
+  "raw_line_count": 60,
+  "local_dir": "by_family/线翎电鳗科/xian-ling-dian-man_线翎电鳗",
+  "local_images": {
+    "fish": [
+      "by_family/线翎电鳗科/xian-ling-dian-man_线翎电鳗/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "侧条弱棘鱼",
+  "slug": "ce-tiao-ruo-ji-yu",
+  "source_url": "https://fishweather.cn/fish/ce-tiao-ruo-ji-yu",
+  "list_page": 21,
+  "list_position": 491,
+  "scientific_name": "Malacanthus latovittatus",
+  "aliases": "丝带鳗、蓝带鳗、带状鳚",
+  "headline": "侧条弱棘鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，呈带状，侧扁。头部钝圆，口小，端位。眼大，位于头部前方。体表光滑无鳞。背鳍和臀鳍长而连续，与尾鳍相连，形成连续的鳍边。体色鲜艳，幼鱼通体亮黄色，成鱼头部和身体前部为蓝色，向后渐变为黄色或白色，体侧有黑色纵带。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "弱棘鱼科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如甲壳类、蠕虫、小型软体动物等。",
+    "栖息环境": "珊瑚礁区、沙质海底、岩礁附近",
+    "体长": "35",
+    "体重": null,
+    "寿命": "野外寿命通常为5-10年，人工饲养条件下，若环境适宜，寿命可能更长。",
+    "适温": "24-30"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "鳗鳚",
+    "犁头鳚",
+    "花鳗鳚",
+    "狼牙虾虎鱼",
+    "须鳗"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ce-tiao-ruo-ji-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "2c0168a0f3a447aa214845c29d55fd4f23abae714085899579f94702677fc204",
+  "raw_line_count": 30,
+  "local_dir": "by_family/弱棘鱼科/ce-tiao-ruo-ji-yu_侧条弱棘鱼",
+  "local_images": {
+    "fish": [
+      "by_family/弱棘鱼科/ce-tiao-ruo-ji-yu_侧条弱棘鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

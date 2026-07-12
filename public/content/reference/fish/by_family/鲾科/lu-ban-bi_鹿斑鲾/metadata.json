@@ -1,0 +1,91 @@
+{
+  "name": "鹿斑鲾",
+  "slug": "lu-ban-bi",
+  "source_url": "https://fishweather.cn/fish/lu-ban-bi",
+  "list_page": 5,
+  "list_position": 118,
+  "scientific_name": "Secutor ruconius",
+  "aliases": "无",
+  "headline": "鹿斑鲾怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型小巧，侧扁呈卵圆形。口小，可伸缩，吻短而钝圆。眼睛大，位于头部上方。体表光滑，无鳞，或仅有极小退化鳞。体色银白色，背部略带浅蓝色或绿色，体侧有时有不明显的暗色横带。胸鳍发达，尾鳍叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲾科",
+    "水层": "中下层",
+    "食性": "主要以小型浮游动物、底栖无脊椎动物、小型甲壳类和多毛类等为食。",
+    "栖息环境": "沿海和河口半咸水区域，包括红树林、海草床、珊瑚礁附近以及沿岸浅水区。",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为1-3年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "沙蚕",
+    "小虾肉",
+    "鱼肉碎",
+    "鸡肝",
+    "商品海钓小鱼饵",
+    "冷冻红虫",
+    "面包虫",
+    "磷虾"
+  ],
+  "float_signals": [
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而匀速地向下沉，可能是鱼吸食饵料后游动。",
+    "横向移动",
+    "：",
+    "浮漂不垂直下沉，而是横向移动或倾斜，可能是鱼咬饵后向侧方游动。",
+    "停顿后下沉",
+    "：",
+    "浮漂先出现轻微点动或停顿，然后突然下沉，可能是鱼先试探后吞食。",
+    "加速下沉",
+    "：",
+    "浮漂突然加速下沉，通常是鱼快速吞饵的信号。",
+    "轻微点动",
+    "：",
+    "浮漂出现轻微而快速的点动，可能是鱼在试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:短吻镰齿鱼喜欢栖息于结构复杂、饵料丰富的区域，如礁石缝隙、水草丛生处等。",
+    "使用小钩细线:针对小型鱼类，应采用小号鱼钩和细线组，提高隐蔽性和灵敏度。",
+    "饵料状态:饵料要新鲜且适口，可根据当地鱼情选择最受欢迎的饵料。",
+    "轻口慢提竿:观察到轻微漂像时，需耐心等待，待漂相明确后再轻柔提竿，避免空竿。",
+    "逗钓结合:在定点垂钓的同时，可尝试轻微逗钓，吸引鱼的注意，增加咬口机会。"
+  ],
+  "recommended_spots": "海边礁石、防波堤、港口码头、红树林区域、近岸浅水区、河口咸淡水交汇处",
+  "distribution": [],
+  "similar_fish": [
+    "银汉鱼",
+    "鲻鱼",
+    "鱾鱼",
+    "沙丁鱼",
+    "鳀鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lu-ban-bi.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/lu-ban-bi-0-1ecc15c9.webp",
+      "https://fishweather.cn/asset-images/catch/lu-ban-bi-1-011ad74e.webp",
+      "https://fishweather.cn/asset-images/catch/lu-ban-bi-2-2ada60c0.webp",
+      "https://fishweather.cn/asset-images/catch/lu-ban-bi-3-91e49a6e.webp",
+      "https://fishweather.cn/asset-images/catch/lu-ban-bi-4-11a88335.webp"
+    ]
+  },
+  "profile_text_sha256": "97891f1d91df1f960c2d0ecd0659d81183ea72300b6fbcd13e87458bf73bdbdd",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鲾科/lu-ban-bi_鹿斑鲾",
+  "local_images": {
+    "fish": [
+      "by_family/鲾科/lu-ban-bi_鹿斑鲾/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "钻嘴鱼",
+  "slug": "zuan-zui-yu",
+  "source_url": "https://fishweather.cn/fish/zuan-zui-yu",
+  "list_page": 26,
+  "list_position": 603,
+  "scientific_name": "Chelmon rostratus",
+  "aliases": "镊口鱼、长吻蝶鱼",
+  "headline": "钻嘴鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "黄吻蝶鱼体侧扁，呈卵圆形。最显著的特征是其极度延长的管状吻部，约占头部长度的一半，吻端生有小口。体色鲜艳，主要为亮黄色，体侧通常具有四条深棕色至黑色的垂直条纹，条纹边缘模糊。背鳍软鳍部分通常有一个醒目的黑色眼状斑点。眼睛颜色为黑色，周围有一圈细窄的白色或浅黄色环。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "蝴蝶鱼科",
+    "水层": "中层,上层",
+    "食性": "主要以小型无脊椎动物为食，特别偏好取食管状海葵（Aiptasia）等。也会摄食小型甲壳类动物、蠕虫以及珊瑚虫。",
+    "栖息环境": "主要栖息于珊瑚繁茂的礁石区域，也可见于岩礁和潟湖。偏好水质清澈、水流缓慢至中等的环境。",
+    "体长": "20 cm",
+    "体重": null,
+    "寿命": "寿命相对较长，在自然条件下，估计寿命可达5-7年或更长。在良好的人工饲养环境下，若提供适宜的水质和食物，可能会活得更久。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "黄镊口鱼",
+    "月蝶鱼",
+    "浪人蝶鱼",
+    "线纹蝴蝶鱼",
+    "黑斜纹蝶鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zuan-zui-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "c8b7b9321bbdc47bf04c8f3c8c010206abdb58d38327b7e7656a457d8d6db8cb",
+  "raw_line_count": 30,
+  "local_dir": "by_family/蝴蝶鱼科/zuan-zui-yu_钻嘴鱼",
+  "local_images": {
+    "fish": [
+      "by_family/蝴蝶鱼科/zuan-zui-yu_钻嘴鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

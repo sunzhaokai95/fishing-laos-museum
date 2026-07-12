@@ -1,0 +1,78 @@
+{
+  "name": "云斑尖塘鳢",
+  "slug": "yun-ban-jian-tang-li",
+  "source_url": "https://fishweather.cn/fish/yun-ban-jian-tang-li",
+  "list_page": 4,
+  "list_position": 87,
+  "scientific_name": "Oxyeleotris marmorata",
+  "aliases": "象鱼、杉壳鱼、沙壳鱼、土笋壳、泰国笋壳鱼",
+  "headline": "云斑尖塘鳢怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，圆筒形，后部稍侧扁。头大而宽，口大，下颌突出。眼小。体色呈棕褐色至深褐色，体侧散布不规则的深色斑块或条纹。鱼体粗壮，肉质饱满。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "塘鳢科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类、昆虫和其他无脊椎动物。",
+    "栖息环境": "淡水河流、湖泊、沼泽和水库等水域，常栖息于水流缓慢或静止，且水草茂盛或有沉没物的水底。",
+    "体长": "80 cm",
+    "体重": "10 kg",
+    "寿命": "寿命较长，在自然条件下可能超过10年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "软प्लास्टिक饵（T尾蛆",
+    "卷尾蛆",
+    "复合सॉफ्टप्लास्टिक饵）",
+    "米诺मछली",
+    "曲柄拟饵",
+    "勺型拟饵",
+    "spinnerbaits",
+    "蛙型拟饵",
+    "VIB拟饵",
+    "铅笔拟饵",
+    "popper拟饵",
+    "缓沉型拟饵"
+  ],
+  "float_signals": [
+    "无",
+    "：",
+    "路亚和矶钓钓法不依赖典型漂像，主要通过竿尖、线组和手感来判断鱼讯。"
+  ],
+  "practical_tips": [
+    "寻找结构:笋壳鱼喜欢藏身于水底结构复杂区域，如沉木、乱石、水草等，优先搜索这些区域。",
+    "慢速搜索:笋壳鱼是伏击型掠食者，通常不会追逐快速移动的猎物，慢速搜索更有效。",
+    "夜钓:笋壳鱼夜间活动频繁，夜钓更容易钓获。",
+    "耐心等待:笋壳鱼咬口可能较为谨慎，需要耐心等待和观察。",
+    "使用气味诱剂:在拟饵上添加气味诱剂可以提高诱鱼效果。"
+  ],
+  "recommended_spots": "河流、湖泊、水库、沼泽、池塘（自然水域）",
+  "distribution": [],
+  "similar_fish": [
+    "同属鱼类",
+    "大眼鳜鲈"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yun-ban-jian-tang-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yun-ban-jian-tang-li-0-503c520f.webp",
+      "https://fishweather.cn/asset-images/catch/yun-ban-jian-tang-li-1-0c211502.webp",
+      "https://fishweather.cn/asset-images/catch/yun-ban-jian-tang-li-2-67d40215.webp",
+      "https://fishweather.cn/asset-images/catch/yun-ban-jian-tang-li-3-de4e3701.webp",
+      "https://fishweather.cn/asset-images/catch/yun-ban-jian-tang-li-4-23811d9e.webp"
+    ]
+  },
+  "profile_text_sha256": "7aa0695d0eb63fa8288ca1af7f32ab322fc5573a55fc019a5b26944238d92de1",
+  "raw_line_count": 124,
+  "local_dir": "by_family/塘鳢科/yun-ban-jian-tang-li_云斑尖塘鳢",
+  "local_images": {
+    "fish": [
+      "by_family/塘鳢科/yun-ban-jian-tang-li_云斑尖塘鳢/images/main.webp"
+    ],
+    "catch": []
+  }
+}

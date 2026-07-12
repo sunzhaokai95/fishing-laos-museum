@@ -1,0 +1,123 @@
+{
+  "name": "草鱼",
+  "slug": "cao-yu",
+  "source_url": "https://fishweather.cn/fish/cao-yu",
+  "list_page": 1,
+  "list_position": 5,
+  "scientific_name": "Ctenopharyngodon idella",
+  "aliases": "鲩鱼、鲩、油鲩、草鲩、白鲩、草根、混子",
+  "headline": "草鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈圆筒形，稍侧扁，腹部圆。头部稍平扁。口端位，呈弧形。上颌略长于下颌。无须。眼小，位于头侧中轴上方。鳞片较大，圆形，侧线完全。体背部灰褐色或茶黄色，腹部灰白色。各鳍浅灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中下层,中上层",
+    "食性": "草食性，主要摄食水生高等植物，如苦草、轮叶黑藻、菹草、浮萍等",
+    "栖息环境": "江河、湖泊、水库、池塘等开阔水域，喜栖息于水草丰茂处",
+    "体长": "150 cm",
+    "体重": "45 kg",
+    "寿命": "寿命较长，自然条件下可达10-15年，人工养殖条件下甚至可达20年以上",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "嫩草",
+    "菜叶",
+    "玉米",
+    "小麦",
+    "红薯",
+    "南瓜",
+    "颗粒饲料",
+    "面团",
+    "豆饼",
+    "麸皮"
+  ],
+  "float_signals": [
+    "快速移位",
+    "：",
+    "浮漂快速横向移动，通常是草鱼拖动饵料游动",
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，是草鱼吞食死口信号",
+    "持续上浮",
+    "：",
+    "浮漂先下沉后缓慢持续上浮，可能是草鱼试探或吐钩前的动作",
+    "慢速下顿",
+    "：",
+    "浮漂缓慢而有力地下顿，可能是草鱼吸食饵料",
+    "大幅度下沉",
+    "：",
+    "浮漂快速、有力地向下沉没，通常是草鱼吞饵的信号"
+  ],
+  "practical_tips": [
+    "找准草鱼鱼道或觅食点",
+    "饵料要新鲜对口",
+    "线组要结实牢固",
+    "遛鱼要耐心",
+    "适时补窝诱鱼"
+  ],
+  "recommended_spots": "水库、湖泊、河流、大型池塘",
+  "distribution": [
+    "上海市",
+    "云南省",
+    "内蒙古自治区",
+    "北京市",
+    "台湾省",
+    "吉林省",
+    "四川省",
+    "天津市",
+    "宁夏回族自治区",
+    "安徽省",
+    "山东省",
+    "山西省",
+    "广东省",
+    "广西壮族自治区",
+    "新疆维吾尔自治区",
+    "江苏省",
+    "江西省",
+    "河北省",
+    "河南省",
+    "浙江省",
+    "海南省",
+    "湖北省",
+    "湖南省",
+    "甘肃省",
+    "福建省",
+    "贵州省",
+    "辽宁省",
+    "重庆市",
+    "陕西省",
+    "香港特别行政区",
+    "黑龙江省"
+  ],
+  "similar_fish": [
+    "鲢鱼",
+    "鳙鱼",
+    "鲮鱼",
+    "青鱼",
+    "草鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/cao-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/cao-yu-0-b1fd68e5.webp",
+      "https://fishweather.cn/asset-images/catch/cao-yu-1-e3e0e94e.webp",
+      "https://fishweather.cn/asset-images/catch/cao-yu-2-1251f0ad.webp",
+      "https://fishweather.cn/asset-images/catch/cao-yu-3-1547a447.webp",
+      "https://fishweather.cn/asset-images/catch/cao-yu-4-e9950bd3.webp"
+    ]
+  },
+  "profile_text_sha256": "3a26b2c374eeb3a926fdf84992b48e98aa40e0a5408b2423425b9419b406585f",
+  "raw_line_count": 186,
+  "local_dir": "by_family/鲤科/cao-yu_草鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/cao-yu_草鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

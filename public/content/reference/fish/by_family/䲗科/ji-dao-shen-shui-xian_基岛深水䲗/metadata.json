@@ -1,0 +1,52 @@
+{
+  "name": "基岛深水䲗",
+  "slug": "ji-dao-shen-shui-xian",
+  "source_url": "https://fishweather.cn/fish/ji-dao-shen-shui-xian",
+  "list_page": 16,
+  "list_position": 380,
+  "scientific_name": "Bathycallionymus kaianus",
+  "aliases": "无",
+  "headline": "基岛深水䲗怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "身体延长，略侧扁，头部平扁。吻短而圆钝，口小。眼睛上位。体表光滑无鳞。具两个背鳍，第一背鳍为棘状，第二背鳍和臀鳍均为软条。尾鳍圆形。体色通常为浅棕色或灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "䲗科",
+    "水层": "底层",
+    "食性": "底栖无脊椎动物",
+    "栖息环境": "深海海底",
+    "体长": "15",
+    "体重": null,
+    "寿命": "寿命信息缺乏，但深海鱼类通常寿命较长",
+    "适温": "2-8"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "花斑鼠衔鱼",
+    "星点鼠衔鱼",
+    "其他鼠衔鱼属物种"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ji-dao-shen-shui-xian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ji-dao-shen-shui-xian-0-af365a01.webp"
+    ]
+  },
+  "profile_text_sha256": "cf32d6f08f53380dff74a039573b3bc88e41e1a6a8c94b7296d964575891aa2b",
+  "raw_line_count": 42,
+  "local_dir": "by_family/䲗科/ji-dao-shen-shui-xian_基岛深水䲗",
+  "local_images": {
+    "fish": [
+      "by_family/䲗科/ji-dao-shen-shui-xian_基岛深水䲗/images/main.webp"
+    ],
+    "catch": []
+  }
+}

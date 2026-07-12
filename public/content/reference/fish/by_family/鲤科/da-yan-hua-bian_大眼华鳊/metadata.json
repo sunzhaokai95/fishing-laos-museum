@@ -1,0 +1,91 @@
+{
+  "name": "大眼华鳊",
+  "slug": "da-yan-hua-bian",
+  "source_url": "https://fishweather.cn/fish/da-yan-hua-bian",
+  "list_page": 2,
+  "list_position": 42,
+  "scientific_name": "Sinibrama macrops",
+  "aliases": "大眼鲮",
+  "headline": "大眼华鳊怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型呈纺锤形，略侧扁。头部中等大小，吻部短而钝圆。口位于吻端，口裂较大。眼睛大，明显大于吻长。鳞片中等大小，侧线完整。体背部为灰褐色，体侧和腹部为银白色。各鳍颜色较浅，呈浅灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中层,中下层",
+    "食性": "杂食性，食性广泛，主要摄食水生昆虫、藻类、植物碎屑以及小型无脊椎动物等。",
+    "栖息环境": "主要栖息于江河等缓流或静水水域。",
+    "体长": "30 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命较长，具体寿命数据缺乏，但一般淡水鱼类可达数年。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "麸皮",
+    "玉米粉",
+    "商品饵料（藻腥味）",
+    "蚯蚓",
+    "红虫",
+    "米饭粒",
+    "面包屑",
+    "豆饼粉",
+    "菜饼",
+    "颗粒饲料（小颗粒）"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现连续轻微的点动，幅度小，频率快，可能是鱼试探或轻微触碰饵料。",
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，不见漂尾，通常是鱼吞食死口，需要及时扬竿。",
+    "顿口",
+    "：",
+    "浮漂快速有力地向下顿一下，幅度半目到一目，是清晰的鱼讯信号。",
+    "缓升",
+    "：",
+    "浮漂缓慢上升半目或一目，然后停顿或继续上升，可能是鱼轻口吸食饵料。",
+    "移位",
+    "：",
+    "浮漂缓慢横向移动，可能是鱼拖动饵料或蹭线。"
+  ],
+  "practical_tips": [
+    "选择缓流或静水区域作钓，大眼华鲮喜栖息于水流缓慢的水域。",
+    "钓点选择在水草、乱石或树枝旁等复杂环境，这些地方是鱼类藏身觅食之处。",
+    "根据季节和天气变化，灵活调整钓层，尝试不同的水深。",
+    "饵料方面，可多尝试不同类型的饵料，找到当日鱼情最佳的饵料。",
+    "作钓时保持安静，避免惊扰鱼群。"
+  ],
+  "recommended_spots": "江河缓流段、水库、湖泊、池塘、溪流",
+  "distribution": [],
+  "similar_fish": [
+    "鲮鱼",
+    "鱊",
+    "鯝",
+    "䱻",
+    "鲴"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-yan-hua-bian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/da-yan-hua-bian-0-815b4bf7.webp",
+      "https://fishweather.cn/asset-images/catch/da-yan-hua-bian-1-76eb4cbf.webp",
+      "https://fishweather.cn/asset-images/catch/da-yan-hua-bian-2-49e405eb.webp",
+      "https://fishweather.cn/asset-images/catch/da-yan-hua-bian-3-8c67eef6.webp",
+      "https://fishweather.cn/asset-images/catch/da-yan-hua-bian-4-b253d15c.webp"
+    ]
+  },
+  "profile_text_sha256": "8d2b09b9b91ac8cddf1803ca6f4e7d4c7a4a57b428ef46c25e2e9cf7b78415b7",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鲤科/da-yan-hua-bian_大眼华鳊",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/da-yan-hua-bian_大眼华鳊/images/main.webp"
+    ],
+    "catch": []
+  }
+}

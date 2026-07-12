@@ -1,0 +1,91 @@
+{
+  "name": "太平洋棘鲷",
+  "slug": "tai-ping-yang-ji-diao",
+  "source_url": "https://fishweather.cn/fish/tai-ping-yang-ji-diao",
+  "list_page": 6,
+  "list_position": 141,
+  "scientific_name": "Acanthopagrus pacificus",
+  "aliases": "黑格、厚唇、海鲋、乌颊、黑立、枋仔",
+  "headline": "太平洋棘鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈椭圆形，侧扁，背腹缘隆起。头中等大，吻钝。口小，端位，唇厚。前颌骨具犬齿4-6个，下颌骨具犬齿4个。眼间隔稍凸。前鳃盖骨后缘具锯齿，鳃盖骨后缘光滑。体被栉鳞，侧线完全。背鳍和臀鳍鳍棘粗壮。体背部及侧上方为灰黑色或黑褐色，腹部银灰色。各鳍灰黑色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层,近底层",
+    "食性": "杂食性，主要摄食底栖无脊椎动物（如甲壳类、软体动物、多毛类等）、小型鱼类、藻类及有机碎屑",
+    "栖息环境": "近岸浅海岩礁区、砂砾底质海区及港湾内，也进入河口咸淡水区域",
+    "体长": "60",
+    "体重": "5",
+    "寿命": "寿命较长，自然条件下可达10年以上，甚至20年以上。",
+    "适温": "15-28"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蟑螂",
+    "海虫(沙蚕)",
+    "贝肉(蛤蜊肉",
+    "贻贝肉)",
+    "虾肉",
+    "鱼肉块",
+    "海藻",
+    "玉米粒(煮熟)",
+    "商品海钓颗粒",
+    "冷冻饵料(如冷冻南极虾砖)"
+  ],
+  "float_signals": [
+    "顿口急沉",
+    "：",
+    "浮漂快速有力地向下沉没，通常是黑鲷吞饵的明显信号，需立即扬竿",
+    "快速横移",
+    "：",
+    "浮漂突然快速向侧面移动，表明黑鲷咬饵后开始游动，是扬竿的好时机",
+    "浮漂上浮",
+    "：",
+    "在底钓时，浮漂突然缓慢上浮，可能是黑鲷将饵料叼起离底，也可能是鱼讯，可以轻提竿试探",
+    "黑漂缓沉",
+    "：",
+    "浮漂缓慢而有力地向下沉没，可能是黑鲷试探性咬饵或吸食饵料，也应及时扬竿",
+    "连续点动后下沉",
+    "：",
+    "浮漂先出现连续的点动或轻微颤动，随后突然下沉，表示黑鲷先试探性触碰饵料，然后吞食，需抓住下沉的瞬间扬竿"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:黑鲷喜欢栖息在水流较缓、有礁石或障碍物的区域，如矶石缝隙、防波堤拐角、码头桩基等。",
+    "精准打窝诱鱼:使用诱饵（如南极虾砖、海蟑螂等）进行打窝，将黑鲷诱至钓点，提高中鱼率。",
+    "灵活调整钓组:根据水深、流速、风力等因素，灵活调整浮漂号数、铅坠重量、子线长度等，使钓组适应环境。",
+    "掌握扬竿时机:黑鲷吃口干脆有力，一旦浮漂出现明显信号，需果断扬竿，避免错失良机。",
+    "勤换钓饵保鲜:钓饵长时间浸泡在海水中容易失去新鲜度，需勤换钓饵，保持饵料的诱鱼效果。"
+  ],
+  "recommended_spots": "矶石、防波堤、港口、码头、海湾、近海养殖区、河口咸淡水区",
+  "distribution": [],
+  "similar_fish": [
+    "黄鲷",
+    "真鲷",
+    "刺鲷",
+    "红鳍鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tai-ping-yang-ji-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/tai-ping-yang-ji-diao-0-aa722462.webp",
+      "https://fishweather.cn/asset-images/catch/tai-ping-yang-ji-diao-1-0db3f79b.webp",
+      "https://fishweather.cn/asset-images/catch/tai-ping-yang-ji-diao-2-551c5ca4.webp",
+      "https://fishweather.cn/asset-images/catch/tai-ping-yang-ji-diao-3-b64b5829.webp",
+      "https://fishweather.cn/asset-images/catch/tai-ping-yang-ji-diao-4-fcb472fd.webp"
+    ]
+  },
+  "profile_text_sha256": "f209ebf7beadea5cbd4f9691aff2f32390d71c926ec28094681c18b710ff806c",
+  "raw_line_count": 133,
+  "local_dir": "by_family/鲤科/tai-ping-yang-ji-diao_太平洋棘鲷",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/tai-ping-yang-ji-diao_太平洋棘鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

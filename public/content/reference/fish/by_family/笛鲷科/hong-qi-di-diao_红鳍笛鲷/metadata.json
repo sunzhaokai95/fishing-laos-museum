@@ -1,0 +1,91 @@
+{
+  "name": "红鳍笛鲷",
+  "slug": "hong-qi-di-diao",
+  "source_url": "https://fishweather.cn/fish/hong-qi-di-diao",
+  "list_page": 7,
+  "list_position": 147,
+  "scientific_name": "Lutjanus erythropterus",
+  "aliases": "红鱼、红曹、赤鱼、海鸡",
+  "headline": "红鳍笛鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "红鳍笛鲷体呈椭圆形，侧扁而高，背缘隆起。头中大，钝尖。吻中长，稍尖。口大，端位，斜裂。上颌稍突出于下颌。上下颌齿细尖锥形，犁骨及腭骨具绒毛状齿带。前鳃盖骨后缘具锯齿，鳃盖骨后缘具扁棘。体被中大栉鳞，侧线完全。背鳍连续，单一，硬棘部与软条部相连，无缺刻，硬棘ⅹ，软条13-14；臀鳍短小，硬棘III，软条8-9；胸鳍尖长；",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "笛鲷科",
+    "水层": "中下层",
+    "食性": "肉食性，主要以鱼类、甲壳类（如虾、蟹）及头足类等底栖无脊椎动物为食。幼鱼阶段可能摄食小型浮游动物。",
+    "栖息环境": "主要栖息于热带和亚热带沿岸岩礁、珊瑚礁海域，也常出现于河口和红树林区。幼鱼有时会进入较浅的潟湖和海草床。",
+    "体长": "80 cm",
+    "体重": "10 kg",
+    "寿命": "寿命较长，一般可达10年以上，甚至更长。具体寿命受生存环境、捕捞压力等因素影响，自然海域中寿命可能更长。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "鱿鱼块",
+    "小鱼块",
+    "虾肉",
+    "海মাছ(小海鱼)",
+    "沙蚕",
+    "海蜈蚣",
+    "鸡肉块",
+    "鱼肝油浸泡的饵料",
+    "商品海钓颗粒"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，完全消失不见，通常是鱼吞饵较深，是清晰的扬竿信号。",
+    "顿口下沉",
+    "：",
+    "浮漂快速有力地下沉一目或数目，是典型的鱼咬钩信号，应立即扬竿。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而稳定地下沉，可能是鱼吸食饵料，但动作较轻，需密切关注，适时扬竿。",
+    "加速横移",
+    "：",
+    "浮漂在水面快速横向移动，可能是鱼咬住饵料后游动，需及时扬竿。",
+    "持续点动后下沉",
+    "：",
+    "浮漂先出现连续轻微的点动，然后突然下沉，是鱼试探后咬实饵料的信号。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:红鳍笛鲷喜欢栖息于礁石、珊瑚礁等复杂地形，选择这些区域作为钓点能提高中鱼率。",
+    "掌握潮汐规律:涨潮和退潮时，水流变化会带来丰富的食物，是红鳍笛鲷觅食活跃期，把握潮汐规律选择钓时。",
+    "灵活运用钓法:根据不同钓场和鱼情，灵活选择船钓、矶钓、路亚等钓法，并调整钓组和饵料。",
+    "注意隐蔽性:红鳍笛鲷警惕性较高，垂钓时注意自身隐蔽，避免惊扰鱼群。穿着颜色与环境相近的服装，减少在钓点附近走动。",
+    "及时扬竿:红鳍笛鲷咬口凶猛，漂相明显，一旦出现鱼讯，应及时有力扬竿，确保鱼钩牢固刺入鱼嘴。"
+  ],
+  "recommended_spots": "近海礁石区、珊瑚礁区、外海岛屿、沉船区、码头防波堤",
+  "distribution": [],
+  "similar_fish": [
+    "星点笛鲷",
+    "黄鳍鲷",
+    "石斑鱼",
+    "snapper(其他笛鲷类)",
+    "海鲈鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hong-qi-di-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hong-qi-di-diao-0-abd80938.webp",
+      "https://fishweather.cn/asset-images/catch/hong-qi-di-diao-1-a6303804.webp",
+      "https://fishweather.cn/asset-images/catch/hong-qi-di-diao-2-cc01d2e4.webp",
+      "https://fishweather.cn/asset-images/catch/hong-qi-di-diao-3-6f4c89fb.webp",
+      "https://fishweather.cn/asset-images/catch/hong-qi-di-diao-4-68a26d06.webp"
+    ]
+  },
+  "profile_text_sha256": "82b12fc0f5f9aa7ae0f0069dd1f573ec110ed162d97790072a6910686929644c",
+  "raw_line_count": 137,
+  "local_dir": "by_family/笛鲷科/hong-qi-di-diao_红鳍笛鲷",
+  "local_images": {
+    "fish": [
+      "by_family/笛鲷科/hong-qi-di-diao_红鳍笛鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

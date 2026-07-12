@@ -1,0 +1,57 @@
+{
+  "name": "鲟鱼",
+  "slug": "xun-yu",
+  "source_url": "https://fishweather.cn/fish/xun-yu",
+  "list_page": 10,
+  "list_position": 235,
+  "scientific_name": "Acipenser (Farmed)",
+  "aliases": "鲟鱼、鲟鳇鱼、鳇鱼(部分地区)",
+  "headline": "鲟鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈长纺锤形，略扁平，无鳞，但体表覆盖五行菱形骨板（骨鳞），背部一行，体侧和腹侧各两行。吻呈圆锥形且长，口下位，口前具四根触须。尾鳍歪型，上叶发达。体色背部灰褐色或青灰色，腹部灰白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "硬骨鱼纲",
+    "目": "鲟形目",
+    "科": "鲟科",
+    "水层": "底层,中下层",
+    "食性": "杂食性偏肉食，幼鱼主要摄食浮游动物、水生昆虫幼虫等，成鱼摄食底栖无脊椎动物、小型鱼类及人工配合饲料。",
+    "栖息环境": "主要为人工养殖环境，如池塘、水库网箱、工厂化养殖池等，模拟自然江河环境。",
+    "体长": "200 cm",
+    "体重": "80 kg",
+    "寿命": "寿命长，自然条件下可达数十年甚至上百年，人工养殖条件下通常在性成熟前（数年至十余年）收获。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "达氏鳇",
+    "中华鲟",
+    "Europeanseasturgeon(欧洲鳇)",
+    "闪光鲟",
+    "西伯利亚鲟(野生种群)",
+    "鲟鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xun-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xun-yu-0-a3126983.webp",
+      "https://fishweather.cn/asset-images/catch/xun-yu-1-93196a82.webp",
+      "https://fishweather.cn/asset-images/catch/xun-yu-2-074b2c29.webp"
+    ]
+  },
+  "profile_text_sha256": "1e354ad6855e09454684cda0c92e8933953777979783b6e76ab77d2c7d1a77dd",
+  "raw_line_count": 78,
+  "local_dir": "by_family/鲟科/xun-yu_鲟鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲟科/xun-yu_鲟鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

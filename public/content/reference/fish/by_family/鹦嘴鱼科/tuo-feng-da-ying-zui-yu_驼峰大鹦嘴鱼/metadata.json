@@ -1,0 +1,52 @@
+{
+  "name": "驼峰大鹦嘴鱼",
+  "slug": "tuo-feng-da-ying-zui-yu",
+  "source_url": "https://fishweather.cn/fish/tuo-feng-da-ying-zui-yu",
+  "list_page": 25,
+  "list_position": 578,
+  "scientific_name": "Bolbometopon muricatum",
+  "aliases": "隆头鱼",
+  "headline": "驼峰大鹦嘴鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体型巨大而粗壮，头部额部明显隆起，形成一个巨大的肉瘤状突起。口小，牙齿融合成鹦鹉喙状。体色通常为蓝绿色至绿色，幼鱼可能略带黄色或棕色。鳞片大而明显。尾鳍呈新月形或截形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鹦嘴鱼科",
+    "水层": "中层,底层",
+    "食性": "主要以藻类为食，也啃食珊瑚虫。",
+    "栖息环境": "珊瑚礁区，水质清澈的潟湖和向海礁坡",
+    "体长": "130 cm",
+    "体重": "75 kg",
+    "寿命": "寿命长，可能超过40年甚至更长。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "绿鹦嘴鱼",
+    "大鹦嘴鱼",
+    "紫鹦嘴鱼",
+    "条纹鹦嘴鱼",
+    "োভ鹦嘴鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tuo-feng-da-ying-zui-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "9921d6423092b1f2e69427469567fdd0e625a850bb9befa2a4c98bf29e049e38",
+  "raw_line_count": 37,
+  "local_dir": "by_family/鹦嘴鱼科/tuo-feng-da-ying-zui-yu_驼峰大鹦嘴鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鹦嘴鱼科/tuo-feng-da-ying-zui-yu_驼峰大鹦嘴鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

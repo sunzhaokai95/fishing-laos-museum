@@ -1,0 +1,53 @@
+{
+  "name": "花鳍燕鳐鱼",
+  "slug": "hua-qi-yan-yao-yu",
+  "source_url": "https://fishweather.cn/fish/hua-qi-yan-yao-yu",
+  "list_page": 28,
+  "list_position": 660,
+  "scientific_name": "Cypselurus poecilopterus",
+  "aliases": "飞鱼",
+  "headline": "花鳍燕鳐鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，呈纺锤形。头中大，吻短钝。口上位，下颌略突出。眼大，侧位。胸鳍特别发达，向后延伸超过臀鳍起点，鳍条具分支，飞翔时展开如翼。腹鳍短小，位于腹部中央略后。背鳍和臀鳍相对，位于身体后部。尾鳍深叉形，下叶略长于上叶。体背部蓝灰色，腹部银白色。胸鳍浅灰色，具有明显的黑色斑点，故名斑鳍。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "颌针鱼目",
+    "科": "飞鱼科",
+    "水层": "表层",
+    "食性": "主要以浮游生物为食，包括浮游甲壳类、小型鱼卵和幼鱼等。",
+    "栖息环境": "热带和亚热带海洋的表层水域，通常远离海岸，属于大洋性鱼类。",
+    "体长": "30 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为2-3年。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "白鳍燕鳐",
+    "圆鳍燕鳐",
+    "இந்தியப்பறக்கும்மீன்(印度飞鱼-泰米尔语)",
+    "Chelidonichthyslucerna(海鲂-虽然科属不同",
+    "但形态上有一定相似性",
+    "作为参考)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hua-qi-yan-yao-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "6ba850574b3b025b3f4d7596175202c8116d397197b7d06d0811448dec6a173b",
+  "raw_line_count": 31,
+  "local_dir": "by_family/飞鱼科/hua-qi-yan-yao-yu_花鳍燕鳐鱼",
+  "local_images": {
+    "fish": [
+      "by_family/飞鱼科/hua-qi-yan-yao-yu_花鳍燕鳐鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

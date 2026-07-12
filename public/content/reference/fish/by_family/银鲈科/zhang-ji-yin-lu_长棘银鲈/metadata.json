@@ -1,0 +1,90 @@
+{
+  "name": "长棘银鲈",
+  "slug": "zhang-ji-yin-lu",
+  "source_url": "https://fishweather.cn/fish/zhang-ji-yin-lu",
+  "list_page": 6,
+  "list_position": 132,
+  "scientific_name": "Gerres filamentosus",
+  "aliases": "碗米仔、海鲫",
+  "headline": "长棘银鲈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，呈卵圆形。头中等大，吻尖。口小，前伸性。眼大，侧上位。前鳃盖骨后缘具锯齿。体被栉鳞，侧线完全。背鳍连续，具深刻凹入，鳍棘部与鳍条部相连，第二背鳍棘丝状延长。臀鳍与背鳍鳍条部相对。尾鳍叉形。体银白色，背部略带灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "银鲈科",
+    "水层": "中下层",
+    "食性": "杂食性，主要摄食小型底栖无脊椎动物、藻类、有机碎屑等",
+    "栖息环境": "近岸浅海沙泥底质海域、河口、红树林区",
+    "体长": "30 cm",
+    "体重": "0.3 kg",
+    "寿命": "一般为2-3年",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "虾肉",
+    "南极虾",
+    "海蚯蚓",
+    "沙蚕",
+    "鱼肉块",
+    "小螃蟹",
+    "贝肉",
+    "海藻",
+    "商品海钓颗粒",
+    "冷冻鱼饵"
+  ],
+  "float_signals": [
+    "上顶",
+    "：",
+    "浮漂缓慢上顶或轻微上升，可能是鱼将饵料含入口中后上浮",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，速度较慢，可能是鱼吸食饵料但动作轻缓",
+    "加速下沉",
+    "：",
+    "浮漂突然加速下沉，速度快，幅度大，通常是鱼吞食死口",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料或挂底",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小，频率不高，可能是鱼试探性触碰饵料"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:丝鳍银鲈喜欢在水流较缓、饵料丰富的区域活动，如礁石缝隙、防波堤内侧、红树林边缘等",
+    "灵活调整钓棚:根据潮汐、水深和鱼情变化，及时调整浮漂深度或钓棚，搜索鱼层",
+    "饵料要新鲜:使用新鲜的虾肉、南极虾等饵料，提高诱鱼效果",
+    "轻口慢提竿:丝鳍银鲈吃口较轻，漂相可能不明显，发现异常漂动及时轻缓提竿",
+    "多窝点轮钓:在不同窝点轮流作钓，避免在一个窝点久守无鱼"
+  ],
+  "recommended_spots": "礁石区、防波堤、沙滩、河口、红树林区",
+  "distribution": [],
+  "similar_fish": [
+    "银鲈",
+    "长鳍篮子鱼",
+    "斑鰶",
+    "黄鳍鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhang-ji-yin-lu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhang-ji-yin-lu-0-33e6455b.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-ji-yin-lu-1-dd06a02a.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-ji-yin-lu-2-dfc24862.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-ji-yin-lu-3-c517d955.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-ji-yin-lu-4-48a5c1c6.webp"
+    ]
+  },
+  "profile_text_sha256": "040223648a8ec949a82633c97ef863016fb6a80221aba640ae8683d02b352b5d",
+  "raw_line_count": 138,
+  "local_dir": "by_family/银鲈科/zhang-ji-yin-lu_长棘银鲈",
+  "local_images": {
+    "fish": [
+      "by_family/银鲈科/zhang-ji-yin-lu_长棘银鲈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

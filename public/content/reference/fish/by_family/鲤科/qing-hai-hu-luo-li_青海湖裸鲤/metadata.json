@@ -1,0 +1,54 @@
+{
+  "name": "青海湖裸鲤",
+  "slug": "qing-hai-hu-luo-li",
+  "source_url": "https://fishweather.cn/fish/qing-hai-hu-luo-li",
+  "list_page": 33,
+  "list_position": 774,
+  "scientific_name": "Gymnocypris przewalskii",
+  "aliases": "湟鱼、花鱼、Skar-nga",
+  "headline": "青海湖裸鲤是保护动物吗？习性与识别图鉴",
+  "summary": "裸鲤体细长，前部粗壮，后部侧扁。头较长，略呈圆锥形。吻钝圆。口端位，下颌前端略突出。眼较大，侧上位。无须。体表裸露无鳞，仅在侧线及臀鳍基部附近有少数退化鳞片。侧线完全，平直。背鳍起点位于腹鳍起点稍前方。尾鳍深叉形。体背部灰褐色或棕褐色，腹部银白色，繁殖季节雄性头部和胸鳍略带橙红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性为主，主要摄食底栖无脊椎动物、藻类、植物碎屑等。",
+    "栖息环境": "主要栖息于青海湖及其入湖河流中，偏好砂砾底质的缓流水域或静水水域。",
+    "体长": "52",
+    "体重": "2.5",
+    "寿命": "寿命较长，一般可达20年以上。",
+    "适温": "8-18"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "青海省"
+  ],
+  "similar_fish": [
+    "厚唇裸重唇鱼",
+    "尖裸鲤",
+    "异源裸鲤",
+    "湟源裸鲤",
+    "小mouth裸鲤"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qing-hai-hu-luo-li.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "dac7633a751cf3e9b1df79247954be549795723fcbca5565961a4dd13b04e34b",
+  "raw_line_count": 39,
+  "local_dir": "by_family/鲤科/qing-hai-hu-luo-li_青海湖裸鲤",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/qing-hai-hu-luo-li_青海湖裸鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

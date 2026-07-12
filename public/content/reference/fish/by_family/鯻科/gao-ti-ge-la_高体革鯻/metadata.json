@@ -1,0 +1,92 @@
+{
+  "name": "高体革鯻",
+  "slug": "gao-ti-ge-la",
+  "source_url": "https://fishweather.cn/fish/gao-ti-ge-la",
+  "list_page": 13,
+  "list_position": 292,
+  "scientific_name": "Scortum barcoo",
+  "aliases": "巴库鲡、巴库石鲈",
+  "headline": "高体革鯻怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，背腹缘均凸出。头中等大，略侧扁。吻钝圆。口中等大，前位，稍倾斜。上下颌齿绒毛状。眼大，侧上位。前鳃盖骨后缘具锯齿，鳃盖骨具棘。体被栉鳞，侧线完全。背鳍连续，鳍棘部与鳍条部相连，胸鳍圆钝，腹鳍胸位，尾鳍截形或微凹形。体色银灰色或淡棕色，体侧具不规则深色斑纹，幼鱼斑纹明显。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鯻科",
+    "水层": "底层,中下层",
+    "食性": "肉食性为主，也摄食无脊椎动物。主要捕食昆虫、甲壳类、小鱼和虾等。",
+    "栖息环境": "河流，小溪，湖泊和水潭等淡水水域，偏好植被茂盛或岩石底部环境。",
+    "体长": "50 cm",
+    "体重": "5 kg",
+    "寿命": "寿命较长，在自然条件下可能存活超过10年以上。具体寿命数据尚不明确，但石鲈科鱼类通常具有较长的寿命。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "软饵（卷尾蛆",
+    "T尾蛆",
+    "面条虫等）",
+    "硬饵（米诺",
+    "VIB",
+    "铅笔等）",
+    "金属饵（亮片",
+    "匙型勺等）",
+    "胡须佬（Spinnerbait）",
+    "复合亮片（BladedJig）",
+    "缓沉型拟饵（SinkingLure）",
+    "漂浮型拟饵（FloatingLure）",
+    "潜水型拟饵（DivingLure）",
+    "虾肉",
+    "蚯蚓"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，表明鱼吞饵较深。",
+    "顿口",
+    "：",
+    "浮漂快速下顿，幅度明显，通常是巴库鲈咬钩的典型信号。",
+    "上顶",
+    "：",
+    "浮漂向上顶起，可能是巴库鲈触碰饵料或拱饵。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是巴库鲈吸食饵料。",
+    "移位",
+    "：",
+    "浮漂横向移动，可能是巴库鲈拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的拟饵和泳层:根据水深、水色和鱼情选择合适的拟饵类型、颜色和泳层。",
+    "找准标点:巴库鲈喜欢藏身于植被、岩石或障碍物附近，找准这些标点是关键。",
+    "慢速搜索:巴库鲈不属于активный掠食者，慢速搜索和精细作钓往往更有效。",
+    "注意障碍物:巴库鲈栖息地常有障碍物，作钓时注意避免挂底，并利用障碍物作为藏身点。",
+    "灵活调整钓法:根据实际鱼情灵活调整钓法和拟饵，如更换拟饵类型、颜色、泳层，调整抽动手法等。"
+  ],
+  "recommended_spots": "河流、小溪、湖泊、水潭、水库",
+  "distribution": [],
+  "similar_fish": [
+    "澳洲肺鱼",
+    "银鲈",
+    "尖吻鲈",
+    "宝石鲈"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/gao-ti-ge-la.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/gao-ti-ge-la-0-d736f2dc.webp",
+      "https://fishweather.cn/asset-images/catch/gao-ti-ge-la-1-5f4b8c5c.webp"
+    ]
+  },
+  "profile_text_sha256": "bd52ca8b79aa332e343c3007bf3f328a5ba945b447938b4f5aea6c376675dd8b",
+  "raw_line_count": 105,
+  "local_dir": "by_family/鯻科/gao-ti-ge-la_高体革鯻",
+  "local_images": {
+    "fish": [
+      "by_family/鯻科/gao-ti-ge-la_高体革鯻/images/main.webp"
+    ],
+    "catch": []
+  }
+}

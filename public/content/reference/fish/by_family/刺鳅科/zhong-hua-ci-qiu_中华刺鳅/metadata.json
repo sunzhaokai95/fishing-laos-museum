@@ -1,0 +1,83 @@
+{
+  "name": "中华刺鳅",
+  "slug": "zhong-hua-ci-qiu",
+  "source_url": "https://fishweather.cn/fish/zhong-hua-ci-qiu",
+  "list_page": 6,
+  "list_position": 124,
+  "scientific_name": "Sinobdella sinensis",
+  "aliases": "鳝鱼、长鱼",
+  "headline": "中华刺鳅怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "身体呈圆柱形，细长，后部略侧扁。头部圆锥形，口大，端位。无鳞，皮肤光滑，黏液丰富。体色黄褐色或灰黄色，腹部颜色较浅。背鳍、臀鳍和尾鳍相连，形成连续的鳍褶。胸鳍和腹鳍缺如。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "合鳃目",
+    "科": "刺鳅科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、虾、水生昆虫、蠕虫等",
+    "栖息环境": "池塘、水田、沟渠、沼泽、江河缓流处的泥底或水草丛生处",
+    "体长": "80 cm",
+    "体重": "0.5 kg",
+    "寿命": "一般为3-5年，人工养殖条件下可达更长。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红蚯蚓",
+    "鸡肝",
+    "猪肝",
+    "蛙肉",
+    "虾肉",
+    "河虾肉",
+    "螺蛳肉",
+    "蚌肉",
+    "鱼肉块"
+  ],
+  "float_signals": [
+    "拉拽感",
+    "：",
+    "手感突然传来明显的拉拽感，竿尖大幅度弯曲，这是黄鳝咬钩的典型信号。",
+    "持续抖动",
+    "：",
+    "手感传来持续的抖动，表明黄鳝正在吞食或挣扎，应及时提竿。",
+    "线组松弛后突然紧绷",
+    "：",
+    "钓线原本松弛，突然紧绷，可能是黄鳝拖动饵料造成的。"
+  ],
+  "practical_tips": [
+    "找洞穴:黄鳝喜欢栖息在洞穴中，找到洞穴附近下钩效果好。",
+    "重窝诱钓:使用腥味重的饵料打重窝，诱鱼效果更佳。",
+    "夜晚用灯光诱鱼:夜晚用手电筒照射水面，吸引黄鳝靠近。",
+    "慢提轻放:提竿动作要缓慢，避免惊跑黄鳝；放鱼时要轻放，避免造成损伤。",
+    "多竿守钓:使用多根鱼竿，扩大搜索范围，提高中鱼率。"
+  ],
+  "recommended_spots": "池塘、水田、沟渠、沼泽、河边水草丰盛处",
+  "distribution": [],
+  "similar_fish": [
+    "鳗鱼",
+    "刺鳅",
+    "花鳅"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhong-hua-ci-qiu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhong-hua-ci-qiu-0-fd9a307e.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-ci-qiu-1-9df54970.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-ci-qiu-2-d7e615e4.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-ci-qiu-3-64aa1e03.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-ci-qiu-4-7746f88c.webp"
+    ]
+  },
+  "profile_text_sha256": "758575b187f2fb4194b734d15d41b6a1b5ba2c4e54a16af7f3fc92197d1c1d26",
+  "raw_line_count": 129,
+  "local_dir": "by_family/刺鳅科/zhong-hua-ci-qiu_中华刺鳅",
+  "local_images": {
+    "fish": [
+      "by_family/刺鳅科/zhong-hua-ci-qiu_中华刺鳅/images/main.webp"
+    ],
+    "catch": []
+  }
+}

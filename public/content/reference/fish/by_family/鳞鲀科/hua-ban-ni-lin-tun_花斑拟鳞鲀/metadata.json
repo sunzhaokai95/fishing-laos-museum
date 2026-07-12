@@ -1,0 +1,91 @@
+{
+  "name": "花斑拟鳞鲀",
+  "slug": "hua-ban-ni-lin-tun",
+  "source_url": "https://fishweather.cn/fish/hua-ban-ni-lin-tun",
+  "list_page": 5,
+  "list_position": 120,
+  "scientific_name": "Balistoides conspicillum",
+  "aliases": "皇后炮弹、豹纹炮弹",
+  "headline": "花斑拟鳞鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁且高，色彩艳丽醒目。头部轮廓圆钝，口小，牙齿强壮。眼睛位置较高，略突出。体表光滑无鳞，皮肤厚且革质。背鳍有两个，第一背鳍棘状，平时收缩于凹槽内，第二背鳍与臀鳍相对。体色基调为深棕色至黑色，身体侧面散布着白色斑点，腹部为亮黄色，嘴唇周围有鲜艳的橙色环纹。幼鱼体色与成鱼相似，但色彩可能略浅。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鳞鲀科",
+    "水层": "底层,中层",
+    "食性": "杂食性，主要以底栖无脊椎动物为食，如海胆、螃蟹、虾、贝类和蠕虫等，也会摄食藻类、珊瑚和海绵等。",
+    "栖息环境": "主要栖息于热带珊瑚礁区域，偏爱清澈且富含珊瑚和岩石的潟湖、礁坪和向海礁坡。幼鱼有时会在海草床或沙地附近活动。",
+    "体长": "50 cm",
+    "体重": "2 kg",
+    "寿命": "寿命较长，在自然条件下，估计可达10年以上。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "鲜虾肉",
+    "鱿鱼块",
+    "贝肉",
+    "海মাছ",
+    "蟹肉",
+    "海胆黄",
+    "海参",
+    "管虫",
+    "海藻（诱钓兼顾）",
+    "商品海钓颗粒饵料"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "使用浮漂时，浮漂快速下沉或瞬间消失在水面，表明鱼已吞饵，可扬竿。",
+    "顿口",
+    "：",
+    "竿梢或竿身突然大幅度下顿或弯曲，这是最常见的咬口信号，需立即扬竿。",
+    "拖拽感",
+    "：",
+    "收线时感到明显的拖拽感或阻力，表明鱼已咬钩，应立即发力扬竿。",
+    "横向走线",
+    "：",
+    "主线突然向一侧快速移动，可能是炮弹鱼咬饵后游动，需及时扬竿。",
+    "连续点动",
+    "：",
+    "竿梢出现连续轻微的点动或颤动，可能是炮弹鱼在试探或啄食，需密切关注，等待顿口出现。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:炮弹鱼喜欢栖息在礁石、珊瑚或沉船等复杂结构附近，这些地方是理想的钓点。",
+    "使用耐咬的钓组:炮弹鱼牙齿锋利，容易咬断鱼线，使用碳素线或钢丝子线可以提高钓组的抗咬能力。",
+    "饵料要新鲜且有腥味:炮弹鱼对新鲜的海洋生物饵料非常敏感，使用新鲜的虾肉、鱿鱼或贝肉等作为饵料效果更佳。",
+    "扬竿要果断有力:炮弹鱼咬口凶猛，一旦出现鱼讯，要及时且有力地扬竿，确保鱼钩牢固刺入鱼嘴。",
+    "注意安全:在礁石区或船上作钓时，注意防滑和安全，避免发生意外。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、沉船区、码头防波堤、近海养殖场",
+  "distribution": [],
+  "similar_fish": [
+    "橙斑炮弹",
+    "印度炮弹",
+    "黑尾炮弹",
+    "丝鳍炮弹",
+    "蓝面炮弹"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hua-ban-ni-lin-tun.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hua-ban-ni-lin-tun-0-fba4366b.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ban-ni-lin-tun-1-88b4cc6d.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ban-ni-lin-tun-2-b242c0a5.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ban-ni-lin-tun-3-9898489b.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ban-ni-lin-tun-4-4b2e2be0.webp"
+    ]
+  },
+  "profile_text_sha256": "7417e6dac7fad1d67ade9547d9db079289934bc5e47ed203c99ddebccff2c428",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鳞鲀科/hua-ban-ni-lin-tun_花斑拟鳞鲀",
+  "local_images": {
+    "fish": [
+      "by_family/鳞鲀科/hua-ban-ni-lin-tun_花斑拟鳞鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

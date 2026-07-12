@@ -1,0 +1,90 @@
+{
+  "name": "北极茴鱼",
+  "slug": "bei-ji-hui-yu",
+  "source_url": "https://fishweather.cn/fish/bei-ji-hui-yu",
+  "list_page": 19,
+  "list_position": 450,
+  "scientific_name": "Thymallus arcticus grubei",
+  "aliases": "无",
+  "headline": "北极茴鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "格氏grayling体型细长，略呈纺锤形，侧扁。头部小，吻尖。口小，端位。眼较大，位于头侧上方。背鳍显著，非常长且高，呈旗帜状，具有多条鳍条。脂鳍小而肉质。尾鳍深叉形。体色银灰色，背部颜色较深，侧线以上散布黑色小斑点，背鳍通常带有紫色或粉红色光泽，尤其在繁殖季节更为鲜艳。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲑形目",
+    "科": "茴鱼科",
+    "水层": "中上层",
+    "食性": "主要为肉食性，但也摄食少量植物性食物。幼鱼主要以浮游动物和小型底栖无脊椎动物为食。成鱼捕食水生昆虫（如蜉蝣、石蝇、毛翅目幼虫）、小型鱼类和鱼卵。",
+    "栖息环境": "主要栖息于寒冷、清澈、含氧量高的河流和溪流中，偏爱砾石或沙质底质的急流和浅滩区。",
+    "体长": "50 cm",
+    "体重": "2 kg",
+    "寿命": "寿命较长，在自然条件下可达10年以上，甚至更长。具体寿命受环境条件、食物供应和捕食压力等因素影响。",
+    "适温": "10-18 °C"
+  },
+  "bait_options": [
+    "拟饵（飞蝇）",
+    "小型亮片（Spoon）",
+    "旋转亮片（Spinner）",
+    "小型米诺（MinnowCrankbait）",
+    "软饵（卷尾Grub",
+    "小虾）",
+    "面包虫",
+    "蚂蚱",
+    "蟋蟀",
+    "蛆虫（商品饵）",
+    "蚯蚓干（商品饵）"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，通常是鱼吞饵较深。",
+    "顿口",
+    "：",
+    "浮漂快速下沉或出现明显的停顿，是鱼咬钩的典型信号。",
+    "上顶",
+    "：",
+    "浮漂缓慢上顶，可能是鱼轻微触碰饵料或试探性吸食。",
+    "加速下沉",
+    "：",
+    "浮漂原本缓慢下沉，突然加速下沉，可能是鱼截口。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的拟饵或饵料，根据季节和水域昆虫种类变化调整。",
+    "精准抛投到鱼可能藏身的位置，如石头后、深潭边、水流交汇处。",
+    "控制拟饵或饵料的漂流速度和姿态，使其自然逼真。",
+    "注意观察水面是否有鱼的活动迹象，如rises或追逐。",
+    "轻柔提竿，格氏grayling的嘴唇较薄，避免大力抽竿。"
+  ],
+  "recommended_spots": "山涧溪流、河流Rapids区、河流Riffles区、清澈的河段、水流交汇处",
+  "distribution": [
+    "黑龙江省"
+  ],
+  "similar_fish": [
+    "细鳞grayling(Thymallusbrevirostris)",
+    "西伯利亚grayling(Thymallusarcticusarcticus)",
+    "欧洲grayling(Thymallusthymallus)",
+    "高体鮈",
+    "花斑副沙鳅"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bei-ji-hui-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/bei-ji-hui-yu-0-800a8684.webp"
+    ]
+  },
+  "profile_text_sha256": "5636f20e10641db290a00b495a00e60a8360fec2bbd902fbe71904cd871e83d5",
+  "raw_line_count": 92,
+  "local_dir": "by_family/茴鱼科/bei-ji-hui-yu_北极茴鱼",
+  "local_images": {
+    "fish": [
+      "by_family/茴鱼科/bei-ji-hui-yu_北极茴鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

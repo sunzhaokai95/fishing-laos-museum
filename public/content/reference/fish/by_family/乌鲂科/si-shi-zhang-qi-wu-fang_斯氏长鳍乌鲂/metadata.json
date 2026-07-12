@@ -1,0 +1,73 @@
+{
+  "name": "斯氏长鳍乌鲂",
+  "slug": "si-shi-zhang-qi-wu-fang",
+  "source_url": "https://fishweather.cn/fish/si-shi-zhang-qi-wu-fang",
+  "list_page": 33,
+  "list_position": 787,
+  "scientific_name": "Taractichthys steindachneri",
+  "aliases": "燕尾鲳、圆鳍鲳",
+  "headline": "斯氏长鳍乌鲂怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型侧扁且高，呈卵圆形。最显著的特征是其镰刀状的胸鳍，非常长且向上弯曲，形似镰刀。背鳍和臀鳍也显著隆起，呈弧形。尾鳍深叉形。体色通常为银灰色至深灰色，有时略带金属光泽。头部轮廓圆钝，口小。鳞片细小，覆盖全身。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "乌鲂科",
+    "水层": "中上层，远洋",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类动物（如磷虾、桡足类）和头足类动物（如鱿鱼）。",
+    "栖息环境": "主要栖息于热带和亚热带的远洋深海区域，属于大洋性鱼类，通常远离海岸活动。",
+    "体长": "170 cm",
+    "体重": "25 kg",
+    "寿命": "寿命较长，但确切寿命数据尚不明确，远洋鱼类通常具有较长的寿命以适应其生存环境。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "铁板路亚",
+    "深潜米诺",
+    "波扒",
+    "铅笔",
+    "VIB",
+    "软饵（卷尾蛆）",
+    "软饵（T尾）",
+    "复合亮片",
+    "鱼形软饵",
+    "虾形软饵"
+  ],
+  "float_signals": [
+    "N/A",
+    "：",
+    "路亚和拖钓海钓通常不依赖浮漂观察鱼讯，主要通过竿梢的动作、手感以及渔轮泄力声音来判断鱼讯。"
+  ],
+  "practical_tips": [
+    "使用探鱼器:利用探鱼器探测水下鱼群分布和地形结构，快速找到鱼群聚集区域。",
+    "注意潮汐变化:潮汐涨落会影响鱼群的活动和觅食习性，涨潮和退潮时鱼口通常较好。",
+    "选择合适天气:避开恶劣天气，选择风浪较小的晴朗天气出海。",
+    "根据鱼情更换钓饵和钓法:根据实际鱼情灵活调整钓饵和钓法，提高钓获率。",
+    "使用高质量钓具:深海海钓对象鱼体型较大，力量强劲，必须使用高质量、高强度的钓具。"
+  ],
+  "recommended_spots": "远海、外海、深海区域、海岛周围深水区、海峡、海沟",
+  "distribution": [],
+  "similar_fish": [
+    "圆鲳",
+    "刺鲳",
+    "银鲳",
+    "长鲳",
+    "金鲳"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/si-shi-zhang-qi-wu-fang.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "ad3fa4cded07cfcb5fa1b6c7c23dcb405daab8684ae740be44d719d23d0d994b",
+  "raw_line_count": 61,
+  "local_dir": "by_family/乌鲂科/si-shi-zhang-qi-wu-fang_斯氏长鳍乌鲂",
+  "local_images": {
+    "fish": [
+      "by_family/乌鲂科/si-shi-zhang-qi-wu-fang_斯氏长鳍乌鲂/images/main.webp"
+    ],
+    "catch": []
+  }
+}

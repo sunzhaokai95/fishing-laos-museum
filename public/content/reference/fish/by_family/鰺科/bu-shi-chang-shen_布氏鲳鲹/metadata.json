@@ -1,0 +1,95 @@
+{
+  "name": "布氏鲳鲹",
+  "slug": "bu-shi-chang-shen",
+  "source_url": "https://fishweather.cn/fish/bu-shi-chang-shen",
+  "list_page": 7,
+  "list_position": 161,
+  "scientific_name": "Trachinotus blochii",
+  "aliases": "金鲳、黄腊鲳、红衫鲳、海仓鱼",
+  "headline": "布氏鲳鲹怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁而高，背腹缘均隆起。头中等大，吻短而圆钝。口小，端位，斜裂。上下颌具细齿。眼大，脂眼睑不发达。体被小圆鳞，侧线完全，侧线鳞具后棱棘。背鳍2个，第一背鳍短小，具5-6弱棘，第二背鳍与臀鳍相对，均较长，前部鳍条长于后部。尾鳍深叉形。体背部灰蓝色或青灰色，体侧及腹部银白色，幼鱼体侧具5-6条暗色横带，成鱼横带",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰺科",
+    "水层": "中上层",
+    "食性": "肉食性为主，主要摄食小型鱼类、甲壳类（如虾、蟹）、头足类和底栖无脊椎动物。",
+    "栖息环境": "热带和亚热带沿海浅水区，常见于沙质或珊瑚礁海域，也进入河口和红树林区。",
+    "体长": "70 cm",
+    "体重": "5 kg",
+    "寿命": "寿命较长，可达10年以上。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "小鱼型软饵",
+    "虾型软饵",
+    "亮片",
+    "米诺",
+    "VIB",
+    "海虾",
+    "南极虾",
+    "鱿鱼块",
+    "沙蚕",
+    "鱼肉块"
+  ],
+  "float_signals": [
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而有力地下沉，可能是鲳鲹吸饵后缓慢游动。",
+    "持续抖动",
+    "：",
+    "浮漂出现持续而有力的抖动，幅度不一，可能是鲳鲹咬住饵料后挣扎。",
+    "上浮停顿",
+    "：",
+    "浮漂先轻微上浮，然后停顿或下沉，可能是鲳鲹试探性咬饵。",
+    "顿口急促",
+    "：",
+    "浮漂快速下顿，幅度较大，可能是鲳鲹咬饵果断，吞食较深。",
+    "黑漂迅速",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是鲳鲹抢食或吞食死口。"
+  ],
+  "practical_tips": [
+    "根据潮汐变化选择钓点，涨潮和退潮时，鲳鲹常在近岸觅食。",
+    "使用气味浓郁的饵料或添加诱鱼剂，提高诱鱼效果。",
+    "针对鲳鲹喜欢追逐快速移动物体的特点，路亚钓法可采用快速抽动或拖动拟饵。",
+    "注意钓棚深度，鲳鲹活动水层较广，可尝试不同水层搜索鱼群。",
+    "中鱼后及时扬竿，并快速收线，避免鲳鲹逃脱或切线。"
+  ],
+  "recommended_spots": "近岸礁石区、海湾、沙滩、码头、养殖网箱附近、外海船钓",
+  "distribution": [
+    "台湾省",
+    "澳门特别行政区",
+    "香港特别行政区"
+  ],
+  "similar_fish": [
+    "军曹鱼",
+    "鲹鱼",
+    "海鲢",
+    "马鲛鱼",
+    "石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bu-shi-chang-shen.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/bu-shi-chang-shen-0-bc380d9e.webp",
+      "https://fishweather.cn/asset-images/catch/bu-shi-chang-shen-1-b9555fe7.webp",
+      "https://fishweather.cn/asset-images/catch/bu-shi-chang-shen-2-80ef6b2f.webp",
+      "https://fishweather.cn/asset-images/catch/bu-shi-chang-shen-3-dc386809.webp",
+      "https://fishweather.cn/asset-images/catch/bu-shi-chang-shen-4-c42442eb.webp"
+    ]
+  },
+  "profile_text_sha256": "1de6d70eb74f652b27855af2140e83f81e3edbf3b8b36f78878ca17846f7b363",
+  "raw_line_count": 141,
+  "local_dir": "by_family/鰺科/bu-shi-chang-shen_布氏鲳鲹",
+  "local_images": {
+    "fish": [
+      "by_family/鰺科/bu-shi-chang-shen_布氏鲳鲹/images/main.webp"
+    ],
+    "catch": []
+  }
+}

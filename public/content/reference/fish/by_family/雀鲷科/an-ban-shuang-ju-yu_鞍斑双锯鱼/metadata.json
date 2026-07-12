@@ -1,0 +1,51 @@
+{
+  "name": "鞍斑双锯鱼",
+  "slug": "an-ban-shuang-ju-yu",
+  "source_url": "https://fishweather.cn/fish/an-ban-shuang-ju-yu",
+  "list_page": 16,
+  "list_position": 362,
+  "scientific_name": "Amphiprion polymnus",
+  "aliases": "黑豹小丑鱼、鞍背小丑",
+  "headline": "鞍斑双锯鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁。体色主要为深棕色至黑色，最显著的特征是在背部中央有一个宽阔的白色鞍状斑纹，有时延伸至腹部。吻部和胸鳍呈黄色至橙色。幼鱼时期，白色鞍斑可能较小或不明显。各鳍颜色与体色协调，边缘有时略带浅色。眼睛相对较大，口小。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "雀鲷科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、小型无脊椎动物（如桡足类、片脚类）、浮游生物以及共生海葵掉落的食物碎屑为食。在人工饲养环境下，可接受多种人工饲料。",
+    "栖息环境": "主要栖息于珊瑚礁区域，特别是潟湖和沿岸珊瑚礁。常与海葵共生，例如大地毯海葵（Stichodactylagigantea）",
+    "体长": "11 cm",
+    "体重": "0.1 kg",
+    "寿命": "在自然环境中寿命约为6-8年，在人工饲养环境下，如果提供适宜的环境和食物，寿命可达8-12年甚至更长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "眼斑双锯鱼",
+    "克氏双锯鱼",
+    "公子小丑鱼",
+    "红小丑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/an-ban-shuang-ju-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "41390ff0cb8f87ca0753dd2aee325d20b8eb4e9ed0fc83299dfd915ce09d5c85",
+  "raw_line_count": 31,
+  "local_dir": "by_family/雀鲷科/an-ban-shuang-ju-yu_鞍斑双锯鱼",
+  "local_images": {
+    "fish": [
+      "by_family/雀鲷科/an-ban-shuang-ju-yu_鞍斑双锯鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

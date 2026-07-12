@@ -1,0 +1,91 @@
+{
+  "name": "黑鳃兔头鲀",
+  "slug": "hei-sai-tu-tou-tun",
+  "source_url": "https://fishweather.cn/fish/hei-sai-tu-tou-tun",
+  "list_page": 8,
+  "list_position": 178,
+  "scientific_name": "Lagocephalus inermis",
+  "aliases": "鸡泡鱼、气鼓鱼、河豚",
+  "headline": "黑鳃兔头鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈圆筒形，稍侧扁，尾柄细长。头宽大，吻短钝圆。口小，端位，唇厚。眼小，侧位，眼间隔宽平。鼻孔每侧2个，圆形。鳃孔小，位于胸鳍前方。体表光滑无鳞，背部裸露无棘，腹部膨胀时呈球形。背鳍1个，位于体后部，与臀鳍相对。胸鳍宽短，圆形。腹鳍缺如。尾鳍圆形或稍截形。体背部呈灰褐色或棕褐色，腹部白色或淡黄色，体侧有时散布不规则的深",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鲀科",
+    "水层": "中下层",
+    "食性": "杂食性，主要以小型鱼类、甲壳类、贝类、藻类和底栖无脊椎动物为食。",
+    "栖息环境": "主要栖息于热带和亚热带近海的珊瑚礁、岩礁、沙底和海草床等区域。也可能进入河口和咸淡水水域。",
+    "体长": "65 cm",
+    "体重": "5 kg",
+    "寿命": "寿命一般为5-10年，具体寿命长短取决于环境条件和个体差异。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "海虾",
+    "鱿鱼块",
+    "沙蚕",
+    "海মাছ",
+    "贝肉",
+    "鱼肉块",
+    "南极虾",
+    "磷虾",
+    "小鱼干",
+    "虾仁"
+  ],
+  "float_signals": [
+    "快速下沉",
+    "：",
+    "浮漂快速且有力地向下沉没，通常是鱼吞食饵料的信号，需要立即扬竿。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而匀速地向下沉没，可能是鱼吸食饵料后缓慢下沉，也可能是水流或风力影响，需要仔细辨别。",
+    "持续抖动",
+    "：",
+    "浮漂出现持续且有规律的抖动，可能是鱼在试探或啃食饵料，需要耐心观察，等待更明显的信号出现。",
+    "浮漂移位",
+    "：",
+    "浮漂在水面横向移动，不规则地漂移，可能是鱼拖动饵料游动，需要密切关注。",
+    "顿口急促",
+    "：",
+    "浮漂出现明显的顿挫，快速下沉或上顶，幅度较小但力量感强，表示鱼已咬钩。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:光背鲀常栖息于礁石区和珊瑚礁附近，选择这些区域作为钓点能提高中鱼率。",
+    "使用腥味饵料:光背鲀喜食腥味饵料，如海虾、鱼肉等，选择合适的饵料能有效诱鱼。",
+    "注意防咬线组:光背鲀牙齿锋利，子线易被咬断，使用碳素线或钢丝线作为子线能有效防止切线。",
+    "掌握扬竿时机:光背鲀吃口凶猛，漂相明显，一旦出现清晰的漂相，应果断扬竿。",
+    "注意安全:海钓存在一定风险，注意潮汐变化，穿着救生衣，选择安全钓位。"
+  ],
+  "recommended_spots": "近海礁石区、防波堤、码头、海湾、沙滩近岸",
+  "distribution": [],
+  "similar_fish": [
+    "星点东方鲀",
+    "铅点东方鲀",
+    "条纹东方鲀",
+    "暗纹东方鲀",
+    "豹纹东方鲀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-sai-tu-tou-tun.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hei-sai-tu-tou-tun-0-9fd3ebb6.webp",
+      "https://fishweather.cn/asset-images/catch/hei-sai-tu-tou-tun-1-532d29f0.webp",
+      "https://fishweather.cn/asset-images/catch/hei-sai-tu-tou-tun-2-c7fe642d.webp",
+      "https://fishweather.cn/asset-images/catch/hei-sai-tu-tou-tun-3-145a7b82.webp",
+      "https://fishweather.cn/asset-images/catch/hei-sai-tu-tou-tun-4-ea7e6798.webp"
+    ]
+  },
+  "profile_text_sha256": "494e386689f7f4f7651f865102b550c46608c90467f1c0d580fa06bd0be5f816",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鲀科/hei-sai-tu-tou-tun_黑鳃兔头鲀",
+  "local_images": {
+    "fish": [
+      "by_family/鲀科/hei-sai-tu-tou-tun_黑鳃兔头鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

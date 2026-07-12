@@ -1,0 +1,86 @@
+{
+  "name": "湄公双孔鱼",
+  "slug": "mei-gong-shuang-kong-yu",
+  "source_url": "https://fishweather.cn/fish/mei-gong-shuang-kong-yu",
+  "list_page": 17,
+  "list_position": 402,
+  "scientific_name": "Gyrinocheilus aymonieri",
+  "aliases": "泰国食藻鱼、印尼食藻鱼、假熊猫鼠",
+  "headline": "湄公双孔鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈纺锤形，稍侧扁，腹部扁平。头部平坦，吻部圆钝，口下位，呈吸盘状，唇厚且具乳突。眼小，位于头部侧上方。体表光滑无鳞。幼鱼体色通常为浅灰色或粉红色，体侧具黑色纵纹，成鱼体色变为灰褐色或黄褐色，纵纹逐渐消失或模糊。各鳍透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "双孔鱼科",
+    "水层": "底层",
+    "食性": "杂食性为主，主要刮食藻类和水底的有机碎屑，也摄食小型无脊椎动物和人工饲料。幼鱼时期更偏向于藻类，成鱼食性较杂。",
+    "栖息环境": "河流、溪流、池塘和湖泊的底部，通常在岩石或植被丰富的区域",
+    "体长": "28 cm",
+    "体重": "0.2 kg",
+    "寿命": "人工饲养条件下通常为5-10年，但有报告显示可达15年以上。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "藻类颗粒饲料",
+    "植物性颗粒饲料",
+    "煮熟的玉米粒",
+    "红薯块",
+    "土豆块",
+    "南瓜块",
+    "面包屑",
+    "商品底钓饵料（藻类味型）",
+    "麦麸",
+    "豆饼"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，消失不见，是鱼吞食饵料的强烈信号。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿一下，幅度较小但干脆，是鱼咬钩的明显信号。",
+    "上顶",
+    "：",
+    "浮漂缓慢或快速上顶，超出正常漂目，可能是鱼将饵料拱起或顶起。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，到位后停顿或继续缓慢下沉，可能是鱼轻口试探或吸食饵料。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料或触碰鱼线。"
+  ],
+  "practical_tips": [
+    "选择藻类或植物丰富的钓点，食藻鱼常在这些区域觅食。",
+    "使用比重较大的饵料，确保饵料快速沉底。",
+    "采用底钓或沉底钓法，贴近底部寻找鱼踪。",
+    "调漂灵敏，抓住轻微的鱼口信号。",
+    "打窝诱鱼，可以使用藻类颗粒或植物性饵料打窝。"
+  ],
+  "recommended_spots": "水库、湖泊、河流缓流段、池塘、水草丰富的区域、岩石底质水域",
+  "distribution": [],
+  "similar_fish": [
+    "青苔鼠",
+    "琵琶鱼",
+    "清道夫",
+    "小盾鳢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/mei-gong-shuang-kong-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/mei-gong-shuang-kong-yu-0-07af2e4b.webp"
+    ]
+  },
+  "profile_text_sha256": "efa2e99b73278bf4ea8c9f2d859ab1903fa859e03d15763dff93aa51ab551a93",
+  "raw_line_count": 88,
+  "local_dir": "by_family/双孔鱼科/mei-gong-shuang-kong-yu_湄公双孔鱼",
+  "local_images": {
+    "fish": [
+      "by_family/双孔鱼科/mei-gong-shuang-kong-yu_湄公双孔鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

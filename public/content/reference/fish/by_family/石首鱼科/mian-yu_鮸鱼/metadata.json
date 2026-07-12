@@ -1,0 +1,79 @@
+{
+  "name": "鮸鱼",
+  "slug": "mian-yu",
+  "source_url": "https://fishweather.cn/fish/mian-yu",
+  "list_page": 8,
+  "list_position": 176,
+  "scientific_name": "Miichthys miiuy",
+  "aliases": "黑鲪、黑鱼、海鲈鱼、石鲈、鲪鱼",
+  "headline": "鮸鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，呈纺锤形。头中等大，稍侧扁。吻尖突。口大，端位，斜裂。上下颌、犁骨及腭骨均具细齿。前鳃盖骨后缘具锯齿，鳃盖骨后缘光滑。眼间隔稍宽，微凹。鳞小，栉鳞，侧线完全。背鳍1个，硬棘部与软条部相连。胸鳍宽大，圆形。腹鳍胸位。臀鳍与背鳍软条部相对。尾鳍截形或稍内凹。体背部及侧面灰黑色或棕黑色，腹部灰白色。各鳍灰黑色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "石首鱼科",
+    "水层": "底层,近底层",
+    "食性": "肉食性，主要捕食小型鱼类、虾、蟹等甲壳类及头足类",
+    "栖息环境": "近海岩礁、砂砾底质海区，也进入河口咸淡水域",
+    "体长": "70 cm",
+    "体重": "5 kg",
+    "寿命": "自然寿命较长，一般可达10年以上，人工养殖条件下若管理得当，寿命相近",
+    "适温": "10-25 °C"
+  },
+  "bait_options": [
+    "活虾",
+    "海মাছ",
+    "沙蚕",
+    "鱿鱼块",
+    "小鱼块",
+    "虾仁",
+    "鱼肉块",
+    "拟饵（米诺）",
+    "拟饵（VIB）",
+    "拟饵（软饵）"
+  ],
+  "float_signals": [
+    "不适用",
+    "：",
+    "路亚海钓以手感和视觉为主，不依赖浮漂信号"
+  ],
+  "practical_tips": [
+    "根据潮汐选择钓点和钓时，涨潮和退潮时，海鲈鱼活动频繁",
+    "根据水色选择路亚颜色和泳层，浑水用亮色系路亚，清水用自然色系路亚",
+    "掌握海鲈鱼的习性，多在水流交汇处、障碍物附近搜索",
+    "灵活运用不同的路亚手法，刺激海鲈鱼攻击",
+    "注意安全，海边垂钓注意防滑防浪"
+  ],
+  "recommended_spots": "岩礁区、码头、防波堤、海湾、河口咸淡水域",
+  "distribution": [],
+  "similar_fish": [
+    "鲈鱼(Lateolabraxjaponicus)",
+    "牙鲆",
+    "鲽鱼",
+    "石斑鱼",
+    "鳕鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/mian-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/mian-yu-0-e541478f.webp",
+      "https://fishweather.cn/asset-images/catch/mian-yu-1-df3c2a5b.webp",
+      "https://fishweather.cn/asset-images/catch/mian-yu-2-60773bb5.webp",
+      "https://fishweather.cn/asset-images/catch/mian-yu-3-2327dfb3.webp",
+      "https://fishweather.cn/asset-images/catch/mian-yu-4-dc6a1f32.webp"
+    ]
+  },
+  "profile_text_sha256": "f2824c2a191ed69ee792fca10e00ed052e45f813c38b7eb8956f341a2ee4bd98",
+  "raw_line_count": 125,
+  "local_dir": "by_family/石首鱼科/mian-yu_鮸鱼",
+  "local_images": {
+    "fish": [
+      "by_family/石首鱼科/mian-yu_鮸鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

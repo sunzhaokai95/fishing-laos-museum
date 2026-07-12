@@ -1,0 +1,50 @@
+{
+  "name": "翻车鲀",
+  "slug": "fan-che-tun",
+  "source_url": "https://fishweather.cn/fish/fan-che-tun",
+  "list_page": 22,
+  "list_position": 508,
+  "scientific_name": "Mola mola",
+  "aliases": "曼波鱼、太阳鱼、海车",
+  "headline": "翻车鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "翻车鱼体型独特，呈椭圆或圆盘形，侧扁。最显著的特征是其如同被切去一半的身体，缺少尾柄和尾鳍，取而代之的是被称为“舵鳍”的扇形结构。口小，呈喙状。皮肤粗糙，无鳞，但覆盖着一层厚厚的粘液。体色通常为灰褐色或银灰色，部分个体带有斑点或纹路。整体外观奇特而笨重。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "翻车鲀科",
+    "水层": "中上层,表层",
+    "食性": "主要以水母为食，也捕食浮游生物、小型鱼类、甲壳类动物和藻类",
+    "栖息环境": "暖温带和热带海洋的开阔水域",
+    "体长": "330 cm",
+    "体重": "2300 kg",
+    "寿命": "寿命较长，一般认为在10年以上，甚至可达数十年，但确切寿命尚无定论",
+    "适温": "18-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "矛尾翻车鲀",
+    "细嫩翻车鲀",
+    "长翻车鲀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/fan-che-tun.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "ceb93c87aa5f894349139075a60d99a74e6475bbcddf5155925188640f8682f7",
+  "raw_line_count": 30,
+  "local_dir": "by_family/翻车鲀科/fan-che-tun_翻车鲀",
+  "local_images": {
+    "fish": [
+      "by_family/翻车鲀科/fan-che-tun_翻车鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

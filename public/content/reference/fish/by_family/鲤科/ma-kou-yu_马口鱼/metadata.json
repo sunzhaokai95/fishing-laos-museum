@@ -1,0 +1,100 @@
+{
+  "name": "马口鱼",
+  "slug": "ma-kou-yu",
+  "source_url": "https://fishweather.cn/fish/ma-kou-yu",
+  "list_page": 1,
+  "list_position": 11,
+  "scientific_name": "Opsariichthys bidens",
+  "aliases": "桃花鱼、红车公、坑爬、山鳡、花杈鱼、桃花板、宽口鱼、月鱼",
+  "headline": "马口鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长而侧扁，略呈纺锤形。头较小，吻尖。口上位，口裂斜向上。下颌突出于上颌。眼大，侧上位。鳞小，侧线完全，略向下弯曲。体背部灰黑色或青灰色，腹部银白色。各鳍灰白色或淡黄色。胸鳍和腹鳍较小，背鳍和臀鳍相对较大，尾鳍深叉形。体表光滑，粘液较多。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "上层,中上层",
+    "食性": "杂食性，偏动物性。主要摄食水生昆虫、小型甲壳类、浮游动物、藻类、植物碎屑及人工饲料。",
+    "栖息环境": "喜栖息于水流缓慢或静止的浅水区，如江河、湖泊、水库、池塘的浅滩、水草丛生地带。",
+    "体长": "20 cm",
+    "体重": "0.1 kg",
+    "寿命": "寿命相对较短，一般为2-4年，少数个体可达5年以上。",
+    "适温": "18-28 °C"
+  },
+  "bait_options": [
+    "商品饵料（速攻2号",
+    "疯钓鲫等",
+    "腥香型或浓腥型",
+    "雾化好）",
+    "拉丝粉（调整饵料状态）",
+    "果冻饵（草莓味",
+    "香味等）",
+    "面包屑（新鲜面包捏碎）",
+    "米饭粒（煮熟的米饭",
+    "略硬）",
+    "蚂蚱（小型蚂蚱",
+    "去除翅膀）",
+    "苍蝇（夏季容易获取）",
+    "玉米糁（泡软的玉米糁）",
+    "蚕豆粉（炒香的蚕豆粉",
+    "可作添加剂）",
+    "虾粉（少量虾粉",
+    "增加饵料腥味）"
+  ],
+  "float_signals": [
+    "慢速下沉",
+    "：",
+    "浮漂缓慢而持续地向下沉没，可能是白条吸食饵料后向下游动。",
+    "快速点动",
+    "：",
+    "浮漂快速而连续地轻微点动，频率很高，幅度很小，通常是白条试探性啄食饵料。",
+    "顿口",
+    "：",
+    "浮漂出现快速有力的下顿，幅度半目到一目，这是白条咬实饵料的信号，需及时提竿。",
+    "上顶",
+    "：",
+    "浮漂突然向上顶起，但幅度不大，可能是白条在水底拱食饵料，将浮漂顶起。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是白条咬饵后带动浮漂游动。"
+  ],
+  "practical_tips": [
+    "勤抛竿诱鱼:白条有集群性，勤抛竿可快速形成窝点，诱来鱼群。",
+    "饵料雾化要好:饵料状态要软粘，雾化效果要好，通过雾化快速诱鱼。",
+    "钓点选择浅水区:白条多活动于浅水区，钓点选择浅滩、水草边等。",
+    "逗钓结合:在浮钓的基础上，适当进行逗钓，增加饵料动态，提高诱鱼效果。",
+    "快速提竿:白条吃口快而轻，漂相出现后要快速提竿，避免跑鱼。"
+  ],
+  "recommended_spots": "江河浅滩、湖泊近岸、水库库尾、池塘、溪流缓水区",
+  "distribution": [],
+  "similar_fish": [
+    "红鳍原鲌",
+    "翘嘴鲌",
+    "䱗",
+    "鳑鲏",
+    "麦穗鱼",
+    "马口鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ma-kou-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ma-kou-yu-0-dc8105d1.webp",
+      "https://fishweather.cn/asset-images/catch/ma-kou-yu-1-e1b5ac94.webp",
+      "https://fishweather.cn/asset-images/catch/ma-kou-yu-2-02b1fe98.webp",
+      "https://fishweather.cn/asset-images/catch/ma-kou-yu-3-f27778a5.webp",
+      "https://fishweather.cn/asset-images/catch/ma-kou-yu-4-c863b9be.webp"
+    ]
+  },
+  "profile_text_sha256": "4753df0d60d99541f8832f2c2dfcbcaf8aad861e7395d001cba74608f2bc57c4",
+  "raw_line_count": 151,
+  "local_dir": "by_family/鲤科/ma-kou-yu_马口鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/ma-kou-yu_马口鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

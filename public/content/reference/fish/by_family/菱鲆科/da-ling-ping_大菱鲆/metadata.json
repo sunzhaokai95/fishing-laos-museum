@@ -1,0 +1,93 @@
+{
+  "name": "大菱鲆",
+  "slug": "da-ling-ping",
+  "source_url": "https://fishweather.cn/fish/da-ling-ping",
+  "list_page": 9,
+  "list_position": 204,
+  "scientific_name": "Scophthalmus maximus",
+  "aliases": "扁鱼、比目鱼、鲽鱼、皇帝鱼",
+  "headline": "大菱鲆怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体甚侧扁，略呈菱形或卵圆形。眼位于左侧，两眼间距宽。口大，端位，下颌稍突出。体表光滑无鳞，或散布少数骨质小结。体色多变，通常为棕褐色或灰色，具不规则斑点，能随环境改变体色。背鳍和臀鳍长，分别延伸至头部和尾部，尾鳍圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲽形目",
+    "科": "菱鲆科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类和软体动物。",
+    "栖息环境": "主要栖息于近海沙质或砾石海底，也见于河口和海湾。",
+    "体长": "100 cm",
+    "体重": "25 kg",
+    "寿命": "自然条件下寿命可达20年以上，人工养殖条件下通常为3-5年。",
+    "适温": "10-20 °C"
+  },
+  "bait_options": [
+    "沙丁鱼",
+    "鲱鱼",
+    "鱿鱼",
+    "章鱼",
+    "虾",
+    "小黄鱼",
+    "海মাছ",
+    "鳕鱼块",
+    "鱼排",
+    "人工鱼饵（仿生软饵）"
+  ],
+  "float_signals": [
+    "缓口慢抬",
+    "：",
+    "竿尖缓慢下弯，力度逐渐增大，表明大菱鲆正在吸食饵料，此时应适时扬竿。",
+    "顿口",
+    "：",
+    "竿尖突然大幅度下顿，或者手感传来明显的拉拽感，这是大菱鲆咬钩的典型信号。",
+    "黑漂(海钓不显示)",
+    "：",
+    "不适用",
+    "拖拽",
+    "：",
+    "感觉到鱼线被快速拖动，轮子泄力发出声音，表明大菱鲆已咬住饵料并开始游动。",
+    "无漂相直接重感",
+    "：",
+    "在底钓时，有时可能没有明显的漂相，但突然感觉到竿身变沉，或者水下传来沉重感，也可能是大菱鲆咬钩的信号。",
+    "连续点动",
+    "：",
+    "竿尖出现连续轻微的点动，可能是大菱鲆试探性地触碰饵料，需要密切关注后续动作。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:大菱鲆喜欢栖息在海底结构复杂的区域，如礁石区、沉船附近等，这些地方食物丰富，是理想的钓点。",
+    "使用活饵或高品质拟饵:活饵的诱鱼效果更好，拟饵则需要选择泳姿逼真、质量好的产品。",
+    "慢速搜索:大菱鲆属于伏击型捕食者，不会主动追逐猎物，因此钓法上要以慢速搜索为主，给其足够的捕食机会。",
+    "灵敏判断鱼讯:大菱鲆吃口相对谨慎，漂相可能不明显，需要仔细观察竿尖和手感，及时抓住微弱的信号。",
+    "大力扬竿:海鱼力气大，中鱼后要大力扬竿，确保鱼钩牢固钩住鱼嘴，防止脱钩。"
+  ],
+  "recommended_spots": "近海海域、沙质海底、砾石海底、沉船附近、人工鱼礁区",
+  "distribution": [],
+  "similar_fish": [
+    "牙鲆",
+    "鲽鱼",
+    "庸鲽",
+    "条斑星鲽",
+    "石鲽"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-ling-ping.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/da-ling-ping-0-61eae4dd.webp",
+      "https://fishweather.cn/asset-images/catch/da-ling-ping-1-b5d7eaff.webp",
+      "https://fishweather.cn/asset-images/catch/da-ling-ping-2-b5d6338c.webp",
+      "https://fishweather.cn/asset-images/catch/da-ling-ping-3-eae74f07.webp"
+    ]
+  },
+  "profile_text_sha256": "1901bc23828b286d6fd4c9b88c6fe5fd61922242654584a726805c1e80ae5135",
+  "raw_line_count": 128,
+  "local_dir": "by_family/菱鲆科/da-ling-ping_大菱鲆",
+  "local_images": {
+    "fish": [
+      "by_family/菱鲆科/da-ling-ping_大菱鲆/images/main.webp"
+    ],
+    "catch": []
+  }
+}

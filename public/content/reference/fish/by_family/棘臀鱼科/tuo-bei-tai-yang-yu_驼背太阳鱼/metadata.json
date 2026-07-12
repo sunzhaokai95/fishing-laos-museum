@@ -1,0 +1,91 @@
+{
+  "name": "驼背太阳鱼",
+  "slug": "tuo-bei-tai-yang-yu",
+  "source_url": "https://fishweather.cn/fish/tuo-bei-tai-yang-yu",
+  "list_page": 6,
+  "list_position": 138,
+  "scientific_name": "Lepomis gibbosus",
+  "aliases": "彩石鲷、鲈鱼池、吉夫鱼",
+  "headline": "驼背太阳鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁，色彩鲜艳。背鳍连续，由硬棘部分和软鳍部分组成。鳃盖后缘有一黑色斑点，雄性成鱼的黑斑边缘常有红色或橙色环。体色多变，背部通常为橄榄绿色至棕色，侧面为黄色，腹部为橙色至红色。体侧有数条不规则的深色垂直条纹。口小。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "棘臀鱼科",
+    "水层": "中下层",
+    "食性": "杂食性，幼鱼主要摄食浮游动物、小型昆虫幼虫等，成鱼食性广泛，包括水生昆虫、小型甲壳动物、软体动物、小鱼、鱼卵，以及藻类、植物碎屑等。",
+    "栖息环境": "喜栖息于静水或缓流水域，如湖泊、池塘、河流、溪流、水库等，偏好水草丰茂、底质为沙泥或砾石的环境。",
+    "体长": "40 cm",
+    "体重": "1.4 kg",
+    "寿命": "寿命较长，一般为5-8年，在适宜环境下可达10年以上。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包虫",
+    "蛆虫",
+    "玉米粒",
+    "面团",
+    "蚂蚱",
+    "小虾",
+    "颗粒饲料",
+    "商品饵（腥味）"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动，幅度小而频率快，可能是太阳鱼试探性触碰饵料。",
+    "快沉",
+    "：",
+    "浮漂快速有力地没入水中，多为太阳鱼抢食或吞食死口。",
+    "上顶",
+    "：",
+    "浮漂突然向上顶起，可能是太阳鱼从下方将饵料顶起。",
+    "缓沉",
+    "：",
+    "浮漂缓慢而稳定地向下沉没，通常是太阳鱼吸食饵料后抬头或转身。",
+    "横移",
+    "：",
+    "浮漂在水面缓慢横向移动，可能是太阳鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "精准抛投至标点:太阳鱼常在水草、树桩、桥墩等障碍物附近活动，精准抛投至这些标点附近能有效提高中鱼率。",
+    "灵活变换路亚手法:根据太阳鱼的活跃度和水情，灵活变换路亚的抽动频率、幅度以及收线速度，找到最有效的诱鱼方式。",
+    "轻口慢提防脱钩:太阳鱼的口较小，吃口可能较轻，提竿动作不宜过猛，应轻柔且迅速，防止拉豁鱼嘴造成脱钩。",
+    "多点走钓勤搜索:太阳鱼活动范围较广，可采用多点走钓的方式，在不同钓点轮流试钓，扩大搜索范围，提高钓获量。",
+    "注意水层变化:不同天气和时段，太阳鱼的活动水层可能发生变化，可通过调整浮漂或路亚的泳层来适应鱼情变化。"
+  ],
+  "recommended_spots": "池塘、湖泊、水库、公园水域、溪流缓流段",
+  "distribution": [],
+  "similar_fish": [
+    "蓝鳃太阳鱼",
+    "红耳太阳鱼",
+    "绿太阳鱼",
+    "spottedsunfish",
+    "口孵非鲫"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tuo-bei-tai-yang-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/tuo-bei-tai-yang-yu-0-7eab96c5.webp",
+      "https://fishweather.cn/asset-images/catch/tuo-bei-tai-yang-yu-1-13b32503.webp",
+      "https://fishweather.cn/asset-images/catch/tuo-bei-tai-yang-yu-2-7863672f.webp",
+      "https://fishweather.cn/asset-images/catch/tuo-bei-tai-yang-yu-3-d80d0bdc.webp",
+      "https://fishweather.cn/asset-images/catch/tuo-bei-tai-yang-yu-4-b3e8b18f.webp"
+    ]
+  },
+  "profile_text_sha256": "eb7f6657d6b93d0719df2d61671c6c564d9e6c66f28675e00a51bccb9c3002a2",
+  "raw_line_count": 133,
+  "local_dir": "by_family/棘臀鱼科/tuo-bei-tai-yang-yu_驼背太阳鱼",
+  "local_images": {
+    "fish": [
+      "by_family/棘臀鱼科/tuo-bei-tai-yang-yu_驼背太阳鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

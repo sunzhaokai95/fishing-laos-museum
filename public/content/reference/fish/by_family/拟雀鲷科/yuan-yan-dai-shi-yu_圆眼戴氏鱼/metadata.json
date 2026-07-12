@@ -1,0 +1,89 @@
+{
+  "name": "圆眼戴氏鱼",
+  "slug": "yuan-yan-dai-shi-yu",
+  "source_url": "https://fishweather.cn/fish/yuan-yan-dai-shi-yu",
+  "list_page": 11,
+  "list_position": 241,
+  "scientific_name": "Labracinus cyclophthalmus",
+  "aliases": "宝石花鲈、蓝线花鲈、丝鳍花鲈、双斑花鲈",
+  "headline": "圆眼戴氏鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，呈纺锤形。头部中等大小，吻尖。眼睛大，圆形，位于头部前方。口大，端位，上下颌具细小牙齿。体被细小栉鳞，侧线完全。体色鲜艳，底色为黄褐色至橘红色，体侧散布许多蓝色小点，眼眶后方有一黑色眼状斑，背鳍、臀鳍和尾鳍边缘蓝色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "拟雀鲷科",
+    "水层": "底层,中层",
+    "食性": "肉食性，主要以小型甲壳类动物、小型鱼类和底栖无脊椎动物为食。",
+    "栖息环境": "珊瑚礁区域，通常栖息于清澈的泻湖和向海礁坡，躲藏在珊瑚丛或岩石缝隙中。",
+    "体长": "12 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为3-5年，具体寿命受环境条件和天敌等因素影响。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾肉",
+    "鱼肉块",
+    "小螃蟹",
+    "沙蚕",
+    "海蟑螂",
+    "面包虫",
+    "磷虾",
+    "鱿鱼须",
+    "贝肉"
+  ],
+  "float_signals": [
+    "慢速下沉",
+    "：",
+    "浮漂缓慢而持续地向下沉，可能是鱼拖动饵料。",
+    "黑漂",
+    "：",
+    "浮漂直接快速沉入水中，消失不见，表示鱼吞饵较深。",
+    "顿口",
+    "：",
+    "浮漂快速下沉半目到一目，或出现明显的停顿，是鱼就饵的信号。",
+    "小幅度晃动",
+    "：",
+    "浮漂出现小幅度的左右晃动或上下跳动，可能是鱼在试探或啄食。",
+    "加速下沉",
+    "：",
+    "在原有缓慢下沉的基础上，浮漂突然加速下沉，表示鱼已快速就饵。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:眼斑拟雀鲷喜欢栖息在珊瑚礁和岩石缝隙中，选择这些区域作为钓点。",
+    "使用活性饵料:活虾、海虫等活性饵料更能吸引眼斑拟雀鲷的注意。",
+    "轻口慢提竿:眼斑拟雀鲷吃口较轻，漂相出现后不要急于提竿，稍等片刻再轻柔提竿。",
+    "注意隐蔽性:在礁石区作钓时，注意自身隐蔽，避免惊扰鱼群。",
+    "多点尝试:如果在一个钓点没有鱼讯，可以尝试更换钓点，扩大搜索范围。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、防波堤、码头、近岸海域",
+  "distribution": [],
+  "similar_fish": [
+    "六线雀鲷",
+    "蓝点拟雀鲷",
+    "纵带拟雀鲷",
+    "黄尾副雀鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yuan-yan-dai-shi-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yuan-yan-dai-shi-yu-0-330a9492.webp",
+      "https://fishweather.cn/asset-images/catch/yuan-yan-dai-shi-yu-1-1661364d.webp",
+      "https://fishweather.cn/asset-images/catch/yuan-yan-dai-shi-yu-2-4426b61a.webp",
+      "https://fishweather.cn/asset-images/catch/yuan-yan-dai-shi-yu-3-4a265095.webp"
+    ]
+  },
+  "profile_text_sha256": "6624a5e7707dfb111492d9d7ebc5c4bc9c6791102b0f527a49a0abd389ce0320",
+  "raw_line_count": 122,
+  "local_dir": "by_family/拟雀鲷科/yuan-yan-dai-shi-yu_圆眼戴氏鱼",
+  "local_images": {
+    "fish": [
+      "by_family/拟雀鲷科/yuan-yan-dai-shi-yu_圆眼戴氏鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "小鳈",
+  "slug": "xiao-quan",
+  "source_url": "https://fishweather.cn/fish/xiao-quan",
+  "list_page": 12,
+  "list_position": 268,
+  "scientific_name": "Sarcocheilichthys parvus",
+  "aliases": "华鲮、细甲鱼、鲮鱼、尖嘴鲮",
+  "headline": "小鳈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，前部近圆筒形，后部侧扁。头锥形，吻尖。口下位，呈弧形。唇薄，下唇具发达的角质边缘。须2对，颌须短于吻须。鳞细小，侧线完全。体背部灰褐色，腹部银白色。各鳍浅灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中下层",
+    "食性": "杂食性为主，主要摄食底栖无脊椎动物、藻类、植物碎屑及小型水生昆虫等。",
+    "栖息环境": "江河缓流或静水水域，多砾石底质，也见于湖泊、水库。",
+    "体长": "30 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较长，一般可达5-8年，甚至更长。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "商品饵料（腥香型）",
+    "蚯蚓",
+    "红虫",
+    "麸皮",
+    "玉米渣",
+    "米饭粒",
+    "面包屑",
+    "藻类饵料",
+    "蚕蛹粉",
+    "虾粉"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微而快速的点动，频率较快，可能是鱼试探或闹窝。",
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，消失不见，是鱼吞食死口。",
+    "缓升",
+    "：",
+    "浮漂缓慢上升半目或一目，然后停顿或轻微下顿，可能是鱼轻口吸食饵料。",
+    "移位",
+    "：",
+    "浮漂在水面缓慢横向移动，可能鱼拖动饵料。",
+    "下顿",
+    "：",
+    "浮漂快速有力地下顿一目或数目，是鱼吞饵的明显信号。"
+  ],
+  "practical_tips": [
+    "选择缓流或静水区域作钓，细鳞裂腹鱼喜栖息于此类水域。",
+    "钓点选择在水草、乱石或障碍物附近，这些是鱼类藏身和觅食的场所。",
+    "饵料以清淡腥香为主，根据季节和水情调整饵料味型。",
+    "采用灵敏线组和浮漂，清晰捕捉轻微鱼讯。",
+    "勤逗钓，通过提竿、放竿等动作，刺激鱼的食欲。"
+  ],
+  "recommended_spots": "河流缓流段、水库浅滩、山涧溪流、湖泊近岸",
+  "distribution": [],
+  "similar_fish": [
+    "棒花鱼",
+    "麦穗鱼",
+    "䱻"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xiao-quan.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xiao-quan-0-13d989ca.webp",
+      "https://fishweather.cn/asset-images/catch/xiao-quan-1-837a5f86.webp"
+    ]
+  },
+  "profile_text_sha256": "93e95ca2d8161328ff18f711a42a465b5a9303bcc77d5464162157139ab13c6c",
+  "raw_line_count": 99,
+  "local_dir": "by_family/鲤科/xiao-quan_小鳈",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/xiao-quan_小鳈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

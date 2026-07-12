@@ -1,0 +1,79 @@
+{
+  "name": "青石斑鱼",
+  "slug": "qing-shi-ban-yu",
+  "source_url": "https://fishweather.cn/fish/qing-shi-ban-yu",
+  "list_page": 6,
+  "list_position": 127,
+  "scientific_name": "Epinephelus awoara",
+  "aliases": "花狗斑、过鱼、石斑",
+  "headline": "青石斑鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，背腹缘均呈弧形。头大，头背部稍圆凸。吻短钝。口大，端位，上下颌前端具小犬牙，侧牙细尖。下颌齿2-3列。前鳃盖骨后缘具锯齿，鳃盖骨后缘光滑。体被栉鳞，侧线完全。背鳍鳍棘部与鳍条部相连，无缺刻，鳍棘强大。体黄褐色或浅褐色，头、体侧及奇鳍均散布许多橙褐色或棕红色斑点，斑点大小不一，排列不规则。幼鱼斑点较小且密集",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型鱼类、甲壳类（如虾、蟹）及头足类为食。",
+    "栖息环境": "近海岩礁、珊瑚礁海域，喜栖息于水质清澈、水流较缓的沿岸浅海。",
+    "体长": "70 cm",
+    "体重": "5 kg",
+    "寿命": "自然寿命较长，可达10年以上。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "活虾",
+    "鲜鱿鱼",
+    "小鱼（海鱼）",
+    "海মাছ",
+    "沙丁鱼",
+    "秋刀鱼",
+    "冰鲜虾",
+    "冰鲜鱼块",
+    "拟饵（软饵/硬饵）",
+    "海肠"
+  ],
+  "float_signals": [
+    "不适用",
+    "：",
+    "路亚海钓和船钓沉底钓法通常不依赖浮漂观察鱼讯，主要通过竿尖、手感或线杯出线判断鱼讯。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:石斑鱼喜欢藏匿于礁石缝隙、洞穴或障碍物附近，选择此类地形作为钓点。",
+    "使用合适的饵料:活饵或新鲜海मछली是石斑鱼的最爱，拟饵则需选择泳姿逼真的软饵或硬饵。",
+    "掌握正确的钓法:矶钓、船钓沉底钓、路亚钓等钓法均可有效钓获石斑鱼，根据钓场环境和个人习惯选择。",
+    "快速扬竿刺鱼:石斑鱼咬钩凶猛，中鱼后需快速扬竿，避免其钻入障碍物。",
+    "注意安全:海钓需注意潮汐、风浪等安全因素，穿着救生衣，结伴而行。"
+  ],
+  "recommended_spots": "近海礁石区、人工鱼礁、沉船区、码头防波堤、海岛周围",
+  "distribution": [],
+  "similar_fish": [
+    "青石斑鱼",
+    "赤点石斑鱼",
+    "云纹石斑鱼",
+    "宝石斑",
+    "鞍带石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qing-shi-ban-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/qing-shi-ban-yu-0-3ac8d1d7.webp",
+      "https://fishweather.cn/asset-images/catch/qing-shi-ban-yu-1-a2af1525.webp",
+      "https://fishweather.cn/asset-images/catch/qing-shi-ban-yu-2-2cdc9734.webp",
+      "https://fishweather.cn/asset-images/catch/qing-shi-ban-yu-3-4cf1a2b7.webp",
+      "https://fishweather.cn/asset-images/catch/qing-shi-ban-yu-4-653d6098.webp"
+    ]
+  },
+  "profile_text_sha256": "4bb833c68672398d40be3c6a14196c839da4b1868230783edeb9d6d52fc50aa5",
+  "raw_line_count": 127,
+  "local_dir": "by_family/鮨科/qing-shi-ban-yu_青石斑鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/qing-shi-ban-yu_青石斑鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

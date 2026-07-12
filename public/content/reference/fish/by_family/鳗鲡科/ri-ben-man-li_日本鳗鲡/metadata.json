@@ -1,0 +1,56 @@
+{
+  "name": "日本鳗鲡",
+  "slug": "ri-ben-man-li",
+  "source_url": "https://fishweather.cn/fish/ri-ben-man-li",
+  "list_page": 6,
+  "list_position": 130,
+  "scientific_name": "Anguilla japonica",
+  "aliases": "白鳝、鳗鱼、河鳗、鳗鲡",
+  "headline": "日本鳗鲡是保护动物吗？习性与识别图鉴",
+  "summary": "体细长圆筒形，尾部侧扁。体表光滑无鳞，富含黏液。头呈锥形，稍侧扁。吻尖突。口大，端位，下颌略突出于上颌。上下颌均具细齿，犁骨和腭骨亦具齿。眼小，侧位，脂眼睑不发达。背鳍、臀鳍和尾鳍相连，形成连续的鳍褶。背鳍起点位于胸鳍基部上方。胸鳍小，圆形。体背侧灰黑色或棕褐色，腹侧银白色。幼鳗透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鳗鲡目",
+    "科": "鳗鲡科",
+    "水层": "底层,中下层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类、水生昆虫、软体动物等",
+    "栖息环境": "江河、湖泊、水库、河口、近海等多种水域，幼鳗常栖息于河口咸淡水区域，成鳗则洄游至淡水水域生长",
+    "体长": "130 cm",
+    "体重": "6 kg",
+    "寿命": "寿命较长，野生条件下一般可达10-20年以上，人工养殖条件下也常超过10年。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "上海市",
+    "江苏省",
+    "浙江省",
+    "福建省"
+  ],
+  "similar_fish": [
+    "花鳗鲡",
+    "鲈鳗",
+    "海鳗",
+    "蛇鳗"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ri-ben-man-li.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "8da15f51e5bec7c9140cf8078ff0528fa6f7ec09383fa0e3d252c68ef8931557",
+  "raw_line_count": 41,
+  "local_dir": "by_family/鳗鲡科/ri-ben-man-li_日本鳗鲡",
+  "local_images": {
+    "fish": [
+      "by_family/鳗鲡科/ri-ben-man-li_日本鳗鲡/images/main.webp"
+    ],
+    "catch": []
+  }
+}

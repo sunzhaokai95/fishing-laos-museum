@@ -1,0 +1,97 @@
+{
+  "name": "棘头梅童鱼",
+  "slug": "ji-tou-mei-tong-yu",
+  "source_url": "https://fishweather.cn/fish/ji-tou-mei-tong-yu",
+  "list_page": 18,
+  "list_position": 416,
+  "scientific_name": "Collichthys lucidus",
+  "aliases": "大头宝、黄皮、梅子、梅童",
+  "headline": "棘头梅童鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁。头中等大，吻钝圆。口大，前位，倾斜。下颌稍突出。唇厚，下唇具乳突状突起。眼大，侧上位。背鳍2个，连续，第二背鳍较长。胸鳍宽大。尾鳍楔形或近截形。体银灰色，背部略深，腹部银白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "石首鱼科",
+    "水层": "底层,中下层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类",
+    "栖息环境": "近海底层,河口",
+    "体长": "20 cm",
+    "体重": "0.1 kg",
+    "寿命": "较短，一般为2-3年",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "鱼肉块",
+    "海蚯蚓",
+    "小鱼",
+    "虾肉",
+    "鱿鱼须",
+    "贝肉",
+    "蟹肉",
+    "蛤蜊肉",
+    "沙蚕",
+    "实战技巧",
+    "寻找底部复杂地形或障碍物",
+    "使用腥味较浓的饵料",
+    "采用慢速搜索和逗钓结合",
+    "注意轻微的鱼口信号",
+    "根据水流和深度调整铅坠重量",
+    "推荐钓点类型",
+    "近海礁石区、沉船区、港口、河口",
+    "真实钓获",
+    "来自钓鱼佬 App 用户的",
+    "棘头梅童鱼",
+    "实战记录",
+    "2025-07",
+    "·",
+    "葫芦岛市",
+    "0.08",
+    "kg",
+    "2",
+    "cm",
+    "天气：",
+    "水温25.5°C · 气压999.6hPa · 溶氧9.5mg/L",
+    "👍",
+    "29",
+    "钓友***",
+    "相似鱼种",
+    "黄姑鱼",
+    "棘头梅童鱼",
+    "鮻鱼"
+  ],
+  "float_signals": [],
+  "practical_tips": [
+    "寻找底部复杂地形或障碍物",
+    "使用腥味较浓的饵料",
+    "采用慢速搜索和逗钓结合",
+    "注意轻微的鱼口信号",
+    "根据水流和深度调整铅坠重量"
+  ],
+  "recommended_spots": "近海礁石区、沉船区、港口、河口",
+  "distribution": [],
+  "similar_fish": [
+    "黄姑鱼",
+    "棘头梅童鱼",
+    "鮻鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ji-tou-mei-tong-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ji-tou-mei-tong-yu-0-0eb084b6.webp"
+    ]
+  },
+  "profile_text_sha256": "0ad8fdece7a30683c1b7bc68c13461d191c9a22d3e45350f4091b6e827788644",
+  "raw_line_count": 71,
+  "local_dir": "by_family/石首鱼科/ji-tou-mei-tong-yu_棘头梅童鱼",
+  "local_images": {
+    "fish": [
+      "by_family/石首鱼科/ji-tou-mei-tong-yu_棘头梅童鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

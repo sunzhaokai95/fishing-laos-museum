@@ -1,0 +1,79 @@
+{
+  "name": "星点笛鲷",
+  "slug": "xing-dian-di-diao",
+  "source_url": "https://fishweather.cn/fish/xing-dian-di-diao",
+  "list_page": 10,
+  "list_position": 234,
+  "scientific_name": "Lutjanus stellatus",
+  "aliases": "花鲈、海鲈、星鲈、石鲈、黑鲈",
+  "headline": "星点笛鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，呈纺锤形。头中大，前端尖细。吻长而尖。口大，端位，斜裂。上下颌具犬齿及细齿。前鳃盖骨后缘具锯齿，鳃盖骨后缘光滑。眼间隔微凸。体被中大栉鳞，侧线上鳞列数50-53。背鳍10鳍棘，13-14鳍条，鳍棘部与鳍条部相连；臀鳍3鳍棘，8鳍条；胸鳍尖长；尾鳍叉形。体背侧灰褐色或棕褐色，腹侧银白色。体侧散布许多蓝色小点",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "笛鲷科",
+    "水层": "中下层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类、头足类等。",
+    "栖息环境": "近岸岩礁、珊瑚礁、砂砾底质海域",
+    "体长": "80 cm",
+    "体重": "10 kg",
+    "寿命": "自然条件下寿命可达10年以上。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "米诺",
+    "铅笔",
+    "VIB",
+    "软饵（卷尾蛆",
+    "T尾）",
+    "亮片",
+    "小鱼型拟饵",
+    "虾型拟饵",
+    "蠕虫型拟饵",
+    "复合亮片",
+    "铁板"
+  ],
+  "float_signals": [
+    "路亚海钓不显示",
+    "：",
+    "路亚海钓主要通过手感和竿梢动作判断鱼讯。"
+  ],
+  "practical_tips": [
+    "根据潮汐选择钓位和钓时，涨潮和退潮时水流变化大，易将饵料带入海鲈藏身处。",
+    "观察水色和水流，浑浊水域或水流湍急处往往有海鲈。",
+    "根据鱼情和水温变化，灵活调整拟饵类型、颜色和泳层。",
+    "采用多点搜索策略，扩大搜索范围，提高遇到鱼群的概率。",
+    "注意安全，海边矶钓或夜钓务必穿戴救生衣，注意防滑。"
+  ],
+  "recommended_spots": "礁石区、防波堤、码头、海湾、入海口",
+  "distribution": [],
+  "similar_fish": [
+    "日本真鲈",
+    "七星鲈",
+    "尖吻鲈",
+    "蓝点马鲛",
+    "石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xing-dian-di-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xing-dian-di-diao-0-7715cbf1.webp",
+      "https://fishweather.cn/asset-images/catch/xing-dian-di-diao-1-76982e0a.webp",
+      "https://fishweather.cn/asset-images/catch/xing-dian-di-diao-2-5155067d.webp",
+      "https://fishweather.cn/asset-images/catch/xing-dian-di-diao-3-b11740d8.webp"
+    ]
+  },
+  "profile_text_sha256": "d7036a5239e5c4d7af4016db207899be3a423c521dce17626d33ed5b3c25bf0c",
+  "raw_line_count": 112,
+  "local_dir": "by_family/笛鲷科/xing-dian-di-diao_星点笛鲷",
+  "local_images": {
+    "fish": [
+      "by_family/笛鲷科/xing-dian-di-diao_星点笛鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

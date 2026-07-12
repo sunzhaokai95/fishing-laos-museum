@@ -1,0 +1,75 @@
+{
+  "name": "裸平鲉",
+  "slug": "luo-ping-you",
+  "source_url": "https://fishweather.cn/fish/luo-ping-you",
+  "list_page": 14,
+  "list_position": 328,
+  "scientific_name": "Sebastes nudus",
+  "aliases": "黑鱼、海鲪、石狗公",
+  "headline": "裸平鲉怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，呈纺锤形。头中等大，稍尖。吻钝圆。口大，端位，口裂略倾斜。上下颌、犁骨和腭骨均具细齿。眼较大，位于头侧上方。眶下棱弱。前鳃盖骨具5棘，后鳃盖骨具2棘。鳃耙中长。体被栉鳞，头部和鳍基部亦被鳞。侧线完全，与背缘平行。背鳍一个，鳍棘部与鳍条部相连，鳍棘强壮。臀鳍小，与背鳍鳍条部相对。胸鳍中长。尾鳍截形或稍圆。体",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲉形目",
+    "科": "平鲉科",
+    "水层": "底层,近底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类（如虾、蟹）、头足类和多毛类等底栖无脊椎动物。",
+    "栖息环境": "近海岩礁区域，也见于砂砾质海底。喜栖息于水深较深、水质清澈、潮流较缓的海域。",
+    "体长": "50",
+    "体重": "2",
+    "寿命": "寿命较长，可达10年以上，甚至更长。具体寿命受环境条件和种群密度的影响。",
+    "适温": "5-20"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "鱿鱼须",
+    "鱼肉块",
+    "南极虾",
+    "小鱼干",
+    "软饵（卷尾Grub）",
+    "软饵（鱼形饵）",
+    "金属缓沉铁板"
+  ],
+  "float_signals": [
+    "路亚海钓不显示",
+    "："
+  ],
+  "practical_tips": [
+    "选择合适的钓位:裸盖鱼喜欢栖息在岩礁区，要选择有礁石、海藻等复杂地形的钓点。",
+    "掌握潮汐规律:涨潮和退潮时，水流变化会带来食物，是钓鱼的好时机。涨潮初期和退潮末期是最佳时段。",
+    "灵活调整钓棚深度:根据鱼情和水深变化，及时调整钓棚深度，搜索鱼层。",
+    "采用逗钓技巧:通过轻微抖动竿尖，使饵料在水中呈现动态，增加诱鱼效果。",
+    "快速扬竿刺鱼:裸盖鱼咬钩迅速，一旦发现鱼讯，要及时扬竿刺鱼，防止鱼逃脱或钻入礁石缝隙。"
+  ],
+  "recommended_spots": "岩礁区、近岸岛屿、防波堤、沉船区、人工鱼礁",
+  "distribution": [],
+  "similar_fish": [
+    "许氏平鲉",
+    "褐菖鲉",
+    "红鳍鲉",
+    "ቦች菖鲉",
+    "条纹鲉"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/luo-ping-you.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/luo-ping-you-0-c1bfbb9d.webp",
+      "https://fishweather.cn/asset-images/catch/luo-ping-you-1-4e49f0a0.webp"
+    ]
+  },
+  "profile_text_sha256": "20453bab2ac732da6379506917d22f0a7e4a2088016d884598f93f00c1c790f9",
+  "raw_line_count": 90,
+  "local_dir": "by_family/平鲉科/luo-ping-you_裸平鲉",
+  "local_images": {
+    "fish": [
+      "by_family/平鲉科/luo-ping-you_裸平鲉/images/main.webp"
+    ],
+    "catch": []
+  }
+}

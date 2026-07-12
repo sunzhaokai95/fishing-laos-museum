@@ -1,0 +1,90 @@
+{
+  "name": "五带豆娘鱼",
+  "slug": "wu-dai-dou-niang-yu",
+  "source_url": "https://fishweather.cn/fish/wu-dai-dou-niang-yu",
+  "list_page": 8,
+  "list_position": 179,
+  "scientific_name": "Abudefduf vaigiensis",
+  "aliases": "燕尾豆娘鱼、丝尾豆娘鱼",
+  "headline": "五带豆娘鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体侧扁且高，呈卵圆形。体色银白色至浅灰色，体侧显著特征是具有五条黑色垂直条纹，这些条纹在幼鱼阶段尤为明显。尾鳍呈深叉形，形似燕子的尾巴，各鳍通常为浅黄色或透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "雀鲷科",
+    "水层": "底层,近珊瑚礁和岩礁",
+    "食性": "杂食性，食性广泛，主要以藻类、小型底栖无脊椎动物、浮游生物以及有机碎屑为食。",
+    "栖息环境": "主要栖息于热带和亚热带海域的珊瑚礁区、岩礁区以及沿岸水域，喜欢在珊瑚丛或岩石缝隙中活动。",
+    "体长": "20 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "南极虾",
+    "小鱼虾肉",
+    "拟饵（米诺）",
+    "拟饵（铅笔）",
+    "拟饵（软饵）",
+    "海藻",
+    "磷虾",
+    "贝类碎肉",
+    "面包虫"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或连续颤动，可能是鱼试探性啄食。",
+    "快沉",
+    "：",
+    "浮漂快速下沉或直接黑漂，是鱼吞饵的明显信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢而有力的下沉，表明鱼可能正在吸食饵料。",
+    "横移",
+    "：",
+    "浮漂不规则的横向移动，可能是鱼拖动饵料或在水底活动。",
+    "上浮",
+    "：",
+    "浮漂异常上浮，可能是鱼将饵料顶起或改变了饵料的原始状态。"
+  ],
+  "practical_tips": [
+    "选择合适的潮汐和水流，涨潮时鱼活性更高，缓流区更易聚集。",
+    "钓点选择在礁石缝隙、珊瑚礁周围或水草丛生地等豆娘鱼常栖息的场所。",
+    "矶钓饵料保持新鲜，路亚饵料泳姿要自然，根据鱼情更换饵料和钓法。",
+    "保持高度集中注意力，灵敏观察浮漂或竿尖的细微动作，及时扬竿。",
+    "采用逗钓结合的方式，矶钓时轻微提动或拖动饵料，路亚时变换抽动频率和幅度。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、防波堤、码头、近岸উন্মুক্ত海域",
+  "distribution": [],
+  "similar_fish": [
+    "青雀鲷",
+    "黄尾副雀鲷",
+    "三斑副雀鲷",
+    "蓝纹雀鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/wu-dai-dou-niang-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/wu-dai-dou-niang-yu-0-81c2df2c.webp",
+      "https://fishweather.cn/asset-images/catch/wu-dai-dou-niang-yu-1-87fb9588.webp",
+      "https://fishweather.cn/asset-images/catch/wu-dai-dou-niang-yu-2-92aa6a7c.webp",
+      "https://fishweather.cn/asset-images/catch/wu-dai-dou-niang-yu-3-155839c2.webp",
+      "https://fishweather.cn/asset-images/catch/wu-dai-dou-niang-yu-4-41a6f140.webp"
+    ]
+  },
+  "profile_text_sha256": "f45b7cf533f10b26d639e321a3b0fb6243ff8915231d086eada0223892e7afa4",
+  "raw_line_count": 134,
+  "local_dir": "by_family/雀鲷科/wu-dai-dou-niang-yu_五带豆娘鱼",
+  "local_images": {
+    "fish": [
+      "by_family/雀鲷科/wu-dai-dou-niang-yu_五带豆娘鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

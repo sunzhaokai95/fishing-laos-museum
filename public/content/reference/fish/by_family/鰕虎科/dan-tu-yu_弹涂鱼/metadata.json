@@ -1,0 +1,91 @@
+{
+  "name": "弹涂鱼",
+  "slug": "dan-tu-yu",
+  "source_url": "https://fishweather.cn/fish/dan-tu-yu",
+  "list_page": 5,
+  "list_position": 111,
+  "scientific_name": "Periophthalmus modestus",
+  "aliases": "泥猴、跳跳鱼、花跳、弹布鱼、涂鲋",
+  "headline": "弹涂鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，亚圆筒形，后部侧扁。头中大，略呈方形。眼上位，突出于头背缘之上，眼眶上缘具皮褶。口大，下颌稍突出，齿细小。背鳍2个，分离较远，第一背鳍鳍棘4-6根，第二背鳍较长。胸鳍发达，肉质柄肌发达，可支撑身体在陆地跳跃和爬行。腹鳍胸位，愈合成吸盘状。尾鳍圆形。体色灰褐色或棕褐色，具不规则深色斑纹，腹部色浅。皮肤光滑无鳞。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "潮间带,底层",
+    "食性": "杂食性，主要摄食底栖硅藻、小型甲壳类、软体动物、昆虫幼虫、有机碎屑等。",
+    "栖息环境": "栖息于热带和亚热带河口、海湾的潮间带泥滩、红树林、滩涂及近岸浅水区。常掘穴而居，穴口常有泥沙堆积。",
+    "体长": "12 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为2-3年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "虾肉",
+    "鱼肉",
+    "贝肉",
+    "海藻",
+    "面包屑",
+    "米饭粒",
+    "面团",
+    "南极虾粉",
+    "商品饵（腥味）",
+    "沙蚕"
+  ],
+  "float_signals": [
+    "送漂",
+    "：",
+    "浮漂先缓慢上升，然后快速下沉，可能是弹涂鱼将饵料叼起后又吞下。",
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，幅度小，频率快，可能是弹涂鱼试探性咬饵。",
+    "快速下沉",
+    "：",
+    "浮漂快速有力地向下沉没，通常是弹涂鱼吞食饵料的信号。",
+    "横向移动",
+    "：",
+    "浮漂在水面横向移动，可能是弹涂鱼拖动饵料。",
+    "轻微下沉",
+    "：",
+    "浮漂缓慢而轻微地向下沉没，可能是弹涂鱼吸食饵料。"
+  ],
+  "practical_tips": [
+    "选择弹涂鱼洞穴或活动痕迹明显的区域作为钓点。",
+    "饵料宜小而腥，如虾肉、鱼肉等，增加诱食性。",
+    "钓组要轻灵，浮漂选择小号，灵敏捕捉轻微鱼讯。",
+    "作钓时保持安静，避免惊扰弹涂鱼。",
+    "可采用逗钓方式，轻微提动饵料，吸引弹涂鱼注意。"
+  ],
+  "recommended_spots": "河口泥滩、海湾滩涂、红树林边缘、潮汐沼泽、近岸浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "大弹涂鱼",
+    "青弹涂鱼",
+    "斑点弹涂鱼",
+    "双per眼弹涂鱼",
+    "凡氏弹涂鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/dan-tu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/dan-tu-yu-0-38d682c6.webp",
+      "https://fishweather.cn/asset-images/catch/dan-tu-yu-1-0de5d02f.webp",
+      "https://fishweather.cn/asset-images/catch/dan-tu-yu-2-83e20354.webp",
+      "https://fishweather.cn/asset-images/catch/dan-tu-yu-3-37b7fe27.webp",
+      "https://fishweather.cn/asset-images/catch/dan-tu-yu-4-334f68bd.webp"
+    ]
+  },
+  "profile_text_sha256": "2b2e6385385e671b3663568debac407d1f29736ca8a58bb2e334a976c274fa4e",
+  "raw_line_count": 135,
+  "local_dir": "by_family/鰕虎科/dan-tu-yu_弹涂鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/dan-tu-yu_弹涂鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

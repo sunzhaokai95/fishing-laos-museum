@@ -1,0 +1,91 @@
+{
+  "name": "锯脊塘鳢",
+  "slug": "ju-ji-tang-li",
+  "source_url": "https://fishweather.cn/fish/ju-ji-tang-li",
+  "list_page": 9,
+  "list_position": 212,
+  "scientific_name": "Butis koilomatodon",
+  "aliases": "笋壳鱼、泰国笋壳鱼、尖头塘鳢、射水鱼",
+  "headline": "锯脊塘鳢怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "矛尾塘鳢体延长，前部近圆筒形，后部侧扁。头中等大，略平扁。吻尖突，口大，端位，斜裂。上下颌具细齿。眼小，侧上位。前鳃盖骨后缘具锯齿。体被栉鳞，头部和胸部具圆鳞。背鳍两个，分离，第一背鳍具6鳍棘，第二背鳍具1鳍棘8-9鳍条。臀鳍具1鳍棘7-8鳍条。胸鳍圆形。尾鳍矛形，故名矛尾塘鳢。体色背部棕褐色，腹部灰白色，体侧具不规则",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "塘鳢科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类（如虾、蟹）、蠕虫以及其他底栖无脊椎动物。",
+    "栖息环境": "主要栖息于热带和亚热带地区的红树林、河口、潮汐Creek以及沿海的浅水区，也见于淡水河流和湖泊的底层。",
+    "体长": "25 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命相对较短，一般为3-5年，具体寿命受环境条件和食物供应的影响。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "鲜虾肉",
+    "海虾肉",
+    "沙蚕",
+    "红虫",
+    "鸡肝",
+    "鱼肉块",
+    "蚯蚓",
+    "面包虫",
+    "商品底钓饵料（腥味）",
+    "南极虾"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，是塘鳢吞食饵料的明显信号，立即提竿。",
+    "顿口",
+    "：",
+    "浮漂出现明显的下顿或加速下沉，通常是塘鳢咬实饵料的信号，应及时提竿。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是塘鳢试探性咬饵，需密切关注。",
+    "持续点动后下沉",
+    "：",
+    "浮漂先是连续轻微点动，随后出现下沉动作，可能是塘鳢逐步吞食饵料的过程。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是塘鳢拖动饵料，需及时反应。"
+  ],
+  "practical_tips": [
+    "精准找窝:矛尾塘鳢喜欢藏身于复杂的水底环境，如乱石堆、沉木、水草丛等，需仔细搜索和探测，找到鱼窝才能提高中鱼率。",
+    "慢速搜索:路亚作钓时，要放慢搜索速度，给塘鳢足够的反应和攻击时间。可采用更慢速的拖动或更长时间的停留。",
+    "逗钓结合:底钓时，可适当进行逗钓，轻微提动饵料，吸引塘鳢注意。但动作不宜过大，以免惊吓鱼群。",
+    "夜钓效果佳:矛尾塘鳢夜间活动更为活跃，夜钓效果通常优于白天，可尝试夜间垂钓。",
+    "根据潮汐变化选择钓点:在潮汐Creek或河口等受潮汐影响的水域，需根据潮汐变化选择合适的钓点和作钓时间，涨潮或退潮时，塘鳢觅食活动更加频繁。"
+  ],
+  "recommended_spots": "红树林、河口、潮汐Creek、沿海浅水区、淡水河流、湖泊（近岸浅水区）、水库（底部多乱石或沉木区域）",
+  "distribution": [],
+  "similar_fish": [
+    "尖吻鲈",
+    "鳗鲡",
+    "鲻鱼",
+    "黄鳝",
+    "斑鳢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ju-ji-tang-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ju-ji-tang-li-0-c91b3684.webp",
+      "https://fishweather.cn/asset-images/catch/ju-ji-tang-li-1-c3612c94.webp",
+      "https://fishweather.cn/asset-images/catch/ju-ji-tang-li-2-eab89e8f.webp",
+      "https://fishweather.cn/asset-images/catch/ju-ji-tang-li-3-d0c3d2b1.webp",
+      "https://fishweather.cn/asset-images/catch/ju-ji-tang-li-4-3c8134b7.webp"
+    ]
+  },
+  "profile_text_sha256": "f171a1468e22fe031dc189793746e4471476b3dc5060349f6fb7f41cfe1204d3",
+  "raw_line_count": 137,
+  "local_dir": "by_family/塘鳢科/ju-ji-tang-li_锯脊塘鳢",
+  "local_images": {
+    "fish": [
+      "by_family/塘鳢科/ju-ji-tang-li_锯脊塘鳢/images/main.webp"
+    ],
+    "catch": []
+  }
+}

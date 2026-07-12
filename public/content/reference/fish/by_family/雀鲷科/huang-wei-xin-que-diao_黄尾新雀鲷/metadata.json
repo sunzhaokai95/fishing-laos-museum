@@ -1,0 +1,91 @@
+{
+  "name": "黄尾新雀鲷",
+  "slug": "huang-wei-xin-que-diao",
+  "source_url": "https://fishweather.cn/fish/huang-wei-xin-que-diao",
+  "list_page": 8,
+  "list_position": 185,
+  "scientific_name": "Neopomacentrus azysron",
+  "aliases": "无",
+  "headline": "黄尾新雀鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "阿济格雀鲷体呈卵圆形，侧扁。体色鲜艳，幼鱼和成鱼颜色略有不同。幼鱼通体亮黄色，背鳍和臀鳍边缘有蓝色细线。随着成长，身体颜色逐渐加深，成鱼头部和身体前部变为橙黄色，后部为深蓝色至黑色，各鳍黄色至橙色，边缘蓝色。眼睛黑色，周围有一圈金色。鳞片中等大小，排列整齐。口小，端位。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "雀鲷科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、小型浮游动物和底栖无脊椎动物为食。",
+    "栖息环境": "主要栖息于珊瑚礁区域，喜欢在珊瑚丛中或岩礁附近活动。",
+    "体长": "9",
+    "体重": null,
+    "寿命": "在自然环境中寿命约为3-5年，人工饲养条件下，如果环境适宜，可能会更长。",
+    "适温": "24-28"
+  },
+  "bait_options": [
+    "海藻碎屑",
+    "小型虾肉",
+    "磷虾",
+    "鱼肉碎屑",
+    "面包屑",
+    "商品鱼饲料（小型颗粒）",
+    "南极虾粉",
+    "海苔碎屑",
+    "藻类制剂",
+    "小型昆虫幼虫"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或快速的小幅度下沉，可能是试探性咬钩。",
+    "轻微上顶",
+    "：",
+    "浮漂轻微上顶，可能是鱼在底部拱食饵料。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是轻口咬钩或吸食饵料。",
+    "加速下沉",
+    "：",
+    "浮漂快速下沉或直接黑漂，可能是积极咬钩或吞食饵料。",
+    "移位",
+    "：",
+    "浮漂水平方向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点，雀鲷通常在珊瑚或岩石附近活动。",
+    "采用轻巧灵敏的钓组，提高对微弱鱼讯的感知能力。",
+    "使用小号鱼钩和小颗粒饵料，更易于雀鲷吸食。",
+    "尝试不同的饵料和钓法，找到最适合当地鱼情的策略。",
+    "注意安全，在礁石区垂钓时防止滑倒，并注意潮汐变化。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、近岸浅水区、防波堤附近、码头桩基周围",
+  "distribution": [],
+  "similar_fish": [
+    "蓝纹雀鲷",
+    "三点白",
+    "丝绒雀鲷",
+    "厚壳雀鲷",
+    "双带雀鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huang-wei-xin-que-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/huang-wei-xin-que-diao-0-f75b1b81.webp",
+      "https://fishweather.cn/asset-images/catch/huang-wei-xin-que-diao-1-75b346b3.webp",
+      "https://fishweather.cn/asset-images/catch/huang-wei-xin-que-diao-2-059d7aae.webp",
+      "https://fishweather.cn/asset-images/catch/huang-wei-xin-que-diao-3-16a489a9.webp",
+      "https://fishweather.cn/asset-images/catch/huang-wei-xin-que-diao-4-c1079d70.webp"
+    ]
+  },
+  "profile_text_sha256": "9cf79cacd7f36f4308ca4c4764f4ce50d216fa69b33a97a5b19299f32cc3cff4",
+  "raw_line_count": 133,
+  "local_dir": "by_family/雀鲷科/huang-wei-xin-que-diao_黄尾新雀鲷",
+  "local_images": {
+    "fish": [
+      "by_family/雀鲷科/huang-wei-xin-que-diao_黄尾新雀鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

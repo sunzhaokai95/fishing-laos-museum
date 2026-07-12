@@ -1,0 +1,83 @@
+{
+  "name": "黑花鳉",
+  "slug": "hei-hua-jiang",
+  "source_url": "https://fishweather.cn/fish/hei-hua-jiang",
+  "list_page": 11,
+  "list_position": 262,
+  "scientific_name": "Poecilia sphenops",
+  "aliases": "玛丽鱼、墨丽鱼",
+  "headline": "黑花鳉怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "黑玛丽体型小巧玲珑，呈纺锤形，侧扁。通体黑色或深黑色，体色纯正油亮。雌雄鱼体型差异不大，但雌鱼腹部较圆润。各鳍均较小，背鳍、尾鳍形状多样，有圆形、扇形、琴尾形等。雄鱼臀鳍特化为交配器。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鳉形目",
+    "科": "花鳉科",
+    "水层": "中层,中上层",
+    "食性": "杂食性，主要摄食藻类、植物碎屑、小型浮游生物、昆虫幼虫等。人工饲养条件下可喂食人工鱼粮、丰年虾、水蚤等。",
+    "栖息环境": "天然栖息于中美洲和墨西哥的淡水及汽水水域，如河流、湖泊、沼泽和泉水等。人工饲养广泛分布于世界各地的水族箱中。",
+    "体长": "6 cm",
+    "体重": "0.01 kg",
+    "寿命": "平均寿命为2-3年，良好饲养条件下可达4年左右。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "鱼粮颗粒",
+    "面包屑",
+    "冷冻丰年虾",
+    "水蚤",
+    "红线虫",
+    "切碎的水蚯蚓",
+    "煮熟的蛋黄碎",
+    "绿藻",
+    "菠菜碎",
+    "黄瓜碎"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂轻微点动或颤动，可能是鱼儿试探性触碰饵料。",
+    "快速下沉",
+    "：",
+    "浮漂快速没入水中，可能是鱼儿吞食饵料。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼儿吸食饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的迷你钓具，增加趣味性。",
+    "使用少量饵料，避免污染水质。",
+    "观察鱼儿反应，调整逗钓方式。",
+    "轻手轻脚，避免惊吓鱼儿。",
+    "享受观赏乐趣，重在体验过程。"
+  ],
+  "recommended_spots": "家庭鱼缸、办公室鱼缸、水族店展示缸",
+  "distribution": [],
+  "similar_fish": [
+    "孔雀鱼",
+    "剑尾鱼",
+    "月光鱼",
+    "帆鳍玛丽",
+    "金玛丽"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-hua-jiang.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hei-hua-jiang-0-6d88eedf.webp",
+      "https://fishweather.cn/asset-images/catch/hei-hua-jiang-1-7b23b305.webp",
+      "https://fishweather.cn/asset-images/catch/hei-hua-jiang-2-635ff7d2.webp"
+    ]
+  },
+  "profile_text_sha256": "2eb737439e010fe038c6b5f7bc38e24dd79b0c0cc808adda27a92023aa35e7d8",
+  "raw_line_count": 101,
+  "local_dir": "by_family/花鳉科/hei-hua-jiang_黑花鳉",
+  "local_images": {
+    "fish": [
+      "by_family/花鳉科/hei-hua-jiang_黑花鳉/images/main.webp"
+    ],
+    "catch": []
+  }
+}

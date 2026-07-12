@@ -1,0 +1,54 @@
+{
+  "name": "纹腹叉鼻鲀",
+  "slug": "wen-fu-cha-bi-tun",
+  "source_url": "https://fishweather.cn/fish/wen-fu-cha-bi-tun",
+  "list_page": 14,
+  "list_position": 336,
+  "scientific_name": "Arothron hispidus",
+  "aliases": "白点箱鲀、狗头鱼、气鼓鱼、河豚",
+  "headline": "纹腹叉鼻鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，稍侧扁。吻短钝圆。眼小，圆形，位于头侧上方。鼻孔每侧2个，呈管状。口小，端位，唇厚。体表光滑无鳞，但覆盖小刺。背鳍、臀鳍相对，均位于身体后部。尾鳍圆形。体色多变，通常为浅棕色至灰色，密布白色小点，腹部颜色较浅。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鲀科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、珊瑚、海绵、tunicates、甲壳类动物、软体动物和棘皮动物为食",
+    "栖息环境": "热带和亚热带海域的珊瑚礁、岩礁、海草床和沙地，常在水流缓慢的泻湖和港湾中发现",
+    "体长": "50",
+    "体重": null,
+    "寿命": "寿命较长，在自然条件下可达10年以上，人工饲养条件下若环境适宜，寿命可能更长，但确切寿命数据缺乏详细研究",
+    "适温": "24-30"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "条纹叉鼻鲀",
+    "黄鳍叉鼻鲀",
+    "网纹叉鼻鲀",
+    "黑斑叉鼻鲀",
+    "地图叉鼻鲀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/wen-fu-cha-bi-tun.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/wen-fu-cha-bi-tun-0-1b17a653.webp"
+    ]
+  },
+  "profile_text_sha256": "40dc8d588ef91a9287a049fdb0fe9615d0b1ae0e036877801bdc9a71b832b9ec",
+  "raw_line_count": 46,
+  "local_dir": "by_family/鲀科/wen-fu-cha-bi-tun_纹腹叉鼻鲀",
+  "local_images": {
+    "fish": [
+      "by_family/鲀科/wen-fu-cha-bi-tun_纹腹叉鼻鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

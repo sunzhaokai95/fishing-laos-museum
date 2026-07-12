@@ -1,0 +1,89 @@
+{
+  "name": "蟾胡鲶",
+  "slug": "chan-hu-nian",
+  "source_url": "https://fishweather.cn/fish/chan-hu-nian",
+  "list_page": 8,
+  "list_position": 171,
+  "scientific_name": "Clarias batrachus",
+  "aliases": "塘鲺、土鲶、生鱼、塘虱、黏鱼",
+  "headline": "蟾胡鲶怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体长，前部呈圆柱形，后部侧扁。头平扁，顶部具骨质盾片。口端位，宽大，具四对发达的须，分别位于吻端、上颌及下颌。背鳍和臀鳍很长，与尾鳍相连。无脂鳍。体表光滑无鳞。体色通常为深褐色或黑色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "鬍鲇科",
+    "水层": "底层",
+    "食性": "杂食性，主要摄食昆虫、小型鱼类、甲壳类、软体动物、植物碎屑、腐肉等",
+    "栖息环境": "静水或缓流水域，如池塘、沼泽、沟渠、稻田、湖泊、河流缓流区",
+    "体长": "60",
+    "体重": "3",
+    "寿命": "自然条件下通常为5-8年，人工饲养条件下可达10年以上。",
+    "适温": "20-30"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "鸡肝",
+    "猪肝",
+    "鸡肠",
+    "猪肉",
+    "虾肉",
+    "颗粒饲料（肉食性）",
+    "玉米粒（发酵）",
+    "面包糠",
+    "商品饵料（腥味型）"
+  ],
+  "float_signals": [
+    "送漂",
+    "：",
+    "浮漂先是缓慢上升，然后快速下沉，可能是鲶鱼将饵料叼起后游动",
+    "黑漂",
+    "：",
+    "浮漂快速下沉或直接没入水中，是鲶鱼吞食饵料的典型信号",
+    "快口",
+    "：",
+    "浮漂快速有力地下顿，幅度较大，表明鲶鱼咬口凶猛",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鲶鱼试探性咬钩或轻口",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鲶鱼咬住饵料后侧身游动"
+  ],
+  "practical_tips": [
+    "夜钓效果更佳，可使用夜光漂或电子漂。",
+    "鲶鱼喜腥味重饵料，可添加动物内脏或腥味商品饵。",
+    "鲶鱼吃口凶猛，提竿要果断有力，防止脱钩。",
+    "选择水草、乱石堆、涵洞等障碍物附近作为钓点。",
+    "可提前打窝诱鱼，使用重窝效果更佳。"
+  ],
+  "recommended_spots": "池塘、沼泽、沟渠、稻田、河流缓流区、水库",
+  "distribution": [],
+  "similar_fish": [
+    "革胡子鲶",
+    "南方鲇",
+    "斑点叉尾鮰"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/chan-hu-nian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/chan-hu-nian-0-2ddf5d8d.webp",
+      "https://fishweather.cn/asset-images/catch/chan-hu-nian-1-07724707.webp",
+      "https://fishweather.cn/asset-images/catch/chan-hu-nian-2-19d6e646.webp",
+      "https://fishweather.cn/asset-images/catch/chan-hu-nian-3-9787adfe.webp",
+      "https://fishweather.cn/asset-images/catch/chan-hu-nian-4-9360a4ed.webp"
+    ]
+  },
+  "profile_text_sha256": "cc70ede0c2eb31578c1e24b8c15aced0cea820b41d210d1e58d1930bfa097894",
+  "raw_line_count": 133,
+  "local_dir": "by_family/鬍鲇科/chan-hu-nian_蟾胡鲶",
+  "local_images": {
+    "fish": [
+      "by_family/鬍鲇科/chan-hu-nian_蟾胡鲶/images/main.webp"
+    ],
+    "catch": []
+  }
+}

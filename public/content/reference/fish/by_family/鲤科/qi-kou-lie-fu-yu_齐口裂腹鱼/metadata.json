@@ -1,0 +1,55 @@
+{
+  "name": "齐口裂腹鱼",
+  "slug": "qi-kou-lie-fu-yu",
+  "source_url": "https://fishweather.cn/fish/qi-kou-lie-fu-yu",
+  "list_page": 7,
+  "list_position": 162,
+  "scientific_name": "Schizothorax prenanti",
+  "aliases": "无",
+  "headline": "齐口裂腹鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体长，稍侧扁，背部略隆起。头锥形，吻钝。口下位，呈弧形，唇厚，下唇后缘具乳突状突起，口角须一对，较短。鳞细小，胸部裸露无鳞。侧线完全，平直。体背部灰褐色，腹部银白色，各鳍灰黄色。尾鳍叉形较深。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性，主要以水生昆虫幼虫、藻类、植物碎屑等为食。",
+    "栖息环境": "高海拔地区的河流、湖泊，水流湍急或较缓的清澈水域，底质多为砂砾或岩石。",
+    "体长": "30 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较长，可能超过10年。",
+    "适温": "10-18 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "云南省",
+    "四川省",
+    "西藏自治区",
+    "青海省"
+  ],
+  "similar_fish": [
+    "异齿裂腹鱼",
+    "双须裂腹鱼",
+    "尖裸鲤"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qi-kou-lie-fu-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "ce243797b2a9aa0933d6872b3ac3dbd459f6c221b131c4af7685f328a6a8850c",
+  "raw_line_count": 40,
+  "local_dir": "by_family/鲤科/qi-kou-lie-fu-yu_齐口裂腹鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/qi-kou-lie-fu-yu_齐口裂腹鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

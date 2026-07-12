@@ -1,0 +1,119 @@
+{
+  "name": "翘嘴鲌",
+  "slug": "qiao-zui-ba",
+  "source_url": "https://fishweather.cn/fish/qiao-zui-ba",
+  "list_page": 1,
+  "list_position": 3,
+  "scientific_name": "Culter alburnus",
+  "aliases": "翘壳、大白鱼、翘嘴鲢、鲌子",
+  "headline": "翘嘴鲌怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，甚侧扁，背部平直，腹部狭窄成刀状腹棱。头小而尖，吻尖。口上位，口裂向上倾斜，下颌突出上颌。眼大，侧上位。鳞小，侧线明显，略向下弯曲。体背部灰褐色，体侧及腹部银白色。各鳍灰白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中上层",
+    "食性": "肉食性鱼类，性情凶猛，主要捕食小型鱼类、虾类、水生昆虫等，也摄食部分浮游动物。",
+    "栖息环境": "栖息于江河、湖泊等敞水区域，喜集群活动于水的中上层，尤其在水流较急、水质清澈的水域。",
+    "体长": "100 cm",
+    "体重": "10 kg",
+    "寿命": "寿命较长，自然条件下可达10年以上，甚至更长。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "鲜活小鱼",
+    "虾肉",
+    "鸡肝",
+    "猪肉",
+    "商品路亚饵",
+    "蚯蚓",
+    "面包虫",
+    "蚕蛹",
+    "玉米粒",
+    "红虫"
+  ],
+  "float_signals": [
+    "上顶漂",
+    "：",
+    "浮漂缓慢或快速上顶，也可能是翘嘴鲌咬钩的信号，但需注意辨别，防止小鱼闹窝。",
+    "顿口黑漂",
+    "：",
+    "浮漂先出现明显的下顿，然后快速黑漂，也是翘嘴鲌吞食的信号，及时扬竿。",
+    "连续点动后黑漂",
+    "：",
+    "浮漂先出现连续的点动或颤动，然后突然黑漂，是翘嘴鲌试探后吞食的信号。",
+    "浮漂横移",
+    "：",
+    "浮漂在水面快速横向移动，通常是翘嘴鲌咬饵后游动，可扬竿刺鱼。",
+    "快速黑漂",
+    "：",
+    "浮漂快速有力地没入水中，通常是翘嘴鲌抢食，需立即扬竿。"
+  ],
+  "practical_tips": [
+    "选择亮水区或水流交汇处作为钓点，翘嘴鲌喜欢在开阔水域和水流活跃的地方觅食。",
+    "采用远投钓法，将饵料抛投至远水深水区，扩大搜索范围。",
+    "根据季节和天气变化，灵活调整钓棚，春季浅水，夏季深水。",
+    "使用逗钓技巧，轻微拖动或跳动饵料，增加饵料的动态诱鱼效果。",
+    "夜钓效果显著，夜间翘嘴鲌靠近岸边觅食，可选择夜间作钓。"
+  ],
+  "recommended_spots": "水库、湖泊、江河、大型池塘、峡谷水域",
+  "distribution": [
+    "上海市",
+    "云南省",
+    "内蒙古自治区",
+    "北京市",
+    "吉林省",
+    "四川省",
+    "天津市",
+    "宁夏回族自治区",
+    "安徽省",
+    "山东省",
+    "山西省",
+    "广东省",
+    "广西壮族自治区",
+    "江苏省",
+    "江西省",
+    "河北省",
+    "河南省",
+    "浙江省",
+    "湖北省",
+    "湖南省",
+    "甘肃省",
+    "福建省",
+    "贵州省",
+    "辽宁省",
+    "重庆市",
+    "陕西省",
+    "黑龙江省"
+  ],
+  "similar_fish": [
+    "红鳍原鲌",
+    "蒙古红鲌",
+    "鳊鱼",
+    "鲢鱼",
+    "鳙鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qiao-zui-ba.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/qiao-zui-ba-0-dbaefb24.webp",
+      "https://fishweather.cn/asset-images/catch/qiao-zui-ba-1-fb508d38.webp",
+      "https://fishweather.cn/asset-images/catch/qiao-zui-ba-2-a2a6041e.webp",
+      "https://fishweather.cn/asset-images/catch/qiao-zui-ba-3-4b3cc02c.webp",
+      "https://fishweather.cn/asset-images/catch/qiao-zui-ba-4-bb2f45aa.webp"
+    ]
+  },
+  "profile_text_sha256": "494dd20e356d4676ac8965746ac61cd2bec347863f3796f1cdf4df9178ce6945",
+  "raw_line_count": 165,
+  "local_dir": "by_family/鲤科/qiao-zui-ba_翘嘴鲌",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/qiao-zui-ba_翘嘴鲌/images/main.webp"
+    ],
+    "catch": []
+  }
+}

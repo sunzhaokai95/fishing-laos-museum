@@ -1,0 +1,106 @@
+{
+  "name": "日本花鲈",
+  "slug": "ri-ben-hua-lu",
+  "source_url": "https://fishweather.cn/fish/ri-ben-hua-lu",
+  "list_page": 4,
+  "list_position": 73,
+  "scientific_name": "Lateolabrax japonicus",
+  "aliases": "寨花、海鲈、鲈板、四肋鱼",
+  "headline": "日本花鲈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体长而侧扁，呈纺锤形。头部中等大小，略尖。口大，端位，斜裂。下颌略突出。上下颌、犁骨及腭骨均具绒毛状齿。前鳃盖骨后缘具锯齿，下缘光滑。体被小型栉鳞，侧线完全。背鳍两个，彼此分离，第一背鳍鳍棘部12-14根，第二背鳍鳍条部11-13根。胸鳍圆形，臀鳍3鳍棘，7-9鳍条。尾鳍叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "花鲈科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、虾、蟹等甲壳动物。",
+    "栖息环境": "近海沿岸，河口，港湾，常栖息于岩礁、砂砾或海藻丛生的水域。",
+    "体长": "90 cm",
+    "体重": "10 kg",
+    "寿命": "自然条件下寿命可达10年以上，人工养殖条件下通常为3-8年。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "米诺",
+    "铅笔",
+    "波扒",
+    "VIB",
+    "软饵（卷尾蛆",
+    "T尾）",
+    "金属亮片",
+    "小鱼型路亚",
+    "虾型路亚",
+    "复合亮片",
+    "胡须佬"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，表明鲈鱼吞饵较深，是清晰的扬竿信号。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿，幅度明显，通常是鲈鱼咬饵的信号，应立即扬竿。",
+    "慢下沉",
+    "：",
+    "浮漂缓慢而持续地下沉，可能鲈鱼吸饵后缓慢下沉，需密切关注，适时扬竿。",
+    "加速下沉",
+    "：",
+    "在缓慢下沉的基础上，浮漂突然加速下沉，可能是鲈鱼二次发力咬饵，是扬竿的好时机。",
+    "横移",
+    "：",
+    "浮漂在水面或水下发生横向移动，可能是鲈鱼拖动饵料，应及时扬竿。"
+  ],
+  "practical_tips": [
+    "潮汐选择:海鲈的活动受潮汐影响明显，涨潮和退潮期间，尤其涨退潮交汇时，水流带动食物，鲈鱼觅食活跃，是最佳钓时。",
+    "钓点选择:鲈鱼喜欢藏匿于结构复杂的水域，如岩礁、乱石堆、海藻丛、沉船等，这些地方是藏身和觅食的理想场所。",
+    "水层搜索:鲈鱼的活动水层会随季节、天气、潮汐等因素变化，需要通过不断变换路亚类型和泳层，搜索鲈鱼所在的水层。",
+    "逗钓结合:在匀速收线的基础上，适当加入抽停、跳跃等动作，使路亚在水中呈现更丰富的姿态，增加诱鱼效果。",
+    "夜钓技巧:夜钓鲈鱼效果显著，可选择夜光路亚或在路亚上加装夜光棒，提高夜间能见度。注意安全，选择熟悉安全的钓场。"
+  ],
+  "recommended_spots": "岩礁区、防波堤、码头、港口、河口、海湾",
+  "distribution": [
+    "上海市",
+    "台湾省",
+    "天津市",
+    "山东省",
+    "广东省",
+    "广西壮族自治区",
+    "江苏省",
+    "河北省",
+    "浙江省",
+    "海南省",
+    "澳门特别行政区",
+    "福建省",
+    "辽宁省",
+    "香港特别行政区"
+  ],
+  "similar_fish": [
+    "花鲈",
+    "尖吻鲈",
+    "黄鲈",
+    "河鲈"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ri-ben-hua-lu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ri-ben-hua-lu-0-a9e8d268.webp",
+      "https://fishweather.cn/asset-images/catch/ri-ben-hua-lu-1-f5ffc804.webp",
+      "https://fishweather.cn/asset-images/catch/ri-ben-hua-lu-2-258a670a.webp",
+      "https://fishweather.cn/asset-images/catch/ri-ben-hua-lu-3-0f74519e.webp",
+      "https://fishweather.cn/asset-images/catch/ri-ben-hua-lu-4-415617b5.webp"
+    ]
+  },
+  "profile_text_sha256": "51862e50a18e7940552cdbd15c81d954aa7ff0a3e8bacf4d5b18c0a775173f0e",
+  "raw_line_count": 148,
+  "local_dir": "by_family/花鲈科/ri-ben-hua-lu_日本花鲈",
+  "local_images": {
+    "fish": [
+      "by_family/花鲈科/ri-ben-hua-lu_日本花鲈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

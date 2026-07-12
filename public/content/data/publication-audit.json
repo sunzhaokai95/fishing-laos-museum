@@ -1,0 +1,1266 @@
+{
+  "total_pages": 121,
+  "ready_pages": 0,
+  "review_required_pages": 0,
+  "blocked_pages": 121,
+  "blocker_counts": {
+    "image_rights": 96,
+    "missing_image": 48,
+    "missing_visual": 9,
+    "status_not_ready": 121
+  },
+  "pages": [
+    {
+      "id": "home",
+      "url": "/",
+      "state": "blocked",
+      "blockers": [
+        "status_not_ready:draft"
+      ],
+      "warnings": [
+        "generated_reference_requires_disclosure:IMG-CON-001"
+      ]
+    },
+    {
+      "id": "prologue-beneath-the-surface",
+      "url": "/visit/prologue",
+      "state": "blocked",
+      "blockers": [
+        "status_not_ready:draft"
+      ],
+      "warnings": [
+        "generated_reference_requires_disclosure:IMG-CON-001"
+      ]
+    },
+    {
+      "id": "origins-gallery-intro",
+      "url": "/visit/origins",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-001:research_candidate",
+        "image_rights:IMG-HIS-002:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "origins-prehistoric-fishing",
+      "url": "/visit/origins/prehistoric-fishing",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-001:research_candidate",
+        "image_rights:IMG-HIS-002:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "origins-hook-line-and-other-methods",
+      "url": "/visit/origins/hook-line-and-other-methods",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-004:research_candidate",
+        "image_rights:IMG-HIS-007:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "origins-from-subsistence-to-leisure",
+      "url": "/visit/origins/from-subsistence-to-leisure",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "image_rights:IMG-HIS-008:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "origins-rulers-ministers-and-metaphors",
+      "url": "/visit/origins/rulers-ministers-and-metaphors",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-004:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "origins-literati-reclusion-and-poetic-life",
+      "url": "/visit/origins/literati-reclusion-and-poetic-life",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "origins-modern-recreational-fishing",
+      "url": "/visit/origins/modern-recreational-fishing",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "origins-timeline-node-copy",
+      "url": "/visit/origins/timeline-node-copy",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-001:research_candidate",
+        "image_rights:IMG-HIS-002:research_candidate",
+        "image_rights:IMG-HIS-003:research_candidate",
+        "image_rights:IMG-HIS-004:research_candidate",
+        "image_rights:IMG-HIS-006:research_candidate",
+        "image_rights:IMG-HIS-007:research_candidate",
+        "image_rights:IMG-HIS-008:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "fish-waters-gallery-intro",
+      "url": "/visit/fish-and-waters",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-001:rights_pending",
+        "image_rights:IMG-FISH-023:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "fish-waters-water-types",
+      "url": "/visit/fish-and-waters/waters-are-not-containers",
+      "state": "blocked",
+      "blockers": [
+        "status_not_ready:draft"
+      ],
+      "warnings": [
+        "generated_reference_requires_disclosure:IMG-CON-001"
+      ]
+    },
+    {
+      "id": "fish-waters-body",
+      "url": "/visit/fish-and-waters/body-as-life-record",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-002:rights_pending",
+        "image_rights:IMG-FISH-009:rights_pending",
+        "image_rights:IMG-FISH-014:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "fish-waters-movement",
+      "url": "/visit/fish-and-waters/fish-move",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-019:rights_pending",
+        "image_rights:IMG-FISH-028:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "fish-waters-names",
+      "url": "/visit/fish-and-waters/names-move",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-014:rights_pending",
+        "image_rights:IMG-FISH-023:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "fish-waters-common-comparisons",
+      "url": "/visit/fish-and-waters/common-fish-comparison",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-001:rights_pending",
+        "image_rights:IMG-FISH-002:rights_pending",
+        "image_rights:IMG-FISH-003:rights_pending",
+        "image_rights:IMG-FISH-004:rights_pending",
+        "image_rights:IMG-FISH-006:rights_pending",
+        "image_rights:IMG-FISH-007:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "fish-waters-protection-introductions",
+      "url": "/visit/fish-and-waters/belonging-protection-and-introductions",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-017:rights_pending",
+        "image_rights:IMG-FISH-021:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "fish-waters-water-section-interaction",
+      "url": "/visit/fish-and-waters/water-section-interaction",
+      "state": "blocked",
+      "blockers": [
+        "status_not_ready:draft"
+      ],
+      "warnings": [
+        "generated_reference_requires_disclosure:IMG-CON-001"
+      ]
+    },
+    {
+      "id": "fish-waters-niche-comparison",
+      "url": "/visit/fish-and-waters/niche-comparison-interaction",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-003:rights_pending",
+        "image_rights:IMG-FISH-004:rights_pending",
+        "image_rights:IMG-FISH-006:rights_pending",
+        "image_rights:IMG-FISH-007:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "tackle-gallery-intro",
+      "url": "/visit/tackle",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-002:research_candidate",
+        "image_rights:IMG-HIS-005:research_candidate",
+        "image_rights:IMG-HIS-007:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "tackle-complete-gallery",
+      "url": "/visit/tackle/complete-gallery-text",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-005:research_candidate",
+        "image_rights:IMG-HIS-006:research_candidate",
+        "image_rights:IMG-HIS-007:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "tackle-disassembly-interaction",
+      "url": "/visit/tackle/digital-disassembly-table",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "techniques-gallery-intro",
+      "url": "/visit/techniques",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "techniques-complete-gallery",
+      "url": "/visit/techniques/complete-gallery-text",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "techniques-signal-lab",
+      "url": "/visit/techniques/underwater-signal-lab",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "anglers-gallery-intro",
+      "url": "/visit/anglers",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "anglers-complete-gallery",
+      "url": "/visit/anglers/complete-gallery-text",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "image_rights:IMG-HIS-006:research_candidate",
+        "image_rights:IMG-HIS-008:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "anglers-portrait-wall",
+      "url": "/visit/anglers/portrait-wall",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "imaginations-gallery-intro",
+      "url": "/visit/imaginations",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "image_rights:IMG-HIS-004:research_candidate",
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "imaginations-complete-gallery",
+      "url": "/visit/imaginations/complete-gallery-text",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "image_rights:IMG-HIS-004:research_candidate",
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "imaginations-superstition-cabinet",
+      "url": "/visit/imaginations/superstition-cabinet",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "ethics-gallery-intro",
+      "url": "/visit/ethics",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "ethics-complete-gallery",
+      "url": "/visit/ethics/complete-gallery-text",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "ethics-choosing-not-to-act",
+      "url": "/visit/ethics/choosing-not-to-act",
+      "state": "blocked",
+      "blockers": [
+        "missing_visual",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "epilogue-return-to-water",
+      "url": "/visit/epilogue",
+      "state": "blocked",
+      "blockers": [
+        "status_not_ready:draft"
+      ],
+      "warnings": [
+        "generated_reference_requires_disclosure:IMG-CON-001"
+      ]
+    },
+    {
+      "id": "folklore-weather-proverb",
+      "url": "/collection/folklore/weather-proverb",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "folklore-lucky-gear",
+      "url": "/collection/folklore/lucky-gear",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "folklore-da-gui",
+      "url": "/collection/folklore/da-gui",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "folklore-zheng-kou",
+      "url": "/collection/folklore/zheng-kou",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "folklore-zha-xian",
+      "url": "/collection/folklore/zha-xian",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "folklore-bao-hu",
+      "url": "/collection/folklore/bao-hu",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "folklore-kong-jun",
+      "url": "/collection/folklore/kong-jun",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-seven-star-float",
+      "url": "/collection/objects/seven-star-float",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-spoon-lure",
+      "url": "/collection/objects/spoon-lure",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-baitcasting-reel",
+      "url": "/collection/objects/baitcasting-reel",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-natural-bait",
+      "url": "/collection/objects/natural-bait",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-nylon-line",
+      "url": "/collection/objects/nylon-line",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-spigot-rod",
+      "url": "/collection/objects/spigot-rod",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-landing-net",
+      "url": "/collection/objects/landing-net",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-telescopic-rod",
+      "url": "/collection/objects/telescopic-rod",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-barbless-hook",
+      "url": "/collection/objects/barbless-hook",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-early-metal-hook",
+      "url": "/collection/objects/early-metal-hook",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-005:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-fiberglass-rod",
+      "url": "/collection/objects/fiberglass-rod",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-fluorocarbon-line",
+      "url": "/collection/objects/fluorocarbon-line",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-carbon-fiber-rod",
+      "url": "/collection/objects/carbon-fiber-rod",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-vertical-float",
+      "url": "/collection/objects/vertical-float",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-bamboo-rod",
+      "url": "/collection/objects/bamboo-rod",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-minnow-lure",
+      "url": "/collection/objects/minnow-lure",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-spinning-reel",
+      "url": "/collection/objects/spinning-reel",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-braided-line",
+      "url": "/collection/objects/braided-line",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-silk-line",
+      "url": "/collection/objects/silk-line",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-swivel",
+      "url": "/collection/objects/swivel",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-ancient-fishing-wheel",
+      "url": "/collection/objects/ancient-fishing-wheel",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-006:research_candidate",
+        "image_rights:IMG-HIS-007:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-lead-sinker",
+      "url": "/collection/objects/lead-sinker",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-dough-bait",
+      "url": "/collection/objects/dough-bait",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-fly-reel",
+      "url": "/collection/objects/fly-reel",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "object-bone-straight-hook",
+      "url": "/collection/objects/bone-straight-hook",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-002:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "person-fishing-lao-community-seat",
+      "url": "/collection/people/fishing-lao-community-seat",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "person-yan-ziling",
+      "url": "/collection/people/yan-ziling",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "person-fishing-worker-seat",
+      "url": "/collection/people/fishing-worker-research-seat",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "person-women-anglers-seat",
+      "url": "/collection/people/women-anglers-seat",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "person-jiang-shang",
+      "url": "/collection/people/jiang-shang",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "person-cold-river-angler",
+      "url": "/collection/people/cold-river-angler",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "person-child-making-hook",
+      "url": "/collection/people/child-making-hook",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "person-modern-competition-seat",
+      "url": "/collection/people/modern-competition-angler-seat",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-chicken-grunt",
+      "url": "/collection/species/chicken-grunt",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-029:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-chinese-seabass",
+      "url": "/collection/species/chinese-seabass",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-023:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-northern-snakehead",
+      "url": "/collection/species/northern-snakehead",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-015:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-wuchang-bream",
+      "url": "/collection/species/wuchang-bream",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-005:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-largemouth-bass",
+      "url": "/collection/species/largemouth-bass",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-017:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-nile-tilapia",
+      "url": "/collection/species/nile-tilapia",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-012:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-japanese-eel",
+      "url": "/collection/species/japanese-eel",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-019:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-white-strip",
+      "url": "/collection/species/white-strip",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-008:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-redfin-culter",
+      "url": "/collection/species/redfin-culter",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-011:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-topmouth-culter",
+      "url": "/collection/species/topmouth-culter",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-009:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-chinese-sucker",
+      "url": "/collection/species/chinese-sucker",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-021:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-grass-carp",
+      "url": "/collection/species/grass-carp",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-003:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-japanese-spanish-mackerel",
+      "url": "/collection/species/japanese-spanish-mackerel",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-028:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-red-spotted-grouper",
+      "url": "/collection/species/red-spotted-grouper",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-027:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-spotted-scat",
+      "url": "/collection/species/spotted-scat",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-030:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-black-carp",
+      "url": "/collection/species/black-carp",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-004:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-opsariichthys-bidens",
+      "url": "/collection/species/opsariichthys-bidens",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-016:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-rose-bitterling",
+      "url": "/collection/species/rose-bitterling",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-020:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-silver-carp",
+      "url": "/collection/species/silver-carp",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-006:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-common-carp",
+      "url": "/collection/species/common-carp",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-002:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-crucian-carp",
+      "url": "/collection/species/crucian-carp",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-001:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-amur-catfish",
+      "url": "/collection/species/amur-catfish",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-013:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-flathead-grey-mullet",
+      "url": "/collection/species/flathead-grey-mullet",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-026:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-bighead-carp",
+      "url": "/collection/species/bighead-carp",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-007:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-mandarin-fish",
+      "url": "/collection/species/mandarin-fish",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-018:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-topmouth-gudgeon",
+      "url": "/collection/species/topmouth-gudgeon",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-022:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-yellowfin-carp",
+      "url": "/collection/species/yellowfin-carp",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-010:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-yellow-catfish",
+      "url": "/collection/species/yellow-catfish",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-014:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-yellowfin-seabream",
+      "url": "/collection/species/yellowfin-seabream",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-025:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "species-blackhead-seabream",
+      "url": "/collection/species/blackhead-seabream",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-024:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "technique-strike-and-tension",
+      "url": "/collection/techniques/strike-and-tension",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "technique-failure-review",
+      "url": "/collection/techniques/failure-review",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "technique-find-bottom",
+      "url": "/collection/techniques/find-bottom",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "technique-land-unhook-release",
+      "url": "/collection/techniques/land-unhook-release",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "technique-cast-and-deliver",
+      "url": "/collection/techniques/cast-and-deliver",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "technique-control-lure",
+      "url": "/collection/techniques/control-lure",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "technique-read-signal",
+      "url": "/collection/techniques/read-signal",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "technique-read-water",
+      "url": "/collection/techniques/read-water",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "work-women-fishing-print",
+      "url": "/collection/works/women-fishing-print",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "work-cold-river-painting",
+      "url": "/collection/works/cold-river-painting",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "work-fishing-tools-ten-odes",
+      "url": "/collection/works/imperial-fishing-tools-ten-odes",
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-004:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "work-jiang-shang-yu-zhe",
+      "url": "/collection/works/jiang-shang-yu-zhe",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "work-jiang-xue",
+      "url": "/collection/works/jiang-xue",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "work-yu-ge-zi",
+      "url": "/collection/works/yu-ge-zi",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "work-xing-lu-nan",
+      "url": "/collection/works/xing-lu-nan",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "work-hao-liang-debate",
+      "url": "/collection/works/hao-liang-debate",
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  ]
+}

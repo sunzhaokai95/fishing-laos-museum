@@ -1,0 +1,74 @@
+{
+  "name": "斑点鸡笼鲳",
+  "slug": "ban-dian-ji-long-chang",
+  "source_url": "https://fishweather.cn/fish/ban-dian-ji-long-chang",
+  "list_page": 15,
+  "list_position": 352,
+  "scientific_name": "Drepane punctata",
+  "aliases": "镜面鱼、鲳仔、鸡鲳",
+  "headline": "斑点鸡笼鲳怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁。头小，吻短圆钝。口小，可伸缩。眼大位高。体被小圆鳞，侧线完全。体银灰色，体侧具多黑色斑点。背鳍臀鳍延长镰刀状。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鸡笼鲳科",
+    "水层": "中下层,近底层",
+    "食性": "肉食性，主要摄食小型鱼类、甲壳类、软体动物等。",
+    "栖息环境": "近海暖水性中下层鱼类，常栖息于沿海礁石、沙泥底质海域。",
+    "体长": "50 cm",
+    "体重": "2 kg",
+    "寿命": "寿命相对较长，一般可达数年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "米诺(Minnow)",
+    "铅笔(Pencil)",
+    "波扒(Popper)",
+    "VIB(Vibration)",
+    "软饵卷尾蛆(Grub)",
+    "软饵T尾(PaddleTailSwimbait)",
+    "金属VIB(MetalVibration)",
+    "匙型亮片(Spoon)",
+    "复合亮片(Spinnerbait)",
+    "小鱼型软饵(Fishprofilesoftbait)"
+  ],
+  "float_signals": [
+    "无",
+    "：",
+    "路亚海钓主要通过手感和竿尖动作判断鱼讯，不依赖浮漂。"
+  ],
+  "practical_tips": [
+    "探查鱼层:燕鱼可能在不同水层活动，尝试不同泳层搜索。",
+    "灵活变换泳姿:尝试不同的路亚手法和速度，刺激鱼的攻击欲望。",
+    "注意潮汐:涨潮和退潮时鱼的活性可能不同，抓住潮汐变化时机。",
+    "选择合适天气:避免恶劣天气，选择风浪小的天气出钓。",
+    "使用偏光镜:减少水面反光，观察水下情况。"
+  ],
+  "recommended_spots": "近岸礁石区、防波堤、码头、船钓钓点",
+  "distribution": [],
+  "similar_fish": [
+    "银鲳",
+    "真鲷",
+    "黑鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ban-dian-ji-long-chang.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ban-dian-ji-long-chang-0-a12d07b9.webp",
+      "https://fishweather.cn/asset-images/catch/ban-dian-ji-long-chang-1-e1643ad4.webp"
+    ]
+  },
+  "profile_text_sha256": "a34bd2add687db710b109fce1d9e5df57ecf2c65be2b05a1c4b4a05ac492c0ab",
+  "raw_line_count": 89,
+  "local_dir": "by_family/鸡笼鲳科/ban-dian-ji-long-chang_斑点鸡笼鲳",
+  "local_images": {
+    "fish": [
+      "by_family/鸡笼鲳科/ban-dian-ji-long-chang_斑点鸡笼鲳/images/main.webp"
+    ],
+    "catch": []
+  }
+}

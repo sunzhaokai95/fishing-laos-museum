@@ -1,0 +1,52 @@
+{
+  "name": "黑背蝴蝶鱼",
+  "slug": "hei-bei-hu-die-yu",
+  "source_url": "https://fishweather.cn/fish/hei-bei-hu-die-yu",
+  "list_page": 14,
+  "list_position": 326,
+  "scientific_name": "Chaetodon melannotus",
+  "aliases": "黑纹蝶鱼、黑带蝶鱼",
+  "headline": "黑背蝴蝶鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体侧扁呈卵圆形，背部轮廓凸出。吻尖，口小。体色基调为黄色，体侧具多条黑色横纹，幼鱼期横纹较少。背鳍和臀鳍软鳍部分别具黑色边缘。尾鳍黄色透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "蝴蝶鱼科",
+    "水层": "中层,上层",
+    "食性": "杂食性，主要以珊瑚虫、藻类、小型无脊椎动物为食。",
+    "栖息环境": "珊瑚礁区，潟湖，沿岸水域",
+    "体长": "18 cm",
+    "体重": null,
+    "寿命": "在自然条件下，寿命约为5-7年，人工饲养条件下可能略长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "月眉蝶鱼",
+    "线纹蝴蝶鱼",
+    "黄网蝴蝶鱼",
+    "印度线蝴蝶鱼",
+    "珍珠蝴蝶鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-bei-hu-die-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "55e4629cc9b2e91edd7db2b8276935f04ff12bfe5ac5af84c16c82417aeb9461",
+  "raw_line_count": 30,
+  "local_dir": "by_family/蝴蝶鱼科/hei-bei-hu-die-yu_黑背蝴蝶鱼",
+  "local_images": {
+    "fish": [
+      "by_family/蝴蝶鱼科/hei-bei-hu-die-yu_黑背蝴蝶鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

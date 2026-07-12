@@ -1,0 +1,91 @@
+{
+  "name": "许氏平鲉",
+  "slug": "xu-shi-ping-you",
+  "source_url": "https://fishweather.cn/fish/xu-shi-ping-you",
+  "list_page": 3,
+  "list_position": 57,
+  "scientific_name": "Sebastes schlegelii",
+  "aliases": "黑鱼、鲈鱼、海鲈鱼、石狗公",
+  "headline": "许氏平鲉怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，纺锤形。头中大，稍侧扁。吻钝圆。口大，前位，上下颌牙细小。眼较大，侧上位。前鳃盖骨后缘具5棘。体被栉鳞。背鳍一个，鳍棘粗壮。胸鳍圆形。尾鳍截形或稍圆。体背侧灰黑色或棕黑色，腹侧灰白色。体侧具不规则黑色斑纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲉形目",
+    "科": "平鲉科",
+    "水层": "底层,近底层",
+    "食性": "肉食性，主要捕食小型鱼类、虾、蟹等甲壳类及头足类",
+    "栖息环境": "近海岩礁、海藻床、砂砾底质海区",
+    "体长": "60 cm",
+    "体重": "5 kg",
+    "寿命": "自然寿命可达10年以上，人工养殖条件下寿命一般为5-8年",
+    "适温": "10-20 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾肉",
+    "鱿鱼块",
+    "沙蚕",
+    "鱼肉块",
+    "虾仁",
+    "海মাছ(鱼)",
+    "冷冻小鱼",
+    "海藻",
+    "商品海钓饵料"
+  ],
+  "float_signals": [
+    "顿口下沉",
+    "：",
+    "浮漂快速有力地下顿或直接黑漂，是黑鲪咬钩的典型信号，需立即扬竿",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而持续地下沉，可能为黑鲪吸食饵料，需密切关注，适时扬竿",
+    "横向移动",
+    "：",
+    "浮漂不规则地横向移动，可能是黑鲪拖动饵料，需及时扬竿",
+    "加速下沉",
+    "：",
+    "在缓慢下沉的基础上，浮漂突然加速下沉，通常为黑鲪吞食饵料的信号，抓住机会扬竿",
+    "小幅度点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是黑鲪试探性咬钩，可轻提竿稍引诱"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:黑鲪喜欢栖息于岩礁、海藻床等复杂地形，选择这些区域作为钓点，增加中鱼机会。",
+    "根据潮汐变化调整钓法:涨潮时黑鲪活跃，可采用动态搜索钓法；退潮时黑鲪可能躲藏在深水区或礁石缝隙，需采用精细钓法。",
+    "诱钓结合:使用诱饵窝料提前打窝，可有效聚集鱼群，提高上鱼率，钓饵要新鲜且适口。",
+    "灵活运用钓组和钓法:根据不同的水深、流速和鱼情，灵活调整钓组和钓法，如轻铅钓法、重铅钓法、浮游矶钓等。",
+    "注意安全:矶钓或海钓时，务必注意安全，穿戴救生衣、防滑鞋等安全装备，注意观察海况变化。"
+  ],
+  "recommended_spots": "岩礁区、海藻床、防波堤、码头、人工鱼礁",
+  "distribution": [],
+  "similar_fish": [
+    "许氏平鲉",
+    "褐菖鲉",
+    "红鳍鲉",
+    "ቦች鲉",
+    "鮋鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xu-shi-ping-you.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xu-shi-ping-you-0-d5ad0cbe.webp",
+      "https://fishweather.cn/asset-images/catch/xu-shi-ping-you-1-cc3ff869.webp",
+      "https://fishweather.cn/asset-images/catch/xu-shi-ping-you-2-c69ec9c0.webp",
+      "https://fishweather.cn/asset-images/catch/xu-shi-ping-you-3-5999cf99.webp",
+      "https://fishweather.cn/asset-images/catch/xu-shi-ping-you-4-b7a7ae10.webp"
+    ]
+  },
+  "profile_text_sha256": "06bda66122e0d465cd8de4f7c61c3a3e6aec71071ce53906035befc27055b7f7",
+  "raw_line_count": 137,
+  "local_dir": "by_family/平鲉科/xu-shi-ping-you_许氏平鲉",
+  "local_images": {
+    "fish": [
+      "by_family/平鲉科/xu-shi-ping-you_许氏平鲉/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "name": "白条双锯鱼",
+  "slug": "bai-tiao-shuang-ju-yu",
+  "source_url": "https://fishweather.cn/fish/bai-tiao-shuang-ju-yu",
+  "list_page": 9,
+  "list_position": 207,
+  "scientific_name": "Amphiprion frenatus",
+  "aliases": "红小丑、火焰小丑",
+  "headline": "白条双锯鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体卵圆形，侧扁。体色鲜艳，幼鱼通体红色或橙红色，随着成长，体色逐渐加深，成鱼体色为深红色至紫红色，头部后方通常有一条白色环带，部分个体白色环带可能不完整或消失。各鳍红色或橙红色，边缘颜色较深。体表光滑。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "雀鲷科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、小型无脊椎动物（如桡足类、片脚类）、浮游生物以及海葵触手上的食物残渣为食",
+    "栖息环境": "珊瑚礁区域，通常与海葵共生",
+    "体长": "14 cm",
+    "体重": null,
+    "寿命": "人工饲养条件下可达6-8年，甚至更长，野生环境下寿命可能稍短。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [
+    "高品质小丑鱼专用颗粒饲料",
+    "冷冻丰年虾",
+    "冷冻糠虾",
+    "冷冻红虫",
+    "切碎的虾肉",
+    "海藻薄片",
+    "螺旋藻片",
+    "浮游生物",
+    "轮虫",
+    "桡足类"
+  ],
+  "float_signals": [
+    "海葵共生",
+    "：",
+    "番茄小丑鱼通常与海葵共生，观察时可重点关注海葵周围，小丑鱼会在海葵触手间活动和躲藏",
+    "鲜艳体色",
+    "：",
+    "体色鲜艳，在珊瑚礁环境中较为醒目，容易被发现",
+    "求偶行为",
+    "：",
+    "繁殖期可能会观察到求偶行为，如追逐、抖动身体等",
+    "活泼好动",
+    "：",
+    "行动活泼，在水中游动敏捷",
+    "领地意识",
+    "：",
+    "具有较强的领地意识，会驱赶靠近的其他鱼类，观察时可见其守护领地的行为"
+  ],
+  "practical_tips": [
+    "了解其共生习性，寻找海葵是观察番茄小丑鱼的关键",
+    "保持安静和缓慢的动作，避免惊吓",
+    "使用水下相机记录观察到的景象",
+    "学习识别不同的小丑鱼种类",
+    "尊重海洋生物，不干扰其自然行为"
+  ],
+  "recommended_spots": "珊瑚礁海域、水族馆、海洋馆、家庭水族箱、海洋公园",
+  "distribution": [],
+  "similar_fish": [
+    "眼斑海葵鱼",
+    "克氏海葵鱼",
+    "鞍斑海葵鱼",
+    "双带海葵鱼",
+    "粉红海葵鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bai-tiao-shuang-ju-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/bai-tiao-shuang-ju-yu-0-ca1032a0.webp",
+      "https://fishweather.cn/asset-images/catch/bai-tiao-shuang-ju-yu-1-36b5bc13.webp",
+      "https://fishweather.cn/asset-images/catch/bai-tiao-shuang-ju-yu-2-a7b0a24c.webp",
+      "https://fishweather.cn/asset-images/catch/bai-tiao-shuang-ju-yu-3-ce40cf01.webp"
+    ]
+  },
+  "profile_text_sha256": "9c512adf5dd8518ed221d1d4247648fad929ce14fb29485969cb5eab59af3f8e",
+  "raw_line_count": 123,
+  "local_dir": "by_family/雀鲷科/bai-tiao-shuang-ju-yu_白条双锯鱼",
+  "local_images": {
+    "fish": [
+      "by_family/雀鲷科/bai-tiao-shuang-ju-yu_白条双锯鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

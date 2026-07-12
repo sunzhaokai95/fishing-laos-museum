@@ -1,0 +1,86 @@
+{
+  "name": "亚马逊真唇脂鲤",
+  "slug": "ya-ma-xun-zhen-chun-zhi-li",
+  "source_url": "https://fishweather.cn/fish/ya-ma-xun-zhen-chun-zhi-li",
+  "list_page": 13,
+  "list_position": 306,
+  "scientific_name": "Semaprochilodus insignis",
+  "aliases": "亚马逊河胭脂鱼",
+  "headline": "亚马逊真唇脂鲤怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "燕子鰣体型呈纺锤形，侧扁。幼鱼时期体色银色，并带有数条黑色纵向条纹，随着生长条纹逐渐褪去，成鱼体色为均匀的银灰色。鱼体背部隆起，腹部圆润。头部中等大小，吻部钝圆。口端位，唇厚。眼睛较大，位于头部侧上方。各鳍均为灰色，脂鳍发达。鳞片中等大小，侧线完全。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "脂鲤目",
+    "科": "鲮脂鲤科",
+    "水层": "中层,底层",
+    "食性": "主要以植物性食物为食，包括植物碎屑、藻类、水生植物以及底栖有机物等。也会摄食少量小型无脊椎动物。",
+    "栖息环境": "主要栖息于南美洲亚马逊河和奥里诺科河流域的河流、洪泛平原、湖泊以及支流等多种淡水栖息地。",
+    "体长": "30 cm",
+    "体重": "1 kg",
+    "寿命": "燕子鰣的寿命在自然条件下通常为数年，具体寿命数据较为缺乏，但根据相似鱼类的推测，可能在5-8年左右。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "玉米粒",
+    "麦粒",
+    "红薯块",
+    "土豆块",
+    "藻类饵料",
+    "商品素饵",
+    "麸皮",
+    "豆饼",
+    "菜饼",
+    "面包屑"
+  ],
+  "float_signals": [
+    "缓升缓降",
+    "：",
+    "浮漂缓慢上升或缓慢下降，可能是鱼在试探或轻微拱饵。",
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，是鱼吞食死口的明显信号。",
+    "快速下顿",
+    "：",
+    "浮漂快速有力地下顿，幅度较大，通常是鱼吞饵的信号，需及时扬竿。",
+    "轻微点动",
+    "：",
+    "浮漂出现连续轻微的点动，幅度小，频率快，可能是小鱼闹窝或目标鱼轻口。",
+    "移位",
+    "：",
+    "浮漂水平方向缓慢或快速移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:在水草丰茂、水底结构复杂或有树桩等障碍物的水域更容易找到鱼。",
+    "打窝诱鱼:提前打窝可以有效聚集鱼群，提高上鱼率，窝料可使用玉米、麦麸等。",
+    "灵活调整钓组:根据鱼情和水情变化，及时调整浮漂、线组和鱼钩，以适应不同的垂钓环境。",
+    "耐心等待鱼讯:燕子鰣吃口可能较轻，需要耐心观察浮漂，抓住有效鱼讯及时扬竿。",
+    "轻柔遛鱼:中鱼后遛鱼动作要轻柔，避免用力过猛切线跑鱼。"
+  ],
+  "recommended_spots": "淡水河流、湖泊、水库、池塘",
+  "distribution": [],
+  "similar_fish": [
+    "胭脂鱼",
+    "鲮鱼",
+    "鰣鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ya-ma-xun-zhen-chun-zhi-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ya-ma-xun-zhen-chun-zhi-li-0-0796b418.webp",
+      "https://fishweather.cn/asset-images/catch/ya-ma-xun-zhen-chun-zhi-li-1-ceb745ed.webp"
+    ]
+  },
+  "profile_text_sha256": "938dee1ea1156251647756b568888b039206affae8851e02f8f58b616485044c",
+  "raw_line_count": 99,
+  "local_dir": "by_family/鲮脂鲤科/ya-ma-xun-zhen-chun-zhi-li_亚马逊真唇脂鲤",
+  "local_images": {
+    "fish": [
+      "by_family/鲮脂鲤科/ya-ma-xun-zhen-chun-zhi-li_亚马逊真唇脂鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "项斑项鲾",
+  "slug": "xiang-ban-xiang-bi",
+  "source_url": "https://fishweather.cn/fish/xiang-ban-xiang-bi",
+  "list_page": 7,
+  "list_position": 156,
+  "scientific_name": "Nuchequula nuchalis",
+  "aliases": "无",
+  "headline": "项斑项鲾怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体侧扁呈卵圆形，背腹缘弧形凸出。头中等大，吻尖。口小，前伸性。眼大，侧上位。体被薄栉鳞，易脱落。体背部灰褐色，体侧银白色，颈部有一条明显的黑色横带，各鳍透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲾科",
+    "水层": "底层,近底层",
+    "食性": "主要以小型底栖无脊椎动物为食，如多毛类、小型甲壳类等",
+    "栖息环境": "沿海礁石区、沙泥底质海域",
+    "体长": "12 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为2-3年",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "沙蚕",
+    "鱼肉碎",
+    "虾肉碎",
+    "小螃蟹",
+    "贝肉",
+    "海藻",
+    "人工鱼饵（小型软饵）",
+    "面包屑"
+  ],
+  "float_signals": [
+    "快速下沉",
+    "：",
+    "浮漂快速有力地沉入水中，通常是鱼吞食饵料的明显信号",
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是鱼轻微触碰饵料",
+    "上顶",
+    "：",
+    "浮漂向上顶起，可能是鱼触碰或拱动饵料",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口试探或吸食饵料",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:细刺鱼喜欢栖息在礁石或水草附近，选择这些区域作为钓点。",
+    "轻巧灵敏的钓组:使用细线小钩，提高钓组的灵敏度，更容易感知鱼讯。",
+    "耐心细致的观察:细刺鱼吃口轻，需要耐心观察浮漂或竿稍的细微动作。",
+    "逗钓结合:在作钓过程中，可以适当逗引饵料，吸引鱼的注意。",
+    "灵活调整钓棚:根据鱼的活动水层，灵活调整钓棚深度。"
+  ],
+  "recommended_spots": "海边礁石、防波堤、码头、近岸浅水区、沙滩附近",
+  "distribution": [],
+  "similar_fish": [
+    "其他گونهponyfish(细刺鱼属)",
+    "鲈鱼幼鱼",
+    "鲾鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xiang-ban-xiang-bi.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xiang-ban-xiang-bi-0-029c89c2.webp",
+      "https://fishweather.cn/asset-images/catch/xiang-ban-xiang-bi-1-1e63eb14.webp",
+      "https://fishweather.cn/asset-images/catch/xiang-ban-xiang-bi-2-54bba9b0.webp",
+      "https://fishweather.cn/asset-images/catch/xiang-ban-xiang-bi-3-5aeb6728.webp",
+      "https://fishweather.cn/asset-images/catch/xiang-ban-xiang-bi-4-b385c91f.webp"
+    ]
+  },
+  "profile_text_sha256": "fffc408d862b833e7d45b240cc04ed804e07b6733dedb1b891137292adf90c4f",
+  "raw_line_count": 133,
+  "local_dir": "by_family/鲾科/xiang-ban-xiang-bi_项斑项鲾",
+  "local_images": {
+    "fish": [
+      "by_family/鲾科/xiang-ban-xiang-bi_项斑项鲾/images/main.webp"
+    ],
+    "catch": []
+  }
+}

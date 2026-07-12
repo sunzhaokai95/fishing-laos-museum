@@ -1,0 +1,62 @@
+{
+  "name": "西伯利亚鲟",
+  "slug": "xi-bo-li-ya-xun",
+  "source_url": "https://fishweather.cn/fish/xi-bo-li-ya-xun",
+  "list_page": 8,
+  "list_position": 181,
+  "scientific_name": "Acipenser baerii",
+  "aliases": "鲟鱼",
+  "headline": "西伯利亚鲟是保护动物吗？习性与识别图鉴",
+  "summary": "体呈长纺锤形，吻尖长，约占头长的60%以上。口下位，呈横裂。须2对，细小。体表裸露，具五行骨板，背骨板、侧骨板和腹骨板均较发达。背鳍1个，位于体后部，臀鳍短小。尾鳍歪型，上叶长于下叶。体色背部灰褐色或棕褐色，腹部灰白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲟形目",
+    "科": "鲟科",
+    "水层": "底层",
+    "食性": "主要以底栖无脊椎动物为食，如水生昆虫幼虫、甲壳类、软体动物等，也摄食小型鱼类。",
+    "栖息环境": "主要栖息于水流湍急、底质为砂砾的河流中，也见于湖泊。",
+    "体长": "200 cm",
+    "体重": "80 kg",
+    "寿命": "寿命较长，自然条件下可达20-30年以上，人工养殖条件下亦可存活较长时间。",
+    "适温": "15-22 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "内蒙古自治区",
+    "北京市",
+    "吉林省",
+    "宁夏回族自治区",
+    "山西省",
+    "新疆维吾尔自治区",
+    "甘肃省",
+    "青海省",
+    "黑龙江省"
+  ],
+  "similar_fish": [
+    "中华鲟",
+    "达氏鲟",
+    "鳇鱼",
+    "闪光鲟",
+    "裸腹鲟"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xi-bo-li-ya-xun.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "2511b43f356fd94ede3a66691af33c719dcfc25e0992ac9829a6a3e69f17e633",
+  "raw_line_count": 47,
+  "local_dir": "by_family/鲟科/xi-bo-li-ya-xun_西伯利亚鲟",
+  "local_images": {
+    "fish": [
+      "by_family/鲟科/xi-bo-li-ya-xun_西伯利亚鲟/images/main.webp"
+    ],
+    "catch": []
+  }
+}

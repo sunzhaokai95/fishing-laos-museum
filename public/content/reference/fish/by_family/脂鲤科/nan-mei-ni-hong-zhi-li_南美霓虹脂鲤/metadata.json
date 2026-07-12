@@ -1,0 +1,49 @@
+{
+  "name": "南美霓虹脂鲤",
+  "slug": "nan-mei-ni-hong-zhi-li",
+  "source_url": "https://fishweather.cn/fish/nan-mei-ni-hong-zhi-li",
+  "list_page": 29,
+  "list_position": 678,
+  "scientific_name": "Paracheirodon axelrodi",
+  "aliases": "红莲灯鱼、霓虹鱼",
+  "headline": "南美霓虹脂鲤怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "小型热带鱼，体细长而侧扁，色彩绚丽。最显著特征是体侧自眼后至尾柄有一条明亮的蓝色霓虹带，下方紧邻一条红色条纹，在光照下熠熠生辉。背鳍和臀鳍透明，尾鳍叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "脂鲤目",
+    "科": "脂鲤科",
+    "水层": "中层",
+    "食性": "杂食性，主要摄食小型浮游生物、昆虫幼虫、藻类、植物碎屑以及水中的有机碎屑。",
+    "栖息环境": "南美洲亚马逊河流域及其支流，如内格罗河、奥里诺科河等水域的缓流区，喜好酸性软水、植被茂盛的阴暗环境。",
+    "体长": "5 cm",
+    "体重": "1 kg",
+    "寿命": "寿命相对较短，在适宜的水质和饲养条件下，通常为2-3年，最长可达5年左右。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "霓虹灯鱼",
+    "绿莲灯鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/nan-mei-ni-hong-zhi-li.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "58a79be599381d14116256239bab746d10ea559da5c6c16293cc36580404598a",
+  "raw_line_count": 29,
+  "local_dir": "by_family/脂鲤科/nan-mei-ni-hong-zhi-li_南美霓虹脂鲤",
+  "local_images": {
+    "fish": [
+      "by_family/脂鲤科/nan-mei-ni-hong-zhi-li_南美霓虹脂鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

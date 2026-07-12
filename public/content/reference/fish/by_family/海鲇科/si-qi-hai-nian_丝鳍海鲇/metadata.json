@@ -1,0 +1,81 @@
+{
+  "name": "丝鳍海鲇",
+  "slug": "si-qi-hai-nian",
+  "source_url": "https://fishweather.cn/fish/si-qi-hai-nian",
+  "list_page": 5,
+  "list_position": 115,
+  "scientific_name": "Arius arius",
+  "aliases": "牛秋、黄脚须",
+  "headline": "丝鳍海鲇怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部粗壮，后部侧扁。头宽扁，背面骨质裸露。吻圆钝。口下位，唇厚。须3对，颌须长达胸鳍起点。体表光滑无鳞。背鳍和胸鳍均具硬棘，棘刺前缘有锯齿。脂鳍小，尾鳍叉形。体色背侧灰褐色，腹侧白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "海鲇科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类、软体动物等",
+    "栖息环境": "近海底层",
+    "体长": "100 cm",
+    "体重": null,
+    "寿命": "寿命较长，具体年限暂无详细数据",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "虾肉",
+    "鱿鱼",
+    "沙蚕",
+    "鱼肉块",
+    "海মাছ",
+    "南极虾",
+    "海肠",
+    "贝肉",
+    "章鱼",
+    "拟饵（软饵",
+    "鱼形饵",
+    "虾形饵",
+    "卷尾蛆",
+    "面包虫）"
+  ],
+  "float_signals": [
+    "不适用路亚海钓，无漂像",
+    "：",
+    "路亚海钓和船钓多为主动搜索鱼类，通过手感和竿稍变化判断鱼讯，不依赖浮漂观察。"
+  ],
+  "practical_tips": [
+    "找准标点:海鲶喜欢栖息在礁石、沉船、码头桩基等复杂地形附近，这些区域是理想的钓点。",
+    "慢速搜索:海鲶通常活动缓慢，觅食范围有限，因此作钓时需要耐心搜索，缓慢拖动拟饵或饵料。",
+    "注意障碍物:海鲶栖息地多为复杂地形，容易挂底，作钓时要注意避开障碍物，或使用防挂底钓组。",
+    "选择腥味饵料:海鲶是肉食性鱼类，对腥味饵料非常敏感，使用虾肉、鱼肉等腥味饵料效果更佳。",
+    "夜钓效果好:海鲶夜间觅食活跃，夜钓往往比白天有更好的收获，可尝试夜间垂钓。"
+  ],
+  "recommended_spots": "海岸礁石区、码头、防波堤、近海船钓钓点",
+  "distribution": [],
+  "similar_fish": [
+    "斑海鲶",
+    "鳗鲶",
+    "其他海鲶"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/si-qi-hai-nian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/si-qi-hai-nian-0-fc2fc3d3.webp",
+      "https://fishweather.cn/asset-images/catch/si-qi-hai-nian-1-e7f09469.webp",
+      "https://fishweather.cn/asset-images/catch/si-qi-hai-nian-2-95dadffe.webp",
+      "https://fishweather.cn/asset-images/catch/si-qi-hai-nian-3-615edabd.webp",
+      "https://fishweather.cn/asset-images/catch/si-qi-hai-nian-4-bdec0152.webp"
+    ]
+  },
+  "profile_text_sha256": "fb2d6b2f5f1add224386a626d918a7e85861e26ad51ee0596118b759d3bf74a5",
+  "raw_line_count": 123,
+  "local_dir": "by_family/海鲇科/si-qi-hai-nian_丝鳍海鲇",
+  "local_images": {
+    "fish": [
+      "by_family/海鲇科/si-qi-hai-nian_丝鳍海鲇/images/main.webp"
+    ],
+    "catch": []
+  }
+}

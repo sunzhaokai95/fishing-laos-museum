@@ -1,0 +1,81 @@
+{
+  "name": "金边黄鳞鲀(蓝面炮弹)",
+  "slug": "jin-bian-huang-lin-tun--lan-mian-pao-dan",
+  "source_url": "https://fishweather.cn/fish/jin-bian-huang-lin-tun--lan-mian-pao-dan",
+  "list_page": 23,
+  "list_position": 549,
+  "scientific_name": "Xanthichthys auromarginatus",
+  "aliases": "金边炮弹鱼、炮弹鱼",
+  "headline": "金边黄鳞鲀(蓝面炮弹)怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈菱形或卵圆形，侧扁而深。吻部profile陡斜，眼位高。口小，端位，具强壮牙齿。体色多变，通常为绿灰色至棕色，眼部radiating出蓝色线纹。雄鱼的背鳍、臀鳍和尾鳍具有鲜明的金色或黄色边缘。皮肤厚实呈皮革状，覆盖小而粗糙的鳞片。背鳍第一棘粗大，具锁定机制，是扳机鲀科鱼类的典型特征。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鳞鲀科",
+    "水层": "底层",
+    "食性": "主要以浮游动物（如桡足类、糠虾）、小型底栖无脊椎动物以及部分藻类为食。",
+    "栖息环境": "通常栖息于外海礁石斜坡、海沟边缘或陡峭的礁壁区域，水深通常15-150米，有时更深。",
+    "体长": "22 cm",
+    "体重": null,
+    "寿命": "自然寿命相对较短，typically数年，可能在5-10年之间，具体取决于栖息环境、捕食压力以及食物可获得性等因素。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [
+    "鱿鱼丁",
+    "虾仁",
+    "小鱼块",
+    "仿虾软饵",
+    "小型蠕虫软饵",
+    "小型铁板（Jigs）",
+    "铅头钩搭配软饵"
+  ],
+  "float_signals": [
+    "竿尖轻点",
+    "：",
+    "竿尖出现连续轻微的颤动或点动，幅度小，频率快，可能是鱼试探性触碰饵料。",
+    "线松弛/回线",
+    "：",
+    "感觉线突然变轻或观察到线有slack的迹象，可能是鱼叼着饵料向上游或朝钓者方向游来。",
+    "竿尖持续下弯",
+    "：",
+    "竿尖缓慢或快速地向水面方向持续弯曲，通常是鱼已经咬住饵料并游走或拉扯。",
+    "缓慢拖拽",
+    "：",
+    "竿尖缓慢而稳定地被拉低或向侧方移动，表示鱼正在带着饵料缓慢移动。",
+    "清晰顿感",
+    "：",
+    "手部通过鱼竿感受到sudden的一下拉力或停止感，这是典型的咬口信号，通常伴随竿尖的快速下弯。"
+  ],
+  "practical_tips": [
+    "利用探鱼器确定水深和底部结构，找到鱼类可能藏身或觅食的礁石、斜坡或障碍物区域。",
+    "根据水深、水流和目标鱼体型选择合适的钓组配重和饵料大小，确保钓组能够快速下沉到目标泳层并在水流中保持稳定。",
+    "仔细观察竿尖的微小变化或通过手感感知鱼讯，扳机鲀吃口有时比较轻，需要timely地作出反应。",
+    "由于扳机鲀有牙齿，建议使用强度合适的子线，并检查线组是否有磨损。",
+    "变换饵料的presentation方式，尝试不同的提放频率或慢摇节奏，找到最能吸引鱼攻击的方式。"
+  ],
+  "recommended_spots": "外海礁石斜坡、深水岩礁区、海沟边缘、断崖区",
+  "distribution": [],
+  "similar_fish": [
+    "青色缘板机鲀",
+    "金腹板机鲀",
+    "丝尾板机鲀",
+    "其他板机鲀科鱼类"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jin-bian-huang-lin-tun--lan-mian-pao-dan.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "49993edad75f3d69e11a7ba0fce091ddc70e245ff6fe7423e9a3a0526fb51277",
+  "raw_line_count": 67,
+  "local_dir": "by_family/鳞鲀科/jin-bian-huang-lin-tun--lan-mian-pao-dan_金边黄鳞鲀(蓝面炮弹)",
+  "local_images": {
+    "fish": [
+      "by_family/鳞鲀科/jin-bian-huang-lin-tun--lan-mian-pao-dan_金边黄鳞鲀(蓝面炮弹)/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "长吻鮠",
+  "slug": "zhang-wen-wei",
+  "source_url": "https://fishweather.cn/fish/zhang-wen-wei",
+  "list_page": 5,
+  "list_position": 109,
+  "scientific_name": "Leiocassis longirostris",
+  "aliases": "江团、肥沱、鮰鱼",
+  "headline": "长吻鮠怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，前部稍圆，后部侧扁。头平扁而宽大，吻长而尖突。口下位，呈新月形。口须4对，细长，延伸超过胸鳍。眼小，上位侧位。背鳍具发达的硬棘，后缘锯齿状。脂鳍发达。胸鳍和腹鳍较小，尾鳍深叉形。体背部灰褐色或棕黄色，腹部灰白色或淡黄色，体侧散布不规则深色斑点。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "鲿科",
+    "水层": "底层",
+    "食性": "肉食性为主，主要捕食小型鱼类、虾类、水生昆虫等。",
+    "栖息环境": "栖息于水质清澈、底质多砾石或沙石的江河缓流或静水水域。",
+    "体长": "70 cm",
+    "体重": "5 kg",
+    "寿命": "寿命较长，自然条件下一般可达10年以上，人工养殖条件下，若环境适宜、管理得当，寿命可超过20年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "虾肉",
+    "鱼肉块",
+    "鸡肝",
+    "猪肝",
+    "商品底钓饵料（腥味）",
+    "玉米粒（发酵）",
+    "红薯块（蒸熟）",
+    "面包虫",
+    "蚕蛹"
+  ],
+  "float_signals": [
+    "持续点动",
+    "：",
+    "浮漂出现连续轻微的点动，可能是长吻鮠在试探或小口啄食，需抓住顿口信号扬竿。",
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，是长吻鮠吞饵的典型信号，应立即扬竿。",
+    "横向走漂",
+    "：",
+    "浮漂在水面横向移动，可能是长吻鮠拖动饵料游走，是扬竿的好时机。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是长吻鮠试探性咬钩或拖动饵料，需密切关注，适时扬竿。",
+    "快速下顿",
+    "：",
+    "浮漂快速有力地下顿，幅度较大，是长吻鮠咬钩的明显信号。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:长吻鮠喜欢栖息在水底多乱石、障碍物的区域，以及水流较缓的江河段或水库深水区。",
+    "使用腥味饵料:长吻鮠为肉食性鱼类，对腥味饵料敏感，如蚯蚓、虾肉、鱼肉等。",
+    "夜钓效果更佳:长吻鮠夜间活动频繁，夜钓比白天更容易钓获。",
+    "注意钓组强度:长吻鮠力道较大，需使用强度较高的钓组，防止切线跑鱼。",
+    "灵敏观察漂相:长吻鮠咬钩漂相多样，需仔细观察，及时扬竿。"
+  ],
+  "recommended_spots": "江河缓流段、水库、湖泊、水底多乱石区域、桥墩附近",
+  "distribution": [
+    "四川省",
+    "贵州省",
+    "重庆市"
+  ],
+  "similar_fish": [
+    "黄颡鱼",
+    "鲶鱼",
+    "斑鱯",
+    "叉尾鮰"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhang-wen-wei.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhang-wen-wei-0-5d3fc6dd.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-wen-wei-1-072691ee.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-wen-wei-2-b1c1911a.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-wen-wei-3-b38bfc8b.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-wen-wei-4-8585d125.webp"
+    ]
+  },
+  "profile_text_sha256": "635db90e3f4d3f6d85d4bfd0a6fbcaaa94af13924c78194c3251064efd4c8225",
+  "raw_line_count": 138,
+  "local_dir": "by_family/鲿科/zhang-wen-wei_长吻鮠",
+  "local_images": {
+    "fish": [
+      "by_family/鲿科/zhang-wen-wei_长吻鮠/images/main.webp"
+    ],
+    "catch": []
+  }
+}

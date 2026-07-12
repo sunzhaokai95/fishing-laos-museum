@@ -1,0 +1,93 @@
+{
+  "name": "银鲳",
+  "slug": "yin-chang",
+  "source_url": "https://fishweather.cn/fish/yin-chang",
+  "list_page": 7,
+  "list_position": 167,
+  "scientific_name": "Pampus argenteus",
+  "aliases": "鲳鱼、白鲳、镜鲳、银盘鱼",
+  "headline": "银鲳怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体近圆形，甚侧扁，体长与体高相近。头小，吻圆钝。口小，端位，口裂小。眼小，脂眼睑发达。体被小圆鳞，易脱落。侧线完全。背鳍、臀鳍同形，均甚延长，与尾鳍相连。胸鳍中长。无腹鳍。尾鳍深叉形。体银白色，幼鱼体背部略带灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲳科",
+    "水层": "中下层",
+    "食性": "杂食性，幼鱼主要摄食浮游生物，成鱼摄食小型鱼类、甲壳类、软体动物及藻类",
+    "栖息环境": "近海暖温性中下层鱼类，栖息于泥沙质海底，也进入河口咸淡水区",
+    "体长": "60",
+    "体重": "3",
+    "寿命": "一般为5-7年，人工养殖条件下可能略长",
+    "适温": "20-28"
+  },
+  "bait_options": [
+    "南极虾",
+    "海মাছ(小海鱼)",
+    "沙蚕",
+    "海虾",
+    "鱿鱼块",
+    "小管",
+    "鱼肉块",
+    "贝肉",
+    "虾仁",
+    "冷冻鱼饵"
+  ],
+  "float_signals": [
+    "黑漂（矶钓）",
+    "：",
+    "阿波漂或立漂快速下沉或直接没入水中，消失不见，是鲳鱼吞食鱼饵的明显信号。",
+    "横向走线（船钓）",
+    "：",
+    "主线或竿稍出现横向移动，可能是鲳鱼咬饵后游动导致。",
+    "连续点动（矶钓或船钓）",
+    "：",
+    "竿尖或线组出现连续轻微的点动或颤动，可能是鲳鱼试探性咬饵或蹭线。",
+    "顿口",
+    "：",
+    "竿尖或线组出现明显的下顿，幅度较大，力量感强，是鲳鱼咬住鱼饵的信号。",
+    "快速拉拽（路亚）",
+    "：",
+    "路亚竿竿稍突然被大力拉拽，手感沉重，是鲳鱼攻击拟饵的信号。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:鲳鱼常栖息于泥沙质海底或礁石区附近，选择这些区域作为钓点能提高中鱼率。",
+    "根据水深和流速选择合适的钓法和钓组:水深较深或流速较快时，可选择船钓底钓或重铅矶钓；水浅或流速较缓时，可选择轻矶钓或路亚钓。",
+    "灵活运用拟饵和钓法:路亚钓法可尝试不同类型的拟饵和操作手法，找到最适合当日鱼情的作钓方式。",
+    "注意潮汐变化:潮汐涨落会影响鲳鱼的觅食习性，涨潮时鱼群可能更靠近岸边，退潮时则可能游向深海。",
+    "保持耐心和细致:海钓需要耐心等待，仔细观察鱼讯，及时扬竿刺鱼。"
+  ],
+  "recommended_spots": "近海海域、海湾、岛屿周围、礁石区、码头、港口",
+  "distribution": [
+    "浙江省"
+  ],
+  "similar_fish": [
+    "斗鲳",
+    "刺鲳",
+    "中国鲳",
+    "斑点刺鲳",
+    "圆斑燕鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yin-chang.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yin-chang-0-ebc6e55e.webp",
+      "https://fishweather.cn/asset-images/catch/yin-chang-1-2b885f82.webp",
+      "https://fishweather.cn/asset-images/catch/yin-chang-2-b91d3282.webp",
+      "https://fishweather.cn/asset-images/catch/yin-chang-3-42b3fdf4.webp",
+      "https://fishweather.cn/asset-images/catch/yin-chang-4-eae7d744.webp"
+    ]
+  },
+  "profile_text_sha256": "567e71c39fd5b9542819def79088abf938a6e614c96f78ad07b8c466ac0b1ca9",
+  "raw_line_count": 141,
+  "local_dir": "by_family/鲳科/yin-chang_银鲳",
+  "local_images": {
+    "fish": [
+      "by_family/鲳科/yin-chang_银鲳/images/main.webp"
+    ],
+    "catch": []
+  }
+}

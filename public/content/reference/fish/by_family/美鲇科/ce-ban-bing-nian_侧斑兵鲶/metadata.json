@@ -1,0 +1,52 @@
+{
+  "name": "侧斑兵鲶",
+  "slug": "ce-ban-bing-nian",
+  "source_url": "https://fishweather.cn/fish/ce-ban-bing-nian",
+  "list_page": 32,
+  "list_position": 765,
+  "scientific_name": "Corydoras aeneus",
+  "aliases": "咖啡鼠、弓背鼠鱼、棕色兵鲶",
+  "headline": "侧斑兵鲶怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "青铜鼠鱼体型娇小，呈纺锤形，略微侧扁，体表光滑无鳞，覆盖骨质盾片。头部圆钝，口须2对，用于在底床中探测食物。体色主要为青铜色或黄褐色，带有金属光泽，腹部颜色较浅。背鳍、胸鳍、腹鳍和臀鳍均为透明，尾鳍呈叉形。体侧常有一条不明显的深色条纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "美鲇科",
+    "水层": "底层",
+    "食性": "杂食性，主要以底栖无脊椎动物、小型昆虫幼虫、藻类、植物碎屑和有机物碎屑为食，也会摄食人工沉底饲料。",
+    "栖息环境": "栖息于南美洲亚马逊河流域及其支流的溪流、河流、池塘和沼泽等各种淡水生境，偏好植被茂盛、底床柔软的水域。",
+    "体长": "7.5 cm",
+    "体重": "0.05 kg",
+    "寿命": "在良好的饲养条件下，青铜鼠鱼的寿命可达5-10年。",
+    "适温": "22-26 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "花鼠鱼",
+    "咖啡鼠鱼",
+    "珍珠鼠鱼",
+    "红鼠鱼",
+    "熊猫鼠鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ce-ban-bing-nian.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "2da6a09c47543f7d81dc24a4ed8a7ba0d0570579398bb2ce8321de328ce16d89",
+  "raw_line_count": 32,
+  "local_dir": "by_family/美鲇科/ce-ban-bing-nian_侧斑兵鲶",
+  "local_images": {
+    "fish": [
+      "by_family/美鲇科/ce-ban-bing-nian_侧斑兵鲶/images/main.webp"
+    ],
+    "catch": []
+  }
+}

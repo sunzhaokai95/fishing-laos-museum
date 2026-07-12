@@ -1,0 +1,91 @@
+{
+  "name": "清道夫",
+  "slug": "qing-dao-fu",
+  "source_url": "https://fishweather.cn/fish/qing-dao-fu",
+  "list_page": 6,
+  "list_position": 128,
+  "scientific_name": "Pterygoplichthys multiradiatus",
+  "aliases": "琵琶鱼、垃圾鱼、皇冠琵琶鼠",
+  "headline": "清道夫怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型较大，呈纺锤形，头部扁平，腹部圆钝。体表覆盖骨板，粗糙坚硬。口下位，具有发达的吸盘状口唇，适于吸附。背鳍高大，具有多条鳍棘。体色多为棕褐色或黑色，带有深色斑点或条纹，颜色和花纹多变。腹鳍胸位，尾鳍圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "甲鲇科",
+    "水层": "底层",
+    "食性": "杂食性，偏向植食性，主要刮食藻类、水底的有机碎屑、植物残渣及人工饲料，也摄食水生昆虫幼虫等小型底栖动物",
+    "栖息环境": "江河、湖泊、水库等淡水水域的底部，喜好栖息于水流缓慢、富含藻类和有机碎屑的环境",
+    "体长": "50 cm",
+    "体重": "2.5 kg",
+    "寿命": "寿命较长，一般可达10年以上，在适宜的环境和饲养条件下，甚至可存活更长时间。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "煮熟的玉米粒",
+    "红薯块",
+    "土豆块",
+    "南瓜块",
+    "颗粒饲料（沉性）",
+    "麦麸",
+    "豆饼",
+    "菜叶",
+    "面包",
+    "商品底钓饵料"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速下沉没入水中，是最常见的漂相，表示鱼已吞饵",
+    "缓顿",
+    "：",
+    "浮漂缓慢下顿，幅度较小，可能是试探性咬钩",
+    "快顿",
+    "：",
+    "浮漂快速有力地下顿一下，然后上浮或停顿，表示鱼咬钩",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料",
+    "持续下沉",
+    "：",
+    "浮漂缓慢但持续地下沉，直至没入水中，表示鱼持续吞食"
+  ],
+  "practical_tips": [
+    "选择重味型饵料，如发酵玉米、红薯等，增加诱鱼效果",
+    "钓点选择在水草边、乱石堆、树根旁等清道夫鱼喜欢藏身的地方",
+    "使用打窝诱鱼，提前在钓点投放窝料，如菜饼、颗粒饲料等",
+    "采用守钓为主，清道夫鱼活动范围较小，一旦发现鱼星或咬钩信号，可在同一钓点持续作钓",
+    "扬竿力度要大，清道夫鱼口部骨板较硬，需用力才能刺穿鱼嘴"
+  ],
+  "recommended_spots": "水库、池塘、河流缓流段、湖泊、沟渠",
+  "distribution": [],
+  "similar_fish": [
+    "鲮鱼",
+    "埃及胡子鲶",
+    "革胡子鲶",
+    "斑鳢",
+    "清道夫"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qing-dao-fu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/qing-dao-fu-0-06127f53.webp",
+      "https://fishweather.cn/asset-images/catch/qing-dao-fu-1-e487db0f.webp",
+      "https://fishweather.cn/asset-images/catch/qing-dao-fu-2-48ad8768.webp",
+      "https://fishweather.cn/asset-images/catch/qing-dao-fu-3-27628f96.webp",
+      "https://fishweather.cn/asset-images/catch/qing-dao-fu-4-05ed670b.webp"
+    ]
+  },
+  "profile_text_sha256": "7186cc25d4cd7c5adb59f164b277e1550850ce84de096111a05b969732113535",
+  "raw_line_count": 142,
+  "local_dir": "by_family/甲鲇科/qing-dao-fu_清道夫",
+  "local_images": {
+    "fish": [
+      "by_family/甲鲇科/qing-dao-fu_清道夫/images/main.webp"
+    ],
+    "catch": []
+  }
+}

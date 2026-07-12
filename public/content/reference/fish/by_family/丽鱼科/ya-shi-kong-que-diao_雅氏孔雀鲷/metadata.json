@@ -1,0 +1,52 @@
+{
+  "name": "雅氏孔雀鲷",
+  "slug": "ya-shi-kong-que-diao",
+  "source_url": "https://fishweather.cn/fish/ya-shi-kong-que-diao",
+  "list_page": 21,
+  "list_position": 497,
+  "scientific_name": "Aulonocara jacobfreibergi",
+  "aliases": "非洲王子、弗雷贝里孔雀",
+  "headline": "雅氏孔雀鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "杰克弗雷贝里孔雀是一种色彩鲜艳的非洲慈鲷，体型修长，侧扁。雄鱼体色绚丽，头部和身体上半部呈亮蓝色或金属蓝色，背鳍、臀鳍和尾鳍边缘常有黄色或橙色条纹，体侧散布着不规则的深色斑点或条纹。雌鱼颜色相对暗淡，通常为银灰色或棕灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性为主，偏肉食性。在自然环境中主要以小型无脊椎动物、昆虫幼虫、浮游生物以及刮食岩石表面的藻类和有机碎屑为食。在人工饲养条件下，可接受各种人工鱼粮，如薄片、颗粒饲料以及冷冻或活食。",
+    "栖息环境": "马拉维湖多岩石的沿岸地区，偏好水质清澈、岩石众多的环境。",
+    "体长": "15",
+    "体重": "0.1",
+    "寿命": "寿命较长，在良好的饲养条件下，可达5-8年甚至更长。",
+    "适温": "24-28"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "非洲王子",
+    "蓝宝石",
+    "金头阿里",
+    "雪中红",
+    "火鸟"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ya-shi-kong-que-diao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "1805fcccca4d36a3ea425fa182e08b71d9e816d8f09716548df1378f8b374026",
+  "raw_line_count": 32,
+  "local_dir": "by_family/丽鱼科/ya-shi-kong-que-diao_雅氏孔雀鲷",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/ya-shi-kong-que-diao_雅氏孔雀鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

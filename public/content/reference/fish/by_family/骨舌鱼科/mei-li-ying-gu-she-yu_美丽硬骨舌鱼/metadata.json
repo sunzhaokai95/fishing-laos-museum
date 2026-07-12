@@ -1,0 +1,52 @@
+{
+  "name": "美丽硬骨舌鱼",
+  "slug": "mei-li-ying-gu-she-yu",
+  "source_url": "https://fishweather.cn/fish/mei-li-ying-gu-she-yu",
+  "list_page": 10,
+  "list_position": 222,
+  "scientific_name": "Scleropages formosus",
+  "aliases": "金龙鱼、红龙鱼、龙吐珠、银带",
+  "headline": "美丽硬骨舌鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体型elongate且侧扁，背部略微隆起，腹部平直。头部中等大小，口上位，口裂大且倾斜。下颌突出，具须一对。眼大而圆，位于头部前方。鳞片大型，呈网状排列，侧线完全且明显。体色多样，依据品种有金黄色、红色、银色等，幼鱼体色较浅，成鱼体色鲜艳。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "骨舌鱼目",
+    "科": "骨舌鱼科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、昆虫、甲壳类、两栖类等水生动物，也摄食落入水中的陆生昆虫和小动物。人工饲养条件下可接受鱼块、虾肉、昆虫等人工饲料。",
+    "栖息环境": "主要栖息于东南亚地区的热带淡水河流、湖泊和沼泽中，喜欢水流缓慢、植被茂盛、水质清澈的环境。",
+    "体长": "90 cm",
+    "体重": "17 kg",
+    "寿命": "寿命较长，在自然环境中可达10-20年，人工饲养条件下，精心照料可活20年以上，甚至更长。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "银龙鱼",
+    "星点珍珠龙鱼",
+    "澳洲星点龙鱼",
+    "尼罗河龙鱼",
+    "海象鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/mei-li-ying-gu-she-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "d2eee138441e4be0dcdf80480e663148df0f1d86be4e001affa3548b40f7eb34",
+  "raw_line_count": 37,
+  "local_dir": "by_family/骨舌鱼科/mei-li-ying-gu-she-yu_美丽硬骨舌鱼",
+  "local_images": {
+    "fish": [
+      "by_family/骨舌鱼科/mei-li-ying-gu-she-yu_美丽硬骨舌鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

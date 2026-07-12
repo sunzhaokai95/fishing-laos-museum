@@ -1,0 +1,91 @@
+{
+  "name": "斑鰶",
+  "slug": "ban-ji",
+  "source_url": "https://fishweather.cn/fish/ban-ji",
+  "list_page": 4,
+  "list_position": 96,
+  "scientific_name": "Konosirus punctatus",
+  "aliases": "鰶鱼、海鲫、白力鱼、刀鰶、油鰶",
+  "headline": "斑鰶怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，略呈纺锤形。背腹缘均凸出。头小，吻尖突。口小，下位。眼大，上侧位。鳞细小，易脱落。侧线明显，前部稍弯曲。体背部青灰色，体侧及腹部银白色。各鳍灰白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲱形目",
+    "科": "鲱科",
+    "水层": "中上层",
+    "食性": "主要摄食浮游生物，如硅藻、桡足类、甲壳类幼虫等",
+    "栖息环境": "近海暖温性中上层鱼类，常栖息于沿海及河口水域",
+    "体长": "30 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命较短，一般为3-4年。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [
+    "鱼粉饵料",
+    "虾粉饵料",
+    "南极虾",
+    "海藻类饵料",
+    "沙蚕",
+    "面粉饵料",
+    "商品海钓饵料",
+    "磷虾粉",
+    "鱼骨粉",
+    "玉米粉"
+  ],
+  "float_signals": [
+    "慢速下沉",
+    "：",
+    "浮漂缓慢下沉，可能是斑鰶轻口试探，需注意观察后续动作。",
+    "快速下沉",
+    "：",
+    "浮漂快速沉入水中，表明鱼已咬钩并拉动饵料。",
+    "顿口",
+    "：",
+    "浮漂快速下顿或出现黑漂，这是斑鰶咬钩的典型信号。",
+    "横向移动",
+    "：",
+    "浮漂在水面横向移动，可能是斑鰶咬钩后游动导致。",
+    "浮漂上顶",
+    "：",
+    "浮漂先下沉后上顶，可能是斑鰶将饵料叼起又吐出，需及时抓住上顶信号。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:斑鰶常在水流较缓、饵料丰富的区域活动，如河口、海湾内侧等。",
+    "使用诱饵打窝:提前打窝诱鱼，可有效提高上鱼率，诱饵可选用鱼粉、虾粉等。",
+    "注意潮汐变化:涨潮时斑鰶会更活跃，可选择涨潮时作钓。",
+    "灵敏观察漂像:斑鰶吃口较轻，需仔细观察浮漂的细微动作。",
+    "及时扬竿:一旦出现漂像，需及时扬竿刺鱼，避免跑鱼。"
+  ],
+  "recommended_spots": "近海、海湾、河口、码头、防波堤、礁石区",
+  "distribution": [],
+  "similar_fish": [
+    "鲱鱼",
+    "沙丁鱼",
+    "青鳞鱼",
+    "棱鳀",
+    "刀鲚"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ban-ji.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ban-ji-0-b08a4a66.webp",
+      "https://fishweather.cn/asset-images/catch/ban-ji-1-c56c7a3b.webp",
+      "https://fishweather.cn/asset-images/catch/ban-ji-2-def6bbb9.webp",
+      "https://fishweather.cn/asset-images/catch/ban-ji-3-3b49ec91.webp",
+      "https://fishweather.cn/asset-images/catch/ban-ji-4-97e8cda7.webp"
+    ]
+  },
+  "profile_text_sha256": "5b0398c453e51fdcb3723352bd81dad8e1d94b8b44c2945220436bd2fc6bd402",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鲱科/ban-ji_斑鰶",
+  "local_images": {
+    "fish": [
+      "by_family/鲱科/ban-ji_斑鰶/images/main.webp"
+    ],
+    "catch": []
+  }
+}

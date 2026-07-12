@@ -1,0 +1,51 @@
+{
+  "name": "豹纹鲨",
+  "slug": "bao-wen-sha",
+  "source_url": "https://fishweather.cn/fish/bao-wen-sha",
+  "list_page": 30,
+  "list_position": 703,
+  "scientific_name": "Stegostoma fasciatum",
+  "aliases": "豆腐鲨、大海狗",
+  "headline": "豹纹鲨是保护动物吗？习性与识别图鉴",
+  "summary": "体延长圆柱形，稍平扁。头宽圆。吻宽而圆钝。眼小，椭圆形，上侧位。鼻孔小，鼻瓣短。口小，横裂，下颌略突出。齿细小，多行。喷水孔小，位于眼后下方。鳃裂5对，较窄。背鳍2个，第一背鳍大，三角形，第二背鳍小，圆形。胸鳍宽大，镰刀形。腹鳍小，位于两背鳍之间。臀鳍小，与第二背鳍相对。尾鳍特长，约占全长之半，上叶发达，具显著的缺刻。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "须鲛目",
+    "科": "豹纹鲨科",
+    "水层": "底层",
+    "食性": "底栖无脊椎动物，如蟹、虾、贝类及小型鱼类",
+    "栖息环境": "热带和亚热带沿海珊瑚礁、沙质海底、岩礁附近",
+    "体长": "350 cm",
+    "体重": "20 kg",
+    "寿命": "寿命较长，具体寿命数据缺乏详细研究，但估计可达20年以上。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "护士鲨",
+    "须鲨",
+    "虎纹鲨",
+    "斑点须鲨"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bao-wen-sha.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "541b9a6dfee5d83a1e3eae5168f33ae8a738018e7cad4bfcfbedeb1431054cd3",
+  "raw_line_count": 36,
+  "local_dir": "by_family/豹纹鲨科/bao-wen-sha_豹纹鲨",
+  "local_images": {
+    "fish": [
+      "by_family/豹纹鲨科/bao-wen-sha_豹纹鲨/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "IMG-CON-001",
+    "title": "水面与水下剖面概念图",
+    "local_path": "assets/placeholders/water-section-concept.webp",
+    "rights_status": "generated_reference"
+  },
+  {
+    "id": "IMG-FISH-001",
+    "title": "鲫鱼 *Carassius auratus*",
+    "local_path": "assets/fish/crucian-carp.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-002",
+    "title": "鲤鱼 *Cyprinus carpio*",
+    "local_path": "assets/fish/common-carp.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-003",
+    "title": "草鱼 *Ctenopharyngodon idella*",
+    "local_path": "assets/fish/grass-carp.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-004",
+    "title": "青鱼 *Mylopharyngodon piceus*",
+    "local_path": "assets/fish/black-carp.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-005",
+    "title": "团头鲂 *Megalobrama amblycephala*",
+    "local_path": "assets/fish/wuchang-bream.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-006",
+    "title": "鲢 *Hypophthalmichthys molitrix*",
+    "local_path": "assets/fish/silver-carp.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-007",
+    "title": "鳙 *Hypophthalmichthys nobilis*",
+    "local_path": "assets/fish/bighead-carp.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-008",
+    "title": "白条 *Hemiculter leucisculus*",
+    "local_path": "assets/fish/white-strip.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-009",
+    "title": "翘嘴鲌 *Culter alburnus*",
+    "local_path": "assets/fish/topmouth-culter.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-010",
+    "title": "黄尾鲴 *Xenocypris davidi*",
+    "local_path": "assets/fish/yellowfin-carp.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-011",
+    "title": "红鳍鲌 *Chanodichthys erythropterus*",
+    "local_path": "assets/fish/redfin-culter.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-012",
+    "title": "尼罗罗非鱼 *Oreochromis niloticus*",
+    "local_path": "assets/fish/nile-tilapia.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-013",
+    "title": "鲶 *Silurus asotus*",
+    "local_path": "assets/fish/amur-catfish.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-014",
+    "title": "黄颡鱼 *Tachysurus fulvidraco*",
+    "local_path": "assets/fish/yellow-catfish.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-015",
+    "title": "乌鳢 *Channa argus*",
+    "local_path": "assets/fish/northern-snakehead.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-016",
+    "title": "马口鱼 *Opsariichthys bidens*",
+    "local_path": "assets/fish/opsariichthys-bidens.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-017",
+    "title": "大口黑鲈 *Micropterus salmoides*",
+    "local_path": "assets/fish/largemouth-bass.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-018",
+    "title": "鳜 *Siniperca chuatsi*",
+    "local_path": "assets/fish/mandarin-fish.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-019",
+    "title": "日本鳗鲡 *Anguilla japonica*",
+    "local_path": "assets/fish/japanese-eel.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-020",
+    "title": "高体鳑鲏 *Rhodeus ocellatus*",
+    "local_path": "assets/fish/rose-bitterling.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-021",
+    "title": "胭脂鱼 *Myxocyprinus asiaticus*",
+    "local_path": "assets/fish/chinese-sucker.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-022",
+    "title": "麦穗鱼 *Pseudorasbora parva*",
+    "local_path": "assets/fish/topmouth-gudgeon.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-023",
+    "title": "中国花鲈 *Lateolabrax maculatus*",
+    "local_path": "assets/fish/chinese-seabass.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-024",
+    "title": "黑棘鲷 *Acanthopagrus schlegelii*",
+    "local_path": "assets/fish/blackhead-seabream.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-025",
+    "title": "黄鳍棘鲷 *Acanthopagrus latus*",
+    "local_path": "assets/fish/yellowfin-seabream.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-026",
+    "title": "鲻 *Mugil cephalus*",
+    "local_path": "assets/fish/flathead-grey-mullet.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-027",
+    "title": "赤点石斑鱼 *Epinephelus akaara*",
+    "local_path": "assets/fish/red-spotted-grouper.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-028",
+    "title": "蓝点马鲛 *Scomberomorus niphonius*",
+    "local_path": "assets/fish/japanese-spanish-mackerel.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-029",
+    "title": "三线矶鲈 *Parapristipoma trilineatum*",
+    "local_path": "assets/fish/chicken-grunt.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-FISH-030",
+    "title": "金钱鱼 *Scatophagus argus*",
+    "local_path": "assets/fish/spotted-scat.webp",
+    "rights_status": "rights_pending"
+  },
+  {
+    "id": "IMG-HIS-001",
+    "title": "珙县猪圈门岩画拓印",
+    "local_path": "assets/source-docx/image9.jpeg",
+    "rights_status": "research_candidate"
+  },
+  {
+    "id": "IMG-HIS-002",
+    "title": "半坡遗址骨质直形钓钩",
+    "local_path": "assets/source-docx/image10.jpeg",
+    "rights_status": "research_candidate"
+  },
+  {
+    "id": "IMG-HIS-003",
+    "title": "清代吴友如版画《妇女钓鱼图》",
+    "local_path": "assets/source-docx/image12.jpeg",
+    "rights_status": "research_candidate"
+  },
+  {
+    "id": "IMG-HIS-004",
+    "title": "董诰《御制渔具十咏图并书》",
+    "local_path": "assets/source-docx/image15.jpeg",
+    "rights_status": "research_candidate"
+  },
+  {
+    "id": "IMG-HIS-005",
+    "title": "早期金属钓钩局部",
+    "local_path": "assets/source-docx/image19.jpeg",
+    "rights_status": "research_candidate"
+  },
+  {
+    "id": "IMG-HIS-006",
+    "title": "马远《寒江独钓图》相关图像",
+    "local_path": "assets/source-docx/image24.jpeg",
+    "rights_status": "research_candidate"
+  },
+  {
+    "id": "IMG-HIS-007",
+    "title": "汉代画像石上的钓轮",
+    "local_path": "assets/source-docx/image25.jpeg",
+    "rights_status": "research_candidate"
+  },
+  {
+    "id": "IMG-HIS-008",
+    "title": "《金明池争标图》局部",
+    "local_path": "assets/source-docx/image35.jpeg",
+    "rights_status": "research_candidate"
+  }
+]

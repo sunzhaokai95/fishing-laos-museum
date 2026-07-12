@@ -1,0 +1,52 @@
+{
+  "name": "纵带黑丽鱼",
+  "slug": "zong-dai-hei-li-yu",
+  "source_url": "https://fishweather.cn/fish/zong-dai-hei-li-yu",
+  "list_page": 24,
+  "list_position": 553,
+  "scientific_name": "Melanochromis auratus",
+  "aliases": "非洲王子、金头阿芙",
+  "headline": "纵带黑丽鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "金头非洲王子是一种色彩鲜艳的小型慈鲷，体型修长略微侧扁，幼鱼和成鱼体色差异显著。幼鱼通体金黄色，背部中央和侧面各有一条黑色条纹，腹部白色。雄性成鱼头部和背鳍前端变为金黄色或亮白色，身体变为深蓝色或黑色，黑色条纹依然可见但颜色变浅，雌性成鱼体色变化不大，仍保持金黄色或亮黄色。体表鳞片细小，眼睛较大，口部端位。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、小型无脊椎动物和浮游生物为食",
+    "栖息环境": "马拉维湖沿岸的岩石区域",
+    "体长": "11",
+    "体重": "0.1",
+    "寿命": "人工饲养条件下寿命通常为5-8年，最长可达10年以上。",
+    "适温": "24-28"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "非洲王子",
+    "闪电王子",
+    "雪鲷",
+    "蓝宝石",
+    "斑马雀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zong-dai-hei-li-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "72d6a05dd5a21dad73cccfd637436f31b4ff28fd7d98165fbae2f061a4f1734c",
+  "raw_line_count": 32,
+  "local_dir": "by_family/丽鱼科/zong-dai-hei-li-yu_纵带黑丽鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/zong-dai-hei-li-yu_纵带黑丽鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

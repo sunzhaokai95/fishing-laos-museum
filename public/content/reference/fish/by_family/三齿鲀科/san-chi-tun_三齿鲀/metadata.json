@@ -1,0 +1,50 @@
+{
+  "name": "三齿鲀",
+  "slug": "san-chi-tun",
+  "source_url": "https://fishweather.cn/fish/san-chi-tun",
+  "list_page": 26,
+  "list_position": 609,
+  "scientific_name": "Triodon macropterus",
+  "aliases": "暂无广为人知的俗名",
+  "headline": "三齿鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体侧扁而高，腹部有一个巨大的、可折叠收起的皮瓣。口小，上下颌各有三枚齿板。体表覆盖有细小棘刺，不易察觉。背鳍和臀鳍相对称，位置靠后。尾鳍截形。体色通常为灰色、褐色或橄榄色，有时腹部皮瓣边缘呈深色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "三齿鲀科",
+    "水层": "深水层(通常在50-300米深度)",
+    "食性": "主要以底栖无脊椎动物为食，如虾蟹、软体动物等",
+    "栖息环境": "海底，通常为砂泥底质或大陆坡",
+    "体长": "54 cm",
+    "体重": null,
+    "寿命": "关于其自然寿命的详细研究较少，具体寿命信息不详。",
+    "适温": null
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "其他鲀形目鱼类",
+    "板机鲀类",
+    "箱鲀类"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/san-chi-tun.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "a36fcc630394278e659904f74c009163f4a0375608d8ad943c18cf457a7101ec",
+  "raw_line_count": 26,
+  "local_dir": "by_family/三齿鲀科/san-chi-tun_三齿鲀",
+  "local_images": {
+    "fish": [
+      "by_family/三齿鲀科/san-chi-tun_三齿鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

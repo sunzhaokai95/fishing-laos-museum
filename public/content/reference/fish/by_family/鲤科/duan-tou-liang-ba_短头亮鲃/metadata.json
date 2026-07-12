@@ -1,0 +1,91 @@
+{
+  "name": "短头亮鲃",
+  "slug": "duan-tou-liang-ba",
+  "source_url": "https://fishweather.cn/fish/duan-tou-liang-ba",
+  "list_page": 5,
+  "list_position": 114,
+  "scientific_name": "Luciobarbus brachycephalus",
+  "aliases": "新疆大头鱼、大头鲤",
+  "headline": "短头亮鲃怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型粗壮，头大且宽，约占体长的1/3。吻钝圆，口亚下位，呈弧形，唇厚，肉质。须2对，发达。眼小，位于头侧上方。背鳍起点位于腹鳍起点前方。体被大型鳞片，侧线完全。体色背部灰褐色或棕褐色，腹部银白色。各鳍灰黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性，主要以底栖无脊椎动物、水生昆虫、小型鱼类、植物碎屑和藻类等为食。",
+    "栖息环境": "主要栖息于水流湍急的河流中下游，也见于湖泊和水库的深水区，喜好砾石或沙质底质。",
+    "体长": "120 cm",
+    "体重": "30 kg",
+    "寿命": "寿命较长，在自然条件下可达20年以上，甚至更长。",
+    "适温": "10-25 °C"
+  },
+  "bait_options": [
+    "玉米粒（老玉米或嫩玉米均可）",
+    "麦粒（发酵麦粒或酒泡麦粒）",
+    "商品鲤鱼饵料（浓腥味或香味）",
+    "颗粒饲料（膨化颗粒或原塘颗粒）",
+    "红薯块（蒸熟或烤熟的红薯）",
+    "土豆块（煮熟的土豆）",
+    "蚕豆（煮熟的蚕豆）",
+    "菜饼（油菜籽饼或豆饼）",
+    "麸皮（炒香麸皮）",
+    "面团（粗面或玉米面面团）"
+  ],
+  "float_signals": [
+    "上顶漂",
+    "：",
+    "浮漂缓慢上顶，露出水面目数增多，可能是鱼将饵料拱起，需注意观察，如有后续动作可扬竿。",
+    "走漂",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料游动，或水流带动，需判断是否为鱼讯，如有顿口可扬竿。",
+    "顿口黑漂",
+    "：",
+    "浮漂先是出现快速有力的下顿，幅度较大，然后直接黑漂入水，这是大头野鲮典型的吃口信号，扬竿时机果断。",
+    "连续点动后黑漂",
+    "：",
+    "浮漂先是出现连续轻微的点动或颤动，试探性信号，之后突然黑漂，表明鱼已确认并吞食饵料。",
+    "缓沉黑漂",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，可能是鱼吸食饵料后缓缓游动造成，也需及时扬竿。"
+  ],
+  "practical_tips": [
+    "重窝诱鱼:大头野鲮食量大，喜群聚，提前打重窝诱鱼效果显著，可用玉米、麦粒、颗粒等大颗粒饵料打窝。",
+    "钓位选择:选择水流交汇处、洄水湾、深浅水交界处等鱼类易聚集的地方作为钓位。",
+    "饵料搭配:根据季节和水情灵活搭配饵料，春季可用腥味饵料，夏季可用清淡香味饵料，秋季可用浓香味饵料。",
+    "线组强度:针对大个体鱼类，线组强度要足够，主线子线都要选择耐磨高强度的。",
+    "耐心等待:大头野鲮吃口相对较慢，需要耐心等待，不要频繁提竿。"
+  ],
+  "recommended_spots": "河流深水区、水库、湖泊深水区、江河缓流段、砾石底质水域",
+  "distribution": [],
+  "similar_fish": [
+    "野鲮",
+    "鲤鱼",
+    "鲢鳙",
+    "草鱼",
+    "鳊鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/duan-tou-liang-ba.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/duan-tou-liang-ba-0-76fc0c7a.webp",
+      "https://fishweather.cn/asset-images/catch/duan-tou-liang-ba-1-e4bdfe80.webp",
+      "https://fishweather.cn/asset-images/catch/duan-tou-liang-ba-2-bb7ddeb6.webp",
+      "https://fishweather.cn/asset-images/catch/duan-tou-liang-ba-3-4b3fd249.webp",
+      "https://fishweather.cn/asset-images/catch/duan-tou-liang-ba-4-4d50a024.webp"
+    ]
+  },
+  "profile_text_sha256": "0bc32dbcf8cf34394a25bfe37fb62879a0f98e1a6069dd766e65f4854646a7f4",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鲤科/duan-tou-liang-ba_短头亮鲃",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/duan-tou-liang-ba_短头亮鲃/images/main.webp"
+    ],
+    "catch": []
+  }
+}

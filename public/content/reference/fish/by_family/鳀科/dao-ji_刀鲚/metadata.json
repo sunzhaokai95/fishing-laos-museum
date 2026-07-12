@@ -1,0 +1,55 @@
+{
+  "name": "刀鲚",
+  "slug": "dao-ji",
+  "source_url": "https://fishweather.cn/fish/dao-ji",
+  "list_page": 4,
+  "list_position": 94,
+  "scientific_name": "Coilia nasus",
+  "aliases": "长江刀鱼、凤尾鱼、烤子鱼、刀鲚",
+  "headline": "刀鲚是保护动物吗？习性与识别图鉴",
+  "summary": "体细长而侧扁，呈带状。头小而侧扁，吻尖。口大，下位。眼大，侧上位。无侧线。背鳍1个，位于体中部。臀鳍长，与尾鳍相连。尾鳍小，尖刀形。体银白色，背部略带灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲱形目",
+    "科": "鳀科",
+    "水层": "中上层",
+    "食性": "肉食性，主要摄食浮游动物、小型鱼虾等。",
+    "栖息环境": "近海浅水区、河口、江河中下游",
+    "体长": "41 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为3-4年。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "上海市",
+    "安徽省",
+    "江苏省"
+  ],
+  "similar_fish": [
+    "凤鲚",
+    "短颌鲚",
+    "七丝鲚",
+    "龙头鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/dao-ji.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "4b7c899fc9e253efd01ba3ba265c4fd7029a8cc947bd684d5f538ca810b6e195",
+  "raw_line_count": 40,
+  "local_dir": "by_family/鳀科/dao-ji_刀鲚",
+  "local_images": {
+    "fish": [
+      "by_family/鳀科/dao-ji_刀鲚/images/main.webp"
+    ],
+    "catch": []
+  }
+}

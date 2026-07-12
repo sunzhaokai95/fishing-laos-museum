@@ -1,0 +1,51 @@
+{
+  "name": "大刺色鳅",
+  "slug": "da-ci-se-qiu",
+  "source_url": "https://fishweather.cn/fish/da-ci-se-qiu",
+  "list_page": 27,
+  "list_position": 640,
+  "scientific_name": "Chromobotia macracanthus",
+  "aliases": "小丑鱼（观赏鱼市场常见俗称、但易与海水小丑鱼混淆）",
+  "headline": "大刺色鳅怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，背部略隆起。头部中等大小，吻尖，口下位，具肉质须3对，吻须、口角须和颏须各一对。眼大，位于头侧上方。体表光滑无鳞。体色鲜艳，底色为橙黄色或亮黄色，体侧具有三条宽大的黑色横带，第一条横带环绕头部，穿过眼睛；第二条横带位于背鳍前方；第三条横带位于背鳍后方至尾鳍基部。各鳍透明，背鳍和臀鳍位置相对。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鳅科",
+    "水层": "底层,主要在水底活动，有时也会在中下层游动",
+    "食性": "杂食性，偏肉食性。主要以底栖无脊椎动物（如昆虫幼虫、小型甲壳类）、植物碎屑、藻类、以及沉入水底的有机碎屑为食。在人工饲养条件下，可接受多种人工饲料，如薄片饲料、颗粒饲料、冷冻红虫、丰年虾等",
+    "栖息环境": "原生栖息于东南亚苏门答腊岛和婆罗洲的河流中，偏爱水流缓慢或静止的清澈水域，底质为沙砾或石块，并有沉木、水草等提供隐蔽场所",
+    "体长": "40 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命较长，在良好的饲养条件下，可存活10年以上，甚至可达20年以上。是寿命较长的观赏鱼品种之一",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "боция-клоун",
+    "боция-зебра",
+    "боция-мрамор",
+    "боция-шахматная"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-ci-se-qiu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "23131e663ee0be5c883bd4babdf60508c86f20330f261a4287158d2a2774c364",
+  "raw_line_count": 31,
+  "local_dir": "by_family/鳅科/da-ci-se-qiu_大刺色鳅",
+  "local_images": {
+    "fish": [
+      "by_family/鳅科/da-ci-se-qiu_大刺色鳅/images/main.webp"
+    ],
+    "catch": []
+  }
+}

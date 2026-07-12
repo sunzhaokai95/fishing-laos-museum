@@ -1,0 +1,91 @@
+{
+  "name": "线纹鳗鲶",
+  "slug": "xian-wen-man-nian",
+  "source_url": "https://fishweather.cn/fish/xian-wen-man-nian",
+  "list_page": 4,
+  "list_position": 84,
+  "scientific_name": "Plotosus lineatus",
+  "aliases": "沙毛、海鲇、须鲶、倒刺鲶、坑扁",
+  "headline": "线纹鳗鲶怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，鳗形，后部侧扁。头小而略平扁。吻圆钝。口下位，具须4对，鼻须、上颌须和颏须各一对，均较长。眼小，侧上位。鳃孔小，位于胸鳍前方。背鳍和臀鳍与尾鳍相连，形成连续的鳍褶。体表光滑无鳞。体色为浅黄或棕黄色，体侧自眼后至尾鳍基部有2-3条黑色纵带，幼鱼期条纹明显，成鱼期条纹可能变淡或断续。胸鳍和背鳍鳍棘具有毒腺，刺伤人会",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "鳗鲇科",
+    "水层": "底层",
+    "食性": "肉食性为主，主要摄食小型底栖无脊椎动物，如甲壳类、软体动物、多毛类等，也捕食小型鱼类和腐肉。",
+    "栖息环境": "主要栖息于热带和亚热带沿海的珊瑚礁、岩礁、沙泥底质海域，也见于河口和红树林区。喜集群活动，白天躲藏于礁石缝隙或沙泥中，夜",
+    "体长": "32 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命较短，一般为3-5年，在适宜条件下可能更长。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "虾肉",
+    "鱼肉块",
+    "鱿鱼块",
+    "贝肉",
+    "海মাছ",
+    "沙蚕",
+    "南极虾",
+    "小螃蟹",
+    "海蟑螂",
+    "人工鱼饵（软饵",
+    "铁板饵）"
+  ],
+  "float_signals": [
+    "顿口急沉",
+    "：",
+    "浮漂快速有力地下沉，通常是线纹鳗鲶吞饵的信号，应立即扬竿。",
+    "黑漂缓沉",
+    "：",
+    "浮漂缓慢没入水中，可能是线纹鳗鲶试探性咬口或饵料过重，可稍等片刻再扬竿。",
+    "大幅晃动",
+    "：",
+    "浮漂在水面大幅度晃动，可能是线纹鳗鲶咬住饵料后游动，应及时扬竿。",
+    "浮漂移位",
+    "：",
+    "浮漂在水面横向移动，可能是线纹鳗鲶拖动饵料，应及时扬竿。",
+    "连续点动",
+    "：",
+    "浮漂出现连续轻微的点动，可能是小鱼闹窝或线纹鳗鲶轻微触碰饵料，需仔细观察，抓住顿口。"
+  ],
+  "practical_tips": [
+    "选择夜钓或晨昏时段，线纹鳗鲶夜间активнее觅食。",
+    "使用腥味较浓的饵料，如虾肉、鱼肉、沙蚕等，提高诱鱼效果。",
+    "钓组尽量贴近水底，线纹鳗鲶主要在底层活动。",
+    "注意避开毒棘，摘鱼时小心谨慎，防止被刺伤。",
+    "可采用多竿垂钓，扩大搜索范围，提高上鱼率。"
+  ],
+  "recommended_spots": "礁石区、岩岸、码头、港口、防波堤、近海沉船区",
+  "distribution": [],
+  "similar_fish": [
+    "鳗鱼",
+    "海鲶",
+    "胡子鲶",
+    "кожаныйсом"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xian-wen-man-nian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xian-wen-man-nian-0-68ed06d6.webp",
+      "https://fishweather.cn/asset-images/catch/xian-wen-man-nian-1-f9f1488b.webp",
+      "https://fishweather.cn/asset-images/catch/xian-wen-man-nian-2-e7e9024d.webp",
+      "https://fishweather.cn/asset-images/catch/xian-wen-man-nian-3-ec7e6571.webp",
+      "https://fishweather.cn/asset-images/catch/xian-wen-man-nian-4-82c1aefd.webp"
+    ]
+  },
+  "profile_text_sha256": "55071fcc3966990303c694e8c86943f2e77bc3246216375b0cae11ffa0774bdd",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鳗鲇科/xian-wen-man-nian_线纹鳗鲶",
+  "local_images": {
+    "fish": [
+      "by_family/鳗鲇科/xian-wen-man-nian_线纹鳗鲶/images/main.webp"
+    ],
+    "catch": []
+  }
+}

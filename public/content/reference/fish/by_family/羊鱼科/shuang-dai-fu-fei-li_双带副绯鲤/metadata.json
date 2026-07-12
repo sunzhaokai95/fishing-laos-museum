@@ -1,0 +1,87 @@
+{
+  "name": "双带副绯鲤",
+  "slug": "shuang-dai-fu-fei-li",
+  "source_url": "https://fishweather.cn/fish/shuang-dai-fu-fei-li",
+  "list_page": 13,
+  "list_position": 299,
+  "scientific_name": "Parupeneus biaculeatus",
+  "aliases": "须鲷、海গোঁফ",
+  "headline": "双带副绯鲤怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，呈纺锤形。头中大，吻尖。口小，下位，具颏须一对，长度约为眼径的1.5-2倍。眼大，侧上位。体被栉鳞，侧线完全。背鳍两个，分离，第一背鳍棘状，第二背鳍鳍条状。体色多变，通常为浅红棕色至黄色，体侧具不规则深色斑纹或条纹，幼鱼体色较鲜艳。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "羊鱼科",
+    "水层": "底层",
+    "食性": "肉食性，主要以底栖无脊椎动物为食，如甲壳类、软体动物、多毛类等，也会摄食小型鱼类。",
+    "栖息环境": "主要栖息于珊瑚礁区和岩礁区，也可见于海草床和沙质海底。通常在水深1-50米的海域活动。",
+    "体长": "38 cm",
+    "体重": null,
+    "寿命": "寿命较长，一般可达5-10年以上，具体寿命取决于环境条件和捕食压力。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "小鱼块",
+    "虾肉",
+    "鱿鱼块",
+    "海钓颗粒",
+    "沙蚕",
+    "贝肉",
+    "螃蟹肉",
+    "海藻"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，表明鱼已吞饵较深。",
+    "顿口",
+    "：",
+    "浮漂快速下沉或有力地顿一下，是典型的鱼讯信号。",
+    "上顶",
+    "：",
+    "浮漂缓慢上升或小幅度上顶，可能是鱼将饵料叼起或拱动。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼在试探或轻口吸食。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:双棘副绯鲤喜欢栖息在礁石区或珊瑚礁附近，选择这些区域作为钓点。",
+    "使用合适的钓组:根据钓场环境和鱼情选择合适的钓竿、鱼线、鱼钩和铅坠。",
+    "选择新鲜的饵料:使用新鲜的南极虾、海蚯蚓或小鱼虾等作为钓饵，提高诱鱼效果。",
+    "耐心等待鱼讯:双棘副绯鲤吃口相对谨慎，需要耐心等待浮漂出现明显的鱼讯。",
+    "及时扬竿刺鱼:一旦浮漂出现顿口、黑漂等鱼讯，应及时扬竿刺鱼，防止鱼吐钩。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、近岸矶石、沉船区、海湾、港口",
+  "distribution": [],
+  "similar_fish": [
+    "黄鳍副绯鲤",
+    "单棘副绯鲤",
+    "斑条副绯鲤",
+    "印度洋副绯鲤"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shuang-dai-fu-fei-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/shuang-dai-fu-fei-li-0-bcf0464b.webp",
+      "https://fishweather.cn/asset-images/catch/shuang-dai-fu-fei-li-1-56772d5f.webp"
+    ]
+  },
+  "profile_text_sha256": "70383116edf6ebfc91037ed84823b4507ce2708afada4dafced2e518999de4cc",
+  "raw_line_count": 98,
+  "local_dir": "by_family/羊鱼科/shuang-dai-fu-fei-li_双带副绯鲤",
+  "local_images": {
+    "fish": [
+      "by_family/羊鱼科/shuang-dai-fu-fei-li_双带副绯鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "长丝犁突虾虎鱼",
+  "slug": "zhang-si-li-tu-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/zhang-si-li-tu-xia-hu-yu",
+  "list_page": 12,
+  "list_position": 284,
+  "scientific_name": "Myersina filifer",
+  "aliases": "无",
+  "headline": "长丝犁突虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，近圆柱形，略侧扁。头小，吻钝圆。口端位，斜裂。眼小，上位侧位。体被栉鳞，头部裸露。第一背鳍具6-7枚鳍棘，第一鳍棘丝状延长，显著长于第二背鳍；第二背鳍与臀鳍均较长，相对；尾鳍圆形。体色浅黄棕色，体侧具数条深棕色横带或斑点，各鳍淡色透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "主要以小型底栖无脊椎动物为食，如小型甲壳类、多毛类、软体动物等。",
+    "栖息环境": "栖息于沿海浅水区的沙泥底质海域，包括河口、海湾等。",
+    "体长": "10 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为1-3年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉碎",
+    "鱼肉碎",
+    "南极虾",
+    "小号软饵",
+    "迷你亮片",
+    "小VIB",
+    "面包虫",
+    "商品鱼饵（腥味型）"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或快速的上下跳动，幅度小。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口吸食饵料。",
+    "停顿",
+    "：",
+    "浮漂在不规则的晃动后突然停顿，也可能是鱼咬钩。",
+    "加速下沉",
+    "：",
+    "浮漂快速下沉或黑漂，是较明显的吃口信号。",
+    "拖动",
+    "：",
+    "浮漂水平方向缓慢移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择沙泥底质或有碎石的浅水区域作为钓点。",
+    "使用轻型钓具和小号鱼钩，提高灵敏度。",
+    "饵料要小而精，投其所好。",
+    "采用逗钓结合的方式，增加诱鱼效果。",
+    "注意观察细微漂相，及时扬竿。"
+  ],
+  "recommended_spots": "海边沙滩、礁石岸边、河口、港湾、防波堤",
+  "distribution": [],
+  "similar_fish": [
+    "弹涂鱼",
+    "栉孔虾虎鱼",
+    "矛尾刺虾虎鱼",
+    "裸身虾虎鱼",
+    "斑点矶塘鳢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhang-si-li-tu-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhang-si-li-tu-xia-hu-yu-0-43af3b00.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-si-li-tu-xia-hu-yu-1-2e9b997f.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-si-li-tu-xia-hu-yu-2-67b59585.webp"
+    ]
+  },
+  "profile_text_sha256": "6d34fc04e3912e139ab16a55f217e334877107a7f664f3e09e5f0d182e6b052e",
+  "raw_line_count": 111,
+  "local_dir": "by_family/鰕虎科/zhang-si-li-tu-xia-hu-yu_长丝犁突虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/zhang-si-li-tu-xia-hu-yu_长丝犁突虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

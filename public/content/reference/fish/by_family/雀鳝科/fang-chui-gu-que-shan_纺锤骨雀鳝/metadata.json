@@ -1,0 +1,52 @@
+{
+  "name": "纺锤骨雀鳝",
+  "slug": "fang-chui-gu-que-shan",
+  "source_url": "https://fishweather.cn/fish/fang-chui-gu-que-shan",
+  "list_page": 10,
+  "list_position": 219,
+  "scientific_name": "Atractosteus spatula",
+  "aliases": "雀鳝、福鳄、尖嘴鳄",
+  "headline": "纺锤骨雀鳝是保护动物吗？习性与识别图鉴",
+  "summary": "体型elongated呈圆筒形，口吻前突似鳄鱼嘴，上下颌具利齿。体表覆盖菱形硬鳞，构成坚硬的骨鳞甲。背鳍后位，与臀鳍相对。尾鳍圆形。体色背部深棕色或橄榄色，腹部浅黄色。幼鱼体侧有深色条纹或斑点，成鱼斑纹逐渐消失。体型巨大，是北美洲最大的淡水鱼类之一。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "雀鳝目",
+    "科": "雀鳝科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食鱼类，也捕食甲壳类、两栖类、鸟类、小型哺乳动物等。幼鱼以小型无脊椎动物和鱼卵为食",
+    "栖息环境": "大型河流、湖泊、沼泽、海湾等淡水或微咸水水域，偏好水流缓慢、植被丰富的区域",
+    "体长": "300 cm",
+    "体重": "100 kg",
+    "寿命": "寿命长，野生状态下寿命可达数十年，甚至超过五十年。人工饲养条件下，若环境适宜，亦可存活很长时间",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "长吻雀鳝",
+    "斑点雀鳝",
+    "短吻雀鳝",
+    "佛罗里达雀鳝",
+    "古巴雀鳝"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/fang-chui-gu-que-shan.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "05cf2c3155671a685ba0bac3bb04dfc1989d4809ba3bd3ee1937dd268be12776",
+  "raw_line_count": 37,
+  "local_dir": "by_family/雀鳝科/fang-chui-gu-que-shan_纺锤骨雀鳝",
+  "local_images": {
+    "fish": [
+      "by_family/雀鳝科/fang-chui-gu-que-shan_纺锤骨雀鳝/images/main.webp"
+    ],
+    "catch": []
+  }
+}

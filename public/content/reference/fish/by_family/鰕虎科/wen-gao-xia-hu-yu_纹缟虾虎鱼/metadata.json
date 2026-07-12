@@ -1,0 +1,91 @@
+{
+  "name": "纹缟虾虎鱼",
+  "slug": "wen-gao-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/wen-gao-xia-hu-yu",
+  "list_page": 5,
+  "list_position": 98,
+  "scientific_name": "Tridentiger trigonocephalus",
+  "aliases": "虾虎鱼、狗甘仔、虎鱼",
+  "headline": "纹缟虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部近圆筒形，后部侧扁。头大而平扁，略呈三角形。吻短钝。口大，前位，斜裂，下颌稍突出。上下颌、犁骨和腭骨均具细齿。眼小，侧上位，眼间隔窄而凹陷。鳃孔中大，向前延伸至眼后下方。体被栉鳞，头部裸露无鳞。背鳍两个，分离，第一背鳍鳍棘VI，第二背鳍鳍条I，10-11。臀鳍鳍条I，9-10。胸鳍圆形，较大。腹鳍胸位，左右",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性，主要摄食小型甲壳动物、小型鱼类、多毛类及其他底栖无脊椎动物。",
+    "栖息环境": "主要栖息于潮间带岩石岸和砾石岸的潮池中，也可见于河口半咸水区域。",
+    "体长": "10 cm",
+    "体重": "0.02 kg",
+    "寿命": "寿命较短，通常为1-2年。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "南极虾",
+    "虾肉",
+    "鱼肉碎",
+    "蟹肉",
+    "小鱼干",
+    "面包虫",
+    "红虫（海产）",
+    "小型鱼Pellet"
+  ],
+  "float_signals": [
+    "快速下沉",
+    "：",
+    "浮漂快速没入水中，消失不见，通常是虾虎鱼吞食死口。",
+    "顿口",
+    "：",
+    "浮漂出现明显的下顿，幅度较小但有力，是较为清晰的咬口信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，可能是虾虎鱼吸食饵料。",
+    "横移",
+    "：",
+    "浮漂在水面缓慢横向移动，可能是虾虎鱼咬住饵料后拖动。",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小而快速，可能是虾虎鱼试探性啄食。"
+  ],
+  "practical_tips": [
+    "选择潮汐变化明显的钓点，潮汐涨落会带来新鲜食物，吸引虾虎鱼聚集。",
+    "使用小型轻巧的钓组，提高灵敏度，适应虾虎鱼轻口特性。",
+    "饵料要小而新鲜，可用海蚯蚓、虾肉等切成小块使用。",
+    "搜索钓法，在不同的岩石缝隙、潮池中多点尝试，寻找虾虎鱼藏身之处。",
+    "注意观察水底结构，如岩石、海藻等，这些地方往往是虾虎鱼的栖息地。"
+  ],
+  "recommended_spots": "潮间带岩石岸、砾石岸、防波堤、码头、河口半咸水区域",
+  "distribution": [],
+  "similar_fish": [
+    "斑纹栉虾虎鱼",
+    "栉孔虾虎鱼",
+    "鲈虾虎鱼",
+    "弓蜓虾虎鱼",
+    "মাজ虾虎鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/wen-gao-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/wen-gao-xia-hu-yu-0-95ad2ac9.webp",
+      "https://fishweather.cn/asset-images/catch/wen-gao-xia-hu-yu-1-58dcc131.webp",
+      "https://fishweather.cn/asset-images/catch/wen-gao-xia-hu-yu-2-bb807c7c.webp",
+      "https://fishweather.cn/asset-images/catch/wen-gao-xia-hu-yu-3-0ac823b3.webp",
+      "https://fishweather.cn/asset-images/catch/wen-gao-xia-hu-yu-4-d9cbf61d.webp"
+    ]
+  },
+  "profile_text_sha256": "92700e38f69ec73c4e1e8b135b1d8e2bb646f7545900b2aacf28b47e6f4171bc",
+  "raw_line_count": 135,
+  "local_dir": "by_family/鰕虎科/wen-gao-xia-hu-yu_纹缟虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/wen-gao-xia-hu-yu_纹缟虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

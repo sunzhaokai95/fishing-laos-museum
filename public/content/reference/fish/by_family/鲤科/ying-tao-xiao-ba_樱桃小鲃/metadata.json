@@ -1,0 +1,83 @@
+{
+  "name": "樱桃小鲃",
+  "slug": "ying-tao-xiao-ba",
+  "source_url": "https://fishweather.cn/fish/ying-tao-xiao-ba",
+  "list_page": 33,
+  "list_position": 781,
+  "scientific_name": "Puntius titteya",
+  "aliases": "红樱桃鱼",
+  "headline": "樱桃小鲃怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "樱桃鱼体型娇小，呈纺锤形，略侧扁。雄性在繁殖期体色鲜艳，通体樱桃红色，非繁殖期颜色稍淡。雌性体色为橙红色或淡黄色。鱼体两侧各有一条金色的纵向条纹，但不太明显。各鳍透明，体表鳞片较大。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中层,下层",
+    "食性": "杂食性，主要以藻类、小型无脊椎动物、植物碎屑为食，也接受人工鱼粮",
+    "栖息环境": "溪流，河流，植被茂盛的浅水区，水流缓慢或静止的水域",
+    "体长": "5 cm",
+    "体重": "1 kg",
+    "寿命": "人工饲养条件下，通常为3-5年。",
+    "适温": "22-26 °C"
+  },
+  "bait_options": [
+    "薄片饲料",
+    "颗粒饲料",
+    "冷冻红虫",
+    "丰年虾",
+    "水蚤",
+    "螺旋藻片",
+    "蔬菜碎片（如煮熟的菠菜）",
+    "冷冻水蚤",
+    "微worms",
+    "水果蝇幼虫",
+    "实战技巧",
+    "观赏为主，了解其生活习性",
+    "提供适宜的水质和环境",
+    "合理投喂饵料",
+    "注意水温和水质变化",
+    "避免与其他攻击性鱼类混养",
+    "推荐钓点类型",
+    "水族箱、人工景观水池（仅限观赏）",
+    "相似鱼种",
+    "玫瑰鲫",
+    "斑马鱼",
+    "金丝鱼",
+    "火焰变色鱼",
+    "三角灯鱼"
+  ],
+  "float_signals": [],
+  "practical_tips": [
+    "观赏为主，了解其生活习性",
+    "提供适宜的水质和环境",
+    "合理投喂饵料",
+    "注意水温和水质变化",
+    "避免与其他攻击性鱼类混养"
+  ],
+  "recommended_spots": "水族箱、人工景观水池（仅限观赏）",
+  "distribution": [],
+  "similar_fish": [
+    "玫瑰鲫",
+    "斑马鱼",
+    "金丝鱼",
+    "火焰变色鱼",
+    "三角灯鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ying-tao-xiao-ba.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "03414cb32b67dc0314ff14eeef24365f1569c849cd3ac72c841104e401978b24",
+  "raw_line_count": 55,
+  "local_dir": "by_family/鲤科/ying-tao-xiao-ba_樱桃小鲃",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/ying-tao-xiao-ba_樱桃小鲃/images/main.webp"
+    ],
+    "catch": []
+  }
+}

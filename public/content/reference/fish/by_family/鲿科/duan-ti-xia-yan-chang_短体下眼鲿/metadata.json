@@ -1,0 +1,49 @@
+{
+  "name": "短体下眼鲿",
+  "slug": "duan-ti-xia-yan-chang",
+  "source_url": "https://fishweather.cn/fish/duan-ti-xia-yan-chang",
+  "list_page": 19,
+  "list_position": 437,
+  "scientific_name": "Horabagrus brachysoma",
+  "aliases": "红猫",
+  "headline": "短体下眼鲿是保护动物吗？习性与识别图鉴",
+  "summary": "体延长，侧扁，头大且宽，吻部圆钝。口下位，具四对须，其中颌须最长。眼睛小。脂鳍发达，显著。体色通常为棕褐色或深灰色，腹部颜色较浅。背鳍和胸鳍的前缘硬棘粗壮。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "鲿科",
+    "水层": "底层",
+    "食性": "推测为肉食性或杂食性，可能以小型鱼类、水生昆虫、无脊椎动物等为食",
+    "栖息环境": "主要栖息于河流和回水区，偏好具有岩石和水下植被的环境",
+    "体长": "45",
+    "体重": "3",
+    "寿命": "寿命可能较长，推测可达10年以上，但缺乏具体数据",
+    "适温": "24-30"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "瓦氏黄颡鱼",
+    "长鳍吻鮠"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/duan-ti-xia-yan-chang.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "7446faaf63a9261292a8ec4b9e3fc5381ea1c9355d2f26cc5f849568fb5e4bcb",
+  "raw_line_count": 34,
+  "local_dir": "by_family/鲿科/duan-ti-xia-yan-chang_短体下眼鲿",
+  "local_images": {
+    "fish": [
+      "by_family/鲿科/duan-ti-xia-yan-chang_短体下眼鲿/images/main.webp"
+    ],
+    "catch": []
+  }
+}

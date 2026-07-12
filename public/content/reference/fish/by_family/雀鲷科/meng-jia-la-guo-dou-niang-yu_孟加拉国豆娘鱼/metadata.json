@@ -1,0 +1,88 @@
+{
+  "name": "孟加拉国豆娘鱼",
+  "slug": "meng-jia-la-guo-dou-niang-yu",
+  "source_url": "https://fishweather.cn/fish/meng-jia-la-guo-dou-niang-yu",
+  "list_page": 12,
+  "list_position": 275,
+  "scientific_name": "Abudefduf bengalensis",
+  "aliases": "五间雀、横纹豆娘鱼、斑条豆娘鱼",
+  "headline": "孟加拉国豆娘鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁。体长可达15厘米。背鳍和臀鳍基底长，尾鳍叉形。身体底色为浅黄色至银白色，体侧具五条黑色垂直条纹，条纹宽度约等于或略宽于条纹间的间隔。吻短而钝圆，口小，端位。眼眶下骨具锯齿。前鳃盖骨边缘光滑。鳞片中等大小，侧线完全。幼鱼体色较浅，条纹颜色对比不明显，随着生长，条纹逐渐清晰。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "雀鲷科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、小型无脊椎动物（如桡足类、虾类幼体、多毛类）、浮游生物等为食。",
+    "栖息环境": "珊瑚礁区、岩礁区，常成群活动于浅水区域，如潮间带至水深15米左右的礁石平台、珊瑚丛中。",
+    "体长": "15 cm",
+    "体重": "0.1 kg",
+    "寿命": "寿命较短，一般为3-5年，具体寿命受环境条件和天敌影响。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "南极虾",
+    "鱼肉碎",
+    "海藻",
+    "面包屑",
+    "商品鱼饵（针对小型鱼类）",
+    "小型软饵",
+    "小型亮片"
+  ],
+  "float_signals": [
+    "快速下沉",
+    "：",
+    "浮漂快速有力下沉，通常是鱼吞食死口，是清晰的扬竿信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼吸食饵料，但动作轻缓。",
+    "停顿",
+    "：",
+    "浮漂原本缓慢下沉或移动，突然停止，可能是鱼就饵。",
+    "侧移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼咬住饵料后游动。",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小，可能是鱼试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:豆娘鱼常在礁石缝隙、珊瑚丛中活动，选择这些区域作为钓点。",
+    "采用小钩细线:豆娘鱼体型较小，口也小，使用小号鱼钩和细线能提高中鱼率。",
+    "轻口慢提:豆娘鱼咬钩动作轻缓，漂相可能不明显，需仔细观察，轻口慢提。",
+    "多点尝试:豆娘鱼可能成群活动，在一个钓点无鱼后，可尝试更换钓点。",
+    "注意防晒和安全:海边垂钓注意防晒，礁石区注意防滑，确保安全。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、防波堤、码头、海边浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "雀鲷",
+    "海葵鱼",
+    "粗皮鲷",
+    "石鲈"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/meng-jia-la-guo-dou-niang-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/meng-jia-la-guo-dou-niang-yu-0-a317d29a.webp",
+      "https://fishweather.cn/asset-images/catch/meng-jia-la-guo-dou-niang-yu-1-db146176.webp",
+      "https://fishweather.cn/asset-images/catch/meng-jia-la-guo-dou-niang-yu-2-d3729de1.webp"
+    ]
+  },
+  "profile_text_sha256": "f1f896006ea1cf53dc015a6498d80338b948eb7b78430eba95fe7287fa590efe",
+  "raw_line_count": 114,
+  "local_dir": "by_family/雀鲷科/meng-jia-la-guo-dou-niang-yu_孟加拉国豆娘鱼",
+  "local_images": {
+    "fish": [
+      "by_family/雀鲷科/meng-jia-la-guo-dou-niang-yu_孟加拉国豆娘鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

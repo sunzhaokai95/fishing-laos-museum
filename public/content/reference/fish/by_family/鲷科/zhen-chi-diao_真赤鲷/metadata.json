@@ -1,0 +1,97 @@
+{
+  "name": "真赤鲷",
+  "slug": "zhen-chi-diao",
+  "source_url": "https://fishweather.cn/fish/zhen-chi-diao",
+  "list_page": 4,
+  "list_position": 93,
+  "scientific_name": "Pagrus major",
+  "aliases": "加吉鱼、红加吉、嘉腊、赤鲷、海鲷",
+  "headline": "真赤鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈椭圆形，侧扁，背腹缘弧形。头中大，前端钝圆。吻短，口中大，端位，颌骨具犬齿及臼齿。眼较大，位于头侧上方。前鳃盖骨后缘具锯齿，鳃盖膜不连于峡部。体被栉鳞，侧线完全。背鳍长，硬棘部与鳍条部相连，无缺刻，臀鳍与背鳍鳍条部相对。尾鳍叉形。体色鲜艳，通常为红色或粉红色，幼鱼体侧具数条蓝色横带，成鱼横带消失，体侧散布蓝色斑点。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲷科",
+    "水层": "中下层",
+    "食性": "肉食性鱼类，主要摄食甲壳类、软体动物、棘皮动物、小型鱼类等底栖无脊椎动物和鱼类。",
+    "栖息环境": "暖温带近海底层鱼类，主要栖息于岩礁、砂砾或泥沙质海底，也常出没于港湾、河口等水域。幼鱼多栖息于沿岸浅水区，成鱼则生活在较",
+    "体长": "100 cm",
+    "体重": "10 kg",
+    "寿命": "真鲷寿命较长，野生条件下一般可达10年以上，人工养殖条件下，若管理得当，寿命可超过20年。其寿命长短也受到环境条件、饵料质量、疾病防治等因素的影响。",
+    "适温": "15-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾",
+    "活虾",
+    "鱿鱼",
+    "小鱼",
+    "海虫",
+    "贝肉",
+    "虾仁",
+    "鱼肉块",
+    "商品海钓饵料"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是真鲷吞食死口，是清晰的扬竿信号。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下沉1-2目，或出现明显的停顿，是真鲷吸食饵料的典型信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，幅度较小，可能是真鲷试探性咬钩，需要注意观察后续动作。",
+    "加速下沉",
+    "：",
+    "在缓慢下沉或轻微点动之后，浮漂突然加速下沉，可能是真鲷确认咬钩，准备吞食。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是真鲷咬钩后拖动钓组，也是扬竿信号。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:真鲷喜欢栖息在岩礁、暗礁附近，或水流较缓的港湾内，选择这些区域作为钓点能提高中鱼率。",
+    "提前打窝诱鱼:使用南极虾、虾砖等诱饵提前打窝，将真鲷诱集到钓点附近，增加垂钓机会。",
+    "根据潮汐变化调整钓法:涨潮时真鲷会靠近浅水区觅食，可选择矶钓或岸钓；退潮时真鲷退回深水区，可选择船钓。",
+    "灵活运用钓组和钓法:根据不同的钓场环境、水深、流速等因素，灵活选择矶钓、船钓、路亚等钓法，并搭配合适的钓组。",
+    "注意扬竿时机:真鲷吃口有力，但有时也比较谨慎，需要仔细观察浮漂或竿稍动作，抓准顿口、黑漂等有效信号及时扬竿。"
+  ],
+  "recommended_spots": "岩礁区、近海海域、港湾、防波堤、人工鱼礁",
+  "distribution": [
+    "台湾省",
+    "山东省",
+    "浙江省",
+    "福建省",
+    "香港特别行政区"
+  ],
+  "similar_fish": [
+    "黑鲷",
+    "黄鲷",
+    "石鲷",
+    "牙鲷",
+    "snapper(英文统称)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhen-chi-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhen-chi-diao-0-432d75c9.webp",
+      "https://fishweather.cn/asset-images/catch/zhen-chi-diao-1-1beaaeb7.webp",
+      "https://fishweather.cn/asset-images/catch/zhen-chi-diao-2-bb528c66.webp",
+      "https://fishweather.cn/asset-images/catch/zhen-chi-diao-3-eae940a9.webp",
+      "https://fishweather.cn/asset-images/catch/zhen-chi-diao-4-812003e5.webp"
+    ]
+  },
+  "profile_text_sha256": "1d3505b325c645de4d9bfc149baa9b05ae547cd1358cbac5dbb4eda2c8e8c7bb",
+  "raw_line_count": 141,
+  "local_dir": "by_family/鲷科/zhen-chi-diao_真赤鲷",
+  "local_images": {
+    "fish": [
+      "by_family/鲷科/zhen-chi-diao_真赤鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

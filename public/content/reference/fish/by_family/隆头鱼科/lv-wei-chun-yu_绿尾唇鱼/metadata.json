@@ -1,0 +1,91 @@
+{
+  "name": "绿尾唇鱼",
+  "slug": "lv-wei-chun-yu",
+  "source_url": "https://fishweather.cn/fish/lv-wei-chun-yu",
+  "list_page": 9,
+  "list_position": 209,
+  "scientific_name": "Cheilinus chlorourus",
+  "aliases": "三齿鹦鲷、西齿鹦鲷、绿鹦哥、青衣",
+  "headline": "绿尾唇鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，幼鱼体色多变，从绿色、红色到棕色，成鱼体色以绿色或蓝绿色为主，头部和胸部常有橙色或红色斑点，尾鳍圆形或略微凹入。唇厚而肉质，口部前端突出，牙齿锥形。背鳍和臀鳍连续，鳍棘和鳍条区分不明显。鳞片中等大小。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "隆头鱼科",
+    "水层": "中层,底层",
+    "食性": "肉食性为主，主要以小型底栖无脊椎动物为食，如甲壳类、软体动物、蠕虫等，有时也捕食小型鱼类。",
+    "栖息环境": "珊瑚礁区及其周围的岩礁、海草床等，喜欢在珊瑚丛中或岩石缝隙间活动",
+    "体长": "45 cm",
+    "体重": "1.5 kg",
+    "寿命": "寿命较长，可达10年以上，甚至更长，但具体寿命数据较为缺乏。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "海虾肉",
+    "鱿鱼须",
+    "小鱼块",
+    "贝肉",
+    "海虫",
+    "南极虾",
+    "海মাছ",
+    "沙蚕",
+    "虾蛄肉",
+    "螃蟹肉"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速沉入水中，不见漂尾，表明鱼吞饵较深。",
+    "点动后下沉",
+    "：",
+    "浮漂先出现轻微点动，然后迅速下沉，是试探性咬口后的吞食。",
+    "顿口",
+    "：",
+    "浮漂快速下沉一目或数目，随即停止，这是典型的咬口信号。",
+    "加速横移",
+    "：",
+    "浮漂不规则地快速横向移动，可能是鱼拖动饵料。",
+    "持续小幅度抖动",
+    "：",
+    "浮漂出现连续小幅度抖动，可能是小鱼闹窝或裂唇鱼轻微触碰饵料，需耐心观察后续动作。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:裂唇鱼喜欢栖息在珊瑚礁或岩礁附近，选择这些区域作为钓点能提高钓获几率。",
+    "使用新鲜饵料:裂唇鱼对新鲜的肉食性饵料非常感兴趣，使用新鲜的海虾、鱼肉等能提高诱鱼效果。",
+    "注意隐蔽性:裂唇鱼较为谨慎，钓组和钓者的动作都应尽量轻柔隐蔽，减少惊扰。",
+    "灵敏观察漂讯:裂唇鱼咬口有时较为轻微，需要灵敏观察浮漂动作，及时扬竿。",
+    "合理控鱼:裂唇鱼有一定的冲击力，中鱼后要合理控鱼，避免切线跑鱼，尤其是在礁石区。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、近岸礁石、海湾、海岛周围",
+  "distribution": [],
+  "similar_fish": [
+    "鹦嘴鱼",
+    "石斑鱼",
+    "snapper",
+    "鮨",
+    "隆头鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lv-wei-chun-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/lv-wei-chun-yu-0-826f4068.webp",
+      "https://fishweather.cn/asset-images/catch/lv-wei-chun-yu-1-c2cc482b.webp",
+      "https://fishweather.cn/asset-images/catch/lv-wei-chun-yu-2-d03f0833.webp",
+      "https://fishweather.cn/asset-images/catch/lv-wei-chun-yu-3-4cbe06e9.webp",
+      "https://fishweather.cn/asset-images/catch/lv-wei-chun-yu-4-467fbf3c.webp"
+    ]
+  },
+  "profile_text_sha256": "d9dda58988cf14c474698416217bba56da5b44448f9d3483a10973dd27ed513b",
+  "raw_line_count": 131,
+  "local_dir": "by_family/隆头鱼科/lv-wei-chun-yu_绿尾唇鱼",
+  "local_images": {
+    "fish": [
+      "by_family/隆头鱼科/lv-wei-chun-yu_绿尾唇鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

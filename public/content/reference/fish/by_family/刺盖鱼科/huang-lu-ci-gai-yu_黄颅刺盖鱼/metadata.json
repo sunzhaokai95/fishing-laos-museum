@@ -1,0 +1,52 @@
+{
+  "name": "黄颅刺盖鱼",
+  "slug": "huang-lu-ci-gai-yu",
+  "source_url": "https://fishweather.cn/fish/huang-lu-ci-gai-yu",
+  "list_page": 24,
+  "list_position": 573,
+  "scientific_name": "Pomacanthus xanthometopon",
+  "aliases": "蓝面神仙、马夫神仙",
+  "headline": "黄颅刺盖鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型较大且侧扁，呈卵圆形。主要体色为亮蓝色至紫色，面部黄色，眼睛周围和嘴唇蓝色。身体侧面有许多垂直的深蓝色细条纹，背鳍和臀鳍黄色，尾鳍黄色且末端圆形。幼鱼颜色与成鱼差异较大，主要呈深蓝色，具有白色和蓝色条纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "刺盖鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、海绵、被囊动物和小型无脊椎动物为食",
+    "栖息环境": "珊瑚礁区，潟湖，以及面向海洋的礁坡",
+    "体长": "38 cm",
+    "体重": null,
+    "寿命": "在合适的饲养条件下，寿命可达10-15年或更长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "皇帝神仙鱼",
+    "皇后神仙鱼",
+    "蓝环神仙鱼",
+    "法国神仙鱼",
+    "麒麟神仙鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huang-lu-ci-gai-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "54fab5ed50fff0f14357bcf8c42e28c747714b32b8cafae962bb82aa63ff8fb7",
+  "raw_line_count": 30,
+  "local_dir": "by_family/刺盖鱼科/huang-lu-ci-gai-yu_黄颅刺盖鱼",
+  "local_images": {
+    "fish": [
+      "by_family/刺盖鱼科/huang-lu-ci-gai-yu_黄颅刺盖鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

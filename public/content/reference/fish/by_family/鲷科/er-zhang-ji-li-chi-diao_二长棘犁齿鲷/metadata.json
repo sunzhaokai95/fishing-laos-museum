@@ -1,0 +1,88 @@
+{
+  "name": "二长棘犁齿鲷",
+  "slug": "er-zhang-ji-li-chi-diao",
+  "source_url": "https://fishweather.cn/fish/er-zhang-ji-li-chi-diao",
+  "list_page": 12,
+  "list_position": 280,
+  "scientific_name": "Evynnis cardinalis",
+  "aliases": "加吉鱼、红加吉、真鲷、赤鲷",
+  "headline": "二长棘犁齿鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈椭圆形，侧扁，背腹缘弧形。头中等大，吻钝。口中等大，前位，颌齿呈圆锥形。前鳃盖骨后缘具锯齿。体被栉鳞，侧线完全。背鳍连续，棘部与鳍条部相连，胸鳍尖长，尾鳍叉形。体色鲜艳，背部红色或粉红色，腹部银白色，体侧有数条黄色纵带，各鳍淡红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲷科",
+    "水层": "中下层",
+    "食性": "肉食性为主，兼食少量藻类。主要摄食小型鱼类、虾、蟹、贝类等底栖无脊椎动物。",
+    "栖息环境": "近海岩礁、砂砾底质海区",
+    "体长": "50 cm",
+    "体重": "2.5 kg",
+    "寿命": "自然寿命通常为5-8年，最长可达10年以上。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾",
+    "小鱼",
+    "鱿鱼块",
+    "章鱼块",
+    "海虫",
+    "鱼肉块",
+    "虾仁",
+    "贝肉",
+    "人工鱼饵（软饵或硬饵）"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是小鱼闹窝或红鲷试探性触碰饵料，需耐心等待清晰漂相。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼试探性咬钩或吸饵，需注意观察下沉速度和幅度。",
+    "加速下沉",
+    "：",
+    "浮漂快速下沉或直接黑漂，通常是鱼吞饵信号，应立即扬竿。",
+    "横移",
+    "：",
+    "浮漂不正常横向移动，可能是鱼拖动饵料，应及时扬竿。",
+    "上浮",
+    "：",
+    "浮漂先下沉后缓慢上浮，可能是鱼将饵料叼起后吐出，需注意观察上浮动作，适时扬竿。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:红鲷喜欢栖息在岩礁区，选择水流交汇处、礁石缝隙、海藻丛生处等作为钓点。",
+    "诱钓结合:使用诱饵提前打窝，吸引鱼群。诱饵可以使用南极虾、鱼粉、虾粉等混合制成。",
+    "灵活调整钓棚:根据潮汐、水深和鱼情变化，灵活调整钓棚深度，搜索不同水层的鱼。",
+    "注意潮汐变化:涨潮时鱼活性高，退潮时需选择水深较深或有遮蔽物的钓点。",
+    "慢提慢放逗钓:在船钓或矶钓时，可以采用慢提慢放的逗钓手法，吸引红鲷注意，提高咬钩率。"
+  ],
+  "recommended_spots": "近海矶礁、外海礁石区、沉船区、人工鱼礁、海湾、港口防波堤",
+  "distribution": [],
+  "similar_fish": [
+    "黄鲷",
+    "黑鲷",
+    "真鲷",
+    "平鲷",
+    "石鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/er-zhang-ji-li-chi-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/er-zhang-ji-li-chi-diao-0-855add02.webp",
+      "https://fishweather.cn/asset-images/catch/er-zhang-ji-li-chi-diao-1-32e87d48.webp"
+    ]
+  },
+  "profile_text_sha256": "c823dfba626fdadb4ad70b6c5f1c603fe3415462f14297c9cfc2604ba173642e",
+  "raw_line_count": 101,
+  "local_dir": "by_family/鲷科/er-zhang-ji-li-chi-diao_二长棘犁齿鲷",
+  "local_images": {
+    "fish": [
+      "by_family/鲷科/er-zhang-ji-li-chi-diao_二长棘犁齿鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

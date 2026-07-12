@@ -1,0 +1,52 @@
+{
+  "name": "路易氏双髻鲨",
+  "slug": "lu-yi-shi-shuang-ji-sha",
+  "source_url": "https://fishweather.cn/fish/lu-yi-shi-shuang-ji-sha",
+  "list_page": 24,
+  "list_position": 558,
+  "scientific_name": "Sphyrna lewini",
+  "aliases": "锤头鲨、丫髻鲨",
+  "headline": "路易氏双髻鲨是保护动物吗？习性与识别图鉴",
+  "summary": "头अत्यंत特殊，呈宽阔的锤状，也称头翼，头宽远大于头长，前缘中央凹入，呈扇形或波浪状。眼睛和鼻孔位于头翼两侧。体型纺锤形，背部呈灰色、灰褐色或古铜色，腹部白色或淡黄色。第一背鳍高大呈三角形，第二背鳍和臀鳍相对较小。尾鳍为新月形，上下叶लगभग等大。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "真鲨目",
+    "科": "双髻鲨科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食硬骨鱼类、头足类（如鱿鱼、章鱼）和甲壳类动物（如蟹、虾）。也捕食魟鱼、鲨鱼等软骨鱼类，以及少量的底栖无脊椎动物。",
+    "栖息环境": "主要栖息于热带和温带海域的沿海和近海区域，包括大陆架、海湾、河口和珊瑚礁附近水域。幼鲨常在浅水区域活动。",
+    "体长": "430 cm",
+    "体重": "152.4 kg",
+    "寿命": "寿命较长，估计可达20-30年，甚至更长。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "路氏双髻鲨",
+    "平滑双髻鲨",
+    "大双髻鲨",
+    "窄头双髻鲨",
+    "星点双髻鲨"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lu-yi-shi-shuang-ji-sha.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "72d8114882efba576973211083fd7b6cd2fe0c961c93a2abfacf92e30cc195b8",
+  "raw_line_count": 37,
+  "local_dir": "by_family/双髻鲨科/lu-yi-shi-shuang-ji-sha_路易氏双髻鲨",
+  "local_images": {
+    "fish": [
+      "by_family/双髻鲨科/lu-yi-shi-shuang-ji-sha_路易氏双髻鲨/images/main.webp"
+    ],
+    "catch": []
+  }
+}

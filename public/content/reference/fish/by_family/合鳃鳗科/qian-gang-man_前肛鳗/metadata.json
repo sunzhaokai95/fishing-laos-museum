@@ -1,0 +1,56 @@
+{
+  "name": "前肛鳗",
+  "slug": "qian-gang-man",
+  "source_url": "https://fishweather.cn/fish/qian-gang-man",
+  "list_page": 13,
+  "list_position": 296,
+  "scientific_name": "Dysomma anguillare",
+  "aliases": "鳗鱼",
+  "headline": "前肛鳗怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，圆柱形，向后部逐渐侧扁。头部钝圆，吻短而圆。眼睛小，位于头部前方。口大，口裂超过眼睛后缘。上下颌牙细小。鳃孔小，位于胸鳍前方。背鳍和臀鳍与尾鳍相连，形成连续的鳍褶。无腹鳍和胸鳍。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鳗鲡目",
+    "科": "合鳃鳗科",
+    "水层": "深海底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类和底栖无脊椎动物",
+    "栖息环境": "深海，通常栖息于大陆坡和深海平原的底部",
+    "体长": "75 cm",
+    "体重": null,
+    "寿命": "寿命较长，但具体寿命数据缺乏研究",
+    "适温": "未知，深海鱼类，适应低温环境 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "鳗鲡",
+    "海鳗",
+    "糯鳗",
+    "康吉鳗",
+    "蛇鳗"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qian-gang-man.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/qian-gang-man-0-5d8c2409.webp",
+      "https://fishweather.cn/asset-images/catch/qian-gang-man-1-2380bd1d.webp",
+      "https://fishweather.cn/asset-images/catch/qian-gang-man-2-0dedadd3.webp"
+    ]
+  },
+  "profile_text_sha256": "538d744948df0b1c7c5f3657db0fffae96d9dc8b640b43c22f19e8abd0e7ebc9",
+  "raw_line_count": 70,
+  "local_dir": "by_family/合鳃鳗科/qian-gang-man_前肛鳗",
+  "local_images": {
+    "fish": [
+      "by_family/合鳃鳗科/qian-gang-man_前肛鳗/images/main.webp"
+    ],
+    "catch": []
+  }
+}

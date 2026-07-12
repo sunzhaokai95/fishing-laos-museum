@@ -1,0 +1,52 @@
+{
+  "name": "匙吻鲟",
+  "slug": "shi-wen-xun",
+  "source_url": "https://fishweather.cn/fish/shi-wen-xun",
+  "list_page": 7,
+  "list_position": 152,
+  "scientific_name": "Polyodon spathula",
+  "aliases": "鸭嘴鲟、琵琶鱼、匙吻鲛",
+  "headline": "匙吻鲟是保护动物吗？习性与识别图鉴",
+  "summary": "体延长，呈纺锤形，但稍侧扁。最显著的特征是其极度向前延伸呈桨状的吻部，长度可超过体长的一半。口大，端位，无须。眼小，位于吻基部上方。体表光滑无鳞，覆盖着一层软骨质骨片。体色背部灰蓝色或棕灰色，腹部银白色。骨骼主要为软骨。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲟形目",
+    "科": "匙吻鲟科",
+    "水层": "中下层,底层",
+    "食性": "主要以浮游动物为食，包括水蚤、桡足类等小型甲壳动物，也摄食昆虫幼虫和小型鱼卵。",
+    "栖息环境": "大型河流的缓流区域,湖泊,水库",
+    "体长": "220 cm",
+    "体重": "90 kg",
+    "寿命": "寿命较长，在自然条件下可达30年以上，人工养殖环境下也可能超过20年。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "中华鲟",
+    "达氏鲟",
+    "白鲟(已灭绝)",
+    "鳇鱼",
+    "胭脂鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shi-wen-xun.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "30a70d579be30b8486a04bca5836266a70103fd6afc48211d25caf0d62884e67",
+  "raw_line_count": 37,
+  "local_dir": "by_family/匙吻鲟科/shi-wen-xun_匙吻鲟",
+  "local_images": {
+    "fish": [
+      "by_family/匙吻鲟科/shi-wen-xun_匙吻鲟/images/main.webp"
+    ],
+    "catch": []
+  }
+}

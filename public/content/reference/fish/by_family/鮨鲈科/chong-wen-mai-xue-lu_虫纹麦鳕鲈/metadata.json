@@ -1,0 +1,51 @@
+{
+  "name": "虫纹麦鳕鲈",
+  "slug": "chong-wen-mai-xue-lu",
+  "source_url": "https://fishweather.cn/fish/chong-wen-mai-xue-lu",
+  "list_page": 10,
+  "list_position": 231,
+  "scientific_name": "Maccullochella peelii",
+  "aliases": "墨累河鳕鱼、河鳕",
+  "headline": "虫纹麦鳕鲈是保护动物吗？习性与识别图鉴",
+  "summary": "澳洲鳕鲈是澳大利亚最大的淡水鱼类之一，体型粗壮elongated，略呈纺锤形。头部宽大，口裂巨大，下颌略突出。体色多变，通常为斑驳的绿色至棕色，带有深色斑点或网状纹，腹部颜色较浅。各鳍呈圆形，尾鳍圆或略微截形。眼睛相对较小，位于头部上方。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨鲈科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食鱼类、甲壳类、蛙类、蛇类、小型哺乳动物以及水鸟等。",
+    "栖息环境": "主要栖息于河流、湖泊和水库等淡水水域，偏好水流缓慢或静止、水质清澈、具有复杂结构（如沉木、岩石、水生植物）的栖息地。",
+    "体长": "180 cm",
+    "体重": "113 kg",
+    "寿命": "寿命非常长，在自然条件下通常可以活到50年以上，甚至有记录显示可超过70年。",
+    "适温": "16-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "麦氏鳕鲈",
+    "金鲈",
+    "澳洲鲈鱼",
+    "银鲈"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/chong-wen-mai-xue-lu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "45120e0d676ad71699609d36d13fc3ea4ecd15f07287b136ebac512ef069e6c7",
+  "raw_line_count": 36,
+  "local_dir": "by_family/鮨鲈科/chong-wen-mai-xue-lu_虫纹麦鳕鲈",
+  "local_images": {
+    "fish": [
+      "by_family/鮨鲈科/chong-wen-mai-xue-lu_虫纹麦鳕鲈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

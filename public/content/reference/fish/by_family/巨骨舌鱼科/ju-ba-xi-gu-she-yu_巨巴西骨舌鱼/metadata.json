@@ -1,0 +1,51 @@
+{
+  "name": "巨巴西骨舌鱼",
+  "slug": "ju-ba-xi-gu-she-yu",
+  "source_url": "https://fishweather.cn/fish/ju-ba-xi-gu-she-yu",
+  "list_page": 8,
+  "list_position": 177,
+  "scientific_name": "Arapaima gigas",
+  "aliases": "海象鱼、象鱼、巨龙鱼",
+  "headline": "巨巴西骨舌鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体呈纺锤形，巨大而延长，略侧扁。头部骨骼发达，背部平直，腹部圆凸。口上位，口裂大。下颌突出，具须一对。鳞片大而硬，呈镶嵌状排列，侧线明显。体色主要为灰绿色或棕褐色，尾鳍及后部身体常呈红色或橘红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "骨舌鱼目",
+    "科": "巨骨舌鱼科",
+    "水层": "中层,底层",
+    "食性": "肉食性，主要捕食鱼类，也吃甲壳类、昆虫、蛇、鸟类和小哺乳动物",
+    "栖息环境": "热带淡水河流、湖泊、洪泛森林和沼泽地",
+    "体长": "300 cm",
+    "体重": "200 kg",
+    "寿命": "寿命较长，野生环境下据估计可达20年以上，人工饲养条件下若环境适宜，寿命可能更长，有记录显示可达数十年。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "龙鱼",
+    "雀鳝",
+    "匙吻鲟",
+    "锯鳐"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ju-ba-xi-gu-she-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "7a4010d66ab93b78d5445eaf8b0717eddfdb6ba7d5726e514e0b9f9965877250",
+  "raw_line_count": 36,
+  "local_dir": "by_family/巨骨舌鱼科/ju-ba-xi-gu-she-yu_巨巴西骨舌鱼",
+  "local_images": {
+    "fish": [
+      "by_family/巨骨舌鱼科/ju-ba-xi-gu-she-yu_巨巴西骨舌鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

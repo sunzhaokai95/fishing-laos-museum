@@ -1,0 +1,85 @@
+{
+  "name": "犬牙锥齿鲷",
+  "slug": "quan-ya-zhui-chi-diao",
+  "source_url": "https://fishweather.cn/fish/quan-ya-zhui-chi-diao",
+  "list_page": 17,
+  "list_position": 388,
+  "scientific_name": "Pentapodus caninus",
+  "aliases": "黄带金梭鱼、五棘金梭鱼",
+  "headline": "犬牙锥齿鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "犬牙金梭鱼体呈纺锤形，略侧扁。口小，端位，颌齿尖细，前颌骨具犬齿状齿一对。眼眶下骨裸露。前鳃盖骨后缘具锯齿。体被栉鳞，侧线完全。背鳍连续，具棘XII，鳍条9-10；臀鳍具棘III，鳍条7-8。体背侧灰褐色，腹侧银白色，体侧具一条黄色纵带，幼鱼较为明显。各鳍淡黄色或透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "金线鱼科",
+    "水层": "中下层",
+    "食性": "肉食性，主要以小型鱼类、甲壳类、软体动物及底栖无脊椎动物为食。",
+    "栖息环境": "主要栖息于沿海珊瑚礁区或岩礁区水域，也可见于沙底或海草床附近。",
+    "体长": "35 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海钓颗粒",
+    "小鱼块",
+    "虾肉",
+    "鱿鱼须",
+    "沙蚕",
+    "海蜈蚣",
+    "鱼骨粉",
+    "鱼肝油",
+    "商品海钓饵"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是鱼吞饵较深。",
+    "加速",
+    "：",
+    "浮漂原本缓慢下沉或静止，突然加速下沉，可能是鱼就饵拉动浮漂。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下沉1-2目，或出现明显的停顿，这是鱼咬钩的典型信号。",
+    "横移",
+    "：",
+    "浮漂在水面出现横向移动，可能是鱼拖动饵料。",
+    "抖动",
+    "：",
+    "浮漂出现轻微而快速的抖动，可能是鱼试探性咬钩。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:犬牙金梭鱼喜欢栖息在礁石区或水流湍急的地方，选择这些区域作为钓点。",
+    "诱钓结合:使用诱饵提前打窝，吸引鱼群聚集。",
+    "观察潮汐:涨潮和退潮时，鱼的活性较高，是钓鱼的好时机。",
+    "根据鱼情调整钓法:根据鱼的咬口情况，灵活调整钓法和饵料。",
+    "注意安全:在礁石区或海边作钓时，注意防滑和安全。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、防波堤、码头、近岸海域",
+  "distribution": [],
+  "similar_fish": [
+    "梭鱼",
+    "海鲈鱼",
+    "石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/quan-ya-zhui-chi-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/quan-ya-zhui-chi-diao-0-b6a1982e.webp"
+    ]
+  },
+  "profile_text_sha256": "1313c9e35689e55b26eedc344595452cc558eb6442e78f82c98b17f559548ba5",
+  "raw_line_count": 87,
+  "local_dir": "by_family/金线鱼科/quan-ya-zhui-chi-diao_犬牙锥齿鲷",
+  "local_images": {
+    "fish": [
+      "by_family/金线鱼科/quan-ya-zhui-chi-diao_犬牙锥齿鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

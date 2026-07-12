@@ -1,0 +1,52 @@
+{
+  "name": "弓月蝴蝶鱼",
+  "slug": "gong-yue-hu-die-yu",
+  "source_url": "https://fishweather.cn/fish/gong-yue-hu-die-yu",
+  "list_page": 20,
+  "list_position": 471,
+  "scientific_name": "Chaetodon lunulatus",
+  "aliases": "月蝶鱼、弯纹蝶鱼",
+  "headline": "弓月蝴蝶鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "月斑蝴蝶鱼体呈卵圆形，侧扁。背部轮廓凸出，头部轮廓几乎笔直。眼睛上方到背鳍前方有一条深色条纹，眼睛下方到胸鳍基部也有一条深色条纹，这两条条纹在吻部交汇，形成一个深色眼罩。体侧黄色至橙黄色，上半部颜色较深，下半部较浅。体侧具有多条弯曲的暗色横纹，这些横纹与体色形成鲜明对比，是其显著特征。尾鳍黄色，边缘透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "蝴蝶鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以珊瑚虫、藻类、小型无脊椎动物（如多毛类、海绵、tunicates）为食。",
+    "栖息环境": "珊瑚礁区，常在珊瑚丛中或附近活动，也可见于岩礁区域。",
+    "体长": "20",
+    "体重": null,
+    "寿命": "较长，在自然条件下，寿命可达数年以上，具体寿命取决于环境条件和天敌情况。在适宜的环境下，可能存活5-10年或更久。",
+    "适温": "22-28"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "线纹蝴蝶鱼",
+    "黄网蝴蝶鱼",
+    "黑斜纹蝴蝶鱼",
+    "印度线纹蝴蝶鱼",
+    "珍珠蝴蝶鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/gong-yue-hu-die-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "1eb085882d26010deaae97180816a6c7e8765a990e46dbab7ce5e5e9d7b5668b",
+  "raw_line_count": 30,
+  "local_dir": "by_family/蝴蝶鱼科/gong-yue-hu-die-yu_弓月蝴蝶鱼",
+  "local_images": {
+    "fish": [
+      "by_family/蝴蝶鱼科/gong-yue-hu-die-yu_弓月蝴蝶鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

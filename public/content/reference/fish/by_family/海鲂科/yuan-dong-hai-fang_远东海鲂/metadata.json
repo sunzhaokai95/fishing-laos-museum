@@ -1,0 +1,75 @@
+{
+  "name": "远东海鲂",
+  "slug": "yuan-dong-hai-fang",
+  "source_url": "https://fishweather.cn/fish/yuan-dong-hai-fang",
+  "list_page": 13,
+  "list_position": 294,
+  "scientific_name": "Zeus faber",
+  "aliases": "远东海鲂、镜鲂、鸡鱼、扁身鱼",
+  "headline": "远东海鲂怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体侧扁而高，呈卵圆形或菱形。头大，约占体长的1/3，吻突出，口大且能伸缩。眼大，位于头侧上方。体表裸露无鳞，但侧线鳞明显。体色呈黄褐色至橄榄色，体侧中央有一显著的黑色圆斑，周围镶有淡黄色环纹，如同靶心。背鳍分为两个部分，前部为硬棘鳍，棘刺延长呈丝状，后部为软鳍条。腹鳍长，胸鳍短小，尾鳍圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "海鲂目",
+    "科": "海鲂科",
+    "水层": "中层,底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类（如虾、蟹）和头足类（如鱿鱼、章鱼）。",
+    "栖息环境": "主要栖息于沿海大陆架和岛屿附近的岩礁、沙砾或泥沙质海底，也常见于海藻床附近。幼鱼有时会漂浮于表层。",
+    "体长": "90 cm",
+    "体重": "8 kg",
+    "寿命": "寿命较长，可达12年以上。",
+    "适温": "10-24 °C"
+  },
+  "bait_options": [
+    "小黄鱼",
+    "沙丁鱼",
+    "秋刀鱼",
+    "鱿鱼块",
+    "虾肉",
+    "南极虾",
+    "鱼肉块",
+    "海মাছ",
+    "贝肉",
+    "章鱼足"
+  ],
+  "float_signals": [
+    "路亚海钓不显示",
+    "："
+  ],
+  "practical_tips": [
+    "探明水深和海底结构:使用探鱼器或经验判断，了解钓点水深和海底情况，选择海鲂可能藏身的礁石区或复杂地形。",
+    "选择合适的饵料和钓法:根据季节、水温和海鲂的食性选择合适的饵料，活饵或死饵均可，钓法可选择底钓或路亚。",
+    "注意潮汐变化:潮汐涨落会影响海鲂的活动范围和觅食习性，涨潮时海鲂可能靠近岸边，退潮时则可能退回深海。",
+    "慢速搜索和耐心等待:海鲂不属于游速很快的鱼类，作钓时需要耐心搜索，缓慢拖动饵料，或定点等待。",
+    "中鱼后及时扬竿和控线:海鲂中钩后挣扎力强，需及时扬竿，并控制好线组，避免切线或脱钩。"
+  ],
+  "recommended_spots": "近海礁石区、沉船区、海底岩礁区、海藻床、深海海域",
+  "distribution": [],
+  "similar_fish": [
+    "鲳鱼",
+    "马鲛鱼",
+    "带鱼",
+    "石斑鱼",
+    "军曹鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yuan-dong-hai-fang.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yuan-dong-hai-fang-0-271d5a1d.webp",
+      "https://fishweather.cn/asset-images/catch/yuan-dong-hai-fang-1-c1724c56.webp"
+    ]
+  },
+  "profile_text_sha256": "74713fa63ce16193ab6e6a8951cf00adcb0f6956794ca7acff9593b0a055ed91",
+  "raw_line_count": 88,
+  "local_dir": "by_family/海鲂科/yuan-dong-hai-fang_远东海鲂",
+  "local_images": {
+    "fish": [
+      "by_family/海鲂科/yuan-dong-hai-fang_远东海鲂/images/main.webp"
+    ],
+    "catch": []
+  }
+}

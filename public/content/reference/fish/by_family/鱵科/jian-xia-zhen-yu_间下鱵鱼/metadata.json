@@ -1,0 +1,91 @@
+{
+  "name": "间下鱵鱼",
+  "slug": "jian-xia-zhen-yu",
+  "source_url": "https://fishweather.cn/fish/jian-xia-zhen-yu",
+  "list_page": 4,
+  "list_position": 78,
+  "scientific_name": "Hyporhamphus intermedius",
+  "aliases": "颌针鱼、水针",
+  "headline": "间下鱵鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，呈亚圆柱形。头长而尖，吻极度延长成喙状，下颌显著长于上颌。眼较大，侧位。背鳍和臀鳍相对，均位于身体后部。尾鳍叉形。体表被圆鳞，侧线明显。体色背部灰绿色，腹部银白色，喙部略带红色或橙色。各鳍透明或淡黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "颌针鱼目",
+    "科": "鱵科",
+    "水层": "上层,中上层",
+    "食性": "主要以浮游生物、小型甲壳类、藻类和小型鱼类为食。",
+    "栖息环境": "沿海浅水区，如海湾、河口、红树林、珊瑚礁附近水域。",
+    "体长": "30",
+    "体重": null,
+    "寿命": "寿命较短，通常为2-3年。",
+    "适温": "22-30"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "沙蚕",
+    "小鱼块",
+    "虾肉",
+    "鱼肉",
+    "面包虫",
+    "拟饵（米诺）",
+    "拟饵（铅笔）",
+    "拟饵（软虫）"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，表示鱼吞饵较深。",
+    "顿口",
+    "：",
+    "浮漂快速下沉半目或一目，然后停顿，通常是鱼咬钩的信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口试探。",
+    "上浮",
+    "：",
+    "浮漂缓慢上升或快速上顶，有时是鱼将饵料顶起或挂到鱼线。",
+    "移位",
+    "：",
+    "浮漂左右移动，不规则晃动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:了解鱼的习性，选择鱼类聚集的区域，如礁石缝隙、水流交汇处等。",
+    "根据潮汐变化调整钓法:涨潮和退潮时鱼的活动规律不同，需根据潮汐调整钓位和钓法。",
+    "灵活运用饵料:根据季节和鱼情，选择合适的饵料，可多尝试不同饵料。",
+    "注意隐蔽性:海鱼警惕性较高，钓者应注意自身隐蔽，避免惊扰鱼群。",
+    "掌握扬竿时机:根据浮漂动作判断鱼讯，及时扬竿，避免跑鱼。"
+  ],
+  "recommended_spots": "礁石区、防波堤、码头、海湾、近海船钓",
+  "distribution": [],
+  "similar_fish": [
+    "鱵鱼",
+    "颌鲚",
+    "鲻鱼",
+    "梭鱼",
+    "海鲢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jian-xia-zhen-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/jian-xia-zhen-yu-0-4b3c6433.webp",
+      "https://fishweather.cn/asset-images/catch/jian-xia-zhen-yu-1-bc08760d.webp",
+      "https://fishweather.cn/asset-images/catch/jian-xia-zhen-yu-2-1ddcee3d.webp",
+      "https://fishweather.cn/asset-images/catch/jian-xia-zhen-yu-3-93a7c93d.webp",
+      "https://fishweather.cn/asset-images/catch/jian-xia-zhen-yu-4-d55923c5.webp"
+    ]
+  },
+  "profile_text_sha256": "61f9995d754408646ba0b94788172d61e9d9d77e0fec82ae2d9ee0c7073ecf2d",
+  "raw_line_count": 131,
+  "local_dir": "by_family/鱵科/jian-xia-zhen-yu_间下鱵鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鱵科/jian-xia-zhen-yu_间下鱵鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

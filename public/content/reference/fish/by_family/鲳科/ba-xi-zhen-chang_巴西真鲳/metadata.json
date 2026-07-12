@@ -1,0 +1,103 @@
+{
+  "name": "巴西真鲳",
+  "slug": "ba-xi-zhen-chang",
+  "source_url": "https://fishweather.cn/fish/ba-xi-zhen-chang",
+  "list_page": 20,
+  "list_position": 470,
+  "scientific_name": "Stromateus brasiliensis",
+  "aliases": "白鲳、银鲳",
+  "headline": "巴西真鲳怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体近圆形，甚侧扁，体长可达35厘米。口小，端位。上下颌各具一行细牙。鳃孔大，鳃盖膜不与峡部相连。体被小圆鳞，易脱落。侧线完全。背鳍和臀鳍长，鳍条前部稍高。尾鳍深叉形。体色银白色，幼鱼背部略带灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲳科",
+    "水层": "中上层",
+    "食性": "主要以浮游动物、小型甲壳类、水母等为食。",
+    "栖息环境": "近海暖水性中上层鱼类，主要栖息于沿海大陆架海域。",
+    "体长": "35 cm",
+    "体重": "1 kg",
+    "寿命": "寿命信息较少，推测与其他鲳鱼相似，可能为5-8年。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "鱼肉块",
+    "鱿鱼块",
+    "沙蚕",
+    "海蚯蚓",
+    "虾肉",
+    "贝肉",
+    "小鱼",
+    "磷虾",
+    "拟饵"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见。",
+    "顿口",
+    "：",
+    "浮漂快速下沉一目或几目，有力度的下顿。",
+    "慢沉",
+    "：",
+    "浮漂缓慢而持续地向下沉。",
+    "加速下沉",
+    "：",
+    "原本缓慢下沉的浮漂突然加速下沉。",
+    "横移",
+    "：",
+    "浮漂不规则地向侧面移动。",
+    "真实钓获",
+    "来自钓鱼佬 App 用户的",
+    "巴西真鲳",
+    "实战记录",
+    "2025-05",
+    "·",
+    "肇庆市",
+    "0.5",
+    "kg",
+    "25",
+    "cm",
+    "天气：",
+    "水温24.7°C · 气压1000.1hPa · 溶氧6.3mg/L",
+    "👍",
+    "28",
+    "钓友***",
+    "相似鱼种",
+    "银鲳",
+    "刺鲳",
+    "斗鲳",
+    "斑点星鲳",
+    "灰鲳"
+  ],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "银鲳",
+    "刺鲳",
+    "斗鲳",
+    "斑点星鲳",
+    "灰鲳"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ba-xi-zhen-chang.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ba-xi-zhen-chang-0-f42fe6b5.webp"
+    ]
+  },
+  "profile_text_sha256": "50bb4b574fc58886b6645bee40b331a8e0a9de99112d336bd058c9db80df866d",
+  "raw_line_count": 79,
+  "local_dir": "by_family/鲳科/ba-xi-zhen-chang_巴西真鲳",
+  "local_images": {
+    "fish": [
+      "by_family/鲳科/ba-xi-zhen-chang_巴西真鲳/images/main.webp"
+    ],
+    "catch": []
+  }
+}

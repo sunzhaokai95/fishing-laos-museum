@@ -1,0 +1,80 @@
+{
+  "name": "金线鱼",
+  "slug": "jin-xian-yu",
+  "source_url": "https://fishweather.cn/fish/jin-xian-yu",
+  "list_page": 8,
+  "list_position": 182,
+  "scientific_name": "Nemipterus virgatus",
+  "aliases": "红衫鱼、黄线、金鲮、红三、狮子鱼",
+  "headline": "金线鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，呈纺锤形。头中等大，吻尖。眼大，位于头侧上方。口小，前位，上颌稍突出于下颌。上下颌牙细小，呈绒毛状。体被栉鳞，侧线完全。体背部呈浅红色或粉红色，体侧下方至腹部银白色，体侧有数条金黄色纵带，其中最明显的一条纵带位于侧线上方。各鳍浅红色或淡黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "金线鱼科",
+    "水层": "底层,近底层",
+    "食性": "肉食性为主，主要摄食小型鱼类、甲壳类（如虾、蟹）、头足类及底栖无脊椎动物。",
+    "栖息环境": "近海沙泥底质海域，常栖息于水深10-90米的海区",
+    "体长": "30 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海মাছ(小海鱼)",
+    "鱿鱼块",
+    "沙蚕",
+    "虾肉",
+    "鱼肉块",
+    "小螃蟹",
+    "贝肉",
+    "海蜈蚣",
+    "人工鱼饵（软饵",
+    "铁板）"
+  ],
+  "float_signals": [
+    "不适用",
+    "：",
+    "海钓路亚或船钓底钓通常不依赖典型漂像，主要通过竿尖动作和手感判断鱼讯。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:金线鱼喜欢栖息于礁石区、沉船附近或沙泥底质海域，选择这些区域作为钓点能提高中鱼率。",
+    "根据水深选择钓法:在浅水区可采用矶钓或岸边抛投钓法，在深水区则适合船钓或铁板钓法。",
+    "灵活运用抽动手法:使用路亚钓法时，尝试不同的抽动速度和幅度，找到最适合当时鱼情的操作方式。",
+    "注意潮汐变化:涨潮和退潮时，水流变化会影响金线鱼的觅食行为，需要根据潮汐变化调整钓法和钓点。",
+    "使用腥味饵料:金线鱼是肉食性鱼类，对腥味饵料较为敏感，使用南极虾、鱼肉等腥味饵料能提高诱鱼效果。"
+  ],
+  "recommended_spots": "近海礁石区、防波堤、码头、外海船钓钓点、沙泥底质海域",
+  "distribution": [],
+  "similar_fish": [
+    "黄鲷",
+    "黑鲷",
+    "石斑鱼",
+    "鲈鱼",
+    "真鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jin-xian-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/jin-xian-yu-0-6630e367.webp",
+      "https://fishweather.cn/asset-images/catch/jin-xian-yu-1-27c87d7c.webp",
+      "https://fishweather.cn/asset-images/catch/jin-xian-yu-2-a9ef5f42.webp",
+      "https://fishweather.cn/asset-images/catch/jin-xian-yu-3-ed85fd6f.webp",
+      "https://fishweather.cn/asset-images/catch/jin-xian-yu-4-66694921.webp"
+    ]
+  },
+  "profile_text_sha256": "67ea1287e04a8d4396c72af5f4c8717067c9726c1b2449b1a8f11dff35ab9aad",
+  "raw_line_count": 126,
+  "local_dir": "by_family/金线鱼科/jin-xian-yu_金线鱼",
+  "local_images": {
+    "fish": [
+      "by_family/金线鱼科/jin-xian-yu_金线鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

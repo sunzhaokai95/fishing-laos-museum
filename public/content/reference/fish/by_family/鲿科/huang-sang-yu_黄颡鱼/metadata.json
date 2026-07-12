@@ -1,0 +1,88 @@
+{
+  "name": "黄颡鱼",
+  "slug": "huang-sang-yu",
+  "source_url": "https://fishweather.cn/fish/huang-sang-yu",
+  "list_page": 1,
+  "list_position": 10,
+  "scientific_name": "Pelteobagrus fulvidraco",
+  "aliases": "黄辣丁、昂刺鱼、昂刺、嘎鱼、嘎牙子、黄骨鱼、黄牯鱼、昂公、黄角丁、戈牙",
+  "headline": "黄颡鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部稍粗壮，后部侧扁。头大略扁，吻短钝，口下位，上颌略长于下颌，上下颌均具绒毛状齿带。须 4 对：鼻须 1 对短小，上颌须 1 对最长可伸达胸鳍基部，下颌须 2 对较短。眼小位于头侧上方。体无鳞，皮肤光滑。背部黄褐色，体侧黄色并伴有 3 条断续的褐黑色纵带或不规则斑块，腹部浅黄。背鳍和胸鳍各具一根带锯齿的硬棘（",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "鲿科",
+    "水层": "底层,中层",
+    "食性": "杂食偏肉食性。主要摄食水生昆虫及其幼虫、小型甲壳类（虾、桡足类）、小鱼、螺蛳、蚯蚓、底栖软体动物，也食水生植物碎屑、有机碎屑和藻类。幼鱼以浮游动物为主，成鱼食性更广。夜间觅食活跃，对腥味饵料反应强烈。",
+    "栖息环境": "栖息于江河、湖泊、水库、池塘等各类淡水水域的中下层，常在底质为淤泥或沙石的缓流和静水区活动。喜阴暗隐蔽环境，白天多潜伏于",
+    "体长": "34.5 cm",
+    "体重": "0.3 kg",
+    "寿命": "野生条件下寿命约 4-6 年，最长可达 7-8 年。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "上海市",
+    "云南省",
+    "内蒙古自治区",
+    "北京市",
+    "吉林省",
+    "四川省",
+    "天津市",
+    "宁夏回族自治区",
+    "安徽省",
+    "山东省",
+    "山西省",
+    "广东省",
+    "广西壮族自治区",
+    "江苏省",
+    "江西省",
+    "河北省",
+    "河南省",
+    "浙江省",
+    "湖北省",
+    "湖南省",
+    "甘肃省",
+    "福建省",
+    "贵州省",
+    "辽宁省",
+    "重庆市",
+    "陕西省",
+    "黑龙江省"
+  ],
+  "similar_fish": [
+    "瓦氏黄颡鱼",
+    "光泽黄颡鱼",
+    "长须黄颡鱼",
+    "江黄颡鱼",
+    "白边光颌鲿",
+    "土鲶",
+    "黄颡鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huang-sang-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/huang-sang-yu-0-e04c72a4.webp",
+      "https://fishweather.cn/asset-images/catch/huang-sang-yu-1-2400590c.webp",
+      "https://fishweather.cn/asset-images/catch/huang-sang-yu-2-ac96b8af.webp",
+      "https://fishweather.cn/asset-images/catch/huang-sang-yu-3-b3e787f1.webp",
+      "https://fishweather.cn/asset-images/catch/huang-sang-yu-4-f535498c.webp"
+    ]
+  },
+  "profile_text_sha256": "e3ffaac092828c30d3ad69ecfb4d90a3beb252cc88d490e1bdb99af420f4e220",
+  "raw_line_count": 135,
+  "local_dir": "by_family/鲿科/huang-sang-yu_黄颡鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲿科/huang-sang-yu_黄颡鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

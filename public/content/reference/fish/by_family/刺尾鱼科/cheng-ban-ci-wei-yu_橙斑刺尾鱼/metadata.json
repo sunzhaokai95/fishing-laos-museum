@@ -1,0 +1,52 @@
+{
+  "name": "橙斑刺尾鱼",
+  "slug": "cheng-ban-ci-wei-yu",
+  "source_url": "https://fishweather.cn/fish/cheng-ban-ci-wei-yu",
+  "list_page": 31,
+  "list_position": 741,
+  "scientific_name": "Acanthurus olivaceus",
+  "aliases": "橙斑刺尾鱼、黄尾刺尾鲷",
+  "headline": "橙斑刺尾鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "橘点刺尾鲷体呈椭圆形，侧扁。身体颜色为浅灰色至浅棕色，幼鱼体色偏黄，随着成长逐渐变为灰色。最显著的特征是其尾柄末端上方有一个醒目的橘黄色斑点，这个斑点有时会延伸至背鳍下方。眼睛周围通常有深色环纹。背鳍和臀鳍连续且较长，尾鳍呈新月形。口小，位于吻端。体表覆盖小栉鳞，侧线完全。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "刺尾鱼科",
+    "水层": "中层,底层",
+    "食性": "主要以藻类为食，也摄食有机碎屑和小型底栖无脊椎动物",
+    "栖息环境": "珊瑚礁区，潟湖和面向海洋的礁石斜坡，通常在水深2-45米的清澈水域活动",
+    "体长": "35",
+    "体重": null,
+    "寿命": "寿命较长，在自然条件下可能超过20年，具体寿命数据仍在研究中，但普遍认为刺尾鱼科鱼类寿命较长。",
+    "适温": "24-30"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "粉蓝刺尾鲷",
+    "纹倒吊",
+    "大帆倒吊",
+    "黄高鳍刺尾鱼",
+    "蓝倒吊"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/cheng-ban-ci-wei-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "8e6aaa2ec671835609130d1ade15cbeca5a7e34be61204d3e10aa0d7f87c7abb",
+  "raw_line_count": 30,
+  "local_dir": "by_family/刺尾鱼科/cheng-ban-ci-wei-yu_橙斑刺尾鱼",
+  "local_images": {
+    "fish": [
+      "by_family/刺尾鱼科/cheng-ban-ci-wei-yu_橙斑刺尾鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": "雷氏小嗜土丽鲷",
+  "slug": "lei-shi-xiao-shi-tu-li-diao",
+  "source_url": "https://fishweather.cn/fish/lei-shi-xiao-shi-tu-li-diao",
+  "list_page": 16,
+  "list_position": 372,
+  "scientific_name": "Mikrogeophagus ramirezi",
+  "aliases": "凤凰鱼",
+  "headline": "雷氏小嗜土丽鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型娇小，色彩绚丽的热带鱼。体侧扁，呈卵圆形。雄鱼背鳍鳍棘延长，色彩更为鲜艳，雌鱼腹部略膨胀，颜色相对柔和。体色基调为金黄色，带有蓝色、红色、橙色等金属光泽的斑纹，尤其在繁殖期更为ярко.眼睛虹膜为红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "中下层",
+    "食性": "杂食性，主要摄食小型无脊椎动物、浮游生物、植物碎屑和藻类。",
+    "栖息环境": "南美洲奥里诺科河流域的委内瑞拉和哥伦比亚境内的热带草原水域，通常栖息于水流缓慢、植被茂盛的浅水区。",
+    "体长": "7",
+    "体重": "0.01",
+    "寿命": "通常为2-3年，饲养环境良好可略微延长。",
+    "适温": "25-30"
+  },
+  "bait_options": [
+    "红虫",
+    "水蚤",
+    "丰年虾",
+    "小型面包虫",
+    "磨碎的鱼饲料",
+    "蚊子幼虫",
+    "果蝇",
+    "蚂蚁卵",
+    "切碎的蚯蚓（极小段）",
+    "人工微颗粒饵料"
+  ],
+  "float_signals": [
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而轻微地向下沉降半目或一目，速度极慢，可能是鱼轻缓吸食。",
+    "上顶",
+    "：",
+    "极罕见情况下，浮漂可能会出现轻微上顶，但幅度通常很小。",
+    "停顿",
+    "：",
+    "浮漂在缓慢移动或轻微晃动后突然静止不动，可能是鱼已含饵。",
+    "轻微点动",
+    "：",
+    "浮漂出现极轻微的快速点动，幅度很小，可能是鱼试探性触碰饵料。",
+    "横移",
+    "：",
+    "浮漂轻微横向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:在植被丰富、水流缓慢的区域寻找鱼的踪迹。",
+    "使用极细的钓组:线组和鱼钩务必细小，以提高隐蔽性和灵敏度。",
+    "饵料状态:保持饵料新鲜且适口，少量多次投喂。",
+    "轻柔操作:从抛竿到提竿，所有动作都要轻柔细致。",
+    "耐心等待:小型鱼类吃口轻缓，需要耐心观察和等待。"
+  ],
+  "recommended_spots": "南美洲热带草原地区的溪流、水流缓慢的小河、植被茂盛的浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "玻利维亚凤凰",
+    "阿卡西七彩",
+    "女王燕子",
+    "宝莲灯鱼",
+    "红鼻剪刀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lei-shi-xiao-shi-tu-li-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/lei-shi-xiao-shi-tu-li-diao-0-af0abb64.webp"
+    ]
+  },
+  "profile_text_sha256": "72ceb3b3907ebf65151d7ff761c517dee98a1d05839acf0150fc015024d6e9a8",
+  "raw_line_count": 87,
+  "local_dir": "by_family/丽鱼科/lei-shi-xiao-shi-tu-li-diao_雷氏小嗜土丽鲷",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/lei-shi-xiao-shi-tu-li-diao_雷氏小嗜土丽鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "角镰鱼",
+  "slug": "jiao-lian-yu",
+  "source_url": "https://fishweather.cn/fish/jiao-lian-yu",
+  "list_page": 21,
+  "list_position": 495,
+  "scientific_name": "Zanclus cornutus",
+  "aliases": "角镰鱼、丝蝴蝶鱼",
+  "headline": "角镰鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "身体侧扁呈盘状，体色鲜艳，以黄色和黑色条纹相间为主，吻部突出延长似鸟喙。背鳍和臀鳍向后延伸呈丝状，非常醒目。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "镰鱼科",
+    "水层": "中层,上层",
+    "食性": "杂食性，主要以藻类和小型无脊椎动物为食",
+    "栖息环境": "珊瑚礁区,岩礁区",
+    "体长": "23 cm",
+    "体重": null,
+    "寿命": "野外寿命估计为5-7年，详细信息缺乏",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [
+    "选择合适的潮汐:涨潮和退潮时鱼类更活跃",
+    "注意水流变化:水流交汇处或缓流区易找到鱼群",
+    "使用抗挂底钓组:珊瑚礁区易挂底，选合适钓组和钓点",
+    "搜索不同水层:尝试不同泳层路亚",
+    "轻柔操作，避免惊鱼"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、近岸礁石平台",
+  "distribution": [],
+  "similar_fish": [
+    "蝴蝶鱼",
+    "刺尾鱼",
+    "雀鲷",
+    "神仙鱼",
+    "粗皮鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jiao-lian-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "9d1a082efd48735711699c6ca20c5183ecb80285b35d691a7f18d42e7e13504b",
+  "raw_line_count": 42,
+  "local_dir": "by_family/镰鱼科/jiao-lian-yu_角镰鱼",
+  "local_images": {
+    "fish": [
+      "by_family/镰鱼科/jiao-lian-yu_角镰鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "name": "点带石斑鱼",
+  "slug": "dian-dai-shi-ban-yu",
+  "source_url": "https://fishweather.cn/fish/dian-dai-shi-ban-yu",
+  "list_page": 4,
+  "list_position": 85,
+  "scientific_name": "Epinephelus coioides",
+  "aliases": "青斑、过鱼、石斑、星斑、杉斑、鲈滑、油斑、蚝斑",
+  "headline": "点带石斑鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，稍高，背腹缘均呈弧形。头大，头长大于体高。吻尖，口大，口裂斜，上下颌前端具少数犬齿，侧牙细尖。下颌略突出于上颌。前鳃盖骨后缘锯齿状，鳃盖骨后缘具3扁棘。体被栉鳞，侧线完全。背鳍连续，硬棘XI，软条14-16；臀鳍硬棘III，软条8；胸鳍圆形；腹鳍胸位；尾鳍圆形。体色变化大，幼鱼体色较浅，成鱼体背部棕褐色或",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "底层,近底层",
+    "食性": "肉食性，主要捕食鱼类、甲壳类（如虾、蟹）和头足类等。幼鱼主要摄食小型甲壳类和鱼苗。",
+    "栖息环境": "热带和亚热带沿海岩礁、珊瑚礁、红树林、河口以及近海沙泥底质海区。幼鱼多栖息于潮间带浅水区或红树林内，成鱼则生活在较深水域",
+    "体长": "120 cm",
+    "体重": "20 kg",
+    "寿命": "寿命较长，自然条件下可达20年以上，人工养殖条件下一般为5-10年。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "活虾",
+    "冻虾",
+    "鱿鱼块",
+    "小鱼块",
+    "海মাছ肉块",
+    "沙蚕",
+    "海蜈蚣",
+    "鱼排颗粒",
+    "南极虾",
+    "拟饵（米诺",
+    "铅笔",
+    "波扒",
+    "VIB",
+    "软饵）"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，或线组迅速被拉走，是石斑鱼吞食饵料的明显信号。",
+    "顿口",
+    "：",
+    "竿尖或线组突然下顿，幅度较小但有力，通常是石斑鱼试探性咬饵或轻微吸食。",
+    "拖拽",
+    "：",
+    "竿尖持续弯曲，线轮出线，表明有较大个体石斑鱼咬钩并开始拖拽。",
+    "连续点动",
+    "：",
+    "竿尖或线组出现连续轻微的点动，可能是小型石斑鱼或杂鱼闹窝，但有时也可能是大型石斑鱼吸食前的试探。",
+    "停口后突然发力",
+    "：",
+    "起初漂像轻微，如点动或轻微下沉，但停顿片刻后，突然出现黑漂或猛烈拖拽，这是石斑鱼狡猾的摄食方式。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:石斑鱼喜欢栖息在岩礁、珊瑚礁等复杂海底环境中，选择这些区域作为钓点。",
+    "根据水深和流速选择钓法和钓组:水深较浅、流速较缓时，可采用浮游矶钓或轻型路亚钓法；水深较深、流速较快时，可采用沉底钓法或重型路亚钓法。",
+    "灵活运用饵料:根据季节、水温和鱼情变化，选择合适的饵料，如活虾、冻虾、鱿鱼块、小鱼块等。路亚钓法可尝试不同类型的路亚饵，如米诺、铅笔、软饵等。",
+    "掌握扬竿时机:石斑鱼咬口有时轻微，有时凶猛，需根据漂像或竿尖的反应，及时扬竿。扬竿要果断有力，防止鱼钻入礁石缝隙。",
+    "注意钓场安全:海钓需注意安全，选择安全可靠的钓位，穿着防滑鞋，注意海浪和潮汐变化，避免发生意外。"
+  ],
+  "recommended_spots": "近海岩礁区、珊瑚礁区、沉船区、防波堤、码头、养殖网箱附近",
+  "distribution": [],
+  "similar_fish": [
+    "鞍带石斑鱼",
+    "赤点石斑鱼",
+    "云纹石斑鱼",
+    "宝石石斑鱼",
+    "纵带髭鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/dian-dai-shi-ban-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/dian-dai-shi-ban-yu-0-13ef1ccc.webp",
+      "https://fishweather.cn/asset-images/catch/dian-dai-shi-ban-yu-1-67c87374.webp",
+      "https://fishweather.cn/asset-images/catch/dian-dai-shi-ban-yu-2-ba85afa3.webp",
+      "https://fishweather.cn/asset-images/catch/dian-dai-shi-ban-yu-3-8d43daa1.webp",
+      "https://fishweather.cn/asset-images/catch/dian-dai-shi-ban-yu-4-f4b33559.webp"
+    ]
+  },
+  "profile_text_sha256": "a8207e58eed6b2fc9a23cc7f5443d93c124350de330f829c9c6c24c15c207545",
+  "raw_line_count": 133,
+  "local_dir": "by_family/鮨科/dian-dai-shi-ban-yu_点带石斑鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/dian-dai-shi-ban-yu_点带石斑鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

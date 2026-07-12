@@ -1,0 +1,83 @@
+{
+  "name": "水母玉鲳",
+  "slug": "shui-mu-yu-chang",
+  "source_url": "https://fishweather.cn/fish/shui-mu-yu-chang",
+  "list_page": 25,
+  "list_position": 586,
+  "scientific_name": "Psenes arafurensis",
+  "aliases": "澳洲鲳",
+  "headline": "水母玉鲳怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长椭圆形，侧扁。头中等大，吻圆钝。口小，端位。眼大，侧上位。体被薄圆鳞，易脱落。侧线完全，明显。背鳍和臀鳍均长，无硬棘。尾鳍叉形。体色银灰色，背部稍深，腹部银白色。幼鱼体色略带黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "双鳍鲳科",
+    "水层": "中上层",
+    "食性": "肉食性，主要以小型鱼类、甲壳类、浮游动物等为食",
+    "栖息环境": "近海沿岸，常在珊瑚礁或岩礁附近活动",
+    "体长": "30",
+    "体重": "0.5",
+    "寿命": "寿命相对较短，一般为3-5年",
+    "适温": "22-28"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾肉",
+    "鱿鱼块",
+    "沙蚕",
+    "鱼肉块",
+    "小鱼干",
+    "虾砖",
+    "海藻",
+    "颗粒饲料（海水鱼用）",
+    "面包虫"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，表示鱼吞饵较深，需及时扬竿。",
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是鱼在试探或轻微触碰饵料。",
+    "加速",
+    "：",
+    "浮漂原本缓慢下沉，突然加速下沉，可能是鱼快速拉动鱼线。",
+    "顿口",
+    "：",
+    "浮漂快速下沉半目或一目，然后停止，这是典型的鱼吃饵信号。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，表示鱼在拖动饵料。",
+    "相似鱼种",
+    "银鲳",
+    "刺鲳",
+    "斗鲳",
+    "蓝圆鲹"
+  ],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "银鲳",
+    "刺鲳",
+    "斗鲳",
+    "蓝圆鲹"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shui-mu-yu-chang.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "8e35d685eaa685abdda9c07df8ec50561302fcd2cbba2ca651f6a4bb72a9a49a",
+  "raw_line_count": 66,
+  "local_dir": "by_family/双鳍鲳科/shui-mu-yu-chang_水母玉鲳",
+  "local_images": {
+    "fish": [
+      "by_family/双鳍鲳科/shui-mu-yu-chang_水母玉鲳/images/main.webp"
+    ],
+    "catch": []
+  }
+}

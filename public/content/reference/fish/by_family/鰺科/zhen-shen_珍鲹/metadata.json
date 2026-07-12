@@ -1,0 +1,104 @@
+{
+  "name": "珍鲹",
+  "slug": "zhen-shen",
+  "source_url": "https://fishweather.cn/fish/zhen-shen",
+  "list_page": 11,
+  "list_position": 248,
+  "scientific_name": "Caranx ignobilis",
+  "aliases": "浪人鲹、珍鲹、牛拖、海鲡、笨鲹",
+  "headline": "珍鲹怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，背腹缘近相等。头大，吻钝。脂眼睑发达。上下颌具一行犬齿。体被小圆鳞，侧线弯曲部具棱鳞。背鳍和臀鳍鳍条前部延长。体背部青灰色，腹部银白色。幼鱼体侧具暗色横带。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰺科",
+    "水层": "中上层,沿岸",
+    "食性": "肉食性，主要捕食鱼类、甲壳类、头足类等海洋生物",
+    "栖息环境": "热带和亚热带沿岸水域，常在珊瑚礁、岩礁、河口、泻湖等区域活动",
+    "体长": "170 cm",
+    "体重": "80 kg",
+    "寿命": "寿命较长，在自然条件下可存活数十年",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "米诺",
+    "铅笔",
+    "波扒",
+    "颤泳",
+    "铁板",
+    "软饵（卷尾蛆）",
+    "软饵（T尾）",
+    "VIB",
+    "金属缓沉",
+    "鱼形软饵",
+    "真实钓获",
+    "来自钓鱼佬 App 用户的",
+    "珍鲹",
+    "实战记录",
+    "2026-07",
+    "·",
+    "南宁市",
+    "8",
+    "kg",
+    "17",
+    "cm",
+    "天气：",
+    "水温27.4°C · 气压994.9hPa · 溶氧5.2mg/L",
+    "👍",
+    "48",
+    "钓友***",
+    "2026-04",
+    "·",
+    "南宁市",
+    "8.25",
+    "kg",
+    "15",
+    "cm",
+    "天气：",
+    "水温25.2°C · 气压989.7hPa · 溶氧8.5mg/L",
+    "👍",
+    "37",
+    "钓友***",
+    "分布区域",
+    "海南省",
+    "相似鱼种",
+    "军曹鱼",
+    "金枪鱼",
+    "鲣鱼",
+    "鰤鱼",
+    "同属其他鲹类"
+  ],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "海南省"
+  ],
+  "similar_fish": [
+    "军曹鱼",
+    "金枪鱼",
+    "鲣鱼",
+    "鰤鱼",
+    "同属其他鲹类"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhen-shen.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhen-shen-0-06dc87bf.webp",
+      "https://fishweather.cn/asset-images/catch/zhen-shen-1-407c484e.webp"
+    ]
+  },
+  "profile_text_sha256": "87d4472249070ef5fdad5b3938733fd9c83f6629502420683098bbde2534855b",
+  "raw_line_count": 77,
+  "local_dir": "by_family/鰺科/zhen-shen_珍鲹",
+  "local_images": {
+    "fish": [
+      "by_family/鰺科/zhen-shen_珍鲹/images/main.webp"
+    ],
+    "catch": []
+  }
+}

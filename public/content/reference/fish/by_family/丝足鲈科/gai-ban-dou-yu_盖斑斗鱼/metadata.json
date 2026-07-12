@@ -1,0 +1,89 @@
+{
+  "name": "盖斑斗鱼",
+  "slug": "gai-ban-dou-yu",
+  "source_url": "https://fishweather.cn/fish/gai-ban-dou-yu",
+  "list_page": 13,
+  "list_position": 297,
+  "scientific_name": "Macropodus opercularis",
+  "aliases": "菩萨鱼、台湾斗鱼、叉尾斗鱼、天堂鱼",
+  "headline": "盖斑斗鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈椭圆形，侧扁。头中等大，稍尖。吻短。口上位，口裂小。眼大，侧位。鳞片大，侧线不完全。背鳍和臀鳍长形，向后延伸至尾鳍基部，雄鱼鳍条延长，末端尖细。尾鳍叉形，中央鳍条突出。体色多变，通常为红褐色或紫褐色，体侧有数条蓝色或绿色横纹，鳃盖后缘有一块明显的黑色斑点，边缘蓝色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丝足鲈科",
+    "水层": "中上层",
+    "食性": "杂食性，偏肉食性。主要摄食小型昆虫、水蚤、蚊子幼虫、丝蚯蚓等小型无脊椎动物，也摄食藻类、植物碎屑及人工饲料",
+    "栖息环境": "静水或缓流水域，如池塘、稻田、沟渠、沼泽、缓流溪涧等，喜栖息于水草茂盛、腐殖质丰富的浅水区",
+    "体长": "10 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，通常为2-3年，人工饲养条件下，精心照料可达3-4年",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "水蚤",
+    "面包虫（幼虫）",
+    "蝇蛆",
+    "颗粒饲料（小型鱼专用）",
+    "面包屑",
+    "米饭粒",
+    "豆粉",
+    "麸皮",
+    "商品饵（腥味或香味型",
+    "如鲫鱼饵）"
+  ],
+  "float_signals": [
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼吸食饵料后下沉",
+    "停顿",
+    "：",
+    "浮漂原本缓慢上升或下沉的趋势突然停止，也可能是鱼讯",
+    "缓升",
+    "：",
+    "浮漂缓慢上升，可能是鱼将饵料含入口中后抬头",
+    "横移",
+    "：",
+    "浮漂水平方向缓慢移动，可能是鱼拖动饵料",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动或颤动，幅度小，频率快，可能是鱼试探性触碰饵料"
+  ],
+  "practical_tips": [
+    "选择安静环境:盖斑斗鱼胆小，喜安静环境，避免在嘈杂或人为干扰大的地方垂钓。",
+    "轻声细语:作钓时保持安静，减少走动和声响，以免惊吓鱼群。",
+    "使用细线小钩:线组和鱼钩要尽可能细小，提高隐蔽性和适口性。",
+    "饵料勤更换:保持饵料新鲜，勤更换饵料，提高诱鱼效果。",
+    "耐心等待:盖斑斗鱼吃口较轻，要有耐心，仔细观察漂相，抓住微弱信号。"
+  ],
+  "recommended_spots": "池塘、稻田、水沟、缓流溪涧、公园水体",
+  "distribution": [],
+  "similar_fish": [
+    "中国斗鱼(Macropoduschinensis)",
+    "圆尾斗鱼(Bettasplendens)",
+    "泰国斗鱼(Bettasmaragdina)",
+    "蓝曼龙(Trichogastertrichopterus)",
+    "丽丽鱼(Trichogasterlalius)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/gai-ban-dou-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/gai-ban-dou-yu-0-3cc588d7.webp",
+      "https://fishweather.cn/asset-images/catch/gai-ban-dou-yu-1-b4974230.webp"
+    ]
+  },
+  "profile_text_sha256": "bf115a2cbfddd515ddebc11f8b96a263a8a1e7188c6d4a38e0d5d1996de5ed0c",
+  "raw_line_count": 101,
+  "local_dir": "by_family/丝足鲈科/gai-ban-dou-yu_盖斑斗鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丝足鲈科/gai-ban-dou-yu_盖斑斗鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

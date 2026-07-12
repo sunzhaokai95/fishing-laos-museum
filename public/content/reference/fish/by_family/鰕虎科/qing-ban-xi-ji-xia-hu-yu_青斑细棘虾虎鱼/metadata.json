@@ -1,0 +1,87 @@
+{
+  "name": "青斑细棘虾虎鱼",
+  "slug": "qing-ban-xi-ji-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/qing-ban-xi-ji-xia-hu-yu",
+  "list_page": 10,
+  "list_position": 217,
+  "scientific_name": "Acentrogobius viridipunctatus",
+  "aliases": "青点虎",
+  "headline": "青斑细棘虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，后部稍侧扁。头中等大，略平扁。吻钝圆。口大，前位，斜裂。上下颌牙细小，圆锥形。眼大，侧上位。体被栉鳞，头部无鳞。背鳍两个，分离，第一背鳍鳍棘6根，第二背鳍鳍条10-11根。胸鳍圆形。腹鳍愈合成吸盘。臀鳍鳍条9-10根。尾鳍圆形。体黄褐色或灰褐色，头部、体侧及各鳍散布许多绿色小点，故名绿点栉虾虎鱼。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如小型甲壳类、多毛类、软体动物等。",
+    "栖息环境": "主要栖息于沿海及河口咸淡水水域的泥沙或砾石底质，也见于红树林和潮间带。",
+    "体长": "12 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为1-2年。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "沙蚕",
+    "海蚯蚓",
+    "南极虾",
+    "虾肉",
+    "鱼肉碎",
+    "面包虫",
+    "红虫",
+    "细小颗粒饲料",
+    "商品小药（腥味）",
+    "藻类（部分个体可能摄食）"
+  ],
+  "float_signals": [
+    "连续小顿",
+    "：",
+    "浮漂出现连续细微的顿口，可能是鱼在反复啄食。",
+    "顿口",
+    "：",
+    "浮漂快速下顿，幅度较小，是较为明显的咬钩信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼吸食饵料但力量较小。",
+    "移位",
+    "：",
+    "浮漂水平方向缓慢移动，可能是鱼拖动饵料。",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小，可能是鱼试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择细线小钩，提高灵敏度。",
+    "饵料宜小而腥，增加诱食性。",
+    "钓点选择在水流缓慢、底质复杂的区域。",
+    "采用逗钓手法，主动寻找鱼口。",
+    "注意观察细微漂相，及时提竿。"
+  ],
+  "recommended_spots": "海边礁石区、港口码头、防波堤、河口咸淡水区域、红树林边缘",
+  "distribution": [],
+  "similar_fish": [
+    "其他栉虾虎鱼",
+    "弹涂鱼",
+    "鰕虎鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qing-ban-xi-ji-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/qing-ban-xi-ji-xia-hu-yu-0-2d7c6843.webp",
+      "https://fishweather.cn/asset-images/catch/qing-ban-xi-ji-xia-hu-yu-1-b3f6b36b.webp",
+      "https://fishweather.cn/asset-images/catch/qing-ban-xi-ji-xia-hu-yu-2-e6f08b47.webp"
+    ]
+  },
+  "profile_text_sha256": "ac1a2c77d1f50f4eaded6bbf6e500ad4b2811d3e5487d8aaa62ebec379758f16",
+  "raw_line_count": 109,
+  "local_dir": "by_family/鰕虎科/qing-ban-xi-ji-xia-hu-yu_青斑细棘虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/qing-ban-xi-ji-xia-hu-yu_青斑细棘虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

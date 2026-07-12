@@ -1,0 +1,90 @@
+{
+  "name": "环纹刺盖鱼",
+  "slug": "huan-wen-ci-gai-yu",
+  "source_url": "https://fishweather.cn/fish/huan-wen-ci-gai-yu",
+  "list_page": 10,
+  "list_position": 228,
+  "scientific_name": "Pomacanthus annularis",
+  "aliases": "蓝环神仙、帝王神仙、月眉蝶",
+  "headline": "环纹刺盖鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体侧扁呈卵圆形，体色艳丽。成鱼体色基调为深蓝色至黑色，体侧具有多条金黄色环状条纹，条纹从背部延伸至腹部，如同年轮。头部蓝色，眼睛周围黄色，吻部白色。幼鱼体色差异较大，通常为深蓝色，具有白色和蓝色相间的条纹，随着成长条纹逐渐演变为黄色环纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "刺盖鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、海绵、tunicates（海鞘类）、珊瑚虫以及小型无脊椎动物为食。",
+    "栖息环境": "主要栖息于珊瑚礁区，也可见于岩礁和海藻床附近。喜好清澈、水流缓慢的水域，常在礁石缝隙或洞穴中躲藏。",
+    "体长": "30 cm",
+    "体重": null,
+    "寿命": "寿命较长，在自然条件下通常可存活10年以上，人工饲养条件下，如果环境适宜，甚至可以活到15年以上。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [
+    "海虾",
+    "鱿鱼块",
+    "小鱼块",
+    "贝肉",
+    "海藻",
+    "南极虾",
+    "海胆黄",
+    "蛤蜊肉",
+    "海参",
+    "人工鱼饵（海鱼专用）"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现连续轻微的点动，幅度小，频率快，可能是鱼在试探或啄食饵料。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼吸食饵料后游动。",
+    "加速下沉",
+    "：",
+    "浮漂快速下沉或黑漂，通常是鱼吞食饵料的信号，需及时扬竿。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料游走。",
+    "上浮",
+    "：",
+    "浮漂先下沉后又缓慢上浮，可能是鱼将饵料吐出或改变泳层。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:环纹盖刺鱼喜欢栖息在礁石或珊瑚礁附近，选择这些区域作为钓点能提高中鱼率。",
+    "使用合适的饵料:环纹盖刺鱼为杂食性，但偏爱肉食性饵料，如海虾、鱿鱼等，使用新鲜的饵料更能吸引鱼的注意。",
+    "注意隐蔽性:海鱼通常较为警惕，作钓时注意自身隐蔽，避免惊扰鱼群。",
+    "灵活调整钓棚深度:根据潮汐和鱼的活动水层，灵活调整钓棚深度，寻找鱼层。",
+    "掌握扬竿时机:仔细观察浮漂动作，出现有效漂讯时及时扬竿，提高中鱼率。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、近海岛屿、海湾、码头附近礁石",
+  "distribution": [],
+  "similar_fish": [
+    "皇后神仙鱼",
+    "蓝纹神仙鱼",
+    "皇帝神仙鱼",
+    "火焰神仙鱼",
+    "金点神仙鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huan-wen-ci-gai-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/huan-wen-ci-gai-yu-0-30028e4b.webp",
+      "https://fishweather.cn/asset-images/catch/huan-wen-ci-gai-yu-1-0fcec5d7.webp",
+      "https://fishweather.cn/asset-images/catch/huan-wen-ci-gai-yu-2-469d9490.webp",
+      "https://fishweather.cn/asset-images/catch/huan-wen-ci-gai-yu-3-34321b4a.webp"
+    ]
+  },
+  "profile_text_sha256": "910d647924cda85357474880282fd14d3016bd002b4946935feec9e317931235",
+  "raw_line_count": 123,
+  "local_dir": "by_family/刺盖鱼科/huan-wen-ci-gai-yu_环纹刺盖鱼",
+  "local_images": {
+    "fish": [
+      "by_family/刺盖鱼科/huan-wen-ci-gai-yu_环纹刺盖鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,3048 @@
+[
+  {
+    "id": "folklore-weather-proverb",
+    "title": "天气口诀",
+    "collection_type": "folklore",
+    "slug": "weather-proverb",
+    "url": "/collection/folklore/weather-proverb",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "folklore-weather-proverb",
+      "title": "天气口诀",
+      "category": "experience-pending",
+      "status": "research-needed",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 天气口诀\n\n风向、气压、月相和季节常被压缩成一句鱼口口诀。部分变量确实影响水温、溶氧和食物，但效果依赖水域朝向、深度和地区。条目必须保存原话、地点、日期和反例；涉及雷暴与强风时不得用口诀鼓励冒险。\n",
+    "source_file": "collection/folklore/weather-proverb.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "folklore-lucky-gear",
+    "title": "幸运装备",
+    "collection_type": "folklore",
+    "slug": "lucky-gear",
+    "url": "/collection/folklore/lucky-gear",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "folklore-lucky-gear",
+      "title": "幸运装备",
+      "category": "ritual-pending",
+      "status": "research-needed",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 幸运装备\n\n固定帽子、旧竿、挂件或服装可能被认为带来鱼获。它可以是个人仪式、纪念物或社群玩笑。研究需同时记录成功和空军的使用情况，避免选择性记忆。若装备妨碍救生衣或安全，则优先安全。\n\n",
+    "source_file": "collection/folklore/lucky-gear.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "folklore-da-gui",
+    "title": "打龟",
+    "collection_type": "folklore",
+    "slug": "da-gui",
+    "url": "/collection/folklore/da-gui",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "folklore-da-gui",
+      "title": "打龟",
+      "category": "regional-community-term",
+      "status": "research-needed",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 打龟\n\n在部分地区与钓鱼社群中表示空手而归，来源和传播路径存在多种说法。未完成地域语料采集前标为待考，不写成全国统一古老行话。\n\n",
+    "source_file": "collection/folklore/da-gui.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "folklore-zheng-kou",
+    "title": "正口",
+    "collection_type": "folklore",
+    "slug": "zheng-kou",
+    "url": "/collection/folklore/zheng-kou",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "folklore-zheng-kou",
+      "title": "正口",
+      "category": "experience-community-term",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 正口\n\n通常指鱼钩进入预期口部位置，与锚挂、蹭线等相对。它可作为鱼接触钩饵方式的观察，但不同比赛和社群可能有具体定义。照片只能证明钩位，不能单独还原完整咬饵过程。\n\n",
+    "source_file": "collection/folklore/zheng-kou.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "folklore-zha-xian",
+    "title": "炸线",
+    "collection_type": "folklore",
+    "slug": "zha-xian",
+    "url": "/collection/folklore/zha-xian",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "folklore-zha-xian",
+      "title": "炸线",
+      "category": "technical-community-term",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 炸线\n\n常指旋转线杯抛投时线松散缠结，也可泛指严重乱线。它有可验证的机械原因：线杯惯性、制动、抛投、风和饵重失配。戏称“炒粉”属于玩笑层，维修方法属于技术层，两者分开记录。\n\n",
+    "source_file": "collection/folklore/zha-xian.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "folklore-bao-hu",
+    "title": "爆护",
+    "collection_type": "folklore",
+    "slug": "bao-hu",
+    "url": "/collection/folklore/bao-hu",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "folklore-bao-hu",
+      "title": "爆护",
+      "category": "joke-community-term",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 爆护\n\n夸张形容鱼护中鱼获很多，也被用作标题和营销语言。它反映鱼获数量成为社群成就指标。展览同时讨论过量留取、经营钓场鱼密度和视频剪辑如何改变这个词的含义。\n\n",
+    "source_file": "collection/folklore/bao-hu.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "folklore-kong-jun",
+    "title": "空军",
+    "collection_type": "folklore",
+    "slug": "kong-jun",
+    "url": "/collection/folklore/kong-jun",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "folklore-kong-jun",
+      "title": "空军",
+      "category": "joke-community-term",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 空军\n\n指一次出钓没有获得预期鱼获，带有自嘲意味。它不说明水域“没鱼”，也不说明观察无价值。具体使用会随社群变化。馆藏需采集带日期的真实语料，避免把编辑定义当作唯一民间解释。\n\n",
+    "source_file": "collection/folklore/kong-jun.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-seven-star-float",
+    "title": "七星漂",
+    "collection_type": "objects",
+    "slug": "seven-star-float",
+    "url": "/collection/objects/seven-star-float",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-seven-star-float",
+      "title": "七星漂",
+      "object_type": "float",
+      "period": "historical-continuing",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 七星漂\n\n数枚浮子分布在线上，适合浅水、草洞和垂直递钓。浮子数量、间距和配重按水深与风流调整，“七星”不必机械限定为七粒。分散浮子能显示送漂和横移，也会受水草与表面张力干扰。\n\n",
+    "source_file": "collection/objects/seven-star-float.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-spoon-lure",
+    "title": "亮片拟饵",
+    "collection_type": "objects",
+    "slug": "spoon-lure",
+    "url": "/collection/objects/spoon-lure",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-spoon-lure",
+      "title": "亮片拟饵",
+      "object_type": "lure",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 亮片拟饵\n\n弯曲金属片在收线和下沉中摆动、闪光并产生振动。厚薄、重心、弧度和速度改变动作。它不是简单模仿一条完整小鱼，而是利用感知刺激；三本钩增加挂物和钩伤风险，场地规则可能限制使用。\n\n",
+    "source_file": "collection/objects/spoon-lure.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-baitcasting-reel",
+    "title": "低轮廓水滴轮",
+    "collection_type": "objects",
+    "slug": "baitcasting-reel",
+    "url": "/collection/objects/baitcasting-reel",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-baitcasting-reel",
+      "title": "低轮廓水滴轮",
+      "object_type": "reel",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 低轮廓水滴轮\n\n抛投时线杯旋转，制动与拇指控制线杯惯性。线杯转得快于拟饵带线速度时会形成炸线。它通常与枪柄竿配合，不能因外形相似就拿来代表“传统钓”。需要展示制动、线杯与导线器受力。\n\n",
+    "source_file": "collection/objects/baitcasting-reel.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-natural-bait",
+    "title": "天然饵",
+    "collection_type": "objects",
+    "slug": "natural-bait",
+    "url": "/collection/objects/natural-bait",
+    "source_ids": [
+      "SRC-001",
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-natural-bait",
+      "title": "天然饵",
+      "object_type": "bait",
+      "period": "historical-continuing",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001",
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 天然饵\n\n虫、虾、螺、谷物和植物材料通过气味、味道、动作和营养与鱼发生关系。选择必须符合对象鱼、季节和地方规定。跨水域携带活饵可能传播病原或外来生物，采集也可能破坏岸边栖息地。\n\n",
+    "source_file": "collection/objects/natural-bait.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-nylon-line",
+    "title": "尼龙单丝线",
+    "collection_type": "objects",
+    "slug": "nylon-line",
+    "url": "/collection/objects/nylon-line",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-nylon-line",
+      "title": "尼龙单丝线",
+      "object_type": "line",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 尼龙单丝线\n\n尼龙线有一定延展，能缓冲突然冲击，易打结且用途广。吸水、紫外线、折伤和结节会降低强度；同号数不保证不同品牌具有相同直径和拉力。展示应附拉伸曲线与磨损样本，而非包装广告。\n\n",
+    "source_file": "collection/objects/nylon-line.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-spigot-rod",
+    "title": "并继竿",
+    "collection_type": "objects",
+    "slug": "spigot-rod",
+    "url": "/collection/objects/spigot-rod",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-spigot-rod",
+      "title": "并继竿",
+      "object_type": "rod",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 并继竿\n\n若干竿节通过插接组合，使用者重视连续弯曲与装配手感。插入过深、接口污染和旋转拔节会造成卡死或裂损。它与振出竿没有绝对高下，携带、维护、用途和个人身体感受决定选择。\n\n",
+    "source_file": "collection/objects/spigot-rod.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-landing-net",
+    "title": "抄网",
+    "collection_type": "objects",
+    "slug": "landing-net",
+    "url": "/collection/objects/landing-net",
+    "source_ids": [
+      "SRC-001",
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-landing-net",
+      "title": "抄网",
+      "object_type": "handling",
+      "period": "historical-continuing",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001",
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 抄网\n\n抄网在岸边或船边承接鱼体，减少提线和飞鱼造成的断线与坠落。网口、柄长、网深和网布材料需与鱼体和环境匹配。橡胶涂层网较少缠钩，粗糙干网可能损伤黏液。正确动作是引鱼入网后整体托起。\n",
+    "source_file": "collection/objects/landing-net.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-telescopic-rod",
+    "title": "振出竿",
+    "collection_type": "objects",
+    "slug": "telescopic-rod",
+    "url": "/collection/objects/telescopic-rod",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-telescopic-rod",
+      "title": "振出竿",
+      "object_type": "rod",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 振出竿\n\n各节由粗到细套叠，使用时逐节抽出。收纳短、展开快，接口处也会形成应力与进沙风险。拔节过度、节口夹沙、竿尖缠线和受力方向错误可能损坏。页面应展示套叠剖面和正确收竿顺序。\n\n",
+    "source_file": "collection/objects/telescopic-rod.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-barbless-hook",
+    "title": "无倒刺钩",
+    "collection_type": "objects",
+    "slug": "barbless-hook",
+    "url": "/collection/objects/barbless-hook",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-barbless-hook",
+      "title": "无倒刺钩",
+      "object_type": "hook",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 无倒刺钩\n\n钩尖后没有突出倒刺，摘钩阻力和组织撕裂通常较小，也更依赖持续张力防止脱钩。它并非绝对无伤；钩号、钩条、刺入位置、遛鱼时间和离水操作同样决定损伤。需要补充统一比例的结构照。\n\n",
+    "source_file": "collection/objects/barbless-hook.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-early-metal-hook",
+    "title": "早期金属钓钩",
+    "collection_type": "objects",
+    "slug": "early-metal-hook",
+    "url": "/collection/objects/early-metal-hook",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [
+      "IMG-HIS-005"
+    ],
+    "metadata": {
+      "collection_id": "object-early-metal-hook",
+      "title": "早期金属钓钩",
+      "object_type": "hook",
+      "period": "bronze-iron-age",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [
+        "IMG-HIS-005"
+      ]
+    },
+    "body_markdown": "# 早期金属钓钩\n\n铜、铁等金属允许钩体弯曲、磨尖和重复制造，也引入锈蚀、热处理与断裂问题。现有 DOCX 图缺少独立器物题签，只能作为研究图，找到原考古报告前不得标注具体遗址。\n\n![早期金属钓钩局部](../../assets/source-docx/image19.jpeg)\n\n",
+    "source_file": "collection/objects/early-metal-hook.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-005:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-fiberglass-rod",
+    "title": "玻璃纤维复合竿",
+    "collection_type": "objects",
+    "slug": "fiberglass-rod",
+    "url": "/collection/objects/fiberglass-rod",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-fiberglass-rod",
+      "title": "玻璃纤维复合竿",
+      "object_type": "rod",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 玻璃纤维复合竿\n\n玻璃纤维与树脂形成竿体，通常较重、弯曲幅度大且耐碰撞。材料性能还取决于纤维方向、树脂和卷制。它在儿童竿、船竿和耐用场景仍有价值，不应被写成被碳纤维淘汰的过渡品。\n\n",
+    "source_file": "collection/objects/fiberglass-rod.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-fluorocarbon-line",
+    "title": "碳氟单丝线",
+    "collection_type": "objects",
+    "slug": "fluorocarbon-line",
+    "url": "/collection/objects/fluorocarbon-line",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-fluorocarbon-line",
+      "title": "碳氟单丝线",
+      "object_type": "line",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 碳氟单丝线\n\n碳氟线密度较高、耐磨，常用于前导或子线。所谓“隐形”取决于光线、水色、线径与动作，并非鱼绝对看不见。材料较硬时会影响结和抛投；锐石磨损后仍须更换。\n\n",
+    "source_file": "collection/objects/fluorocarbon-line.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-carbon-fiber-rod",
+    "title": "碳纤维复合竿",
+    "collection_type": "objects",
+    "slug": "carbon-fiber-rod",
+    "url": "/collection/objects/carbon-fiber-rod",
+    "source_ids": [
+      "SRC-003",
+      "SRC-011"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-carbon-fiber-rod",
+      "title": "碳纤维复合竿",
+      "object_type": "rod",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-011"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 碳纤维复合竿\n\n碳纤维预浸材料经裁切、卷管、固化、打磨和涂装形成竿节，可实现轻、挺与敏感。模量、铺层和树脂共同决定性能，“碳布吨位”不能单独说明强度。竿体导电，必须远离电线和雷雨。\n\n",
+    "source_file": "collection/objects/carbon-fiber-rod.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-vertical-float",
+    "title": "立式浮漂",
+    "collection_type": "objects",
+    "slug": "vertical-float",
+    "url": "/collection/objects/vertical-float",
+    "source_ids": [
+      "SRC-001",
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-vertical-float",
+      "title": "立式浮漂",
+      "object_type": "float",
+      "period": "historical-continuing",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001",
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 立式浮漂\n\n漂脚、漂身和漂尾在浮力、稳定与可见性之间分工。它显示整套线组平衡变化，不直接显示“鱼在吃”。走水、风浪、饵溶散和碰线都会产生信号。馆藏需比较芦苇、羽材、巴尔杉木和合成材料。\n\n",
+    "source_file": "collection/objects/vertical-float.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-bamboo-rod",
+    "title": "竹制钓竿",
+    "collection_type": "objects",
+    "slug": "bamboo-rod",
+    "url": "/collection/objects/bamboo-rod",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-bamboo-rod",
+      "title": "竹制钓竿",
+      "object_type": "rod",
+      "period": "historical-continuing",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 竹制钓竿\n\n竹材的节、纤维方向、壁厚和火烤校直决定竿的弯曲。它既是历史材料，也仍被制作和使用。天然差异让每支竿不完全相同；干裂、虫蛀和接口松动会改变安全。后续需记录工匠、产地和制作过程。\n\n",
+    "source_file": "collection/objects/bamboo-rod.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-minnow-lure",
+    "title": "米诺拟饵",
+    "collection_type": "objects",
+    "slug": "minnow-lure",
+    "url": "/collection/objects/minnow-lure",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-minnow-lure",
+      "title": "米诺拟饵",
+      "object_type": "lure",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 米诺拟饵\n\n硬质鱼形身体与舌板使拟饵在收线时下潜和摆动；浮水、悬停和沉水结构对应不同搜索深度。撞击损伤、钩环锈蚀和舌板变形会改变动作。外形像鱼不等于所有鱼都会攻击。\n\n",
+    "source_file": "collection/objects/minnow-lure.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-spinning-reel",
+    "title": "纺车轮",
+    "collection_type": "objects",
+    "slug": "spinning-reel",
+    "url": "/collection/objects/spinning-reel",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-spinning-reel",
+      "title": "纺车轮",
+      "object_type": "reel",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 纺车轮\n\n线杯固定，导线环绕线杯旋转收线；抛投时线从杯唇释放。结构易于上手，也受线杯装量、线扭、导线环和泄力影响。盐水使用后需淡水清洁并干燥，损伤的线杯边会持续磨线。\n\n",
+    "source_file": "collection/objects/spinning-reel.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-braided-line",
+    "title": "聚乙烯编织线",
+    "collection_type": "objects",
+    "slug": "braided-line",
+    "url": "/collection/objects/braided-line",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-braided-line",
+      "title": "聚乙烯编织线",
+      "object_type": "line",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 聚乙烯编织线\n\n多股高强纤维编织形成低延展、同直径拉力较高的线，能直接传递触碰，也更容易把冲击交给竿、钩和鱼嘴。风结、磨损、吸附杂物及切割皮肤是常见风险；使用后应回收短线头。\n\n",
+    "source_file": "collection/objects/braided-line.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-silk-line",
+    "title": "蚕丝钓线",
+    "collection_type": "objects",
+    "slug": "silk-line",
+    "url": "/collection/objects/silk-line",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-silk-line",
+      "title": "蚕丝钓线",
+      "object_type": "line",
+      "period": "historical",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 蚕丝钓线\n\n蚕丝可捻合成细而有韧性的线，历史文献中的“丝纶”还可能带文学含义。吸水、霉变、接续和原料处理影响使用。馆藏需寻找有明确年代的实物或制作复原，不能拿现代丝线冒充古物。\n\n",
+    "source_file": "collection/objects/silk-line.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-swivel",
+    "title": "转环",
+    "collection_type": "objects",
+    "slug": "swivel",
+    "url": "/collection/objects/swivel",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-swivel",
+      "title": "转环",
+      "object_type": "connector",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 转环\n\n转环连接主线、子线或前导，并允许部分旋转以减轻扭线。额定拉力、闭口结构和腐蚀状态决定可靠性。体积增加也会改变水下阻力与可见性；过多连接件不能代替正确打结。\n\n",
+    "source_file": "collection/objects/swivel.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-ancient-fishing-wheel",
+    "title": "钓车图像",
+    "collection_type": "objects",
+    "slug": "ancient-fishing-wheel",
+    "url": "/collection/objects/ancient-fishing-wheel",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [
+      "IMG-HIS-006",
+      "IMG-HIS-007"
+    ],
+    "metadata": {
+      "collection_id": "object-ancient-fishing-wheel",
+      "title": "钓车图像",
+      "object_type": "reel",
+      "period": "Han-Song evidence",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [
+        "IMG-HIS-006",
+        "IMG-HIS-007"
+      ]
+    },
+    "body_markdown": "# 钓车图像\n\n汉代画像石与宋画相关图像中可见竿旁轮状装置，被研究者用于讨论早期钓车。图像能证明一种观看与器具线索，不能代替实物机械结构。页面同时展示研究解释与不确定性。\n\n![汉代画像石上的钓轮](../../assets/source-docx/image25.jpeg)\n\n",
+    "source_file": "collection/objects/ancient-fishing-wheel.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-006:research_candidate",
+        "image_rights:IMG-HIS-007:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-lead-sinker",
+    "title": "铅坠",
+    "collection_type": "objects",
+    "slug": "lead-sinker",
+    "url": "/collection/objects/lead-sinker",
+    "source_ids": [
+      "SRC-001",
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-lead-sinker",
+      "title": "铅坠",
+      "object_type": "sinker",
+      "period": "historical-continuing",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001",
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 铅坠\n\n坠提供重量，使钩饵下沉、稳定或帮助抛投。形状影响挂底与水流阻力，重量改变信号和鱼吸入阻力。铅具有环境风险，剪下的铅皮和遗失坠不应留在水边；替代材料需比较密度、成本与加工。\n\n",
+    "source_file": "collection/objects/lead-sinker.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-dough-bait",
+    "title": "面团与商品粉饵",
+    "collection_type": "objects",
+    "slug": "dough-bait",
+    "url": "/collection/objects/dough-bait",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-dough-bait",
+      "title": "面团与商品粉饵",
+      "object_type": "bait",
+      "period": "historical-modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 面团与商品粉饵\n\n谷物、蛋白原料、黏结和状态材料经加水形成饵团。软硬、干湿、颗粒和溶散速度决定入水后的形态。配方没有四季万能比例；过量投饵会增加水体有机负荷。展示需同时记录原料与水下溶散过程。\n\n",
+    "source_file": "collection/objects/dough-bait.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-fly-reel",
+    "title": "飞蝇轮",
+    "collection_type": "objects",
+    "slug": "fly-reel",
+    "url": "/collection/objects/fly-reel",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "object-fly-reel",
+      "title": "飞蝇轮",
+      "object_type": "reel",
+      "period": "modern",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ],
+      "image_ids": [],
+      "image_status": "missing"
+    },
+    "body_markdown": "# 飞蝇轮\n\n飞蝇轮管理有重量的飞蝇线、备用线和中鱼后的余线。抛投主要依靠飞蝇线而非轮把毛钩弹出。线号、竿号和轮容量需要匹配；溪流细线与海水大型鱼使用的泄力条件差异很大。\n\n",
+    "source_file": "collection/objects/fly-reel.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "object-bone-straight-hook",
+    "title": "骨质直形钓钩",
+    "collection_type": "objects",
+    "slug": "bone-straight-hook",
+    "url": "/collection/objects/bone-straight-hook",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [
+      "IMG-HIS-002"
+    ],
+    "metadata": {
+      "collection_id": "object-bone-straight-hook",
+      "title": "骨质直形钓钩",
+      "object_type": "hook",
+      "period": "prehistoric",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [
+        "IMG-HIS-002"
+      ]
+    },
+    "body_markdown": "# 骨质直形钓钩\n\n细长骨片经磨制形成尖端与倒刺，系线后依靠鱼吞饵和横向受力卡住口腔。它提醒我们“钩”不一定从弯曲金属开始。半坡遗址研究图可作证据候选，但器号、年代和馆藏仍待复核。\n\n![半坡骨质直形钓钩](../../assets/source-docx/image10.jpeg)\n\n图片状态：`research_candidate`。\n\n",
+    "source_file": "collection/objects/bone-straight-hook.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-002:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "person-fishing-lao-community-seat",
+    "title": "“钓鱼佬”社群",
+    "collection_type": "people",
+    "slug": "fishing-lao-community-seat",
+    "url": "/collection/people/fishing-lao-community-seat",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "person-fishing-lao-community-seat",
+      "title": "“钓鱼佬”社群",
+      "person_type": "digital-ethnography-seat",
+      "status": "research-needed",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# “钓鱼佬”社群\n\n“钓鱼佬”既是当代网络自称，也可能带有调侃或贬义。空军、打龟、爆护、正口和炸线等词让经验迅速流通，也把等待、失败和装备消费变成社群笑话。这个身份受到平台、地区、钓法、年龄和性别影响，不代表所有垂钓者都接受同一称呼。私人群聊、个人信息和敏感钓点不进入公开展示。\n",
+    "source_file": "collection/people/fishing-lao-community-seat.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "person-yan-ziling",
+    "title": "严子陵",
+    "collection_type": "people",
+    "slug": "yan-ziling",
+    "url": "/collection/people/yan-ziling",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "person-yan-ziling",
+      "title": "严子陵",
+      "person_type": "historical-reception",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 严子陵\n\n严光与汉光武帝的关系在史传和后世纪念中被解释为拒仕与独立。钓台、诗文和地方景观进一步固定“高士垂钓”形象。馆藏需要区分人物生平材料、后世景观营造和文人接受，不能把所有钓台传说当现场遗迹证明。\n\n",
+    "source_file": "collection/people/yan-ziling.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "person-fishing-worker-seat",
+    "title": "以钓与捕鱼为生的人",
+    "collection_type": "people",
+    "slug": "fishing-worker-research-seat",
+    "url": "/collection/people/fishing-worker-research-seat",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "person-fishing-worker-seat",
+      "title": "以钓与捕鱼为生的人",
+      "person_type": "oral-history-seat",
+      "status": "research-needed",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 以钓与捕鱼为生的人\n\n水边的劳动不只有持竿。捕鱼、垂钓、养殖、修船、织网、运鱼和售鱼可能共同构成家庭生计。季节、风浪、工具成本、市场价格、水域权利和资源变化都会改变劳动。现有书面材料无法代表某一条河流上的具体人生，因此本条目只说明身份结构，不虚构姓名、经历和引语；后续口述需要记录地点、年代、家庭分工、收入结构和公开许可。\n",
+    "source_file": "collection/people/fishing-worker-research-seat.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "person-women-anglers-seat",
+    "title": "女性钓者",
+    "collection_type": "people",
+    "slug": "women-anglers-seat",
+    "url": "/collection/people/women-anglers-seat",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [
+      "IMG-HIS-003"
+    ],
+    "metadata": {
+      "collection_id": "person-women-anglers-seat",
+      "title": "女性钓者",
+      "person_type": "oral-history-seat",
+      "status": "research-needed",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [
+        "IMG-HIS-003"
+      ]
+    },
+    "body_markdown": "# 女性钓者\n\n历史图像、文学和现代社群都表明，女性并非水边旁观者。园林日常、家庭劳动、竞技、海钓、路亚和内容创作属于不同经验，不能压缩成一种“女性钓鱼故事”。装备尺寸是否默认男性身体、夜钓与偏远岸线的安全、社群中的可见度和职业机会，都是需要独立记录的问题。现阶段不为未访谈者编写共同经历。\n\n![妇女钓鱼图研究图](../../assets/source-docx/image12.jpeg)\n",
+    "source_file": "collection/people/women-anglers-seat.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "person-jiang-shang",
+    "title": "姜尚",
+    "collection_type": "people",
+    "slug": "jiang-shang",
+    "url": "/collection/people/jiang-shang",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "person-jiang-shang",
+      "title": "姜尚",
+      "person_type": "historical-legendary-layered",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 姜尚\n\n早期文献、注疏和后世文学共同塑造渭水垂钓者。可以确认的是他在周代政治记忆中的重要位置；“直钩、离水三尺、愿者上钩”等属于后世不断增饰的叙事。页面分别展示文献层、传说层和现代成语层。\n\n",
+    "source_file": "collection/people/jiang-shang.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "person-cold-river-angler",
+    "title": "寒江独钓者",
+    "collection_type": "people",
+    "slug": "cold-river-angler",
+    "url": "/collection/people/cold-river-angler",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [
+      "IMG-HIS-006"
+    ],
+    "metadata": {
+      "collection_id": "person-cold-river-angler",
+      "title": "寒江独钓者",
+      "person_type": "literary-visual-figure",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [
+        "IMG-HIS-006"
+      ]
+    },
+    "body_markdown": "# 寒江独钓者\n\n柳宗元《江雪》中的蓑笠翁与后世《寒江独钓》图像互相强化，成为孤独、清高和空阔的文化形象。他不是柳宗元生活记录的直接替身。页面比较诗的二十字、绘画留白和后世政治解释。\n\n",
+    "source_file": "collection/people/cold-river-angler.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "person-child-making-hook",
+    "title": "敲针作钓钩的孩子",
+    "collection_type": "people",
+    "slug": "child-making-hook",
+    "url": "/collection/people/child-making-hook",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "person-child-making-hook",
+      "title": "敲针作钓钩的孩子",
+      "person_type": "literary-figure",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 敲针作钓钩的孩子\n\n杜甫《江村》中的“稚子敲针作钓钩”记录家庭生活中的手作场景。这个孩子是诗中人物，不应被编成可考姓名。节点讨论针如何被改造成钩、儿童如何进入江村生活，也提示现代鱼钩、岸坡与水域对儿童的安全要求。\n\n",
+    "source_file": "collection/people/child-making-hook.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "person-modern-competition-seat",
+    "title": "竞技钓者",
+    "collection_type": "people",
+    "slug": "modern-competition-angler-seat",
+    "url": "/collection/people/modern-competition-angler-seat",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "person-modern-competition-seat",
+      "title": "竞技钓者",
+      "person_type": "oral-history-seat",
+      "status": "research-needed",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 竞技钓者\n\n竞技垂钓把时间、对象鱼、重量、尾数、钓位、装备和违规处理写入规则。运动员之外，还有教练、裁判、赛事组织者、鱼体管理人员和品牌团队。人物成绩需要对应具体主办方、项目、年份和规则版本；网络粉丝量不能代替赛事履历。训练、赞助、鱼体处理和职业压力应在取得访谈授权后记录。\n",
+    "source_file": "collection/people/modern-competition-angler-seat.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:research-needed"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-chicken-grunt",
+    "title": "三线矶鲈",
+    "collection_type": "species",
+    "slug": "chicken-grunt",
+    "url": "/collection/species/chicken-grunt",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-029"
+    ],
+    "metadata": {
+      "collection_id": "species-chicken-grunt",
+      "title": "三线矶鲈",
+      "scientific_name": "Parapristipoma trilineatum",
+      "collection": "species",
+      "group": "marine-reef",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-029"
+      ]
+    },
+    "body_markdown": "\n# 三线矶鲈｜*Parapristipoma trilineatum*\n\n## 身份与名称\n\n三线矶鲈在部分市场和钓鱼语境中被称为黄鸡鱼等，但地方商品名可能指向不同对象。“矶鲈”也不表示它与所有俗称鲈鱼的鱼近缘。\n\n## 如何认出\n\n身体延长而侧扁，底色灰银至黄褐，体侧有三条较明显的深色纵带，鳍常带黄色。纵带是名称来源之一，但幼鱼、光线和相近种会影响辨认。\n\n## 生活在哪里\n\n它生活于西北太平洋的岩礁岸、礁石区和近底层水域，可成群活动。礁体、裂隙、潮流和底栖食物共同塑造其位置，不能只用“近海鱼”概括。\n\n## 食物、行为与关系\n\n食物包括小型甲壳动物、底栖无脊椎动物及小鱼等。作为沿海垂钓和食用对象，它连接礁岸使用、地方名称和市场流通。馆藏后续需要补充中国沿海地方渔业材料，避免只依赖日本及国际数据库的分布摘要。\n\n## 易混淆\n\n其他仿石鲈科鱼和有纵纹的近岸鱼。三条纵带必须与体形、鳍和分布共同判断。\n\n## 图片\n\n![三线矶鲈研究图](../../assets/fish/chicken-grunt.webp)\n\n- 图片 ID：IMG-FISH-029\n- 替代文本：一条银黄褐色侧扁海鱼，体侧有三条深色纵带，鳍带黄色。\n- 权利状态：`rights_pending`\n- 画质说明：当前图清晰度偏低。\n\n## 来源\n\n- SRC-003，近岸礁区鱼与俗名文本。\n- SRC-004，`https://fishweather.cn/fish/san-xian-ji-lu`。\n- SRC-008，`https://www.fishbase.se/summary/Parapristipoma_trilineatum.html`。\n\n",
+    "source_file": "collection/species/chicken-grunt.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-029:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-chinese-seabass",
+    "title": "中国花鲈",
+    "collection_type": "species",
+    "slug": "chinese-seabass",
+    "url": "/collection/species/chinese-seabass",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-023"
+    ],
+    "metadata": {
+      "collection_id": "species-chinese-seabass",
+      "title": "中国花鲈",
+      "scientific_name": "Lateolabrax maculatus",
+      "collection": "species",
+      "group": "estuary-marine",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-023"
+      ]
+    },
+    "body_markdown": "\n# 中国花鲈｜*Lateolabrax maculatus*\n\n## 身份与名称\n\n中国花鲈常在市场和钓鱼语境中简称海鲈、花鲈或鲈鱼。“鲈鱼”也可能指大口黑鲈、其他花鲈属对象或地方商品鱼，本页以规范名和科学名限定。\n\n## 如何认出\n\n身体延长、侧扁，口大，背鳍前部有硬棘，体侧特别是背部附近可见黑色小斑点。斑点多少随个体和生长阶段变化。与日本花鲈等近缘对象的区分需要更完整形态和分布信息。\n\n## 生活在哪里\n\n中国花鲈可利用近岸海域、河口、港湾和进入淡水影响较强的水域，生命阶段与季节会改变其位置。它让“淡水鱼还是海鱼”的二选一失效，盐度梯度、潮汐和河海通道才是关键。\n\n## 食物、行为与关系\n\n它以鱼类、虾和其他动物为重要食物，在浑浊河口和结构边缘寻找猎物。它是重要食用、养殖和垂钓对象。岸线工程、河口水质、饵料鱼变化和捕捞共同影响其生活，单看近岸钓获数量不能代表种群长期状态。\n\n## 易混淆\n\n其他花鲈属鱼、大口黑鲈及被商品名统称为海鲈的鱼。需要看斑点、鳃盖、鳍与来源海区。\n\n## 图片\n\n![中国花鲈研究图](../../assets/fish/chinese-seabass.webp)\n\n- 图片 ID：IMG-FISH-023\n- 替代文本：一条银灰色延长鱼，口大，背部和体侧散布黑色小斑点，背鳍前部有硬棘。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，中国花鲈、河口与名称辨析文本。\n- SRC-004，`https://fishweather.cn/fish/zhong-guo-hua-lu`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/chinese-seabass.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-023:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-northern-snakehead",
+    "title": "乌鳢",
+    "collection_type": "species",
+    "slug": "northern-snakehead",
+    "url": "/collection/species/northern-snakehead",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-015"
+    ],
+    "metadata": {
+      "collection_id": "species-northern-snakehead",
+      "title": "乌鳢",
+      "scientific_name": "Channa argus",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-015"
+      ]
+    },
+    "body_markdown": "\n# 乌鳢｜*Channa argus*\n\n## 身份与名称\n\n乌鳢常被称作黑鱼、蛇头鱼、生鱼等。俗名跨地区使用广泛，也可能与其他鳢科鱼混合。本页以科学名限定对象。\n\n## 如何认出\n\n身体延长近圆筒形，头部宽扁，口大，背鳍和臀鳍基底都很长，体侧有深浅相间的斑纹。其鳃上器官能够辅助利用空气中的氧，使它比许多鱼更能忍受低氧，但不能由此推导为能够在污染或离水环境中无限存活。\n\n## 生活在哪里\n\n乌鳢可利用湖泊、池塘、河流缓流、沟渠和水草丰富的浅水区，常在植物、岸根和障碍物附近伏击。水温下降、繁殖和水位变化会改变活动范围。\n\n## 食物、行为与关系\n\n成体以鱼、虾、蛙等动物为重要食物，幼体食物较小。亲鱼具有护幼行为，这让成群幼鱼周围的成鱼对干扰更敏感。乌鳢在原生区域是食物网成员和食用对象，在被引入的其他国家或水系则可能成为管理对象；地域必须写明。\n\n## 易混淆\n\n斑鳢及其他鳢科鱼。花纹、鳍和地理信息需共同判断。\n\n## 图片\n\n![乌鳢研究图](../../assets/fish/northern-snakehead.webp)\n\n- 图片 ID：IMG-FISH-015\n- 替代文本：一条细长圆筒形鱼，头宽、口大，体侧有不规则深色斑纹，背鳍很长。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，乌鳢身体、伏击与辅助呼吸文本。\n- SRC-004，`https://fishweather.cn/fish/wu-li`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/northern-snakehead.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-015:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-wuchang-bream",
+    "title": "团头鲂",
+    "collection_type": "species",
+    "slug": "wuchang-bream",
+    "url": "/collection/species/wuchang-bream",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-005"
+    ],
+    "metadata": {
+      "collection_id": "species-wuchang-bream",
+      "title": "团头鲂",
+      "scientific_name": "Megalobrama amblycephala",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-005"
+      ]
+    },
+    "body_markdown": "\n# 团头鲂｜*Megalobrama amblycephala*\n\n## 身份与名称\n\n团头鲂在饮食和养殖语境中常与“武昌鱼”联系，但“武昌鱼”在历史、市场与地方称呼中并非始终只有一个严格对象。正式物种页使用团头鲂和科学名，文化名称另注明语境。\n\n## 如何认出\n\n身体高而侧扁，外形近菱形，头较小，腹部轮廓明显，背鳍短而较高。与鲫鱼相比体形更宽扁、臀鳍基底较长；与其他鲂、鳊类的精确区分需要观察鳍条、腹棱、鳞列等结构，普通远距离照片往往不足。\n\n## 生活在哪里\n\n团头鲂常见于湖泊、水库、河流缓流和养殖水体，与水草、开阔缓流水域及适合的植物性食物有关。它会根据季节和水位利用不同区域，不能只用“中下层”概括全部活动。\n\n## 食物、行为与关系\n\n其食物以水生植物和其他可利用的植物性材料为重要组成，也会随阶段摄食不同资源。作为重要养殖鱼，它的现代分布受到人工繁育、运输和放养强烈影响。馆藏页应把自然分布史与养殖扩散分开记录。\n\n## 易混淆\n\n鲂属、鳊属其他鱼及高体型鲤科鱼。市场名不能代替物种鉴定。\n\n## 图片\n\n![团头鲂研究图](../../assets/fish/wuchang-bream.webp)\n\n- 图片 ID：IMG-FISH-005\n- 替代文本：一条银灰色、高体侧扁的鱼，头部较小，背鳍短而高。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，团头鲂、水草与养殖关系文本。\n- SRC-004，`https://fishweather.cn/fish/tuan-tou-fang`。\n- SRC-008，FishBase 物种摘要，接受名核对。\n\n",
+    "source_file": "collection/species/wuchang-bream.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-005:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-largemouth-bass",
+    "title": "大口黑鲈",
+    "collection_type": "species",
+    "slug": "largemouth-bass",
+    "url": "/collection/species/largemouth-bass",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-017"
+    ],
+    "metadata": {
+      "collection_id": "species-largemouth-bass",
+      "title": "大口黑鲈",
+      "scientific_name": "Micropterus salmoides",
+      "collection": "species",
+      "group": "introduced-freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-017"
+      ]
+    },
+    "body_markdown": "\n# 大口黑鲈｜*Micropterus salmoides*\n\n## 身份与名称\n\n大口黑鲈原产北美。中文垂钓语境常简称“鲈鱼”或“黑鲈”，但它与中国花鲈、鳜不是同一类鱼。页面检索“鲈鱼”时必须先显示名称分流。\n\n## 如何认出\n\n身体侧扁而结实，口裂很大，上颌后端可达或超过眼后缘；体侧常有深色纵带或不规则斑。背鳍前后部形态不同，前部有硬棘。颜色随水色、底质和状态变化。\n\n## 生活在哪里\n\n它偏好湖泊、水库、池塘和河流缓流中的植物、倒木、岩石和岸边结构，可在结构附近伏击。原生区之外的出现往往与养殖、放流或逃逸有关，必须记录具体地区与建立种群的证据。\n\n## 食物、行为与关系\n\n幼鱼摄食小型无脊椎动物，成长后鱼类、甲壳动物等成为重要食物。它是全球休闲垂钓的重要对象，也在中国形成养殖和路亚文化。对象鱼的受欢迎程度不能替代外来物种评估；在开放水域随意放流可能改变本地食物网。\n\n## 易混淆\n\n小口黑鲈等近缘种，以及被俗称为“鲈”的中国花鲈、鳜。口裂、背鳍和科学分类可分开它们。\n\n## 图片\n\n![大口黑鲈研究图](../../assets/fish/largemouth-bass.webp)\n\n- 图片 ID：IMG-FISH-017\n- 替代文本：一条橄榄绿色、身体结实的侧扁鱼，口裂很大，体侧有深色纵向斑带。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，大口黑鲈、路亚与外来物种文本。\n- SRC-004，`https://fishweather.cn/fish/da-kou-hei-lu`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/largemouth-bass.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-017:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-nile-tilapia",
+    "title": "尼罗罗非鱼",
+    "collection_type": "species",
+    "slug": "nile-tilapia",
+    "url": "/collection/species/nile-tilapia",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-012"
+    ],
+    "metadata": {
+      "collection_id": "species-nile-tilapia",
+      "title": "尼罗罗非鱼",
+      "scientific_name": "Oreochromis niloticus",
+      "collection": "species",
+      "group": "introduced-freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-012"
+      ]
+    },
+    "body_markdown": "\n# 尼罗罗非鱼｜*Oreochromis niloticus*\n\n## 身份与名称\n\n“罗非鱼”在市场和养殖中常泛指多种丽鱼科养殖对象及杂交类型。本页只讨论尼罗罗非鱼。SRC-004 使用“尼罗非鲫”作为中文名，馆藏采用“尼罗罗非鱼”，并保留旧称作检索词。\n\n## 如何认出\n\n身体高而侧扁，背鳍基底长且前部有硬棘，尾鳍常可见较规则的深色纵纹。不同养殖品系、杂交和环境会改变体色，单靠照片很难区分所有罗非鱼类型。\n\n## 生活在哪里\n\n原产非洲水域，因养殖被广泛引入。它偏好温暖水体，能利用湖泊、河流缓流、池塘和水库等环境。在较冷地区，越冬水温会限制种群；温排水和养殖逸生可能改变这种限制。具体地区是否形成野外种群，需要当地调查支持。\n\n## 食物、行为与关系\n\n尼罗罗非鱼可利用藻类、植物性材料、碎屑和小型动物等多种资源，具有口孵育幼鱼的繁殖行为。它是重要养殖鱼，也可能在引入水域与本地鱼类竞争空间和食物。经济用途与生态风险必须并列呈现，不能用“外来”抹去生产史，也不能用“养殖常见”忽略逸生管理。\n\n## 易混淆\n\n其他罗非鱼及杂交品系。没有繁殖、鳍纹和遗传信息时，市场照片常只能可靠识别到集合层级。\n\n## 图片\n\n![尼罗罗非鱼研究图](../../assets/fish/nile-tilapia.webp)\n\n- 图片 ID：IMG-FISH-012\n- 替代文本：一条高体侧扁的灰色鱼，背鳍较长，尾鳍带有多条深色纵纹。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，罗非鱼、养殖与外来物种文本。\n- SRC-004，`https://fishweather.cn/fish/ni-luo-fei-ji`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/nile-tilapia.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-012:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-japanese-eel",
+    "title": "日本鳗鲡",
+    "collection_type": "species",
+    "slug": "japanese-eel",
+    "url": "/collection/species/japanese-eel",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-019"
+    ],
+    "metadata": {
+      "collection_id": "species-japanese-eel",
+      "title": "日本鳗鲡",
+      "scientific_name": "Anguilla japonica",
+      "collection": "species",
+      "group": "migratory",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-019"
+      ]
+    },
+    "body_markdown": "\n# 日本鳗鲡｜*Anguilla japonica*\n\n## 身份与名称\n\n日本鳗鲡是东亚河海洄游鱼类。市场上的“鳗鱼”还可能包括其他鳗鲡、海鳗或养殖进口对象，不能由菜名反推物种。\n\n## 如何认出\n\n身体极度延长，近圆筒形，背鳍、尾鳍和臀鳍连续，胸鳍存在而腹鳍缺失。皮肤表面黏液丰富，鳞片细小并埋在皮内，外观看起来近似无鳞。与海鳗等比较需要看口、鳍起点和分布。\n\n## 生活在哪里\n\n日本鳗鲡在海洋中繁殖，幼体经海流到达东亚沿岸，进入河口、河流、湖泊等水域生长，成熟后再向海洋迁移。个体利用淡水和河口的程度存在差异。完整生命史依赖海洋、河口和内陆水体之间的连通。\n\n## 食物、行为与关系\n\n成长阶段摄食水生昆虫、甲壳动物、小鱼等，常在夜间和遮蔽物附近活动。闸坝、河道改造、污染、捕捞和跨区域贸易会作用于不同生命阶段。它的保护不能只靠在一个地点增殖放流，也不能在没有来源和健康控制时随意投放幼鱼。\n\n## 易混淆\n\n花鳗鲡、欧洲鳗鲡、美洲鳗鲡及俗称鳗鱼的其他长体鱼。市场来源与外观照片常不足以精确鉴定。\n\n## 图片\n\n![日本鳗鲡研究图](../../assets/fish/japanese-eel.webp)\n\n- 图片 ID：IMG-FISH-019\n- 替代文本：一条深灰褐色、身体极长的鳗形鱼，背鳍与尾鳍、臀鳍连续。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，鳗鲡洄游与河海连通文本。\n- SRC-004，`https://fishweather.cn/fish/ri-ben-man-li`。\n- SRC-008，FishBase 物种摘要；保护状态仍需 IUCN 与区域资料复核。\n\n",
+    "source_file": "collection/species/japanese-eel.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-019:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-white-strip",
+    "title": "白条",
+    "collection_type": "species",
+    "slug": "white-strip",
+    "url": "/collection/species/white-strip",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-008"
+    ],
+    "metadata": {
+      "collection_id": "species-white-strip",
+      "title": "白条",
+      "scientific_name": "Hemiculter leucisculus",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-008"
+      ]
+    },
+    "body_markdown": "\n# 白条｜*Hemiculter leucisculus*\n\n## 身份与名称\n\n“白条”是钓鱼交流中极常见的名字，也可能被宽泛用于若干银白色小鱼。本页所指为 *Hemiculter leucisculus*，地方俗名需要在有采集地点的情况下补充。\n\n## 如何认出\n\n身体细长而侧扁，银白，腹部有棱，口位略向上。它的轮廓适合在水体中快速活动。小型鱼离水后鳞片反光强，照片常丢失侧线、鳍和口部细节，辨认时应保留清晰侧面及水域信息。\n\n## 生活在哪里\n\n白条可利用河流、湖泊、水库、池塘等水域的中上层和近岸开阔区域，常成群活动。表层昆虫、漂浮食物和水中小型生物会吸引它靠近，但风浪、光照、捕食者和温度会改变鱼群位置。\n\n## 食物、行为与关系\n\n白条利用浮游动物、水生和落水昆虫等多种小型食物，也可能摄食植物性颗粒。钓鱼人常因其抢食而称之为“闹窝”，这一说法记录的是人的目标与白条觅食发生冲突，不是鱼类价值判断。它同时是更大型捕食鱼的食物，并参与水体食物网。\n\n## 易混淆\n\n其他鲌、䱗类及银白色小型鲤科鱼。俗名相同不足以确认科学名。\n\n## 图片\n\n![白条研究图](../../assets/fish/white-strip.webp)\n\n- 图片 ID：IMG-FISH-008\n- 替代文本：一条细长银白、身体侧扁的小型鱼，腹部轮廓锐利，口略向上。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，小型鱼与水层文本。\n- SRC-004，`https://fishweather.cn/fish/bai-tiao`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/white-strip.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-008:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-redfin-culter",
+    "title": "红鳍鲌",
+    "collection_type": "species",
+    "slug": "redfin-culter",
+    "url": "/collection/species/redfin-culter",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-011"
+    ],
+    "metadata": {
+      "collection_id": "species-redfin-culter",
+      "title": "红鳍鲌",
+      "scientific_name": "Chanodichthys erythropterus",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-011"
+      ]
+    },
+    "body_markdown": "\n# 红鳍鲌｜*Chanodichthys erythropterus*\n\n## 身份与名称\n\n红鳍鲌是鲌类中的一种，鳍部常带红色或橙红色。“红梢”等地方称呼可能在不同水系指向不同对象，本页不把未注明地域的俗名直接并入。\n\n## 如何认出\n\n身体延长、侧扁，银白，腹部有棱；胸鳍、腹鳍和臀鳍可呈橙红色。口部与翘嘴鲌相比没有同样强烈的上翘印象。颜色只是一项线索，离水时间、光线和保存状态会改变鳍色。\n\n## 生活在哪里\n\n红鳍鲌可见于江河、湖泊和水库，使用开阔水域及近岸区域，并随季节、食物和水位移动。它不应被固定到单一水层。\n\n## 食物、行为与关系\n\n红鳍鲌利用水生昆虫、小型甲壳动物、小鱼等动物性资源，食物组成随体型和环境变化。它与其他银白小型或中型鱼共同说明：钓者口中的“杂鱼”包含不同食物位置和运动方式。\n\n## 易混淆\n\n翘嘴鲌、白条及其他鲌类。需同时观察口部、腹棱、鳍色和体形。\n\n## 图片\n\n![红鳍鲌研究图](../../assets/fish/redfin-culter.webp)\n\n- 图片 ID：IMG-FISH-011\n- 替代文本：一条银白、细长侧扁的鱼，腹部有棱，腹鳍和臀鳍呈橙红色。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，鲌类比较文本。\n- SRC-004，`https://fishweather.cn/fish/hong-qi-ba`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/redfin-culter.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-011:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-topmouth-culter",
+    "title": "翘嘴鲌",
+    "collection_type": "species",
+    "slug": "topmouth-culter",
+    "url": "/collection/species/topmouth-culter",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-009"
+    ],
+    "metadata": {
+      "collection_id": "species-topmouth-culter",
+      "title": "翘嘴鲌",
+      "scientific_name": "Culter alburnus",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-009"
+      ]
+    },
+    "body_markdown": "\n# 翘嘴鲌｜*Culter alburnus*\n\n## 身份与名称\n\n“翘嘴”来自明显向上的口部印象，“翘嘴鲌”才是本页使用的完整名称。各地将若干鲌类简称为“翘嘴”，馆藏记录需要科学名和照片共同限定。\n\n## 如何认出\n\n身体延长、侧扁，腹部有明显棱，口大而向上倾斜，下颌突出。银白体色与修长轮廓适合开放水体中追逐。与白条相比，成体体形更大、口裂和下颌更突出；与红鳍鲌等近缘对象仍需看鳍、口部和鳞列等细节。\n\n## 生活在哪里\n\n翘嘴鲌利用江河、湖泊、水库等较开阔水体的中上层，也会随小鱼群、光照、温度和水流做水平与垂直移动。水面出现追逐并不代表鱼群全天停在表层。\n\n## 食物、行为与关系\n\n幼体与成体食物会变化，较大个体以小鱼等动物性食物为重要来源。其追逐行为使它成为现代路亚和多种垂钓方式关注的对象，也容易被“攻击性”“掠食机器”等夸张语言覆盖。博物馆更关注口位、体形、猎物移动与开阔水域之间的关系。\n\n## 易混淆\n\n红鳍鲌、白条及其他鲌类。地方称呼“红梢”等不能在缺少地点时直接映射。\n\n## 图片\n\n![翘嘴鲌研究图](../../assets/fish/topmouth-culter.webp)\n\n- 图片 ID：IMG-FISH-009\n- 替代文本：一条银白色、细长侧扁的鱼，口大而明显向上倾斜，下颌突出。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，翘嘴鲌口位、食性与水层文本。\n- SRC-004，`https://fishweather.cn/fish/qiao-zui-ba`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/topmouth-culter.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-009:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-chinese-sucker",
+    "title": "胭脂鱼",
+    "collection_type": "species",
+    "slug": "chinese-sucker",
+    "url": "/collection/species/chinese-sucker",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-021"
+    ],
+    "metadata": {
+      "collection_id": "species-chinese-sucker",
+      "title": "胭脂鱼",
+      "scientific_name": "Myxocyprinus asiaticus",
+      "collection": "species",
+      "group": "freshwater-migratory",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-021"
+      ]
+    },
+    "body_markdown": "\n# 胭脂鱼｜*Myxocyprinus asiaticus*\n\n## 身份与名称\n\n胭脂鱼是中国长江水系极具辨识度的原生鱼类。幼鱼颜色鲜明、背鳍高耸，常进入观赏市场；成鱼体形和色彩会发生很大变化，因此幼鱼照片不能代表完整生命史。\n\n## 如何认出\n\n幼鱼身体较高，背鳍高而呈三角形，体侧有宽的深色纵带或色块，底色可带橙红。成长后身体延长、背鳍相对不再显得如此夸张，体色转为较深的褐灰或红褐。口位偏下，唇部适于接触底部和物体表面。\n\n## 生活在哪里\n\n胭脂鱼生活史与长江干支流及大型水体相连，幼鱼和成鱼会使用不同水域。河流连通、水文过程、繁殖场和成长水域都比一张静态分布图更重要。工程阻隔和栖息地变化的影响需要接入专门保护研究。\n\n## 食物、行为与关系\n\n它可利用藻类、附着生物、底栖小动物和有机碎屑等资源，口部与底部觅食关系值得和黄尾鲴比较。观赏贸易使幼鱼形象广泛传播，却也容易让人忽略成体尺寸、迁移需求和保护身份。馆藏页不得提供无来源的购买或放生建议。\n\n## 易混淆\n\n幼鱼形态独特，但成体常与网络上流传的幼鱼图完全不同；应特别防止把两个阶段误当两种鱼。\n\n## 图片\n\n![胭脂鱼研究图](../../assets/fish/chinese-sucker.webp)\n\n- 图片 ID：IMG-FISH-021\n- 替代文本：一条身体较高的幼年鱼，背鳍高耸，体侧有深色宽带并带红褐色。\n- 权利状态：`rights_pending`\n- 画质说明：当前图裁切和清晰度不足，需优先替换。\n\n## 来源\n\n- SRC-003，胭脂鱼阶段变化、长江水域与保护文本。\n- SRC-004，`https://fishweather.cn/fish/yan-zhi-yu`。\n- SRC-008，FishBase 物种摘要；法定保护信息另行核对国家名录。\n\n",
+    "source_file": "collection/species/chinese-sucker.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-021:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-grass-carp",
+    "title": "草鱼",
+    "collection_type": "species",
+    "slug": "grass-carp",
+    "url": "/collection/species/grass-carp",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-003"
+    ],
+    "metadata": {
+      "collection_id": "species-grass-carp",
+      "title": "草鱼",
+      "scientific_name": "Ctenopharyngodon idella",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-003"
+      ]
+    },
+    "body_markdown": "\n# 草鱼｜*Ctenopharyngodon idella*\n\n## 身份与名称\n\n草鱼又常被称作鲩。它是中国传统淡水养殖中的重要鱼类，也因水生植物控制和养殖被带到世界许多地区。讨论其分布必须区分原生水系、养殖池塘和引入水域。\n\n## 如何认出\n\n身体延长、近圆筒形，头部较宽，口端位，无须，鳞片较大且边缘形成网状观感。与青鱼并置时，体色并不是稳定的唯一标准；草鱼通常较浅、鳞片轮廓明显，青鱼整体常更深。可靠辨识还需要口部、头部比例和清楚的体侧照片。\n\n## 生活在哪里\n\n草鱼可见于江河、湖泊、水库和养殖水体。成鱼与大型水生植物及岸边植物资源关系密切，幼鱼食物组成会随阶段变化。它在自然河流中的繁殖需要适合的水文与漂流条件，池塘里出现大型草鱼并不意味着该水体能够自然完成其生命史。\n\n## 食物、行为与关系\n\n“吃草”是方便称呼，却不能替代完整食性。草鱼会利用多种植物材料，食物可获得性、鱼体阶段和养殖投喂会改变实际组成。高密度放养可能显著减少水生植物，进而影响小鱼、无脊椎动物和水鸟使用的栖息结构；在适当管理的养殖系统中，它又承担明确生产功能。\n\n## 易混淆\n\n青鱼、鲤鱼及其他大型鲤科鱼。和青鱼比较时应将咽齿科学图与食物证据纳入，不依赖一条“看颜色”的口诀。\n\n## 图片\n\n![草鱼研究图](../../assets/fish/grass-carp.webp)\n\n- 图片 ID：IMG-FISH-003\n- 替代文本：一条灰绿色、身体延长的鲤科鱼，鳞片较大，口端位且无须。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，草鱼与青鱼比较、水域与食性文本。\n- SRC-004，`https://fishweather.cn/fish/cao-yu`。\n- SRC-008，`https://fishbase.se/summary/Ctenopharyngodon-idella.html`。\n\n",
+    "source_file": "collection/species/grass-carp.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-003:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-japanese-spanish-mackerel",
+    "title": "蓝点马鲛",
+    "collection_type": "species",
+    "slug": "japanese-spanish-mackerel",
+    "url": "/collection/species/japanese-spanish-mackerel",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-028"
+    ],
+    "metadata": {
+      "collection_id": "species-japanese-spanish-mackerel",
+      "title": "蓝点马鲛",
+      "scientific_name": "Scomberomorus niphonius",
+      "collection": "species",
+      "group": "marine-pelagic",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-028"
+      ]
+    },
+    "body_markdown": "\n# 蓝点马鲛｜*Scomberomorus niphonius*\n\n## 身份与名称\n\n蓝点马鲛在沿海市场与渔业中有鲅鱼等地方称呼，但“鲅鱼”在不同地区可能涵盖其他马鲛。馆藏使用完整规范名。\n\n## 如何认出\n\n身体纺锤形、极为流线，吻尖，口大并有尖锐牙齿；背部蓝灰，体侧散布许多深色小斑点。尾柄细，尾鳍深叉，背鳍和臀鳍后方有一列小离鳍，这些结构与持续高速游泳有关。\n\n## 生活在哪里\n\n蓝点马鲛生活在西北太平洋沿岸和较开阔海域，会随季节、水温和饵料鱼群移动。近岸出现具有明显时间性，不应把一次钓获地点写成全年固定栖息地。\n\n## 食物、行为与关系\n\n它追逐小型鱼和其他游泳动物，是开放水体食物网中的捕食者，也具有重要海洋渔业价值。高速游动的形态不等于“永不停下”，而是对捕食、迁移和开阔环境的综合适应。渔获变化需结合捕捞强度、海温和饵料资源研究。\n\n## 易混淆\n\n康氏马鲛及其他马鲛。体侧斑纹、侧线、鳍与海区信息均重要。\n\n## 图片\n\n![蓝点马鲛研究图](../../assets/fish/japanese-spanish-mackerel.webp)\n\n- 图片 ID：IMG-FISH-028\n- 替代文本：一条长梭形银蓝色海鱼，吻尖、尾鳍深叉，体侧有许多深色小斑点。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，开放水体鱼类与运动形态文本。\n- SRC-004，`https://fishweather.cn/fish/lan-dian-ma-jiao`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/japanese-spanish-mackerel.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-028:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-red-spotted-grouper",
+    "title": "赤点石斑鱼",
+    "collection_type": "species",
+    "slug": "red-spotted-grouper",
+    "url": "/collection/species/red-spotted-grouper",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-027"
+    ],
+    "metadata": {
+      "collection_id": "species-red-spotted-grouper",
+      "title": "赤点石斑鱼",
+      "scientific_name": "Epinephelus akaara",
+      "collection": "species",
+      "group": "marine-reef",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-027"
+      ]
+    },
+    "body_markdown": "\n# 赤点石斑鱼｜*Epinephelus akaara*\n\n## 身份与名称\n\n“石斑鱼”包含许多物种。赤点石斑鱼只是其中一种，不能用任意石斑鱼照片、市场名或保护状态替代本页对象。\n\n## 如何认出\n\n身体粗壮，口大，背鳍前部具硬棘。体色可为褐红、红褐或灰褐，体侧和鳍上分布橙红至红色小斑点，并可出现较淡横带。颜色受状态和环境影响，稳定鉴定还需观察鳍、鳞和头部结构。\n\n## 生活在哪里\n\n赤点石斑鱼与沿岸岩礁、礁石缝隙及结构复杂的近底层环境关系密切。幼鱼和成鱼可能使用不同深度和近岸空间。礁体破坏、岸线工程和水质变化会减少藏身与觅食结构。\n\n## 食物、行为与关系\n\n它以鱼类、甲壳动物等为重要食物，常利用结构伏击。作为高价值食用和养殖对象，它也承受捕捞与市场压力。具体保护等级、最小可捕尺寸和禁渔规定具有地区与时间差异，必须在法规页单独核验。\n\n## 易混淆\n\n其他带红点或橙点的石斑鱼。网络商品图尤其容易错配，物种页必须坚持一图一对象。\n\n## 图片\n\n![赤点石斑鱼研究图](../../assets/fish/red-spotted-grouper.webp)\n\n- 图片 ID：IMG-FISH-027\n- 替代文本：一条红褐色粗壮海鱼，口大，体侧和鳍上分布许多橙红色小点。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，石斑鱼集合称呼和岩礁生态文本。\n- SRC-004，`https://fishweather.cn/fish/chi-dian-shi-ban-yu`。\n- SRC-008，FishBase 物种摘要；保护信息需另核。\n\n",
+    "source_file": "collection/species/red-spotted-grouper.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-027:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-spotted-scat",
+    "title": "金钱鱼",
+    "collection_type": "species",
+    "slug": "spotted-scat",
+    "url": "/collection/species/spotted-scat",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-030"
+    ],
+    "metadata": {
+      "collection_id": "species-spotted-scat",
+      "title": "金钱鱼",
+      "scientific_name": "Scatophagus argus",
+      "collection": "species",
+      "group": "estuary-marine",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-030"
+      ]
+    },
+    "body_markdown": "\n# 金钱鱼｜*Scatophagus argus*\n\n## 身份与名称\n\n金钱鱼因体侧密布圆形斑点而得名，也进入观赏鱼贸易。名称容易和其他带斑点、被赋予吉祥商品名的鱼混淆，科学名用于限定对象。\n\n## 如何认出\n\n身体高而强烈侧扁，近圆盘形；背鳍和臀鳍具有硬棘，体色银灰、黄绿或褐色，布满许多圆形深色斑点。幼鱼与成鱼的体形和斑点密度可能变化。硬棘处理时需要注意。\n\n## 生活在哪里\n\n金钱鱼利用河口、红树林、港湾、潟湖和近岸水域，对盐度变化有较强适应能力，幼鱼也可进入淡水影响显著的区域。广盐性并不代表可以在任意水质中生活。\n\n## 食物、行为与关系\n\n它可摄食藻类、植物材料、有机碎屑、小型无脊椎动物等多种食物，在河口物质循环中连接底表资源与更高营养级。观赏贸易、食用和地方垂钓让它进入人类生活；弃养和跨水域放生则可能制造新的分布记录和疾病风险。\n\n## 易混淆\n\n其他高体斑点鱼及观赏贸易中的近似商品名。应看体形、硬棘、斑点排列与来源水域。\n\n## 图片\n\n![金钱鱼研究图](../../assets/fish/spotted-scat.webp)\n\n- 图片 ID：IMG-FISH-030\n- 替代文本：一条近圆盘形、高度侧扁的黄绿色鱼，体侧密布圆形黑色斑点，背鳍有硬棘。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，金钱鱼、河口与广盐性文本。\n- SRC-004，`https://fishweather.cn/fish/jin-qian-yu`。\n- SRC-008，FishBase 物种摘要。\n",
+    "source_file": "collection/species/spotted-scat.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-030:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-black-carp",
+    "title": "青鱼",
+    "collection_type": "species",
+    "slug": "black-carp",
+    "url": "/collection/species/black-carp",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-004"
+    ],
+    "metadata": {
+      "collection_id": "species-black-carp",
+      "title": "青鱼",
+      "scientific_name": "Mylopharyngodon piceus",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-004"
+      ]
+    },
+    "body_markdown": "\n# 青鱼｜*Mylopharyngodon piceus*\n\n## 身份与名称\n\n青鱼名称中的“青”描述常见体色印象，并不意味着个体始终呈单一青黑色。英语常见名 Black carp 也容易被误译成另一条“黑色的鲤鱼”；科学名让跨语言检索回到同一对象。\n\n## 如何认出\n\n身体延长而粗壮，鳞片较大，整体颜色常较深，口端位且无须。它与草鱼轮廓接近，幼鱼或光线不佳时尤其容易误认。青鱼强壮的咽齿位于咽部，外观照片无法直接展示，却是理解其利用螺、蚌等带壳食物的重要结构。\n\n## 生活在哪里\n\n青鱼生活于大型河流、湖泊、水库及养殖水体的中下层和底部区域，与软体动物资源及底部觅食空间关系密切。自然繁殖依赖适合的河流过程；养殖水体中存在青鱼并不能证明当地自然种群稳定。\n\n## 食物、行为与关系\n\n青鱼以螺、蚌等软体动物为重要食物，也会随生长阶段利用其他动物性资源。它是传统养殖对象，能够长成大型个体。正因体型和垂钓吸引力突出，网页更需要避免只展示重量纪录。咽齿、食物壳痕和水域条件，比“巨物”叙事更能说明它怎样生活。\n\n## 易混淆\n\n草鱼是主要比较对象。体色、水色和摄影曝光都可能误导，最好同时观察头部、鳞片、体形与可靠来源。\n\n## 图片\n\n![青鱼研究图](../../assets/fish/black-carp.webp)\n\n- 图片 ID：IMG-FISH-004\n- 替代文本：一条深灰青色、身体延长粗壮的鲤科鱼，鳞片清楚，口端位。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，青鱼生态及草鱼比较文本。\n- SRC-004，`https://fishweather.cn/fish/qing-yu`。\n- SRC-008，`https://www.fishbase.se/summary/Mylopharyngodon-piceus.html`。\n\n",
+    "source_file": "collection/species/black-carp.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-004:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-opsariichthys-bidens",
+    "title": "马口鱼",
+    "collection_type": "species",
+    "slug": "opsariichthys-bidens",
+    "url": "/collection/species/opsariichthys-bidens",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-016"
+    ],
+    "metadata": {
+      "collection_id": "species-opsariichthys-bidens",
+      "title": "马口鱼",
+      "scientific_name": "Opsariichthys bidens",
+      "collection": "species",
+      "group": "freshwater-flowing",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-016"
+      ]
+    },
+    "body_markdown": "\n# 马口鱼｜*Opsariichthys bidens*\n\n## 身份与名称\n\n马口鱼的俗名在不同地区可能与其他溪流小型鱼交叉使用。科学名和采集水系是确认对象的重要信息。\n\n## 如何认出\n\n身体延长、侧扁，口裂较大。成熟雄鱼在繁殖期可能出现更鲜明体色和追星，普通季节和雌鱼外观较素。体侧斑纹和鳍色会随阶段变化，因此“颜色艳丽”不能成为唯一识别条件。\n\n## 生活在哪里\n\n马口鱼与河流、溪流中流动、含氧较高的水域关系密切，可利用急缓流交界、砾石底、深潭口和岸边结构。它不是只在最急的白水中生活；能量消耗、食物漂流和躲避空间共同决定位置。\n\n## 食物、行为与关系\n\n它利用水生昆虫、落水昆虫、小型甲壳动物和小鱼等资源。溪流岸边植被既提供阴影，也带来昆虫和有机物。河道硬化、截流、污染和细泥覆盖砾石，会改变它所依赖的微环境。作为溪流垂钓对象，它应与水域连通和栖息地质量一起展示。\n\n## 易混淆\n\n宽鳍鱲及其他溪流鲤科鱼。繁殖期体色会放大误认，需看口部、体侧结构与分布。\n\n## 图片\n\n![马口鱼研究图](../../assets/fish/opsariichthys-bidens.webp)\n\n- 图片 ID：IMG-FISH-016\n- 替代文本：一条细长侧扁的小型鱼，口裂较大，体侧有深浅斑纹，鳍部带淡色。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，溪流鱼与流速文本。\n- SRC-004，`https://fishweather.cn/fish/ma-kou-yu`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/opsariichthys-bidens.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-016:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-rose-bitterling",
+    "title": "高体鳑鲏",
+    "collection_type": "species",
+    "slug": "rose-bitterling",
+    "url": "/collection/species/rose-bitterling",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-020"
+    ],
+    "metadata": {
+      "collection_id": "species-rose-bitterling",
+      "title": "高体鳑鲏",
+      "scientific_name": "Rhodeus ocellatus",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-020"
+      ]
+    },
+    "body_markdown": "\n# 高体鳑鲏｜*Rhodeus ocellatus*\n\n## 身份与名称\n\n鳑鲏在地方语言中有多种称呼，也常作为一类小型、色彩鲜明的鱼被合并讨论。本页只对应高体鳑鲏。\n\n## 如何认出\n\n身体短而高、明显侧扁，鳞片较大。繁殖期雄鱼颜色会明显增强，雌鱼在产卵期可见延长的产卵管。非繁殖期、幼鱼和低清照片不具同样色彩，不能用观赏照作为全年识别模板。\n\n## 生活在哪里\n\n高体鳑鲏常利用湖泊、池塘、河流缓流和水草区等浅水环境。它的繁殖与淡水双壳类密切相关：雌鱼将卵产入河蚌的鳃腔，幼鱼在其中完成早期发育；河蚌幼体又需要合适宿主鱼完成生命周期。具体伙伴关系因物种和水域而异。\n\n## 食物、行为与关系\n\n它利用藻类、植物性颗粒和小型无脊椎动物等食物。小体型不代表生态关系简单。水体污染、河蚌减少、底质改变和岸边水草消失，都可能同时影响鳑鲏与其繁殖伙伴。观赏贸易和随意放流也可能把它带到原分布之外。\n\n## 易混淆\n\n其他鳑鲏属、鱊属鱼。繁殖期颜色、侧线、体形和分布需要共同判断。\n\n## 图片\n\n![高体鳑鲏研究图](../../assets/fish/rose-bitterling.webp)\n\n- 图片 ID：IMG-FISH-020\n- 替代文本：一条身体短高、侧扁的小型鱼，体侧银灰并带淡色斑纹，鳍部有浅红色。\n- 权利状态：`rights_pending`\n- 画质说明：当前图清晰度偏低，不宜作大图。\n\n## 来源\n\n- SRC-003，鳑鲏与河蚌关系文本。\n- SRC-004，`https://fishweather.cn/fish/gao-ti-pang-pi`。\n- SRC-008，FishBase 物种摘要。\n",
+    "source_file": "collection/species/rose-bitterling.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-020:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-silver-carp",
+    "title": "鲢",
+    "collection_type": "species",
+    "slug": "silver-carp",
+    "url": "/collection/species/silver-carp",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-006"
+    ],
+    "metadata": {
+      "collection_id": "species-silver-carp",
+      "title": "鲢",
+      "scientific_name": "Hypophthalmichthys molitrix",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-006"
+      ]
+    },
+    "body_markdown": "\n# 鲢｜*Hypophthalmichthys molitrix*\n\n## 身份与名称\n\n鲢也常称白鲢。它与鳙常被合称“鲢鳙”，合称源于养殖、食物利用和垂钓语境中的共同点，但不能取消两个物种的独立身份。\n\n## 如何认出\n\n身体侧扁，体色多呈银白，腹部有明显腹棱，眼位较低。与鳙相比，鲢头部比例通常较小，体侧较少出现鳙那样明显的不规则深色斑。幼鱼、反光或模糊照片仍可能使差异不清。\n\n## 生活在哪里\n\n鲢利用大型河流、湖泊、水库和养殖水体的开阔水域。它可在水体中移动寻找适合的温度、溶氧和食物颗粒，不是固定悬停在某个“上层”。自然繁殖与河流水文过程相关，静水养殖中的种群维持往往依靠人工繁育和投放。\n\n## 食物、行为与关系\n\n鲢通过鳃耙等结构过滤水中颗粒，以浮游植物及相关微小食物为重要来源。滤食并不等于把“脏水过滤干净”的万能工具；放养密度、浮游生物组成和水体营养状态都会影响结果。它在复合养殖中的作用应放在具体管理系统里理解。\n\n## 易混淆\n\n鳙。比较应同时看头部比例、体侧斑纹、腹棱与鳃耙结构，而非只凭“白”与“花”。\n\n## 图片\n\n![鲢研究图](../../assets/fish/silver-carp.webp)\n\n- 图片 ID：IMG-FISH-006\n- 替代文本：一条银白色侧扁鱼，眼位低，腹部轮廓形成明显棱线。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，鲢鳙比较及滤食文本。\n- SRC-004，`https://fishweather.cn/fish/lian-yu`。\n- SRC-008，FishBase 物种摘要，接受名与基础生态核对。\n\n",
+    "source_file": "collection/species/silver-carp.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-006:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-common-carp",
+    "title": "鲤鱼",
+    "collection_type": "species",
+    "slug": "common-carp",
+    "url": "/collection/species/common-carp",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-002"
+    ],
+    "metadata": {
+      "collection_id": "species-common-carp",
+      "title": "鲤鱼",
+      "scientific_name": "Cyprinus carpio",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-002"
+      ]
+    },
+    "body_markdown": "\n# 鲤鱼｜*Cyprinus carpio*\n\n## 身份与名称\n\n鲤鱼长期进入养殖、饮食、节俗、绘画和垂钓。一个名称同时承载生物物种与文化意象，馆藏页把二者分层：此页先说明活鱼，诗画中的“鲤”另与文化馆藏关联。\n\n## 如何认出\n\n身体较厚，口能向前下方伸出，口角可见两对须，其中一对较明显。背鳍基底较长。野生型体色常为黄褐、青灰或带金色，养殖和观赏品系变化更大。与鲫鱼相比，口须是重要线索；与草鱼、青鱼相比，口部伸缩和须也具有辨识价值。\n\n## 生活在哪里\n\n鲤鱼能生活在湖泊、河流缓流区、水库、池塘等多种淡水环境，常在中下层和底部寻找食物。它翻动软底时会扰动沉积物，这一行为在不同水体和密度下可能影响浑浊度及植物生长。鲤鱼的全球分布包含原生与长期引入的复杂历史，不能把今天出现的地点全部视为原生范围。\n\n## 食物、行为与关系\n\n鲤鱼是杂食性鱼类，可利用底栖无脊椎动物、种子、植物材料和有机碎屑等资源。它对水温和季节变化的反应，会改变觅食强度和浅深水移动。鲤鱼也是人类移动物种的典型：养殖、放生、垂钓和水系连通让它进入许多新水域，在部分地区成为重要资源，在另一些地区则产生生态管理问题。\n\n## 易混淆\n\n鲫鱼、草鱼和部分养殖鲤科鱼。辨认时不要用“胡须鱼”泛化所有有须鱼，也不要把无清晰口部的钓获照强行定种。\n\n## 图片\n\n![鲤鱼研究图](../../assets/fish/common-carp.webp)\n\n- 图片 ID：IMG-FISH-002\n- 替代文本：一条黄褐色、身体厚实的鲤科鱼，背鳍较长，口角可见短须。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，鲤鱼生态、文化与比较文本。\n- SRC-004，`https://fishweather.cn/fish/li-yu`，只作线索。\n- SRC-008，`https://www.fishbase.se/summary/Cyprinus-carpio.html`。\n\n",
+    "source_file": "collection/species/common-carp.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-002:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-crucian-carp",
+    "title": "鲫鱼",
+    "collection_type": "species",
+    "slug": "crucian-carp",
+    "url": "/collection/species/crucian-carp",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-001"
+    ],
+    "metadata": {
+      "collection_id": "species-crucian-carp",
+      "title": "鲫鱼",
+      "scientific_name": "Carassius auratus",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-001"
+      ]
+    },
+    "body_markdown": "\n# 鲫鱼｜*Carassius auratus*\n\n## 身份与名称\n\n鲫鱼是中国淡水生活中最熟悉的鱼名之一。地方称呼包括鲫瓜子、土鲫等，但“金鱼”及不同人工品系与野生型鲫鱼的关系复杂，页面不能凭颜色把观赏品系和自然水体中的鲫鱼混成同一种外观模板。\n\n## 如何认出\n\n身体较高而侧扁，鳞片清楚，背鳍基底较长，口小，通常无须。体色会随水色、底质、年龄、健康和人工选育发生显著变化，银灰、黄褐或较深色个体都可能出现。与鲤鱼比较时，口角是否有须、身体高宽比例和口的伸缩程度比单纯看颜色更可靠。\n\n## 生活在哪里\n\n鲫鱼能利用池塘、湖泊、河流缓流区、水库浅湾、沟渠和稻田等多种静水或缓流水域。它常与岸边植物、软底和可供躲藏、觅食的浅水结构发生关系，但会随季节、温度、溶氧与干扰改变深度和位置。把它写成永远待在“底层”会遗漏这种移动。\n\n## 食物、行为与关系\n\n鲫鱼摄食藻类、植物碎屑、浮游和底栖小动物等多种食物，具体组成随生长阶段和环境改变。它既是常见食用和垂钓对象，也是许多城市和乡村水体变化的见证者。常见不等于无需研究：放养品系、杂交、疾病与水体隔离都可能改变地方种群。\n\n## 易混淆\n\n鲤鱼、部分鲫属近缘类型及人工培育品系。现场辨认应保留照片、地点和体侧结构；仅凭“金黄色”“个头小”不能确定。\n\n## 图片\n\n![鲫鱼研究图](../../assets/fish/crucian-carp.webp)\n\n- 图片 ID：IMG-FISH-001\n- 替代文本：一条银灰偏黄、身体较高且侧扁的鱼，背鳍基底较长，口部无明显须。\n- 权利状态：`rights_pending`\n- 上架条件：补齐摄影者、许可与高清图源。\n\n## 来源\n\n- SRC-003，鲫鱼完整论述及鲫鲤比较。\n- SRC-004，`https://fishweather.cn/fish/ji-yu`，只作俗名和图片线索。\n- SRC-008，`https://www.fishbase.se/summary/Carassius-auratus.html`，接受名与基础生态核对。\n\n",
+    "source_file": "collection/species/crucian-carp.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-001:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-amur-catfish",
+    "title": "鲶",
+    "collection_type": "species",
+    "slug": "amur-catfish",
+    "url": "/collection/species/amur-catfish",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-013"
+    ],
+    "metadata": {
+      "collection_id": "species-amur-catfish",
+      "title": "鲶",
+      "scientific_name": "Silurus asotus",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-013"
+      ]
+    },
+    "body_markdown": "\n# 鲶｜*Silurus asotus*\n\n## 身份与名称\n\n日常“鲶鱼”常指一大类无鳞、有须的鱼。本页所指为 *Silurus asotus*。集合称呼不能代替具体物种，不同鲶形目鱼类的硬棘、脂鳍、须数和生态并不相同。\n\n## 如何认出\n\n身体前部较粗、后部侧扁，皮肤无鳞，头宽扁，口大，具有须；臀鳍基底很长并延向尾部。与黄颡鱼相比，它没有同样醒目的背鳍和胸鳍硬棘组合，体形也更修长。\n\n## 生活在哪里\n\n鲶可利用河流、湖泊、水库和池塘的底部、洞穴、岸根及障碍物附近，常在弱光条件下活动。须和感觉系统帮助它在浑浊或昏暗环境寻找食物，但这不表示它不需要良好水质。\n\n## 食物、行为与关系\n\n食物包括小鱼、虾、水生昆虫及其他可捕获动物，个体和阶段不同会改变食物范围。夜间活动的印象来自其行为倾向，不能推导为白天完全不动。鲶也是重要食用和垂钓对象，地方名称丰富，记录时必须避免把外来鲶类或养殖种套入本页。\n\n## 易混淆\n\n黄颡鱼、胡子鲶类和其他鲶形目鱼。须数、鳍形、硬棘和尾部结构需要清晰照片。\n\n## 图片\n\n![鲶研究图](../../assets/fish/amur-catfish.webp)\n\n- 图片 ID：IMG-FISH-013\n- 替代文本：一条深灰色无鳞鱼，头宽、口大并有长须，臀鳍沿腹侧后半部延伸。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，鲶类身体与底部环境文本。\n- SRC-004，`https://fishweather.cn/fish/nian-yu`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/amur-catfish.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-013:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-flathead-grey-mullet",
+    "title": "鲻",
+    "collection_type": "species",
+    "slug": "flathead-grey-mullet",
+    "url": "/collection/species/flathead-grey-mullet",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-026"
+    ],
+    "metadata": {
+      "collection_id": "species-flathead-grey-mullet",
+      "title": "鲻",
+      "scientific_name": "Mugil cephalus",
+      "collection": "species",
+      "group": "estuary-marine",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-026"
+      ]
+    },
+    "body_markdown": "\n# 鲻｜*Mugil cephalus*\n\n## 身份与名称\n\n鲻常称鲻鱼，沿海与河口地区另有多种俗名。鲻科鱼外形相近，市场上的同名对象未必全部是 *Mugil cephalus*。\n\n## 如何认出\n\n身体延长、近圆筒形，头部较宽平，口小；有两个彼此分离的背鳍，第一背鳍具硬棘。体侧银灰，可见纵向暗纹。头平和双背鳍是较好的观察起点。\n\n## 生活在哪里\n\n鲻广泛利用近岸海域、河口、潟湖、港湾和半咸水，也可进入淡水影响较强区域。它具有较宽盐度适应范围，但不同生命阶段和种群的使用方式仍有差别。\n\n## 食物、行为与关系\n\n鲻摄食底表藻类、有机碎屑和微小生物，常在浅水或底部附近成群觅食。它把河流带来的有机物、潮间带生产和近岸食物网连接起来。沿海养殖、捕捞和食用历史丰富，馆藏后续应补充地方渔业材料，而不是只从垂钓角度解释。\n\n## 易混淆\n\n其他鲻科鱼。头部形状、鳍、鳞片和地理信息需共同使用。\n\n## 图片\n\n![鲻研究图](../../assets/fish/flathead-grey-mullet.webp)\n\n- 图片 ID：IMG-FISH-026\n- 替代文本：一条银灰色延长鱼，头部宽平，口小，背部有两个分离的背鳍。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，鲻、河口与碎屑食物链文本。\n- SRC-004，`https://fishweather.cn/fish/zi-yu`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/flathead-grey-mullet.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-026:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-bighead-carp",
+    "title": "鳙",
+    "collection_type": "species",
+    "slug": "bighead-carp",
+    "url": "/collection/species/bighead-carp",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-007"
+    ],
+    "metadata": {
+      "collection_id": "species-bighead-carp",
+      "title": "鳙",
+      "scientific_name": "Hypophthalmichthys nobilis",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-007"
+      ]
+    },
+    "body_markdown": "\n# 鳙｜*Hypophthalmichthys nobilis*\n\n## 身份与名称\n\n鳙常称花鲢、胖头鱼。SRC-004 归档使用旧属名 *Aristichthys nobilis*，本页按当前接受名 *Hypophthalmichthys nobilis* 书写，并保留旧名供检索。\n\n## 如何认出\n\n头部宽大，在全身中所占比例明显；眼位低，身体侧扁，体侧常有不规则的暗色斑驳。与鲢相比，头部和斑纹是直观线索，但不同年龄、拍摄光线和个体状态会影响颜色。\n\n## 生活在哪里\n\n鳙利用河流、湖泊、水库和养殖水体的开阔区域，会随浮游生物、温度、溶氧和水流改变活动位置。它的自然繁殖同样与适合的河流水文过程有关，封闭水体的出现记录需要区分自然繁殖与人工投放。\n\n## 食物、行为与关系\n\n鳙以浮游动物及其他水中颗粒性食物为重要资源，通过鳃部过滤结构完成摄食。它与鲢在养殖系统中形成资源利用差异，但实际食物组成会随水体变化。用“吃浮游动物”一句话不能解释不同年龄、季节和水域中的全部摄食。\n\n## 易混淆\n\n鲢。俗名“花鲢”指向鳙时应在页面保留规范名；“胖头鱼”在口语中也可能被宽泛使用，需结合地区。\n\n## 图片\n\n![鳙研究图](../../assets/fish/bighead-carp.webp)\n\n- 图片 ID：IMG-FISH-007\n- 替代文本：一条头部宽大、体侧有深色斑驳的侧扁鱼，眼睛位于头部较低位置。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，鳙与鲢比较文本。\n- SRC-004，`https://fishweather.cn/fish/yong--hua-lian`，含旧属名。\n- SRC-008，FishBase 物种摘要，接受名核对。\n\n",
+    "source_file": "collection/species/bighead-carp.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-007:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-mandarin-fish",
+    "title": "鳜",
+    "collection_type": "species",
+    "slug": "mandarin-fish",
+    "url": "/collection/species/mandarin-fish",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-018"
+    ],
+    "metadata": {
+      "collection_id": "species-mandarin-fish",
+      "title": "鳜",
+      "scientific_name": "Siniperca chuatsi",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-018"
+      ]
+    },
+    "body_markdown": "\n# 鳜｜*Siniperca chuatsi*\n\n## 身份与名称\n\n鳜也常写作鳜鱼，地方俗名包括桂鱼等。“桂鱼”是市场和地方称呼，不代表其科学分类与“桂”有关。\n\n## 如何认出\n\n身体侧扁而较高，口大，下颌略突出；背鳍前部具硬棘。体侧有不规则深色斑块和带状花纹，能在岩石、水草、倒木和明暗交错环境中降低轮廓显著度。\n\n## 生活在哪里\n\n鳜生活于江河、湖泊和水库，常利用结构复杂、流速适中或有遮蔽物的区域。它会随猎物、温度、繁殖和水位移动，不能把“伏击”理解为永远停在同一个障碍物后面。\n\n## 食物、行为与关系\n\n鳜是以活体动物为重要食物的捕食鱼，较大个体常捕食小鱼。其口部、体色和短距离冲刺共同服务于伏击。它也是重要食用和养殖鱼。人工养殖技术改变了它的供应方式，但野外种群仍依赖水域中的猎物与栖息结构。\n\n## 易混淆\n\n其他鳜属鱼及某些被俗称为“桂鱼”的市场对象。精确鉴定需结合斑纹、鳞片、鳍和分布。\n\n## 图片\n\n![鳜研究图](../../assets/fish/mandarin-fish.webp)\n\n- 图片 ID：IMG-FISH-018\n- 替代文本：一条黄褐色高体鱼，口大，体侧布满不规则深褐色斑块，背鳍前部有硬棘。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，鳜的形态、伏击与养殖文本。\n- SRC-004，`https://fishweather.cn/fish/gui-yu`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/mandarin-fish.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-018:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-topmouth-gudgeon",
+    "title": "麦穗鱼",
+    "collection_type": "species",
+    "slug": "topmouth-gudgeon",
+    "url": "/collection/species/topmouth-gudgeon",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-022"
+    ],
+    "metadata": {
+      "collection_id": "species-topmouth-gudgeon",
+      "title": "麦穗鱼",
+      "scientific_name": "Pseudorasbora parva",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-022"
+      ]
+    },
+    "body_markdown": "\n# 麦穗鱼｜*Pseudorasbora parva*\n\n## 身份与名称\n\n麦穗鱼体型小，在垂钓现场常被并入“杂鱼”。这种称呼说明它不是人的主要目标，却遮蔽了它在食物网、物种传播和水域观察中的位置。\n\n## 如何认出\n\n身体细长，头部较尖，口小而略向上，体侧常有一条较深的纵带，鳞片边缘可形成网纹。繁殖期雄鱼颜色和头部状态可能改变。与白条相比，它体形通常更小、口和体侧纵带不同。\n\n## 生活在哪里\n\n麦穗鱼能利用池塘、沟渠、湖泊沿岸、河流缓流和水库浅水等多种环境，对受扰动水体具有较强适应能力。通过养殖鱼苗夹带、运输和水系连接，它被带到原分布之外的许多地区。\n\n## 食物、行为与关系\n\n它摄食浮游动物、水生昆虫、小型甲壳动物、藻类和碎屑，也会取食其他鱼卵或幼体。作为更大鱼类的食物，它参与食物网；作为被引入的种群，它也可能竞争资源或携带病原。小型和常见都不等于生态影响小。\n\n## 易混淆\n\n白条、鳑鲏及其他小型鲤科鱼。需看体侧纵带、口部和体形，避免只凭尺寸判断。\n\n## 图片\n\n![麦穗鱼研究图](../../assets/fish/topmouth-gudgeon.webp)\n\n- 图片 ID：IMG-FISH-022\n- 替代文本：一条细小的灰褐色鱼，体侧有深色纵带，口小且略向上。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，小型鱼、食物网与传播文本。\n- SRC-004，`https://fishweather.cn/fish/mai-sui-yu`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/topmouth-gudgeon.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-022:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-yellowfin-carp",
+    "title": "黄尾鲴",
+    "collection_type": "species",
+    "slug": "yellowfin-carp",
+    "url": "/collection/species/yellowfin-carp",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-010"
+    ],
+    "metadata": {
+      "collection_id": "species-yellowfin-carp",
+      "title": "黄尾鲴",
+      "scientific_name": "Xenocypris davidi",
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-010"
+      ]
+    },
+    "body_markdown": "\n# 黄尾鲴｜*Xenocypris davidi*\n\n## 身份与名称\n\n黄尾鲴的名称指出尾鳍等鳍部常见的黄色，但颜色会受个体、环境和照片影响。“黄尾”在口语中也可能指其他鱼，正式记录必须保留“鲴”和科学名。\n\n## 如何认出\n\n身体侧扁，腹部具有棱，口位偏下，口缘结构与从底质或附着表面获取食物有关。鳍部常带黄色。口部是理解它的关键：如果照片只拍到体侧颜色而看不到吻端和下颌，辨认可靠性会降低。\n\n## 生活在哪里\n\n黄尾鲴生活于江河、湖泊和水库等淡水水域，可利用底部、岩石和其他表面的附着资源。流速、底质、水位与藻类生长共同影响可利用的觅食区域，它不是简单意义上的“底层鱼”。\n\n## 食物、行为与关系\n\n其食物包括藻类、附着生物、有机碎屑及可利用的小型生物。刮食和处理附着资源的方式使它成为观察口位与食物关系的代表。垂钓语境中常围绕线组和“吃口”描述它，博物馆则把这些经验放回鱼怎样接触底部食物的身体条件。\n\n## 易混淆\n\n其他鲴类及鳍部发黄的鲤科鱼。需要结合口部、腹棱、鳍和采集水系，不凭尾色单定。\n\n## 图片\n\n![黄尾鲴研究图](../../assets/fish/yellowfin-carp.webp)\n\n- 图片 ID：IMG-FISH-010\n- 替代文本：一条银灰色侧扁鱼，口位偏下，尾鳍和部分鳍呈黄色。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，黄尾鲴身体结构与附着食物文本。\n- SRC-004，`https://fishweather.cn/fish/huang-wei-gu`。\n- SRC-008，`https://www.fishbase.se/summary/54925`。\n",
+    "source_file": "collection/species/yellowfin-carp.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-010:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-yellow-catfish",
+    "title": "黄颡鱼",
+    "collection_type": "species",
+    "slug": "yellow-catfish",
+    "url": "/collection/species/yellow-catfish",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-014"
+    ],
+    "metadata": {
+      "collection_id": "species-yellow-catfish",
+      "title": "黄颡鱼",
+      "scientific_name": "Tachysurus fulvidraco",
+      "former_scientific_names": [
+        "Pelteobagrus fulvidraco",
+        "Pseudobagrus fulvidraco"
+      ],
+      "collection": "species",
+      "group": "freshwater",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-014"
+      ]
+    },
+    "body_markdown": "\n# 黄颡鱼｜*Tachysurus fulvidraco*\n\n## 身份与名称\n\n黄颡鱼在各地有黄辣丁、昂刺、嘎鱼、黄骨鱼等俗名。旧资料常使用 *Pelteobagrus fulvidraco* 或 *Pseudobagrus fulvidraco*，本页采用当前接受组合 *Tachysurus fulvidraco*，旧名保留供检索和文献追溯。\n\n## 如何认出\n\n身体无鳞，头部较宽，具有四对须。体色黄褐至黄色，常带不规则深色斑块。背鳍和胸鳍有硬棘，处理活体时可能刺伤。名称中的“黄”不是唯一依据，幼鱼、光线和近缘黄颡鱼类会造成混淆。\n\n## 生活在哪里\n\n黄颡鱼可见于江河、湖泊、水库和池塘的中下层及底部，常利用缓流、淤泥或沙石底、岸根和遮蔽物。它在夜间和弱光条件下往往更活跃，但会随温度、食物和干扰变化。\n\n## 食物、行为与关系\n\n黄颡鱼摄食水生昆虫及幼虫、小型甲壳动物、软体动物、小鱼和有机碎屑等，食性随年龄与水域变化。它在地方饮食和夜钓经验中很常见，俗名网络本身也反映鱼如何进入语言。展签应让这些俗名连接回同一物种，而不是只保留一个“标准答案”。\n\n## 易混淆\n\n瓦氏黄颡鱼等近缘鲿科鱼，以及被统称为“小黄鱼”“黄骨鱼”的地方对象。需结合须、鳍、斑纹、采集地点和专业鉴定。\n\n## 图片\n\n![黄颡鱼研究图](../../assets/fish/yellow-catfish.webp)\n\n- 图片 ID：IMG-FISH-014\n- 替代文本：一条黄色无鳞鱼，头部宽，口周有多根须，体侧带深色斑块，背鳍和胸鳍有硬棘。\n- 权利状态：`rights_pending`\n\n## 来源\n\n- SRC-003，黄颡鱼形态、食性与俗名文本。\n- SRC-004，`https://fishweather.cn/fish/huang-sang-yu`，使用旧科学名。\n- SRC-008，FishBase Bagridae 分类与异名记录，接受名核对。\n\n",
+    "source_file": "collection/species/yellow-catfish.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-014:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-yellowfin-seabream",
+    "title": "黄鳍棘鲷",
+    "collection_type": "species",
+    "slug": "yellowfin-seabream",
+    "url": "/collection/species/yellowfin-seabream",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-025"
+    ],
+    "metadata": {
+      "collection_id": "species-yellowfin-seabream",
+      "title": "黄鳍棘鲷",
+      "scientific_name": "Acanthopagrus latus",
+      "collection": "species",
+      "group": "estuary-marine",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-025"
+      ]
+    },
+    "body_markdown": "\n# 黄鳍棘鲷｜*Acanthopagrus latus*\n\n## 身份与名称\n\n黄鳍棘鲷常简称黄鳍鲷，也有黄脚立等地方称呼。俗名强烈依赖沿海地区和钓鱼社群，展示时应注明采集地域。\n\n## 如何认出\n\n身体高而侧扁，背鳍有硬棘，体色银灰，腹鳍、臀鳍和尾鳍下部常呈黄色。黄色鳍是直观线索，但照片白平衡和离水状态会改变色彩；还需观察头部、鳞片和鳍形。\n\n## 生活在哪里\n\n黄鳍棘鲷利用近岸浅海、河口、港湾和半咸水环境，常与沙泥底、礁体、堤岸等结构发生关系。潮位和盐度变化会改变它进入浅滩或通道的时间。\n\n## 食物、行为与关系\n\n食物包括甲壳动物、软体动物、多毛类及其他底栖生物，也可利用多种有机资源。它是沿海常见食用和垂钓对象。河口污染、底质改变和过度捕捞会作用于它及其食物，而“耐半咸水”不意味着对环境变化没有限度。\n\n## 易混淆\n\n黑棘鲷和其他棘鲷。不能仅凭一个黄色像素判断，应结合完整鳍色、体形与海区。\n\n## 图片\n\n![黄鳍棘鲷研究图](../../assets/fish/yellowfin-seabream.webp)\n\n- 图片 ID：IMG-FISH-025\n- 替代文本：一条银灰色、高体侧扁的鱼，腹侧和尾部部分鳍呈黄色，背鳍有硬棘。\n- 权利状态：`rights_pending`\n- 画质说明：当前图背景和清晰度不适合作主图。\n\n## 来源\n\n- SRC-003，黄鳍棘鲷与河口生态文本。\n- SRC-004，`https://fishweather.cn/fish/huang-qi-ji-diao`。\n- SRC-008，FishBase 物种摘要。\n\n",
+    "source_file": "collection/species/yellowfin-seabream.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-025:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "species-blackhead-seabream",
+    "title": "黑棘鲷",
+    "collection_type": "species",
+    "slug": "blackhead-seabream",
+    "url": "/collection/species/blackhead-seabream",
+    "source_ids": [
+      "SRC-003",
+      "SRC-004",
+      "SRC-008"
+    ],
+    "image_ids": [
+      "IMG-FISH-024"
+    ],
+    "metadata": {
+      "collection_id": "species-blackhead-seabream",
+      "title": "黑棘鲷",
+      "scientific_name": "Acanthopagrus schlegelii",
+      "collection": "species",
+      "group": "estuary-marine",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-004",
+        "SRC-008"
+      ],
+      "image_ids": [
+        "IMG-FISH-024"
+      ]
+    },
+    "body_markdown": "\n# 黑棘鲷｜*Acanthopagrus schlegelii*\n\n## 身份与名称\n\n黑棘鲷常简称黑鲷，也有地方俗名。中文里的“鲷”覆盖多个科属和商品名称，不能把所有高体近海鱼归到同一生态说明。\n\n## 如何认出\n\n身体高而侧扁，背鳍具强硬棘，体色银灰至暗灰，体侧可见不明显的暗色带。鳍部多较暗。体色会随环境和状态变化，黑棘鲷并不总是“黑色”。\n\n## 生活在哪里\n\n它生活于近岸浅海、海湾、河口、港区和礁石或底质复杂区域，能够进入半咸水。潮汐让觅食空间周期性开放和关闭，鱼会在礁、堤、泥沙底与通道之间移动。\n\n## 食物、行为与关系\n\n黑棘鲷摄食软体动物、多毛类、甲壳动物及其他底栖资源，强壮的颌齿参与处理食物。它是沿海垂钓和食用对象，也能反映河口岸线和底栖生物状况。性别与成熟过程较复杂，详细表述需接入专项研究，不能用一句普遍化结论覆盖所有种群。\n\n## 易混淆\n\n黄鳍棘鲷及其他棘鲷。鳍色、体色、鳞列和地理范围需要共同判断。\n\n## 图片\n\n![黑棘鲷研究图](../../assets/fish/blackhead-seabream.webp)\n\n- 图片 ID：IMG-FISH-024\n- 替代文本：一条银灰色高体侧扁的海鱼，背鳍有硬棘，鳍部颜色较深。\n- 权利状态：`rights_pending`\n- 画质说明：当前图清晰度偏低。\n\n## 来源\n\n- SRC-003，棘鲷与河口近岸文本。\n- SRC-004，`https://fishweather.cn/fish/hei-ji-diao`。\n- SRC-008，`https://www.fishbase.se/summary/6531`。\n\n",
+    "source_file": "collection/species/blackhead-seabream.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-FISH-024:rights_pending",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "technique-strike-and-tension",
+    "title": "刺鱼与张力管理",
+    "collection_type": "techniques",
+    "slug": "strike-and-tension",
+    "url": "/collection/techniques/strike-and-tension",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "technique-strike-and-tension",
+      "title": "刺鱼与张力管理",
+      "collection": "techniques",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 刺鱼与张力管理\n\n刺鱼让钩尖建立接触，力度取决于距离、线的延展、钩条和鱼口。中鱼后以竿弯、泄力和人的移动削减冲击峰值。竿线拉成直线会失去缓冲，持续死拉可能撕裂鱼嘴。目标是稳定控制，不是把鱼甩上岸。\n\n",
+    "source_file": "collection/techniques/strike-and-tension.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "technique-failure-review",
+    "title": "失败复盘",
+    "collection_type": "techniques",
+    "slug": "failure-review",
+    "url": "/collection/techniques/failure-review",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "technique-failure-review",
+      "title": "失败复盘",
+      "collection": "techniques",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 失败复盘\n\n空军记录水域、天气、深度、饵与信号；切线检查结、磨损、泄力、障碍与控鱼；炸线回看制动、线杯、风和饵重；挂底标记底部结构并回收可及废线；跑鱼检查钩尖、张力和抄鱼。安全撤离不算失败，危险中的坚持不进入技术荣誉。\n",
+    "source_file": "collection/techniques/failure-review.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "technique-find-bottom",
+    "title": "找底与测深",
+    "collection_type": "techniques",
+    "slug": "find-bottom",
+    "url": "/collection/techniques/find-bottom",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "technique-find-bottom",
+      "title": "找底与测深",
+      "collection": "techniques",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 找底与测深\n\n找底是确认钩、坠或探深物与底部关系，不是背诵调目。配重下沉后读取漂、线或竿梢，逐步改变深度，比较软泥、水草、石底和坡坎反应。走水和软泥会制造“到底”假象。禁止在航道和危险岸边为测深冒险涉水。\n\n",
+    "source_file": "collection/techniques/find-bottom.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "technique-land-unhook-release",
+    "title": "抄鱼、摘钩与放流",
+    "collection_type": "techniques",
+    "slug": "land-unhook-release",
+    "url": "/collection/techniques/land-unhook-release",
+    "source_ids": [
+      "SRC-003",
+      "SRC-009"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "technique-land-unhook-release",
+      "title": "抄鱼、摘钩与放流",
+      "collection": "techniques",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003",
+        "SRC-009"
+      ]
+    },
+    "body_markdown": "# 抄鱼、摘钩与放流\n\n让鱼头进入抄网后托起，避免用网框追砸。湿手、准备摘钩钳、缩短离水时间并支撑鱼体。深吞、鳃伤、高水温和长时间遛鱼降低放流存活；“游走”不是完整证据。保护物种、外来鱼和留取要求按当地现行规定处理。\n\n",
+    "source_file": "collection/techniques/land-unhook-release.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "technique-cast-and-deliver",
+    "title": "抛投与递钓",
+    "collection_type": "techniques",
+    "slug": "cast-and-deliver",
+    "url": "/collection/techniques/cast-and-deliver",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "technique-cast-and-deliver",
+      "title": "抛投与递钓",
+      "collection": "techniques",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 抛投与递钓\n\n荡抛、侧抛、过头抛和垂直递送解决不同空间问题。动作由竿长、饵重、风和障碍决定。先检查身后、头顶与落点，避免满竿压缩缓冲。草洞递钓强调轻放和精准，不用大幅甩动。钩饵落点稳定不等于越远越好。\n\n",
+    "source_file": "collection/techniques/cast-and-deliver.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "technique-control-lure",
+    "title": "拟饵搜索",
+    "collection_type": "techniques",
+    "slug": "control-lure",
+    "url": "/collection/techniques/control-lure",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "technique-control-lure",
+      "title": "拟饵搜索",
+      "collection": "techniques",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 拟饵搜索\n\n通过抛投方向、下沉时间、收线速度、停顿、抽动和跳底，让拟饵进入可能的感知范围。动作取决于水深、流速、障碍、猎物和鱼的追逐距离。频繁抛投扩大搜索，也增加挂失和钩伤风险；使用前核对当地钩型规则。\n\n",
+    "source_file": "collection/techniques/control-lure.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "technique-read-signal",
+    "title": "读信号",
+    "collection_type": "techniques",
+    "slug": "read-signal",
+    "url": "/collection/techniques/read-signal",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "technique-read-signal",
+      "title": "读信号",
+      "collection": "techniques",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 读信号\n\n把浮漂、竿梢、鱼线和手感变化放回受力条件。顿、顶、沉、松线都可能由吞饵、碰线、水流、障碍或饵溶散造成。先问钩饵在哪里、动作是否连续、风流如何，再决定是否提竿。单个漂相没有跨水域的唯一解释。\n\n",
+    "source_file": "collection/techniques/read-signal.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "technique-read-water",
+    "title": "读水",
+    "collection_type": "techniques",
+    "slug": "read-water",
+    "url": "/collection/techniques/read-water",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "technique-read-water",
+      "title": "读水",
+      "collection": "techniques",
+      "status": "draft",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    "body_markdown": "# 读水\n\n## 目的\n在开竿前判断流速、深浅、底质、入水、风浪、光线和危险。\n\n## 方法与条件\n观察水面纹理、漂浮物方向、岸形和水色；用安全方式探深；把天气预报与现场比较。透明度、富营养和污染分开记录。\n\n## 常见误判\n把浑水都当肥水，把迎风岸都当鱼窝，把旧钓位当永久坐标。\n\n## 安全\n雷雨、山洪、强风、涨潮、薄冰或封闭岸线出现时停止。\n\n",
+    "source_file": "collection/techniques/read-water.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "work-women-fishing-print",
+    "title": "《妇女钓鱼图》",
+    "collection_type": "works",
+    "slug": "women-fishing-print",
+    "url": "/collection/works/women-fishing-print",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [
+      "IMG-HIS-003"
+    ],
+    "metadata": {
+      "collection_id": "work-women-fishing-print",
+      "title": "《妇女钓鱼图》",
+      "creator": "吴友如相关",
+      "work_type": "print",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [
+        "IMG-HIS-003"
+      ]
+    },
+    "body_markdown": "# 《妇女钓鱼图》\n\n版画中女性持竿，另一名女性与儿童在水边观看，使园林垂钓不再只有男性文人。作品的刊物版本、准确题名和公版图源仍待确认，不能把画中人物虚构为真实传记。\n\n![妇女钓鱼图研究图](../../assets/source-docx/image12.jpeg)\n\n",
+    "source_file": "collection/works/women-fishing-print.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-003:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "work-cold-river-painting",
+    "title": "《寒江独钓图》相关版本",
+    "collection_type": "works",
+    "slug": "cold-river-painting",
+    "url": "/collection/works/cold-river-painting",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [
+      "IMG-HIS-006"
+    ],
+    "metadata": {
+      "collection_id": "work-cold-river-painting",
+      "title": "《寒江独钓图》相关版本",
+      "creator": "传马远",
+      "work_type": "painting",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [
+        "IMG-HIS-006"
+      ]
+    },
+    "body_markdown": "# 《寒江独钓图》相关版本\n\n画面以小舟和钓者对照大面积空白，钓轮状结构又进入器物史讨论。作者归属、版本和馆藏需与机构页面复核，现有书内图只作研究候选。\n\n![寒江独钓图相关研究图](../../assets/source-docx/image24.jpeg)\n\n",
+    "source_file": "collection/works/cold-river-painting.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-006:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "work-fishing-tools-ten-odes",
+    "title": "《御制渔具十咏图并书》",
+    "collection_type": "works",
+    "slug": "imperial-fishing-tools-ten-odes",
+    "url": "/collection/works/imperial-fishing-tools-ten-odes",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [
+      "IMG-HIS-004"
+    ],
+    "metadata": {
+      "collection_id": "work-fishing-tools-ten-odes",
+      "title": "《御制渔具十咏图并书》",
+      "creator": "董诰等相关",
+      "work_type": "painting-calligraphy",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "image_ids": [
+        "IMG-HIS-004"
+      ]
+    },
+    "body_markdown": "# 《御制渔具十咏图并书》\n\n诗、画、书法和渔具知识被编入宫廷观看体系，器具不只是生产工具，也成为可题咏、分类与收藏的对象。完整作品信息、各咏内容、馆藏和图像许可需继续核对。\n\n![御制渔具十咏图并书研究图](../../assets/source-docx/image15.jpeg)\n\n",
+    "source_file": "collection/works/imperial-fishing-tools-ten-odes.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "image_rights:IMG-HIS-004:research_candidate",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "work-jiang-shang-yu-zhe",
+    "title": "《江上渔者》",
+    "collection_type": "works",
+    "slug": "jiang-shang-yu-zhe",
+    "url": "/collection/works/jiang-shang-yu-zhe",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "work-jiang-shang-yu-zhe",
+      "title": "《江上渔者》",
+      "creator": "范仲淹",
+      "work_type": "poem",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 《江上渔者》\n\n诗将往来者喜爱的鲈鱼鲜味与一叶舟出没风波并置，让食物重新连接捕捞劳动和风险。它不能证明范仲淹本人以钓鱼休闲。馆藏与劳作者研究席位和中国花鲈名称辨析互链。\n\n",
+    "source_file": "collection/works/jiang-shang-yu-zhe.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "work-jiang-xue",
+    "title": "《江雪》",
+    "collection_type": "works",
+    "slug": "jiang-xue",
+    "url": "/collection/works/jiang-xue",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "work-jiang-xue",
+      "title": "《江雪》",
+      "creator": "柳宗元",
+      "work_type": "poem",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 《江雪》\n\n“孤舟蓑笠翁，独钓寒江雪”用舟、人、江与雪建立极端尺度。作品常与柳宗元贬谪处境和孤高解释相连，也被后世绘画反复改写。页面保留全文语境和接受史，不把诗当冬钓教程。\n\n",
+    "source_file": "collection/works/jiang-xue.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "work-yu-ge-zi",
+    "title": "《渔歌子·西塞山前白鹭飞》",
+    "collection_type": "works",
+    "slug": "yu-ge-zi",
+    "url": "/collection/works/yu-ge-zi",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "work-yu-ge-zi",
+      "title": "《渔歌子·西塞山前白鹭飞》",
+      "creator": "张志和",
+      "work_type": "ci-poem",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 《渔歌子》\n\n白鹭、桃花流水、鳜鱼、箬笠和蓑衣共同构成江南春汛与渔父形象。“不须归”既是天气中的从容，也进入后世隐逸想象。馆藏链接鳜鱼物种页，说明文学物候与实际鱼类生态不是同一证据层。\n\n",
+    "source_file": "collection/works/yu-ge-zi.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "work-xing-lu-nan",
+    "title": "《行路难》中的垂钓典故",
+    "collection_type": "works",
+    "slug": "xing-lu-nan",
+    "url": "/collection/works/xing-lu-nan",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "work-xing-lu-nan",
+      "title": "《行路难》中的垂钓典故",
+      "creator": "李白",
+      "work_type": "poem-allusion",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 《行路难》中的垂钓典故\n\n“闲来垂钓碧溪上”借姜太公遇文王表达政治机会，随后“乘舟梦日边”转入伊尹典故。它不是李白一次出钓记录。页面将典故来源、诗中位置和仕进处境放在一起。\n\n",
+    "source_file": "collection/works/xing-lu-nan.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  },
+  {
+    "id": "work-hao-liang-debate",
+    "title": "濠梁之辩",
+    "collection_type": "works",
+    "slug": "hao-liang-debate",
+    "url": "/collection/works/hao-liang-debate",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "image_ids": [],
+    "metadata": {
+      "collection_id": "work-hao-liang-debate",
+      "title": "濠梁之辩",
+      "creator": "《庄子·秋水》",
+      "work_type": "philosophical-text",
+      "status": "draft",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    "body_markdown": "# 濠梁之辩\n\n庄子与惠子围绕“人如何知道鱼之乐”展开辩论。它没有提供鱼类行为学证据，却把鱼放在认识边界的中心。页面并置原文、注释和现代动物行为研究的证据差异，不用科学结论粗暴裁判哲学文本。\n\n",
+    "source_file": "collection/works/hao-liang-debate.md",
+    "publication": {
+      "state": "blocked",
+      "blockers": [
+        "missing_image",
+        "status_not_ready:draft"
+      ],
+      "warnings": []
+    }
+  }
+]

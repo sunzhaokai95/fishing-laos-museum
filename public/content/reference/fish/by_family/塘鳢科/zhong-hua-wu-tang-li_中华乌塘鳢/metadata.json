@@ -1,0 +1,91 @@
+{
+  "name": "中华乌塘鳢",
+  "slug": "zhong-hua-wu-tang-li",
+  "source_url": "https://fishweather.cn/fish/zhong-hua-wu-tang-li",
+  "list_page": 4,
+  "list_position": 88,
+  "scientific_name": "Bostrychus sinensis",
+  "aliases": "塘鳢鱼、乌棒槌、土布鱼、沙乌鳢、黑老婆、瞎眼棒鱼",
+  "headline": "中华乌塘鳢怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部粗壮呈圆筒形，后部侧扁。头大而平扁，略呈方形。口大，端位，斜裂。上下颌具细齿。眼小，侧上位，眼间隔宽而平坦。体被栉鳞，头部无鳞。背鳍两个，分离，第一背鳍棘状，第二背鳍鳍条状。胸鳍宽大，呈圆形。腹鳍胸位，愈合成吸盘。尾鳍圆形。体色背部灰黑色或棕褐色，腹部灰白色，体侧有不规则暗色斑纹，各鳍灰黑色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "塘鳢科",
+    "水层": "底层",
+    "食性": "肉食性为主，兼食杂食。主要捕食小型鱼虾、水生昆虫、底栖无脊椎动物等，也摄食藻类、有机碎屑等。",
+    "栖息环境": "江河、湖泊、水库、池塘、沟渠等缓流或静水水域的底层，常栖息于水草丛生、底质为泥沙或碎石的环境中，也可见于河口咸淡水区域。",
+    "体长": "25 cm",
+    "体重": "0.25 kg",
+    "寿命": "自然条件下寿命一般为3-5年，人工养殖条件下，若环境适宜，可略长。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "鸡肝",
+    "猪肝",
+    "虾肉",
+    "鱼肉",
+    "面包虫",
+    "蚕蛹",
+    "商品饵料（腥味）",
+    "冷冻红虫"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速下沉没入水中，是塘鳢鱼吞饵的典型信号，应立即扬竿。",
+    "快顿",
+    "：",
+    "浮漂出现快速有力的下顿，幅度较大，也表示塘鳢鱼已咬钩。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是塘鳢鱼试探性咬钩，可稍等片刻再扬竿。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是塘鳢鱼拖动饵料，应及时扬竿。",
+    "连续点动",
+    "：",
+    "浮漂出现连续轻微的点动，可能是小鱼闹窝或塘鳢鱼轻微触碰饵料，需仔细观察，抓住顿口。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:塘鳢鱼喜欢藏身于隐蔽处，如乱石堆、水草边、桥墩下、涵洞口等，选择这些地方作为钓点，中鱼率更高。",
+    "使用腥味饵料:塘鳢鱼是肉食性鱼类，对腥味饵料非常敏感，使用蚯蚓、红虫、鸡肝等腥味饵料，诱鱼效果更好。",
+    "逗钓结合:在底钓时，可适当逗钓，轻轻提动饵料，吸引塘鳢鱼注意，提高咬钩率。",
+    "夜钓效果更佳:塘鳢鱼夜间活动频繁，夜钓时段更容易钓获。",
+    "快速扬竿:塘鳢鱼吃口凶猛，漂相明显，见漂动即可快速扬竿，避免跑鱼。"
+  ],
+  "recommended_spots": "池塘、水库、江河缓流段、湖泊、沟渠、稻田、近海咸淡水区域",
+  "distribution": [],
+  "similar_fish": [
+    "乌塘鳢",
+    "斑塘鳢",
+    "尖头塘鳢",
+    "葛氏塘鳢",
+    "纹缟虾虎鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhong-hua-wu-tang-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhong-hua-wu-tang-li-0-a025dc3a.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-wu-tang-li-1-2f43d9ff.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-wu-tang-li-2-68f8d25f.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-wu-tang-li-3-b735f4eb.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-wu-tang-li-4-97a6e287.webp"
+    ]
+  },
+  "profile_text_sha256": "8d3c3a56a0044b2913fd8bcbaa49a1c63000e8061ecd0b3a2fcd1a6d9125435c",
+  "raw_line_count": 137,
+  "local_dir": "by_family/塘鳢科/zhong-hua-wu-tang-li_中华乌塘鳢",
+  "local_images": {
+    "fish": [
+      "by_family/塘鳢科/zhong-hua-wu-tang-li_中华乌塘鳢/images/main.webp"
+    ],
+    "catch": []
+  }
+}

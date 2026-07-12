@@ -1,0 +1,91 @@
+{
+  "name": "横纹九棘鲈",
+  "slug": "heng-wen-jiu-ji-lu",
+  "source_url": "https://fishweather.cn/fish/heng-wen-jiu-ji-lu",
+  "list_page": 8,
+  "list_position": 175,
+  "scientific_name": "Cephalopholis boenak",
+  "aliases": "花狗斑、青斑",
+  "headline": "横纹九棘鲈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈纺锤形，稍侧扁。头中等大小，吻部较尖。口大，端位，上下颌均具尖锐牙齿。前鳃盖骨后缘呈锯齿状，鳃盖骨有3个扁平棘。体表覆盖栉鳞，侧线完整。背鳍连续，硬棘部与软条部相连。体色多变，常见浅棕色或黄褐色，体侧散布深色斑点或不规则斑纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类和头足类动物。",
+    "栖息环境": "主要栖息于珊瑚礁区和岩礁区，也见于近岸浅海区域。",
+    "体长": "30 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较长，可能超过10年。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "小海鱼",
+    "海虾",
+    "鱿鱼",
+    "沙蚕",
+    "海蜈蚣",
+    "南极虾",
+    "鱼肉块",
+    "软饵",
+    "硬饵",
+    "鱼粉颗粒"
+  ],
+  "float_signals": [
+    "轻微抖动后黑漂(矶钓浮漂)",
+    "：",
+    "矶钓浮漂出现轻微抖动后迅速下沉没入水中，表示鱼已咬钩。",
+    "竿稍急促下顿",
+    "：",
+    "竿稍突然大幅度向下弯曲，这是石斑鱼咬钩的典型信号，力量较大。",
+    "线轮快速出线",
+    "：",
+    "鱼咬钩后，线轮快速转动，线被迅速拉出，说明鱼体型较大且力量强劲。",
+    "竿体持续弯曲",
+    "：",
+    "扬竿刺鱼后，鱼竿保持弯曲状态，说明已成功中鱼，正在与鱼搏斗。",
+    "拖拽感(路亚钓)",
+    "：",
+    "路亚回收过程中，突然感觉鱼竿被拖拽，或者感受到明显的顿挫感，表示鱼已攻击拟饵。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:石斑鱼喜欢藏身于礁石缝隙、洞穴或沉船附近，选择这些结构复杂的水域作钓。",
+    "根据水深选择钓法:浅水礁石区可选择矶钓或路亚钓，深水区则更适合船钓。",
+    "使用合适的饵料:活饵或新鲜的海鱼、虾、鱿鱼等是钓石斑鱼的有效饵料，路亚钓法则需根据鱼情选择合适的拟饵。",
+    "注意扬竿时机:石斑鱼咬钩凶猛，一旦出现鱼讯要及时快速扬竿，防止鱼钻入礁石缝隙。",
+    "掌握控鱼技巧:中鱼后要迅速将鱼拉离障碍物区域，避免切线跑鱼。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、沉船区、码头、防波堤",
+  "distribution": [],
+  "similar_fish": [
+    "青石斑鱼",
+    "赤点石斑鱼",
+    "云纹石斑鱼",
+    "宝石石斑鱼",
+    "鞍带石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/heng-wen-jiu-ji-lu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/heng-wen-jiu-ji-lu-0-e5f16045.webp",
+      "https://fishweather.cn/asset-images/catch/heng-wen-jiu-ji-lu-1-0dd2e8ff.webp",
+      "https://fishweather.cn/asset-images/catch/heng-wen-jiu-ji-lu-2-6ff3afdf.webp",
+      "https://fishweather.cn/asset-images/catch/heng-wen-jiu-ji-lu-3-44275fbb.webp",
+      "https://fishweather.cn/asset-images/catch/heng-wen-jiu-ji-lu-4-ba42190f.webp"
+    ]
+  },
+  "profile_text_sha256": "a99a21a8f72513ba48abcc2576a3c80868471fa6ac17e9dc00ead7667d472458",
+  "raw_line_count": 139,
+  "local_dir": "by_family/鮨科/heng-wen-jiu-ji-lu_横纹九棘鲈",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/heng-wen-jiu-ji-lu_横纹九棘鲈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

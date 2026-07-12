@@ -1,0 +1,79 @@
+{
+  "name": "棘鳞蛇鲭",
+  "slug": "ji-lin-she-qing",
+  "source_url": "https://fishweather.cn/fish/ji-lin-she-qing",
+  "list_page": 31,
+  "list_position": 738,
+  "scientific_name": "Ruvettus pretiosus",
+  "aliases": "黑皮牛、蔷薇带鲭",
+  "headline": "棘鳞蛇鲭怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，稍侧扁，呈纺锤形。头大，吻尖。眼大，侧上位。口大，端位，上下颌具犬齿状牙。体被小栉鳞，侧线明显。体背部深褐色或黑色，腹部稍浅。各鳍深色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "蛇鲭科",
+    "水层": "深海底层",
+    "食性": "肉食性，主要捕食鱼类、甲壳类和头足类",
+    "栖息环境": "热带和温带海洋的深海区，通常在大陆坡和海底山附近",
+    "体长": "300 cm",
+    "体重": "100 kg",
+    "寿命": "寿命较长，可能超过30年",
+    "适温": "10-20 °C"
+  },
+  "bait_options": [
+    "秋刀鱼",
+    "鱿鱼",
+    "章鱼",
+    "马鲛鱼",
+    "金枪鱼块",
+    "鲣鱼",
+    "沙丁鱼",
+    "鲐鱼",
+    "鲭鱼",
+    "南极虾",
+    "实战技巧",
+    "使用探鱼器寻找鱼群或海底结构。",
+    "控制船速和拖钓速度，保持饵料在目标水层。",
+    "使用重铅或深潜器将钓组送到深海。",
+    "注意安全，深海钓鱼需考虑海况和安全措施。",
+    "使用电动卷线器，方便收线和搏鱼。",
+    "推荐钓点类型",
+    "深海海域、大陆坡、海底山、深海渔场",
+    "相似鱼种",
+    "蛇鲭",
+    "异鳞蛇鲭",
+    "长鳍金枪鱼"
+  ],
+  "float_signals": [],
+  "practical_tips": [
+    "使用探鱼器寻找鱼群或海底结构。",
+    "控制船速和拖钓速度，保持饵料在目标水层。",
+    "使用重铅或深潜器将钓组送到深海。",
+    "注意安全，深海钓鱼需考虑海况和安全措施。",
+    "使用电动卷线器，方便收线和搏鱼。"
+  ],
+  "recommended_spots": "深海海域、大陆坡、海底山、深海渔场",
+  "distribution": [],
+  "similar_fish": [
+    "蛇鲭",
+    "异鳞蛇鲭",
+    "长鳍金枪鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ji-lin-she-qing.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "2c247b6e358985589bd880ec260f660f4a12b9e0db37db71adbe384549be23d4",
+  "raw_line_count": 55,
+  "local_dir": "by_family/蛇鲭科/ji-lin-she-qing_棘鳞蛇鲭",
+  "local_images": {
+    "fish": [
+      "by_family/蛇鲭科/ji-lin-she-qing_棘鳞蛇鲭/images/main.webp"
+    ],
+    "catch": []
+  }
+}

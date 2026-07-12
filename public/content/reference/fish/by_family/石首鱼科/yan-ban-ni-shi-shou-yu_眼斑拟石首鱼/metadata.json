@@ -1,0 +1,102 @@
+{
+  "name": "眼斑拟石首鱼",
+  "slug": "yan-ban-ni-shi-shou-yu",
+  "source_url": "https://fishweather.cn/fish/yan-ban-ni-shi-shou-yu",
+  "list_page": 4,
+  "list_position": 90,
+  "scientific_name": "Sciaenops ocellatus",
+  "aliases": "红鱼、海峡鲈鱼、斑点尾鲈",
+  "headline": "眼斑拟石首鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，背腹缘几直线。头中大，钝尖。吻圆钝。口大，前上位，倾斜。上颌稍突出于下颌。上下颌、犁骨及腭骨均具绒毛状齿。前鳃盖骨后缘具锯齿，鳃盖骨后缘具扁棘。体被栉鳞，头部被圆鳞。侧线完全，侧线上鳞8-10纵列。背鳍2个，连续，第一背鳍鳍棘部略高于第二背鳍鳍条部。臀鳍短小。尾鳍楔形或近截形，幼鱼尾鳍上缘具一至数个黑色",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "石首鱼科",
+    "水层": "底层,中层",
+    "食性": "肉食性，幼鱼主要以小型甲壳类动物为食，成鱼则捕食鱼类、螃蟹、虾和贝类等底栖无脊椎动物",
+    "栖息环境": "沿海浅水区，包括海湾、河口、红树林、海草床和沙质或泥质海底",
+    "体长": "155",
+    "体重": "42",
+    "寿命": "野生环境下寿命可达30-40年，人工养殖条件下若管理得当，寿命也较长。",
+    "适温": "20-30"
+  },
+  "bait_options": [
+    "鲜虾（海虾）",
+    "冻虾",
+    "鱿鱼块",
+    "小鱼块（如沙丁鱼",
+    "鲱鱼）",
+    "螃蟹（切块）",
+    "贝类（蛤蜊",
+    "贻贝）",
+    "软塑料虾",
+    "软塑料蟹",
+    "VIB",
+    "米诺"
+  ],
+  "float_signals": [
+    "点动急促",
+    "：",
+    "浮漂出现连续快速的点动，幅度不大，可能是红鼓鱼试探性咬饵。",
+    "快速下沉",
+    "：",
+    "浮漂快速有力地向下沉没，通常是红鼓鱼吞食饵料的信号，需及时扬竿。",
+    "走漂",
+    "：",
+    "浮漂在水面横向移动，可能是红鼓鱼咬饵后带动线组移动。",
+    "黑漂缓沉",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，可能是红鼓鱼吸食饵料后缓慢下沉。",
+    "上顶",
+    "：",
+    "浮漂先是轻微上顶，然后快速下沉，通常是红鼓鱼先试探，后吞食的动作。"
+  ],
+  "practical_tips": [
+    "了解潮汐规律:红鼓鱼的活动受潮汐影响较大，涨潮和退潮时鱼的活性较高，尤其是在涨潮初期和退潮末期。",
+    "寻找结构:红鼓鱼喜欢藏身于水下结构附近，如沉船、礁石、桥墩等，在这些区域作钓更容易钓获。",
+    "根据水深选择饵料和钓法:在浅水区可使用软饵或浅水型硬饵进行搜索，在深水区可使用重型铅头钩或底钓钓组。",
+    "注意隐蔽:红鼓鱼警惕性较高，作钓时应注意隐蔽身形，避免惊扰鱼群。",
+    "搏鱼技巧:红鼓鱼力量较大，中鱼后需及时泄力，避免拔河式硬拉，要充分利用竿子的弹性卸力，与鱼周旋。"
+  ],
+  "recommended_spots": "海湾、河口、红树林、海草床、码头、防波堤、近岸礁石区",
+  "distribution": [
+    "台湾省",
+    "广东省",
+    "广西壮族自治区",
+    "浙江省",
+    "海南省",
+    "澳门特别行政区",
+    "福建省",
+    "香港特别行政区"
+  ],
+  "similar_fish": [
+    "条纹鲈鱼",
+    "黑鲈",
+    "石斑鱼",
+    "海鲈鱼",
+    "黄花鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yan-ban-ni-shi-shou-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yan-ban-ni-shi-shou-yu-0-8bc73aa8.webp",
+      "https://fishweather.cn/asset-images/catch/yan-ban-ni-shi-shou-yu-1-ceecda06.webp",
+      "https://fishweather.cn/asset-images/catch/yan-ban-ni-shi-shou-yu-2-66291f57.webp",
+      "https://fishweather.cn/asset-images/catch/yan-ban-ni-shi-shou-yu-3-489bbb16.webp",
+      "https://fishweather.cn/asset-images/catch/yan-ban-ni-shi-shou-yu-4-99ff53b1.webp"
+    ]
+  },
+  "profile_text_sha256": "6964f8bf8ef56691c156578b7c4e9bb8e35ee887a2183fa7f77cc97ad38bee97",
+  "raw_line_count": 148,
+  "local_dir": "by_family/石首鱼科/yan-ban-ni-shi-shou-yu_眼斑拟石首鱼",
+  "local_images": {
+    "fish": [
+      "by_family/石首鱼科/yan-ban-ni-shi-shou-yu_眼斑拟石首鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

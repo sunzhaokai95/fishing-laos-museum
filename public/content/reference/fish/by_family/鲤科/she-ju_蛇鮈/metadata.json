@@ -1,0 +1,90 @@
+{
+  "name": "蛇鮈",
+  "slug": "she-ju",
+  "source_url": "https://fishweather.cn/fish/she-ju",
+  "list_page": 5,
+  "list_position": 100,
+  "scientific_name": "Saurogobio dabryi",
+  "aliases": "无",
+  "headline": "蛇鮈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，略呈圆筒形，后部稍侧扁。头平扁，吻突出向前下方，呈铲状。口小，下位，呈弧形。具须两对，颌须较发达。眼小，侧上位。鳞片细小。体背部灰褐色，腹部银白色。体侧散布不规则黑色小斑点。各鳍浅色透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性偏肉食性，主要摄食小型底栖无脊椎动物、水生昆虫幼虫、小型甲壳类、藻类和有机碎屑。",
+    "栖息环境": "主要栖息于江河缓流或静水水域的底层，偏好砂砾或泥沙底质的环境。",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓",
+    "面包屑",
+    "拉丝粉",
+    "商品鲫鱼饵（腥香型）",
+    "米饭粒",
+    "麸皮",
+    "玉米面",
+    "豆饼粉",
+    "藻类饵料"
+  ],
+  "float_signals": [
+    "横向移位",
+    "：",
+    "浮漂不垂直下沉或上浮，而是向一侧缓慢移动，可能是鱼拖动饵料。",
+    "缓慢性下沉",
+    "：",
+    "浮漂缓慢而匀速地向下沉没，可能是鱼吸食饵料后，身体上浮或带动浮漂下沉。",
+    "浮漂轻微上顶",
+    "：",
+    "浮漂缓慢而轻微地向上顶起，可能是鱼在底部拱动饵料或触碰子线。",
+    "轻微点动",
+    "：",
+    "浮漂出现轻微而快速的点动，幅度小，频率快，可能是鱼试探性触碰饵料。",
+    "停顿后下顿",
+    "：",
+    "浮漂先出现轻微停顿，然后突然快速下顿，是较明显的咬钩信号。"
+  ],
+  "practical_tips": [
+    "选择缓流或静水区作钓，达氏鮍喜栖息于水流缓慢的地方。",
+    "采用细线小钩，提高钓组灵敏度，适应其小口轻食的特点。",
+    "饵料宜小而精，活饵效果更佳，如红虫、蚯蚓。",
+    "逗钓结合，通过轻微提动竿稍，使饵料在水底呈现动态，诱鱼咬钩。",
+    "打窝聚鱼，可用酒米、麸皮等打窝，但用量不宜过多，避免过度惊扰。"
+  ],
+  "recommended_spots": "小型河流缓流段、溪流、池塘、水库浅滩、水渠",
+  "distribution": [],
+  "similar_fish": [
+    "棒花鱼",
+    "麦穗鱼",
+    "鲫鱼",
+    "鳑鲏"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/she-ju.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/she-ju-0-5e325be8.webp",
+      "https://fishweather.cn/asset-images/catch/she-ju-1-f943a01c.webp",
+      "https://fishweather.cn/asset-images/catch/she-ju-2-c516707e.webp",
+      "https://fishweather.cn/asset-images/catch/she-ju-3-566289c4.webp",
+      "https://fishweather.cn/asset-images/catch/she-ju-4-d3f2288a.webp"
+    ]
+  },
+  "profile_text_sha256": "d3e523a03cb7913bd7d2892004b2730783ff97a93c7662054d981d54be19120e",
+  "raw_line_count": 136,
+  "local_dir": "by_family/鲤科/she-ju_蛇鮈",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/she-ju_蛇鮈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

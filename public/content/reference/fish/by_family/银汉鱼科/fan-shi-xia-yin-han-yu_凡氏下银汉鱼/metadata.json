@@ -1,0 +1,92 @@
+{
+  "name": "凡氏下银汉鱼",
+  "slug": "fan-shi-xia-yin-han-yu",
+  "source_url": "https://fishweather.cn/fish/fan-shi-xia-yin-han-yu",
+  "list_page": 5,
+  "list_position": 112,
+  "scientific_name": "Hypoatherina valenciennei",
+  "aliases": "青条仔、银条、白条仔、海鲫仔",
+  "headline": "凡氏下银汉鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，略呈纺锤形。头中等大，稍侧扁。吻短而尖。口小，端位，斜裂。上颌略突出于下颌。眼大，侧上位。前鳃盖骨后缘光滑。体被薄圆鳞，易脱落。侧线不明显。背鳍两个，分离较远，第一背鳍小，第二背鳍与臀鳍相对。胸鳍位高，鳍条较短。腹鳍腹位。尾鳍叉形。体背部灰绿色或青灰色，体侧及腹部银白色，体侧中央有一条明显的银白色纵带，在",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "银汉鱼目",
+    "科": "银汉鱼科",
+    "水层": "中上层",
+    "食性": "杂食性，主要摄食浮游生物、小型甲壳类、藻类、水生昆虫幼虫及有机碎屑等",
+    "栖息环境": "近岸浅海、河口、红树林、内湾等咸淡水水域，也常进入淡水水域活动",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "自然寿命通常为2-3年，最长可达4年左右",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海藻粉",
+    "沙蚕",
+    "鱼粉",
+    "虾粉",
+    "商品矶钓诱饵",
+    "小型软饵（卷尾蛆",
+    "小虾等）",
+    "小型亮片",
+    "小型米诺",
+    "面包虫"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动，幅度小而频率快，可能是鱼试探性触碰饵料。",
+    "快沉",
+    "：",
+    "浮漂快速下沉，瞬间没入水中，通常是鱼快速抢食，信号明显。",
+    "上顶",
+    "：",
+    "浮漂向上顶起或抬高，可能是鱼从下方将饵料顶起，但较少见。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，可能是鱼吸食饵料后缓慢下沉。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼咬饵后游动或拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:瓦氏银汉鱼常在水流较缓、饵料丰富的区域活动，如防波堤内侧、码头阴影处、礁石缝隙等。",
+    "精准控层:根据季节、天气和水温变化，瓦氏银汉鱼的活动水层也会有所变化，需不断尝试不同的钓棚深度。",
+    "诱钓结合:使用诱饵提前打窝，可有效聚集鱼群，提高上鱼率。诱饵和钓饵尽量选择瓦氏银汉鱼喜爱的食物。",
+    "轻口轻提:瓦氏银汉鱼口小且轻，漂相通常较为细微，需仔细观察，轻口及时轻提，避免跑鱼。",
+    "灵活应变:根据不同的鱼情和环境，灵活调整钓组搭配、饵料选择和作钓手法。"
+  ],
+  "recommended_spots": "海边防波堤、码头、礁石区、河口、红树林、内湾",
+  "distribution": [],
+  "similar_fish": [
+    "青鳉",
+    "鳀鱼",
+    "沙丁鱼",
+    "鲱鱼",
+    "胡瓜鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/fan-shi-xia-yin-han-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/fan-shi-xia-yin-han-yu-0-50733ba5.webp",
+      "https://fishweather.cn/asset-images/catch/fan-shi-xia-yin-han-yu-1-8c51bf0a.webp",
+      "https://fishweather.cn/asset-images/catch/fan-shi-xia-yin-han-yu-2-68baff09.webp",
+      "https://fishweather.cn/asset-images/catch/fan-shi-xia-yin-han-yu-3-1268cce7.webp",
+      "https://fishweather.cn/asset-images/catch/fan-shi-xia-yin-han-yu-4-273e9571.webp"
+    ]
+  },
+  "profile_text_sha256": "3272b39ad9807a4bd5f78a2b4b8ff1d9238fa8160f78de042f570ae988aed03e",
+  "raw_line_count": 138,
+  "local_dir": "by_family/银汉鱼科/fan-shi-xia-yin-han-yu_凡氏下银汉鱼",
+  "local_images": {
+    "fish": [
+      "by_family/银汉鱼科/fan-shi-xia-yin-han-yu_凡氏下银汉鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "黑带娇丽鱼",
+  "slug": "hei-dai-jiao-li-yu",
+  "source_url": "https://fishweather.cn/fish/hei-dai-jiao-li-yu",
+  "list_page": 27,
+  "list_position": 635,
+  "scientific_name": "Amatitlania nigrofasciata",
+  "aliases": "黑带鲷",
+  "headline": "黑带娇丽鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型中等，椭圆形，侧扁。体色底色为浅灰色或米色，身体两侧有8-9条黑色垂直条纹，幼鱼条纹较少。雄鱼成熟后背鳍和臀鳍末端尖长，雌鱼腹部在繁殖期呈橙红色。眼睛虹膜上半部为红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "底层,中层",
+    "食性": "杂食性，主要食物包括昆虫幼虫、甲壳类、蠕虫、植物碎屑和藻类",
+    "栖息环境": "中美洲的热带河流、溪流和湖泊的岩石底部或植被茂盛区域",
+    "体长": "15",
+    "体重": "0.2",
+    "寿命": "人工饲养条件下寿命可达8-10年",
+    "适温": "24-30"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "火口鱼",
+    "杰克逊鲷",
+    "蓝宝石鱼",
+    "丽丽鱼",
+    "珍珠马甲"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-dai-jiao-li-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "e3a5127117fe9b6b121373d25836fe6625025743baf44777f523135d084f7b9a",
+  "raw_line_count": 32,
+  "local_dir": "by_family/丽鱼科/hei-dai-jiao-li-yu_黑带娇丽鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/hei-dai-jiao-li-yu_黑带娇丽鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

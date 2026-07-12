@@ -1,0 +1,87 @@
+{
+  "name": "双色鲸鹦嘴鱼",
+  "slug": "shuang-se-jing-ying-zui-yu",
+  "source_url": "https://fishweather.cn/fish/shuang-se-jing-ying-zui-yu",
+  "list_page": 18,
+  "list_position": 431,
+  "scientific_name": "Cetoscarus bicolor",
+  "aliases": "彩虹鹦哥鱼、鹦哥鱼",
+  "headline": "双色鲸鹦嘴鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "幼鱼和成鱼的形态差异很大。幼鱼通体白色或黄色，背鳍、臀鳍和尾鳍边缘黑色，随着成长体色逐渐变化。成鱼身体呈椭圆形，颜色鲜艳，头部和身体前部为蓝绿色，后部为橙黄色，各鳍颜色也较为鲜艳。嘴喙状，牙齿fused成齿板。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鹦嘴鱼科",
+    "水层": "底层,珊瑚礁区",
+    "食性": "主要以藻类为食，也吃珊瑚虫。",
+    "栖息环境": "珊瑚礁区，泻湖和临海礁石",
+    "体长": "90",
+    "体重": null,
+    "寿命": "寿命较长，可达数十年。",
+    "适温": "24-30"
+  },
+  "bait_options": [
+    "海藻",
+    "海苔",
+    "面包屑",
+    "虾肉",
+    "贝肉",
+    "海胆黄",
+    "海参",
+    "南极虾",
+    "小鱼干",
+    "海মাছ"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速沉入水中，消失不见，表明鱼已吞饵，需立即扬竿。",
+    "顿口",
+    "：",
+    "浮漂快速下顿，有力且幅度较大，是鹦嘴鱼咬钩的典型信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鹦嘴鱼试探性咬钩，需密切关注，适时扬竿。",
+    "加速下沉",
+    "：",
+    "在浮漂缓慢下沉过程中，突然加速下沉，是鹦嘴鱼咬实饵料的信号。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鹦嘴鱼拖动饵料，需及时扬竿。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:鹦嘴鱼喜欢栖息在珊瑚礁或岩礁附近，寻找这些区域作为钓点。",
+    "使用合适的饵料:鹦嘴鱼主要以藻类为食，但对虾肉、贝肉等荤饵也感兴趣，可根据实际情况选择。",
+    "注意隐蔽性:鹦嘴鱼较为警惕，作钓时注意自身隐蔽，避免惊扰鱼群。",
+    "掌握扬竿时机:鹦嘴鱼咬口有力，但有时也较为谨慎，需仔细观察浮漂动作，及时扬竿。",
+    "使用耐磨线组:礁石区作钓容易磨损线组，选择耐磨性好的主线和子线。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、近海岛屿、海湾",
+  "distribution": [],
+  "similar_fish": [
+    "绿鹦嘴鱼",
+    "大鹦嘴鱼",
+    "青鹦嘴鱼",
+    "隆头鹦哥鱼",
+    "斑点鹦嘴鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shuang-se-jing-ying-zui-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/shuang-se-jing-ying-zui-yu-0-5857abab.webp"
+    ]
+  },
+  "profile_text_sha256": "b855476d27164dfa3d3b27080507d6af4acb90b63215771ba9b0b774fced1733",
+  "raw_line_count": 87,
+  "local_dir": "by_family/鹦嘴鱼科/shuang-se-jing-ying-zui-yu_双色鲸鹦嘴鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鹦嘴鱼科/shuang-se-jing-ying-zui-yu_双色鲸鹦嘴鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

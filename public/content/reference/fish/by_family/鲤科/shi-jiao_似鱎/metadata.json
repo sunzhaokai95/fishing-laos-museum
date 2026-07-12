@@ -1,0 +1,90 @@
+{
+  "name": "似鱎",
+  "slug": "shi-jiao",
+  "source_url": "https://fishweather.cn/fish/shi-jiao",
+  "list_page": 8,
+  "list_position": 172,
+  "scientific_name": "Toxabramis swinhonis",
+  "aliases": "鳊鱼、长春鳊、平胸鳊、草鳊、油鳊",
+  "headline": "似鱎怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈菱形，侧扁而高，背部隆起。头小，吻短钝。口小，端位，呈弧形。眼较大，侧上位。鳞片中等大，侧线完全。体色银灰色，背部稍深，腹部银白色。各鳍浅灰色或淡黄色。胸鳍和腹鳍较小，背鳍和臀鳍较长，尾鳍深叉形。体表光滑，黏液丰富。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中上层",
+    "食性": "杂食性为主，偏植物性。幼鱼主要摄食浮游动物、藻类等，成鱼主要摄食水生植物碎屑、藻类、浮游生物以及少量小型底栖动物。",
+    "栖息环境": "主要栖息于水草丛生、底质为泥沙的静水或缓流水域，如湖泊、水库、池塘、河流的缓流区等。",
+    "体长": "40 cm",
+    "体重": "2.5 kg",
+    "寿命": "寿命较长，自然条件下一般可达5-8年，人工养殖条件下可达10年以上。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "商品饵料（藻腥味）",
+    "商品饵料（清香味）",
+    "麸皮",
+    "玉米渣",
+    "豆饼",
+    "菜饼",
+    "嫩玉米粒",
+    "麦粒",
+    "红薯丁",
+    "蚯蚓"
+  ],
+  "float_signals": [
+    "缓升缓降",
+    "：",
+    "浮漂缓慢上升或下降，幅度不大，可能是团头鲂试探性拱饵。",
+    "点动",
+    "：",
+    "浮漂出现轻微的点动，连续几次，可能是鱼在啄食饵料。",
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是鱼吞食死口。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿一下，幅度清晰，是明显的吃口信号。",
+    "移位",
+    "：",
+    "浮漂缓慢横向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:团头鲂喜欢在水草、菱角等水生植物附近活动，选择这些区域作为钓点。",
+    "饵料对路:团头鲂偏爱植物性饵料，使用藻腥味或清香味的商品饵料效果较好，也可使用麸皮、菜饼等。",
+    "灵活调整钓组:根据鱼情和水情，灵活调整浮漂和线组的灵敏度。",
+    "注意观察漂相:团头鲂的吃口有时轻缓，要仔细观察浮漂的细微动作，及时扬竿。",
+    "打窝诱鱼:提前打窝诱鱼，可使用麸皮、玉米渣等作为窝料，提高上鱼率。"
+  ],
+  "recommended_spots": "湖泊、水库、池塘、河流缓流区",
+  "distribution": [],
+  "similar_fish": [
+    "鳊鱼(细鳞斜颌鲴)",
+    "翘嘴鲌",
+    "红鮊",
+    "三角鲂"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shi-jiao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/shi-jiao-0-454541d2.webp",
+      "https://fishweather.cn/asset-images/catch/shi-jiao-1-933a6dd9.webp",
+      "https://fishweather.cn/asset-images/catch/shi-jiao-2-c993729b.webp",
+      "https://fishweather.cn/asset-images/catch/shi-jiao-3-915a78b5.webp",
+      "https://fishweather.cn/asset-images/catch/shi-jiao-4-1c86ea1d.webp"
+    ]
+  },
+  "profile_text_sha256": "df768852ca1b5ebd6b81b474ea711e2c36c1ea67c5a8231048a65183bbe30e6b",
+  "raw_line_count": 136,
+  "local_dir": "by_family/鲤科/shi-jiao_似鱎",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/shi-jiao_似鱎/images/main.webp"
+    ],
+    "catch": []
+  }
+}

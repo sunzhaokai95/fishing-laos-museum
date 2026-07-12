@@ -1,0 +1,56 @@
+{
+  "name": "日本松球鱼",
+  "slug": "ri-ben-song-qiu-yu",
+  "source_url": "https://fishweather.cn/fish/ri-ben-song-qiu-yu",
+  "list_page": 11,
+  "list_position": 253,
+  "scientific_name": "Monocentris japonica",
+  "aliases": "菠萝鱼、松球鱼",
+  "headline": "日本松球鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形且侧扁，全身披有厚重骨质鳞片，形成坚硬外壳。头部比例较大，口小，吻部突出。体色鲜艳，呈亮黄色至橙黄色，每片鳞片边缘为黑色，如同菠萝或松球，故得名。腹鳍特化为一枚硬棘。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "金眼鲷目",
+    "科": "松球鱼科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型甲壳类动物如虾、蟹幼虫等为食，也捕食小型底栖无脊椎动物。",
+    "栖息环境": "主要栖息于岩礁、珊瑚礁区域的洞穴或阴暗处，也见于港湾或潮间带水坑中。",
+    "体长": "12 cm",
+    "体重": null,
+    "寿命": "寿命较长，在适宜环境下可存活数年，但野生环境下的确切寿命数据尚不明确，人工饲养条件下寿命可能更长。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "黄鹂鱼",
+    "箱鲀",
+    "海马",
+    "বিভিন্নপোমা",
+    "海龙"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ri-ben-song-qiu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ri-ben-song-qiu-yu-0-4eb3af4c.webp",
+      "https://fishweather.cn/asset-images/catch/ri-ben-song-qiu-yu-1-879025c7.webp",
+      "https://fishweather.cn/asset-images/catch/ri-ben-song-qiu-yu-2-81fbdabd.webp"
+    ]
+  },
+  "profile_text_sha256": "74a802aa9e0c8a5ee04a67f8ece7373e2c4a2f5d3d20e8c4de7bf44ef3a3733f",
+  "raw_line_count": 70,
+  "local_dir": "by_family/松球鱼科/ri-ben-song-qiu-yu_日本松球鱼",
+  "local_images": {
+    "fish": [
+      "by_family/松球鱼科/ri-ben-song-qiu-yu_日本松球鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

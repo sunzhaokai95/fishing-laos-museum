@@ -1,0 +1,51 @@
+{
+  "name": "大颌细锯脂鲤",
+  "slug": "da-he-xi-ju-zhi-li",
+  "source_url": "https://fishweather.cn/fish/da-he-xi-ju-zhi-li",
+  "list_page": 28,
+  "list_position": 672,
+  "scientific_name": "Pristella maxillaris",
+  "aliases": "玻璃扯旗",
+  "headline": "大颌细锯脂鲤怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "玫瑰鲫体型娇小，呈纺锤形且略微侧扁。通体透明，可以清晰地看到内部骨骼和器官。最显著的特征是其鲜艳的鳍，背鳍和臀鳍前部为黑色，后部为亮黄色或橘红色，尾鳍为透明的浅黄色，胸鳍和腹鳍透明。眼睛较大，虹膜上半部为红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "脂鲤目",
+    "科": "脂鲤科",
+    "水层": "中层,上层",
+    "食性": "杂食性，主要以小型浮游生物、昆虫幼虫、藻类、植物碎屑以及人工饲料为食。",
+    "栖息环境": "通常栖息于南美洲亚马逊河流域的支流、溪流、湖泊和沼泽等淡水水域，偏好植被茂盛、水流缓慢的环境。",
+    "体长": "5 cm",
+    "体重": "0.01 kg",
+    "寿命": "在良好的饲养环境下，玫瑰鲫的寿命通常为3-5年。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "红绿灯鱼",
+    "宝莲灯鱼",
+    "企鹅鱼",
+    "斑马鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-he-xi-ju-zhi-li.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "a9333fefdd87554ed07c5ba2261a2dc223dc6d89aa026cd365b9b4cb5c18067c",
+  "raw_line_count": 31,
+  "local_dir": "by_family/脂鲤科/da-he-xi-ju-zhi-li_大颌细锯脂鲤",
+  "local_images": {
+    "fish": [
+      "by_family/脂鲤科/da-he-xi-ju-zhi-li_大颌细锯脂鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

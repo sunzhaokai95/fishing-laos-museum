@@ -1,0 +1,103 @@
+{
+  "name": "青鱼",
+  "slug": "qing-yu",
+  "source_url": "https://fishweather.cn/fish/qing-yu",
+  "list_page": 1,
+  "list_position": 21,
+  "scientific_name": "Mylopharyngodon piceus",
+  "aliases": "螺蛳青、乌青、黑鲩、钢青",
+  "headline": "青鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "青鱼体型呈圆筒形，体后部侧扁，腹部圆润。头部宽大且稍平扁，吻部钝圆。口大，位于口端下方，呈弧形。上颌略长于下颌，口角无须。眼睛小，位于头部侧上方。鳞片较大，呈圆形，侧线完整且略微弯曲。体背部为青黑色或灰黑色，腹部呈灰白色。各鳍均为灰黑色。整体外观呈现一种沉稳的青黑色调，体格粗壮有力。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中下层,底层",
+    "食性": "主要为肉食性，成鱼以螺蛳、蚌、蚬等软体动物为食，也捕食虾类、底栖昆虫及少量水生植物碎屑",
+    "栖息环境": "江河、湖泊、水库等大型水体的中下层和底层，偏好水草丰茂、底质为泥沙或砾石的缓流或静水区域",
+    "体长": "145 cm",
+    "体重": "80 kg",
+    "寿命": "寿命较长，自然条件下可达20年以上，人工养殖条件下亦可存活较长时间",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "嫩玉米",
+    "老玉米",
+    "麦粒",
+    "红薯块",
+    "菜饼",
+    "蚕豆",
+    "颗粒饲料",
+    "商品螺鲤饵",
+    "商品疯螺鲤",
+    "麸皮"
+  ],
+  "float_signals": [
+    "送漂",
+    "：",
+    "浮漂缓缓上升，可能是青鱼将饵料顶起或改变了水底状态，也可能是鱼讯信号",
+    "黑漂",
+    "：",
+    "浮漂快速且有力地没入水中，通常是青鱼吞食饵料的明显信号，应立即扬竿",
+    "走漂",
+    "：",
+    "浮漂在水面横向移动，可能是青鱼触碰到线组或饵料，导致浮漂移位，需及时判断",
+    "顿口",
+    "：",
+    "浮漂出现短暂且有力的下顿，幅度较小但干脆，是青鱼试探性咬钩的信号",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，幅度不大，可能是青鱼吸食饵料但动作轻缓，需集中注意力观察"
+  ],
+  "practical_tips": [
+    "重窝诱钓:青鱼食量大，喜集群觅食，提前打重窝，持续诱鱼进窝，是钓获青鱼的关键",
+    "找准鱼道:青鱼有固定的洄游和觅食通道，选择在鱼道上设钓点，能提高中鱼率",
+    "钓深水:青鱼喜栖息于深水区，尤其夏季和冬季，钓深水更容易钓获",
+    "使用硬调竿和大线组:青鱼力道大，冲击力强，必须使用硬调竿和大线组才能有效控鱼",
+    "耐心守钓:青鱼吃口慢，需要耐心守钓，不可频繁换位，一旦有鱼进窝，连杆性较好"
+  ],
+  "recommended_spots": "大型水库、深水湖泊、江河缓流段、水草丰茂区域、乱石堆",
+  "distribution": [
+    "北京市",
+    "四川省",
+    "安徽省",
+    "江苏省",
+    "江西省",
+    "河南省",
+    "湖北省",
+    "湖南省",
+    "重庆市",
+    "陕西省"
+  ],
+  "similar_fish": [
+    "鳙鱼",
+    "鲢鱼",
+    "草鱼",
+    "鲤鱼",
+    "鲮鱼",
+    "青鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qing-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/qing-yu-0-80591c64.webp",
+      "https://fishweather.cn/asset-images/catch/qing-yu-1-ea1d449f.webp",
+      "https://fishweather.cn/asset-images/catch/qing-yu-2-64325038.webp",
+      "https://fishweather.cn/asset-images/catch/qing-yu-3-2d987f3b.webp",
+      "https://fishweather.cn/asset-images/catch/qing-yu-4-aca0a629.webp"
+    ]
+  },
+  "profile_text_sha256": "8f0ba5f113bb26d600a1012ccd408095ceea595fcdf2c05bf1243414f5b34019",
+  "raw_line_count": 162,
+  "local_dir": "by_family/鲤科/qing-yu_青鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/qing-yu_青鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

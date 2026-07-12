@@ -1,0 +1,48 @@
+{
+  "name": "七星底灯鱼",
+  "slug": "qi-xing-di-deng-yu",
+  "source_url": "https://fishweather.cn/fish/qi-xing-di-deng-yu",
+  "list_page": 30,
+  "list_position": 699,
+  "scientific_name": "Benthosema pterotum",
+  "aliases": "无",
+  "headline": "七星底灯鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，呈纺锤形。头中等大，吻短而钝圆。口大，端位，口裂倾斜。眼大，侧上位。脂鳍存在。发光器发达，体侧和腹部具有明显的发光器。体色通常为深褐色或黑色，发光器周围可能呈现银色或金色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "灯笼鱼目",
+    "科": "灯笼鱼科",
+    "水层": "深海中层",
+    "食性": "主要以浮游动物为食，包括桡足类、磷虾等小型甲壳动物，以及其他小型鱼类和发光生物。",
+    "栖息环境": "主要栖息于热带和亚热带海域的深海中层水域，通常在水深200-1000米甚至更深的地方活动。",
+    "体长": "10 cm",
+    "体重": null,
+    "寿命": "寿命较长，深海鱼类通常具有较长的寿命以适应环境，具体寿命数据未知，但推测可能在5年以上。",
+    "适温": "未知，推测为深海低温环境，可能在5-15度之间 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "其他种类的灯笼鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/qi-xing-di-deng-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "166b72685d72ca2fec3f581429ee40c2ca407c0411de89d442d7bb413b0196e4",
+  "raw_line_count": 26,
+  "local_dir": "by_family/灯笼鱼科/qi-xing-di-deng-yu_七星底灯鱼",
+  "local_images": {
+    "fish": [
+      "by_family/灯笼鱼科/qi-xing-di-deng-yu_七星底灯鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

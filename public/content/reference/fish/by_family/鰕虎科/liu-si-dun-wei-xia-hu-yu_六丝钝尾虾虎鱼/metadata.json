@@ -1,0 +1,88 @@
+{
+  "name": "六丝钝尾虾虎鱼",
+  "slug": "liu-si-dun-wei-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/liu-si-dun-wei-xia-hu-yu",
+  "list_page": 15,
+  "list_position": 355,
+  "scientific_name": "Amblychaeturichthys hexanema",
+  "aliases": "暂无",
+  "headline": "六丝钝尾虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，小型鱼类，体长通常不超过10厘米。头中等大小，口端位，斜裂。眼较大，位于头侧上方。背鳍两个，第一背鳍鳍棘6根，第二背鳍鳍条10-11根，胸鳍圆形，腹鳍胸位，尾鳍圆形。体色呈浅棕色或黄色，体侧有不规则的深色斑点或条纹。最显著的特征是第一背鳍前部有6根游离的丝状鳍棘，非常细长，如同丝线一般。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如小型甲壳类、多毛类等。",
+    "栖息环境": "主要栖息于热带和亚热带沿海地区的沙泥底质海域，也见于珊瑚礁附近。",
+    "体长": "10 cm",
+    "体重": "0.01 kg",
+    "寿命": "寿命较短，一般为1-3年，具体寿命数据缺乏详细研究。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "鱼肉碎屑",
+    "贝肉",
+    "蛤蜊肉",
+    "南极虾",
+    "磷虾",
+    "面包虫",
+    "红虫（海产）"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，幅度较小，可能是鱼儿试探性咬饵。",
+    "上顶",
+    "：",
+    "浮漂轻微上顶，有时也可能是鱼讯，需要仔细辨别。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼儿吸食饵料后拖动鱼钩。",
+    "加速下沉",
+    "：",
+    "浮漂快速下沉或黑漂，通常是鱼儿吞食饵料的信号。",
+    "移位",
+    "：",
+    "浮漂水平方向移动，可能是鱼儿咬饵后游动。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:六丝细棘鲈喜欢栖息在沙泥底质或礁石附近，选择这些区域作为钓点。",
+    "使用小型饵钩:由于其口型较小，应选择小型饵钩，方便鱼儿吸食。",
+    "轻口慢提竿:吃口轻缓，出现漂像后不要急于提竿，稍等片刻再轻柔提竿。",
+    "逗钓结合:在底钓的基础上，可尝试轻微逗钓，增加诱鱼效果。",
+    "注意防晒和安全:海边垂钓注意防晒，穿着防滑鞋，注意安全。"
+  ],
+  "recommended_spots": "海边礁石、码头、防波堤、沙滩近岸、海湾浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "虾虎鱼",
+    "鰕虎鱼",
+    "栉孔虾虎鱼",
+    "弹涂鱼",
+    "丝鳍塘鳢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/liu-si-dun-wei-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/liu-si-dun-wei-xia-hu-yu-0-6d2ed47a.webp",
+      "https://fishweather.cn/asset-images/catch/liu-si-dun-wei-xia-hu-yu-1-6cd8c5d4.webp"
+    ]
+  },
+  "profile_text_sha256": "af5e29e5118d49c13dcc16a3a84c74d45317ae07bad397d0a5aed98d724acabb",
+  "raw_line_count": 99,
+  "local_dir": "by_family/鰕虎科/liu-si-dun-wei-xia-hu-yu_六丝钝尾虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/liu-si-dun-wei-xia-hu-yu_六丝钝尾虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "牙鲆",
+  "slug": "ya-ping",
+  "source_url": "https://fishweather.cn/fish/ya-ping",
+  "list_page": 6,
+  "list_position": 131,
+  "scientific_name": "Paralichthys olivaceus",
+  "aliases": "扁鱼、比目鱼、鸦片鱼、皇帝鱼、偏口鱼",
+  "headline": "牙鲆怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体甚侧扁，呈卵圆形。口大，端位，下颌稍突出。两眼均位于身体左侧。体表光滑，被细小圆鳞。体色背面褐色或棕褐色，具不规则深色斑点，腹面白色。背鳍、臀鳍长，分别延伸至尾鳍基部，尾鳍圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲽形目",
+    "科": "牙鲆科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类和头足类等",
+    "栖息环境": "近海沙质或泥沙质海底",
+    "体长": "100 cm",
+    "体重": "9 kg",
+    "寿命": "自然寿命可达10年以上，人工养殖条件下通常为3-5年",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "沙蚕",
+    "海蚯蚓",
+    "虾肉",
+    "鱿鱼须",
+    "小鱼块",
+    "鱼肉块",
+    "海মাছ",
+    "南极虾",
+    "拟饵-卷尾Grub",
+    "拟饵-T尾Shad"
+  ],
+  "float_signals": [
+    "鱼轮出线",
+    "：",
+    "使用带泄力鱼轮时，鱼轮突然快速出线，说明有大型牙鲆咬钩，应及时调整泄力，准备搏鱼。",
+    "线组松弛",
+    "：",
+    "在绷紧线组的状态下，突然感觉线组松弛，可能是牙鲆将饵料拉走或向自身方向游动，也应及时扬竿。",
+    "手中顿感",
+    "：",
+    "手持竿作钓时，手感突然传来明显的顿挫感或拉扯感，是牙鲆咬钩的直接信号。",
+    "竿尖点动",
+    "：",
+    "船钓或底钓时，竿尖出现连续轻微的点动，可能是牙鲆试探性触碰饵料或轻微咬食。",
+    "竿尖下顿",
+    "：",
+    "竿尖突然大幅度下顿或弯曲，是牙鲆咬实饵料的明显信号，应立即扬竿。"
+  ],
+  "practical_tips": [
+    "精准定位钓点:利用探鱼器或经验判断，选择海底地形复杂、有礁石、沉船等结构的位置作为钓点，这些地方是牙鲆的藏身之处。",
+    "慢速搜索海底:采用慢速拖拽或跳底的方式，使拟饵或钓组在海底缓慢移动，扩大搜索范围，提高发现牙鲆的几率。",
+    "灵敏把握鱼讯:牙鲆咬口相对轻缓，需集中注意力，仔细观察竿尖或手感，及时捕捉微弱的鱼讯，果断扬竿。",
+    "合理搭配钓组:根据钓场环境、水深、目标鱼大小等因素，合理选择鱼竿、线组、鱼钩和饵料，确保钓组的灵敏度和强度。",
+    "适时调整钓法:根据天气、水温、潮汐等变化，灵活调整钓法，如改变搜索速度、抽动频率、拟饵类型等，以适应不同的鱼情。"
+  ],
+  "recommended_spots": "近海礁石区、沉船区、海湾、港口附近、养殖场外围",
+  "distribution": [
+    "山东省",
+    "辽宁省"
+  ],
+  "similar_fish": [
+    "大菱鲆",
+    "条斑星鲽",
+    "石鲽",
+    "鼓眼鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ya-ping.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ya-ping-0-a52a1226.webp",
+      "https://fishweather.cn/asset-images/catch/ya-ping-1-f95f20d5.webp",
+      "https://fishweather.cn/asset-images/catch/ya-ping-2-c0675d8f.webp",
+      "https://fishweather.cn/asset-images/catch/ya-ping-3-40494ef4.webp",
+      "https://fishweather.cn/asset-images/catch/ya-ping-4-679a6509.webp"
+    ]
+  },
+  "profile_text_sha256": "819fa4ead490e76d393f6f0a7c379c673d8c4e23cc346edae58f2a3650a98457",
+  "raw_line_count": 139,
+  "local_dir": "by_family/牙鲆科/ya-ping_牙鲆",
+  "local_images": {
+    "fish": [
+      "by_family/牙鲆科/ya-ping_牙鲆/images/main.webp"
+    ],
+    "catch": []
+  }
+}

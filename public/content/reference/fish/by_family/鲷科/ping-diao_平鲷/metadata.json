@@ -1,0 +1,91 @@
+{
+  "name": "平鲷",
+  "slug": "ping-diao",
+  "source_url": "https://fishweather.cn/fish/ping-diao",
+  "list_page": 5,
+  "list_position": 108,
+  "scientific_name": "Rhabdosargus sarba",
+  "aliases": "沙巴鲷、黑沙格、沙格、枋仔、黄脚立、赤翅仔",
+  "headline": "平鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁，背腹缘弧形凸出。头中等大，吻钝圆。口小，前位，唇厚。眼较大，侧上位。前鳃盖骨后缘具锯齿，下鳃盖骨后缘光滑。体被栉鳞，侧线完全。体背部灰褐色，体侧银灰色，各鳍黄色，尾鳍后缘黑色。幼鱼体侧具5-6条暗色横带，成鱼横带消失。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲷科",
+    "水层": "中下层",
+    "食性": "杂食性，主要摄食底栖无脊椎动物（如甲壳类、软体动物、多毛类等）、藻类和小型鱼类。",
+    "栖息环境": "近岸浅海岩礁、珊瑚礁、红树林和河口半咸水水域",
+    "体长": "60 cm",
+    "体重": "3 kg",
+    "寿命": "自然条件下寿命可达10年以上，但通常为5-8年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾",
+    "沙蚕",
+    "海蜈蚣",
+    "管虫",
+    "海藻",
+    "鱼肉块",
+    "贝肉",
+    "虾砖",
+    "商品矶钓饵"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是黄鳍鲷吞食死口，是清晰的扬竿信号。",
+    "顿口",
+    "：",
+    "浮漂快速下沉半目或一目，然后停止或缓慢上升，是黄鳍鲷吸食饵料的典型信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，幅度较小，可能是黄鳍鲷试探性咬饵或轻口。",
+    "加速下沉",
+    "：",
+    "在浮漂缓慢下沉或轻微晃动后，突然加速下沉，可能是黄鳍鲷由试探变为吞食。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是黄鳍鲷咬饵后游动带动浮漂。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:黄鳍鲷喜欢栖息在礁石区、防波堤等复杂地形，这些地方饵料丰富，是理想的钓位。",
+    "打窝诱鱼:使用南极虾、海藻等诱饵打窝，可以快速聚集鱼群，提高上鱼率。",
+    "根据水深和流速选择合适的钓组和浮漂:不同的水深和流速需要选择不同号数的浮漂和铅坠，以保证钓组稳定和灵敏。",
+    "掌握扬竿时机:黄鳍鲷的吃口通常比较干脆，出现顿口或黑漂时要及时扬竿，避免错失鱼讯。",
+    "灵活运用钓法:根据不同的钓场和鱼情，灵活选择矶钓、滩钓等不同的钓法，提高垂钓效果。"
+  ],
+  "recommended_spots": "岩礁、防波堤、码头、沙滩、河口、红树林",
+  "distribution": [],
+  "similar_fish": [
+    "黑鲷",
+    "真鲷",
+    "刺鲷",
+    "石鲷",
+    "斑鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ping-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ping-diao-0-caf28544.webp",
+      "https://fishweather.cn/asset-images/catch/ping-diao-1-8c3469d4.webp",
+      "https://fishweather.cn/asset-images/catch/ping-diao-2-5d91893f.webp",
+      "https://fishweather.cn/asset-images/catch/ping-diao-3-88a398bf.webp",
+      "https://fishweather.cn/asset-images/catch/ping-diao-4-72f5b5ac.webp"
+    ]
+  },
+  "profile_text_sha256": "24a21c5acbdefa81c2fad3591cd2e09df83781172c671c3edf5de952263d6079",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鲷科/ping-diao_平鲷",
+  "local_images": {
+    "fish": [
+      "by_family/鲷科/ping-diao_平鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

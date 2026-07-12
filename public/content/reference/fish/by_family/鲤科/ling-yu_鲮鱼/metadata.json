@@ -1,0 +1,95 @@
+{
+  "name": "鲮鱼",
+  "slug": "ling-yu",
+  "source_url": "https://fishweather.cn/fish/ling-yu",
+  "list_page": 1,
+  "list_position": 18,
+  "scientific_name": "Cirrhinus molitorella",
+  "aliases": "土鲮、雪鲮、鲮公、花鲮、泰鲮",
+  "headline": "鲮鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈纺锤形，略微延长，背部隆起。头中等大小，吻钝圆。口下位，呈马蹄形，口唇较厚，上唇边缘具细小乳突。具须一对，较短小。体被中等大小鳞片，侧线完全。体色银灰色，背部颜色略深，腹部银白色。各鳍浅灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中下层,底层",
+    "食性": "杂食性，主要摄食底栖藻类、植物碎屑、有机碎屑及小型无脊椎动物等。",
+    "栖息环境": "栖息于江河、湖泊、水库等水体的中下层，喜清澈缓流水或静水水域。",
+    "体长": "70 cm",
+    "体重": "5 kg",
+    "寿命": "寿命较长，一般可达5-8年，人工养殖条件下若管理得当，寿命可能更长。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "商品鲮鱼饵料",
+    "麦粒",
+    "玉米粒",
+    "红薯块",
+    "薯粉饵料",
+    "面包屑",
+    "蚯蚓",
+    "红虫",
+    "饭粒",
+    "菜饼"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的连续点动，幅度较小，频率较快，可能是鲮鱼试探性触碰饵料。",
+    "快沉",
+    "：",
+    "浮漂快速下沉或直接黑漂，表明鲮鱼咬口果断。",
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，是明显的扬竿信号。",
+    "上顶",
+    "：",
+    "浮漂先是轻微上顶，然后下沉，可能是鲮鱼抬头吃饵。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，通常是鲮鱼吸食饵料的过程。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:鲮鱼常在水草边、乱石堆、缓流区等觅食，选择这些区域作为钓点。",
+    "打窝诱鱼:提前打窝诱鱼，可使用酒米、玉米、麦粒等窝料，提高上鱼率。",
+    "灵活调整钓法:根据鱼情变化，灵活调整钓法，如水温高时可钓离底或半水。",
+    "注意逗钓:适当逗钓，使饵料呈现动态，吸引鲮鱼注意。",
+    "轻口抓顿口:鲮鱼吃口有时较轻，需仔细观察漂相，抓住顿口或黑漂等有效信号。"
+  ],
+  "recommended_spots": "水库、江河、湖泊、池塘、山涧溪流",
+  "distribution": [
+    "广东省",
+    "广西壮族自治区"
+  ],
+  "similar_fish": [
+    "鲤鱼",
+    "草鱼",
+    "鳊鱼",
+    "青鱼",
+    "鲢鱼",
+    "鲮鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ling-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ling-yu-0-27b3e380.webp",
+      "https://fishweather.cn/asset-images/catch/ling-yu-1-db0025ef.webp",
+      "https://fishweather.cn/asset-images/catch/ling-yu-2-de38f05e.webp",
+      "https://fishweather.cn/asset-images/catch/ling-yu-3-80865bac.webp",
+      "https://fishweather.cn/asset-images/catch/ling-yu-4-d745cad0.webp"
+    ]
+  },
+  "profile_text_sha256": "ee6eaf85ec1f32702ecf86927b703950a335eab9af5b17347841ce3a6d0b4421",
+  "raw_line_count": 146,
+  "local_dir": "by_family/鲤科/ling-yu_鲮鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/ling-yu_鲮鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

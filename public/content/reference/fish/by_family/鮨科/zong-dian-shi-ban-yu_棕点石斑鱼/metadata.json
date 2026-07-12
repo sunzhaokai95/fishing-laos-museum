@@ -1,0 +1,91 @@
+{
+  "name": "棕点石斑鱼",
+  "slug": "zong-dian-shi-ban-yu",
+  "source_url": "https://fishweather.cn/fish/zong-dian-shi-ban-yu",
+  "list_page": 3,
+  "list_position": 70,
+  "scientific_name": "Epinephelus fuscoguttatus",
+  "aliases": "油斑、虎斑、石斑",
+  "headline": "棕点石斑鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁，体长为体高的2.3～2.8倍，为头长的2.3～2.5倍。头大，头背部轮廓凸起。吻短而钝圆。口大，端位，倾斜，上颌骨后端延伸至眼后缘下方。上下颌具发达的圆锥形牙，上颌前端具2～4犬齿，下颌前端具2～3犬齿。前鳃盖骨后缘具锯齿，鳃盖骨具3扁棘。体被细小栉鳞，侧线完全。背鳍连续，硬棘部与软条部之间具深凹，鳍",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "底层",
+    "食性": "肉食性，主要以鱼类、甲壳类（如螃蟹、虾）和头足类（如鱿鱼、章鱼）为食。幼鱼阶段可能摄食小型无脊椎动物。",
+    "栖息环境": "主要栖息于珊瑚礁和岩礁海域，也见于潟湖和红树林区。幼鱼常在浅水区活动，成鱼则栖息于较深水域。",
+    "体长": "120 cm",
+    "体重": "11 kg",
+    "寿命": "寿命较长，野生条件下可达20年以上，人工养殖条件下若管理得当，也能达到较长的寿命。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "活虾",
+    "活鱼(小鱼)",
+    "冰冻虾",
+    "冰冻鱼块",
+    "鱿鱼块",
+    "沙蚕",
+    "海蟑螂",
+    "南极虾",
+    "小螃蟹",
+    "海মাছ"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，表示鱼已吞饵较深，是明显的扬竿信号。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而稳定地向下沉，可能是石斑鱼吸饵但动作较轻，需密切关注，适时扬竿。",
+    "横向移动",
+    "：",
+    "浮漂不规则地横向移动，可能是石斑鱼咬饵后拖动钓组，也是扬竿时机。",
+    "顿口急促下沉",
+    "：",
+    "浮漂快速有力地向下沉没，通常是石斑鱼快速咬饵的信号，需立即扬竿。",
+    "小幅度点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是石斑鱼试探性触碰饵料，需保持警惕，等待更明显的信号。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:石斑鱼喜欢藏身于复杂地形中，如礁石缝隙、洞穴、沉船残骸等。选择这些区域作为钓点，能提高中鱼率。",
+    "根据水深和水流选择钓法:在水流湍急或水深较深的区域，可采用重铅底钓或船钓；在水流较缓或水较浅的区域，可采用矶钓或路亚钓。",
+    "使用合适的饵料和拟饵:活饵对石斑鱼有很强的诱惑力，如活虾、活鱼等。拟饵则需选择颜色和泳姿接近石斑鱼猎物的类型。",
+    "注意扬竿时机和力度:石斑鱼咬饵凶猛，但有时也较为谨慎。观察漂相或竿梢，一旦出现明显信号，需果断扬竿。扬竿力度要足够，确保鱼钩能穿透石斑鱼的硬颚。",
+    "防止跑鱼:石斑鱼中钩后会迅速逃窜到礁石缝隙中，容易造成切线或跑鱼。中鱼后，需迅速将鱼拉离海底，避免其钻入障碍物。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、沉船区、码头、防波堤、人工鱼礁",
+  "distribution": [],
+  "similar_fish": [
+    "鞍带石斑鱼",
+    "斜带石斑鱼",
+    "青石斑鱼",
+    "赤点石斑鱼",
+    "云纹石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zong-dian-shi-ban-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zong-dian-shi-ban-yu-0-83f1e90b.webp",
+      "https://fishweather.cn/asset-images/catch/zong-dian-shi-ban-yu-1-c041f296.webp",
+      "https://fishweather.cn/asset-images/catch/zong-dian-shi-ban-yu-2-69e90775.webp",
+      "https://fishweather.cn/asset-images/catch/zong-dian-shi-ban-yu-3-93cde5e5.webp",
+      "https://fishweather.cn/asset-images/catch/zong-dian-shi-ban-yu-4-f7ed7f18.webp"
+    ]
+  },
+  "profile_text_sha256": "eb62b905157915f7d245af408279ed73d9747ce9bc2e3c1dc7992fb5426a0ac1",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鮨科/zong-dian-shi-ban-yu_棕点石斑鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/zong-dian-shi-ban-yu_棕点石斑鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

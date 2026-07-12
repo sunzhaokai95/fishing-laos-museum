@@ -1,0 +1,90 @@
+{
+  "name": "红尾护头鲿",
+  "slug": "hong-wei-hu-tou-chang",
+  "source_url": "https://fishweather.cn/fish/hong-wei-hu-tou-chang",
+  "list_page": 8,
+  "list_position": 191,
+  "scientific_name": "Phractocephalus hemioliopterus",
+  "aliases": "狗仔鲸、招财猫鱼、红尾猫",
+  "headline": "红尾护头鲿怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "红尾鲶体型粗壮，头部宽大扁平，口裂宽阔，上颌略突出于下颌。须3对，颌须长达胸鳍基部，颏须和鼻须较短。体表光滑无鳞。背鳍位于身体前部，具发达的脂鳍。胸鳍宽大，尾鳍呈红色叉形，非常醒目，幼鱼时期尾鳍颜色更鲜艳。体色背部灰黑色或棕褐色，腹部白色或浅黄色，体侧有时具有不规则的黑色斑点。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "油鲇科",
+    "水层": "底层,中层",
+    "食性": "肉食性为主的杂食性，幼鱼阶段主要摄食小型鱼虾、昆虫幼虫等，成鱼食性广泛，捕食各种鱼类、甲壳类、蛙类、小型哺乳动物、鸟类，也摄食腐肉和植物碎屑。",
+    "栖息环境": "主要栖息于大型河流、湖泊、水库等水域的底层，喜好水流缓慢、水底多障碍物的环境，如岩石、沉木、水草丛生地带。",
+    "体长": "180 cm",
+    "体重": "80 kg",
+    "寿命": "寿命较长，自然条件下可达15-20年以上，人工饲养条件下，若环境适宜，可活更长时间。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "鸡肝",
+    "鸭肠",
+    "猪肉",
+    "牛肉",
+    "罗非鱼块",
+    "小鲫鱼（死）",
+    "虾肉",
+    "鱿鱼块",
+    "鱼粉颗粒",
+    "商品鲶鱼饵料"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，通常是红尾鲶吞食饵料的信号，应立即扬竿。",
+    "走漂",
+    "：",
+    "浮漂在水面横向移动，可能是红尾鲶咬钩后拖动饵料，需及时扬竿。",
+    "大幅度下顿",
+    "：",
+    "浮漂快速有力地下顿，幅度较大，是红尾鲶咬钩的明显信号，应果断扬竿。",
+    "持续抖动",
+    "：",
+    "浮漂持续轻微抖动，可能是小鱼闹窝或红尾鲶轻微触碰饵料，可稍等片刻再判断是否扬竿。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是红尾鲶试探性咬钩或轻口吸食，需密切关注，适时扬竿。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:红尾鲶喜好藏身于水底障碍物附近，如树桩、乱石堆、水草丛等，钓点应选择这些区域。",
+    "重窝诱鱼:红尾鲶食量大，打重窝诱鱼效果明显，可提前投放大量腥味饵料。",
+    "夜钓为主:红尾鲶夜间活动频繁，夜钓是钓获红尾鲶的最佳时机。",
+    "粗线大钩:红尾鲶力量大，牙齿锋利，钓具选择粗线大钩，确保钓组强度。",
+    "耐心等待:红尾鲶咬钩可能较慢，需耐心等待，不要频繁提竿。"
+  ],
+  "recommended_spots": "水库、大型湖泊、河流缓流段、水塘、养殖场尾水排放口",
+  "distribution": [],
+  "similar_fish": [
+    "埃及胡子鲶",
+    "革胡子鲶",
+    "斑点叉尾鮰",
+    "湄公鲶"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hong-wei-hu-tou-chang.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hong-wei-hu-tou-chang-0-e34183dd.webp",
+      "https://fishweather.cn/asset-images/catch/hong-wei-hu-tou-chang-1-3b85affc.webp",
+      "https://fishweather.cn/asset-images/catch/hong-wei-hu-tou-chang-2-035c3cfb.webp",
+      "https://fishweather.cn/asset-images/catch/hong-wei-hu-tou-chang-3-0194d0b5.webp",
+      "https://fishweather.cn/asset-images/catch/hong-wei-hu-tou-chang-4-69fde863.webp"
+    ]
+  },
+  "profile_text_sha256": "f9e65e608e00bd33cbf0ecd8ff036122ef7cee3d98bf39c3071ab408441dfb57",
+  "raw_line_count": 136,
+  "local_dir": "by_family/油鲇科/hong-wei-hu-tou-chang_红尾护头鲿",
+  "local_images": {
+    "fish": [
+      "by_family/油鲇科/hong-wei-hu-tou-chang_红尾护头鲿/images/main.webp"
+    ],
+    "catch": []
+  }
+}

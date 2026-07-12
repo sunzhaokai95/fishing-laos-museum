@@ -1,0 +1,51 @@
+{
+  "name": "眼点半线脂鲤",
+  "slug": "yan-dian-ban-xian-zhi-li",
+  "source_url": "https://fishweather.cn/fish/yan-dian-ban-xian-zhi-li",
+  "list_page": 25,
+  "list_position": 595,
+  "scientific_name": "Hemigrammus ocellifer",
+  "aliases": "玻璃拉拉、玻璃灯鱼、头尾灯鱼",
+  "headline": "眼点半线脂鲤怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "玻璃扯旗体型娇小，呈纺锤形且略微侧扁，通体透明，因此得名“玻璃”。其最显著的特征是尾柄上有一个醒目的黑色斑点，斑点上方通常带有虹彩金色光泽，在光线照射下熠熠生辉。体侧也常有一条不太明显的银色或虹彩条纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "脂鲤目",
+    "科": "脂鲤科",
+    "水层": "中层,上层",
+    "食性": "杂食性，主要摄食小型无脊椎动物、浮游生物、植物碎屑以及人工饲料。",
+    "栖息环境": "栖息于南美洲亚马逊河流域的缓慢流动或静止的淡水水域，如小溪、河流、湖泊和沼泽地带，偏好植被茂盛、水质清澈的环境。",
+    "体长": "4 cm",
+    "体重": "0.01 kg",
+    "寿命": "寿命相对较短，人工饲养条件下通常为2-3年。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "宝莲灯鱼",
+    "红鼻剪刀",
+    "企鹅鱼",
+    "玻璃猫"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yan-dian-ban-xian-zhi-li.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "6c0f575c2cdf504165926aaa39857f53b1b9e3038c31c87cbd8bbaec0381ca39",
+  "raw_line_count": 31,
+  "local_dir": "by_family/脂鲤科/yan-dian-ban-xian-zhi-li_眼点半线脂鲤",
+  "local_images": {
+    "fish": [
+      "by_family/脂鲤科/yan-dian-ban-xian-zhi-li_眼点半线脂鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

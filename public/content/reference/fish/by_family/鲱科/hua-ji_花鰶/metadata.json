@@ -1,0 +1,91 @@
+{
+  "name": "花鰶",
+  "slug": "hua-ji",
+  "source_url": "https://fishweather.cn/fish/hua-ji",
+  "list_page": 6,
+  "list_position": 137,
+  "scientific_name": "Clupanodon thrissa",
+  "aliases": "沙丁鱼",
+  "headline": "花鰶怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，背腹缘几呈直线。头中等大，稍侧扁。吻短而圆钝。口大，前位，倾斜。上颌骨后端伸达眼后缘下方。眼大，侧上位。鳞片大，薄而圆。侧线不明显。背鳍1个，位于体中部稍后。臀鳍长，位于背鳍下方。尾鳍叉形。体背部青灰色，体侧和腹部银白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲱形目",
+    "科": "鲱科",
+    "水层": "中上层",
+    "食性": "主要以浮游生物为食，包括浮游甲壳类、硅藻、桡足类等。",
+    "栖息环境": "近海暖水性中上层鱼类，常栖息于沿海沙洲或大陆架浅水区域。",
+    "体长": "25 cm",
+    "体重": "0.2 kg",
+    "寿命": "寿命较短，一般为2-3年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "鱼粉颗粒",
+    "磷虾粉",
+    "小鱼干",
+    "虾粉饵料",
+    "海藻颗粒",
+    "商品海钓饵料（腥味）",
+    "面包虫（冷冻）",
+    "糠虾"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，表示鱼吞饵较深。",
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是小鱼闹窝或鲱鲤轻微触碰饵料。",
+    "顿口",
+    "：",
+    "浮漂快速下顿，幅度较小但有力，是鱼咬钩的典型信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口试探或拖动饵料。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼咬住饵料后游动。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:鲱鲤常在水流较缓、饵料丰富的区域活动，如港口、海湾、礁石区等。",
+    "使用诱饵窝料:提前打窝诱鱼，可以使用鱼粉、虾粉、颗粒饲料等作为窝料，提高上鱼率。",
+    "灵活调整钓棚:根据鱼情和水深，灵活调整钓棚深度，尝试不同水层寻找鱼群。",
+    "注意观察漂相:鲱鲤咬口较轻，需仔细观察浮漂的细微动作，及时扬竿。",
+    "采用逗钓技巧:在定点垂钓时，可适当逗钓，轻微提动钓竿，使饵料在水中呈现动态，吸引鱼的注意。"
+  ],
+  "recommended_spots": "近海、海湾、港口、防波堤、礁石区",
+  "distribution": [],
+  "similar_fish": [
+    "蓝圆鲹",
+    "鲐鱼",
+    "带鱼",
+    "鲅鱼",
+    "金枪鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hua-ji.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hua-ji-0-bd7fc4e5.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ji-1-825ff526.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ji-2-05757995.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ji-3-061f704c.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ji-4-4e6bfb84.webp"
+    ]
+  },
+  "profile_text_sha256": "72a9c755451fcec4a7c9a6d37ac73fa445bd4fce712af2be68fe2c3a0b648a79",
+  "raw_line_count": 133,
+  "local_dir": "by_family/鲱科/hua-ji_花鰶",
+  "local_images": {
+    "fish": [
+      "by_family/鲱科/hua-ji_花鰶/images/main.webp"
+    ],
+    "catch": []
+  }
+}

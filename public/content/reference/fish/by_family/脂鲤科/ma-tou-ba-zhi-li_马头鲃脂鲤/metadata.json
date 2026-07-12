@@ -1,0 +1,52 @@
+{
+  "name": "马头鲃脂鲤",
+  "slug": "ma-tou-ba-zhi-li",
+  "source_url": "https://fishweather.cn/fish/ma-tou-ba-zhi-li",
+  "list_page": 26,
+  "list_position": 602,
+  "scientific_name": "Hyphessobrycon eques",
+  "aliases": "红扯旗、红旗鱼",
+  "headline": "马头鲃脂鲤怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "小型灯鱼，体型娇小，侧扁。体色鲜艳，呈红色至橙红色，繁殖期尤为鲜艳。各鳍均为红色，背鳍高耸如旗帜，末端尖细，极具观赏性。体表光滑，鳞片细小。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "脂鲤目",
+    "科": "脂鲤科",
+    "水层": "中层,上层",
+    "食性": "杂食性，在自然环境中主要以小型无脊椎动物、昆虫幼虫、浮游生物和植物碎屑为食。人工饲养条件下，可接受小型颗粒饲料、丰年虾、红虫等。",
+    "栖息环境": "南美洲亚马逊河流域的支流，如巴西、秘鲁、圭亚那等地的溪流、小河和湖泊。偏好水流缓慢、植被茂盛的浅水区域。",
+    "体长": "5 cm",
+    "体重": "0.01 kg",
+    "寿命": "寿命相对较短，一般为2-3年。在良好的饲养管理和适宜的环境条件下，部分个体可存活至4-5年。水质、食物和环境压力是影响其寿命的主要因素。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "樱桃灯鱼",
+    "柠檬灯鱼",
+    "黑裙鱼",
+    "喷火灯鱼",
+    "玻璃灯鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ma-tou-ba-zhi-li.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "6eace17b07df6b2785a5d3999e518533982167d5ffcf517c2496c94bd0a31323",
+  "raw_line_count": 32,
+  "local_dir": "by_family/脂鲤科/ma-tou-ba-zhi-li_马头鲃脂鲤",
+  "local_images": {
+    "fish": [
+      "by_family/脂鲤科/ma-tou-ba-zhi-li_马头鲃脂鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

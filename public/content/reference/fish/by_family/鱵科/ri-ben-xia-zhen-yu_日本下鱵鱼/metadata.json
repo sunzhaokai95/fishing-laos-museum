@@ -1,0 +1,87 @@
+{
+  "name": "日本下鱵鱼",
+  "slug": "ri-ben-xia-zhen-yu",
+  "source_url": "https://fishweather.cn/fish/ri-ben-xia-zhen-yu",
+  "list_page": 20,
+  "list_position": 464,
+  "scientific_name": "Hyporhamphus sajori",
+  "aliases": "针鱼、白鱵、沙鱵、吻仔鱼",
+  "headline": "日本下鱵鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，呈圆柱形，略侧扁。吻长而尖，下颌显著延长成喙状，远长于上颌。背鳍和臀鳍位于身体后部，尾鳍叉形。体背部呈浅蓝色或青灰色，腹部银白色，体侧具银色纵带。鳞片细小，易脱落。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "颌针鱼目",
+    "科": "鱵科",
+    "水层": "上层,中上层",
+    "食性": "杂食性，主要摄食浮游生物、小型甲壳类、藻类、小型鱼卵及仔鱼等。",
+    "栖息环境": "近海沿岸，常栖息于港湾、河口、内湾等水域，也进入淡水江河下游。",
+    "体长": "40",
+    "体重": "0.1",
+    "寿命": "寿命较短，一般为2-3年。",
+    "适温": "15-25"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "小鱼肉块",
+    "虾肉",
+    "鱼卵",
+    "拟饵（小鱼型软饵或亮片）",
+    "面包虫",
+    "磷虾",
+    "糠虾",
+    "海藻"
+  ],
+  "float_signals": [
+    "快速下沉",
+    "：",
+    "浮漂快速有力地向下沉没，通常是针鱼快速抢食的信号，需立即扬竿。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓缓下沉，可能是针鱼轻口吸食，需密切关注，适时扬竿。",
+    "横向移动",
+    "：",
+    "浮漂不规则地横向移动，可能是针鱼咬住饵料后游动，需及时扬竿。",
+    "轻微点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是针鱼试探性触碰饵料，需耐心观察，抓住顿口。",
+    "上浮",
+    "：",
+    "浮漂先下沉后缓慢上浮，可能是针鱼将饵料吐出或调整饵料位置，需抓住上浮前的顿口或上浮停顿的瞬间扬竿。"
+  ],
+  "practical_tips": [
+    "选择清澈水域:针鱼喜欢在水质清澈、透明度高的水域活动，选择这样的钓场成功率更高。",
+    "注意风向和水流:顺风或侧顺风利于抛竿和控线，选择水流缓慢或静水区域，避免水流过急影响垂钓。",
+    "钓棚灵活调整:针鱼活动水层会随天气、时间变化，需根据实际情况灵活调整钓棚，从水表层开始搜索。",
+    "饵料新鲜度:使用新鲜的饵料，如南极虾、海蚯蚓等，提高诱鱼效果。",
+    "轻口轻扬竿:针鱼吃口轻，漂相往往细微，扬竿动作要轻柔但迅速，避免大力抽竿惊鱼。"
+  ],
+  "recommended_spots": "海港、码头、防波堤、礁石区、河口、近岸浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "颌针鱼",
+    "இந்தியநீள்மூக்குஊசிமீன்(Indiangarfish-forgeneralshapesimilarity)",
+    "青条鳃刺鱼",
+    "হেফার্হ্যাম্পাস্(Hyporhamphusspeciesinotherregions-forgenussimilarity)",
+    "کوئی비슷한ஊچیمچھلی(Similarneedlefishinotherregions-forgeneralshapesimilarity)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ri-ben-xia-zhen-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ri-ben-xia-zhen-yu-0-2ba400ef.webp"
+    ]
+  },
+  "profile_text_sha256": "0c60b2028f17a2b36cac93b79cea541dc772c8bc27c1934f5bb1a49cea2acbd8",
+  "raw_line_count": 89,
+  "local_dir": "by_family/鱵科/ri-ben-xia-zhen-yu_日本下鱵鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鱵科/ri-ben-xia-zhen-yu_日本下鱵鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

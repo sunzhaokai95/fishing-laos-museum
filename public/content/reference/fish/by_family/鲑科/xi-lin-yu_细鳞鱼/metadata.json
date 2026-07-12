@@ -1,0 +1,51 @@
+{
+  "name": "细鳞鱼",
+  "slug": "xi-lin-yu",
+  "source_url": "https://fishweather.cn/fish/xi-lin-yu",
+  "list_page": 11,
+  "list_position": 264,
+  "scientific_name": "Brachymystax lenok",
+  "aliases": "小红鱼、细鳞鲑、沙包鱼、金板鱼",
+  "headline": "细鳞鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体长形，稍侧扁，呈纺锤形。头部平扁，吻钝圆。口大，端位，上颌略长于下颌。眼小，位于头侧上方。脂鳍发达，位于背鳍和尾鳍之间。鳞细小，侧线完全。体色多变，背部灰褐色或棕黄色，体侧银白色，散布有黑色或棕红色斑点，斑点形状和大小因个体和产地而异。腹部白色或淡黄色。各鳍条淡黄色或灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲑形目",
+    "科": "鲑科",
+    "水层": "中上层",
+    "食性": "肉食性为主，也摄食部分水生昆虫。主要捕食水生昆虫的幼虫、小鱼、虾、蝌蚪等。成鱼也捕食蛙类、小型哺乳动物等。",
+    "栖息环境": "主要栖息于寒温带山地河流、溪流中，喜欢水质清澈、溶氧量高、流速较快的环境。也可见于水库等冷水水域。",
+    "体长": "70",
+    "体重": "5",
+    "寿命": "寿命较长，一般可达10年以上，在适宜的环境下甚至可达20年以上。",
+    "适温": "8-18"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "哲罗鲑",
+    "红点鲑",
+    "细鳟",
+    "狗鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xi-lin-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "44f55665d00653cbcb346167fce25f68d04f65fa856f4819d1425c93d8d3cd21",
+  "raw_line_count": 36,
+  "local_dir": "by_family/鲑科/xi-lin-yu_细鳞鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲑科/xi-lin-yu_细鳞鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

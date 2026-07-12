@@ -1,0 +1,91 @@
+{
+  "name": "花斑副沙鳅",
+  "slug": "hua-ban-fu-sha-qiu",
+  "source_url": "https://fishweather.cn/fish/hua-ban-fu-sha-qiu",
+  "list_page": 7,
+  "list_position": 157,
+  "scientific_name": "Parabotia fasciata",
+  "aliases": "沙里趴、爬地虎、棒棒鱼",
+  "headline": "花斑副沙鳅怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，前部近圆筒形，后部侧扁。头平扁，吻圆钝。口下位，呈弧形。须3对，吻须2对，颌须1对。眼小，侧上位。鳞小，埋于皮下。体背部灰褐色，体侧及背鳍、尾鳍具多条黑色横纹，腹部灰白色。胸鳍和腹鳍淡黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鳅科",
+    "水层": "底层",
+    "食性": "杂食性，主要摄食底栖无脊椎动物、小型昆虫、藻类及有机碎屑。",
+    "栖息环境": "栖息于水流缓慢、底质为砂砾或石块的江河、溪流中。",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为3-5年，具体寿命数据缺乏。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓",
+    "面包虫",
+    "蝇蛆",
+    "鸡肝",
+    "商品鲫鱼饵料（腥味）",
+    "商品鲤鱼饵料（腥味）",
+    "麦粒",
+    "玉米粒（嫩玉米）",
+    "米饭粒"
+  ],
+  "float_signals": [
+    "上顶",
+    "：",
+    "浮漂缓慢上顶，可能是棒花鱼拱食饵料或触底。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，幅度不大，可能是棒花鱼吸食饵料。",
+    "快速下顿",
+    "：",
+    "浮漂快速有力地下顿，幅度较大，通常是棒花鱼吞食饵料的信号。",
+    "移位",
+    "：",
+    "七星漂出现横向移动，可能是棒花鱼拖动饵料。",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小，频率快，可能是棒花鱼试探性啄食。"
+  ],
+  "practical_tips": [
+    "找缓流:棒花鱼喜栖息于缓流区，选择水流较慢、石块较多的地方作钓点。",
+    "轻口轻提:棒花鱼吃口轻，漂相细微，需集中注意力观察，轻口轻提，避免跑鱼。",
+    "逗钓诱鱼:采用逗钓手法，轻微提动饵料，吸引棒花鱼注意。",
+    "打窝聚鱼:可提前少量打窝，如酒米、碎蚯蚓等，诱鱼聚集。",
+    "线组隐蔽:线组尽量细小，颜色与水色相近，提高隐蔽性，降低鱼的警觉性。"
+  ],
+  "recommended_spots": "山涧溪流、河流缓流段、水库入水口、山塘浅滩",
+  "distribution": [],
+  "similar_fish": [
+    "花鳅",
+    "沙鳅",
+    "麦穗鱼",
+    "䱻",
+    "中华细鲫"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hua-ban-fu-sha-qiu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hua-ban-fu-sha-qiu-0-5726686b.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ban-fu-sha-qiu-1-bb841920.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ban-fu-sha-qiu-2-c7f130b7.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ban-fu-sha-qiu-3-cd29634d.webp",
+      "https://fishweather.cn/asset-images/catch/hua-ban-fu-sha-qiu-4-e057012d.webp"
+    ]
+  },
+  "profile_text_sha256": "7226426c83dd38fe17961561a3044747df08f62dd697652753d98696018c3eb1",
+  "raw_line_count": 133,
+  "local_dir": "by_family/鳅科/hua-ban-fu-sha-qiu_花斑副沙鳅",
+  "local_images": {
+    "fish": [
+      "by_family/鳅科/hua-ban-fu-sha-qiu_花斑副沙鳅/images/main.webp"
+    ],
+    "catch": []
+  }
+}

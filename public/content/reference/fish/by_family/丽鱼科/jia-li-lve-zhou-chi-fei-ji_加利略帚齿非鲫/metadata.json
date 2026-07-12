@@ -1,0 +1,93 @@
+{
+  "name": "加利略帚齿非鲫",
+  "slug": "jia-li-lve-zhou-chi-fei-ji",
+  "source_url": "https://fishweather.cn/fish/jia-li-lve-zhou-chi-fei-ji",
+  "list_page": 3,
+  "list_position": 59,
+  "scientific_name": "Sarotherodon galilaeus",
+  "aliases": "尼罗红鱼、圣彼得鱼、迦利略丽鲷、盖裂罗非鱼",
+  "headline": "加利略帚齿非鲫怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "加利利罗非鱼体型中等，略侧扁，呈椭圆形。头部中等大小，吻部钝圆。口端位，唇厚。眼较大，位于头侧上方。背鳍长，由硬棘和软条组成，连续不断。胸鳍较大，呈圆形。腹鳍位于胸鳍后下方。臀鳍与背鳍软条部分相对。尾鳍截形或略微凹入。体色通常为银灰色或灰绿色，背部颜色较深，腹部银白色。幼鱼体侧常有不明显的横纹，成鱼体色较为均匀。繁殖季",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "中下层",
+    "食性": "杂食性，主要以浮游植物、藻类、水生植物碎屑和底栖无脊椎动物为食。也摄食小型昆虫、甲壳类和人工饲料。在不同生长阶段，食性略有差异，幼鱼阶段偏向动物性食物，成鱼阶段植物性食物比例增加。",
+    "栖息环境": "主要栖息于淡水湖泊、河流、水库和池塘等静水或缓流水域，也能够适应轻微的盐度变化，在一些河口或咸淡水区域也有分布。偏好水草",
+    "体长": "40 cm",
+    "体重": "2 kg",
+    "寿命": "寿命相对较长，自然条件下通常可以存活5-8年，人工养殖条件下，若管理得当，寿命可达10年以上。",
+    "适温": "25-32 °C"
+  },
+  "bait_options": [
+    "颗粒饲料（罗非鱼专用饲料）",
+    "玉米（嫩玉米或老玉米）",
+    "麦粒（泡软或发酵）",
+    "红薯（蒸熟或烤熟）",
+    "商品饵料（腥味或香味型罗非鱼饵料）",
+    "麸皮",
+    "菜饼",
+    "豆饼",
+    "面包糠",
+    "蚯蚓（虽然不推荐泥鳅",
+    "但蚯蚓是常用饵料",
+    "此处列出）"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是罗非鱼抢食或吞食死口。",
+    "顿口",
+    "：",
+    "浮漂快速下顿1-3目，有力且干脆，是罗非鱼吃口明显的信号。",
+    "上顶",
+    "：",
+    "浮漂缓缓上顶，可能是罗非鱼将饵料顶起，但此漂相较少见，多为小鱼闹窝。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，幅度不大，可能是罗非鱼轻口或试探性吃口。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是罗非鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "找准鱼层:罗非鱼在不同水温和天气下，活动水层有所不同，可通过试钓不同水层来确定当日鱼层。",
+    "重窝诱鱼:罗非鱼集群性强，需打重窝诱鱼，可使用颗粒饲料、酒米等打窝，持续补窝。",
+    "勤抛竿逗钓:罗非鱼喜欢动态的饵料，可采用勤抛竿、轻微抖动竿稍等方式逗钓，提高上鱼率。",
+    "快速刺鱼:罗非鱼吃口干脆，漂相明显，见漂动快速有力刺鱼，避免错失机会。",
+    "失手绳控鱼:钓获个体较大的罗非鱼时，建议使用失手绳，防止鱼竿被拉入水中。"
+  ],
+  "recommended_spots": "养殖塘、水库、野塘、河流缓流区",
+  "distribution": [],
+  "similar_fish": [
+    "尼罗罗非鱼",
+    "莫桑比克罗非鱼",
+    "奥利亚罗非鱼",
+    "齐氏罗非鱼",
+    "红罗非鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jia-li-lve-zhou-chi-fei-ji.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/jia-li-lve-zhou-chi-fei-ji-0-d52fa82e.webp",
+      "https://fishweather.cn/asset-images/catch/jia-li-lve-zhou-chi-fei-ji-1-d6ca7280.webp",
+      "https://fishweather.cn/asset-images/catch/jia-li-lve-zhou-chi-fei-ji-2-c1e23b91.webp",
+      "https://fishweather.cn/asset-images/catch/jia-li-lve-zhou-chi-fei-ji-3-fe6e002b.webp",
+      "https://fishweather.cn/asset-images/catch/jia-li-lve-zhou-chi-fei-ji-4-89b83aba.webp"
+    ]
+  },
+  "profile_text_sha256": "af6b1a31bdbfec3e9135614e59921c87a05dba2d0517c1a3517a7aacba925779",
+  "raw_line_count": 139,
+  "local_dir": "by_family/丽鱼科/jia-li-lve-zhou-chi-fei-ji_加利略帚齿非鲫",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/jia-li-lve-zhou-chi-fei-ji_加利略帚齿非鲫/images/main.webp"
+    ],
+    "catch": []
+  }
+}

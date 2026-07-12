@@ -1,0 +1,52 @@
+{
+  "name": "斑点肩鳃鳚",
+  "slug": "ban-dian-jian-sai-wei",
+  "source_url": "https://fishweather.cn/fish/ban-dian-jian-sai-wei",
+  "list_page": 26,
+  "list_position": 604,
+  "scientific_name": "Omobranchus punctatus",
+  "aliases": "无",
+  "headline": "斑点肩鳃鳚怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "小型鳚科鱼类，体延长，侧扁。头部钝圆。眼眶上方略微突出。口裂大，端位。体表光滑无鳞。体色多变，通常为浅棕色或黄褐色，体侧散布许多深褐色或黑色小点，背鳍和臀鳍边缘常有黑色条纹。雄鱼在繁殖期颜色可能更加鲜艳。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鳚科",
+    "水层": "底层",
+    "食性": "杂食性，主要以小型底栖无脊椎动物、藻类和有机碎屑为食。",
+    "栖息环境": "常见于潮间带岩石区、珊瑚礁区和海藻丛中，也可见于码头、防波堤等人工结构附近。",
+    "体长": "10",
+    "体重": null,
+    "寿命": "寿命较短，一般为1-2年。",
+    "适温": "22-28"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "卵圆动齿鳚",
+    "饰纹动齿鳚",
+    "眼斑动齿鳚",
+    "肩斑动齿鳚",
+    "栉齿鳚"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ban-dian-jian-sai-wei.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "006a5135255af1833417da9558139c8da28e3a19441efd959e20dbab90296c5c",
+  "raw_line_count": 30,
+  "local_dir": "by_family/鳚科/ban-dian-jian-sai-wei_斑点肩鳃鳚",
+  "local_images": {
+    "fish": [
+      "by_family/鳚科/ban-dian-jian-sai-wei_斑点肩鳃鳚/images/main.webp"
+    ],
+    "catch": []
+  }
+}

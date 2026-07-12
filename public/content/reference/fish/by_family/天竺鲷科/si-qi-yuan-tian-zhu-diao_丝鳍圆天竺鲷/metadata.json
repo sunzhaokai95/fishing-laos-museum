@@ -1,0 +1,50 @@
+{
+  "name": "丝鳍圆天竺鲷",
+  "slug": "si-qi-yuan-tian-zhu-diao",
+  "source_url": "https://fishweather.cn/fish/si-qi-yuan-tian-zhu-diao",
+  "list_page": 32,
+  "list_position": 753,
+  "scientific_name": "Sphaeramia nematoptera",
+  "aliases": "睡衣天竺鲷、丝鳍天竺鲷、燕尾衫",
+  "headline": "丝鳍圆天竺鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁。体色基调为浅棕色至黄色，头部至身体中部遍布红色斑点，身体后半部具宽阔黑色вертикальные条纹，尾柄及尾鳍为鲜黄色。第一背鳍小，第二背鳍、臀鳍和尾鳍较大且圆润。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "天竺鲷科",
+    "水层": "中层,底层",
+    "食性": "肉食性，主要捕食小型甲壳类动物、浮游生物以及其他小型无脊椎动物。",
+    "栖息环境": "珊瑚礁区,泻湖,沿海岩礁附近",
+    "体长": "8 cm",
+    "体重": "0.01 kg",
+    "寿命": "在适宜的水族箱饲养条件下，寿命通常为2-3年。野外环境寿命可能略长，但具体数据尚不明确。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "橙斑天竺鲷",
+    "肩斑天竺鲷",
+    "克氏天竺鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/si-qi-yuan-tian-zhu-diao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "500f81782311bd0159f6ffe59bd84b210d9495af9604754259d14952b8cd6848",
+  "raw_line_count": 30,
+  "local_dir": "by_family/天竺鲷科/si-qi-yuan-tian-zhu-diao_丝鳍圆天竺鲷",
+  "local_images": {
+    "fish": [
+      "by_family/天竺鲷科/si-qi-yuan-tian-zhu-diao_丝鳍圆天竺鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

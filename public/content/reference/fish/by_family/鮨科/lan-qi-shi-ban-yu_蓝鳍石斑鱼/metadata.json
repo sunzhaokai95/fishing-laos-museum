@@ -1,0 +1,100 @@
+{
+  "name": "蓝鳍石斑鱼",
+  "slug": "lan-qi-shi-ban-yu",
+  "source_url": "https://fishweather.cn/fish/lan-qi-shi-ban-yu",
+  "list_page": 8,
+  "list_position": 186,
+  "scientific_name": "Epinephelus cyanopodus",
+  "aliases": "蓝点石斑鱼、青斑、珍珠斑、星点石斑鱼",
+  "headline": "蓝鳍石斑鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，背腹缘弧形。头中大，头背部稍隆起。吻尖，口大，端位，上下颌前端具犬齿。眼圆，侧上位。前鳃盖骨后缘锯齿状，鳃盖骨后缘具3扁棘。体被栉鳞，侧线完全。背鳍连续，硬棘部与软条部相连，鳍棘粗壮。臀鳍短，与背鳍软条部相对。胸鳍圆形。尾鳍圆形。体色呈浅蓝色或灰白色，头部、体侧及鳍上散布许多蓝黑色小点，体侧有时具不明显的",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型鱼类、甲壳类（如虾、蟹）和头足类（如鱿鱼、章鱼）为食。幼鱼期可能摄食小型底栖无脊椎动物。",
+    "栖息环境": "主要栖息于珊瑚礁和岩礁海域，也可见于沙底或海草床附近。幼鱼常在潮间带或浅水区活动，成鱼则栖息于较深水域。",
+    "体长": "120",
+    "体重": "20",
+    "寿命": "寿命较长，一般可达10年以上，甚至更长。具体寿命受多种因素影响，如捕捞压力、栖息地环境质量等。",
+    "适温": "22-28"
+  },
+  "bait_options": [
+    "活虾",
+    "冰冻虾",
+    "鲜鱿鱼",
+    "冰冻鱿鱼",
+    "海মাছ(小海鱼)",
+    "沙丁鱼",
+    "秋刀鱼",
+    "章鱼",
+    "海螺肉",
+    "贝肉"
+  ],
+  "float_signals": [
+    "连续点动后顿口",
+    "：",
+    "浮漂或竿尖先出现连续轻微的点动，随后转为明显的顿口或黑漂，可能是石斑鱼试探性咬钩后，最终吞食饵料的信号。",
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常发生在水流较缓或石斑鱼索饵积极的情况下。",
+    "竿尖大幅度弯曲",
+    "：",
+    "抛竿后，竿尖突然大幅度弯曲，并持续保持弯曲状态，说明可能中了大个体石斑鱼。",
+    "顿口",
+    "：",
+    "竿尖或浮漂出现明显的下顿或快速下沉，幅度较大，力量强劲，是石斑鱼咬钩的典型信号。",
+    "拖拽",
+    "：",
+    "竿尖被猛烈拖拽，线轮快速出线，这是石斑鱼中钩后发力逃窜的动作。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:石斑鱼喜欢栖息在礁石区、沉船区等复杂海底结构的地方，这些地方是理想的钓点。",
+    "精确探底:使用探鱼器或铅坠探底，了解水深、海底结构，选择合适的钓组和钓法。",
+    "活用活饵:活虾、活鱼等活饵对石斑鱼有极强的诱惑力，能有效提高中鱼率。",
+    "耐心等待:石斑鱼咬钩需要一定时间，要有耐心等待鱼讯，不要频繁提竿。",
+    "大力扬竿:石斑鱼口部坚硬，咬钩后需大力扬竿，确保鱼钩牢固。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、沉船区、码头、防波堤、海岛周围",
+  "distribution": [
+    "台湾省",
+    "广东省",
+    "广西壮族自治区",
+    "浙江省",
+    "海南省",
+    "澳门特别行政区",
+    "福建省",
+    "香港特别行政区"
+  ],
+  "similar_fish": [
+    "鞍带石斑鱼",
+    "斜带石斑鱼",
+    "云纹石斑鱼",
+    "赤点石斑鱼",
+    "宝石石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lan-qi-shi-ban-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/lan-qi-shi-ban-yu-0-783086d8.webp",
+      "https://fishweather.cn/asset-images/catch/lan-qi-shi-ban-yu-1-dc8a4336.webp",
+      "https://fishweather.cn/asset-images/catch/lan-qi-shi-ban-yu-2-6408d136.webp",
+      "https://fishweather.cn/asset-images/catch/lan-qi-shi-ban-yu-3-62987786.webp",
+      "https://fishweather.cn/asset-images/catch/lan-qi-shi-ban-yu-4-d5298fd4.webp"
+    ]
+  },
+  "profile_text_sha256": "c60348759b6be67447a22f946d0094adcfcea2fecf07e01f38ad59e4dffcdc8f",
+  "raw_line_count": 148,
+  "local_dir": "by_family/鮨科/lan-qi-shi-ban-yu_蓝鳍石斑鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/lan-qi-shi-ban-yu_蓝鳍石斑鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

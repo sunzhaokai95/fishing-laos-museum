@@ -1,0 +1,106 @@
+{
+  "name": "台湾光唇鱼",
+  "slug": "tai-wan-guang-chun-yu",
+  "source_url": "https://fishweather.cn/fish/tai-wan-guang-chun-yu",
+  "list_page": 4,
+  "list_position": 82,
+  "scientific_name": "Acrossocheilus paradoxus",
+  "aliases": "石鲮、麻鲮、鲮鱼、溪石斑鱼",
+  "headline": "台湾光唇鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体长，稍侧扁，呈纺锤形。头锥形，吻钝圆。口下位，呈马蹄形，唇厚，下唇具发达的角质边缘。须2对，吻须较粗长，颌须短小。眼上位，侧视。鳞片中等大，侧线完全。背鳍起点位于腹鳍起点稍前方，胸鳍短小，尾鳍深叉形。体背部灰褐色，体侧银白色，腹部白色。各鳍浅灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性为主，主要摄食底栖藻类、水生昆虫幼虫、小型无脊椎动物及植物碎屑。",
+    "栖息环境": "主要栖息于水流湍急、底质多砾石的清澈山涧溪流中。",
+    "体长": "30 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较长，一般可达5年以上。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包虫",
+    "玉米粒",
+    "麦粒",
+    "商品饵（藻类味型）",
+    "商品饵（腥味型）",
+    "肝味饵",
+    "虾粉饵",
+    "蚕蛹粉饵"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动，幅度小而频率快，可能是鱼儿试探性触碰饵料。",
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，表明鱼儿吞食饵料。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿一目或两目，是清晰的吃口信号。",
+    "缓升",
+    "：",
+    "浮漂缓慢上升半目或一目，可能是鱼儿吸饵后抬头。",
+    "移位",
+    "：",
+    "浮漂在水面缓慢横向移动，可能是鱼儿拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择缓流与急流交汇处作为钓点，此类区域往往食物丰富，是异鱲的觅食场所。",
+    "根据水深和水流调整钓组，水深流急时可适当加重铅坠，保持钓组稳定。",
+    "采用多点走钓的方式，在不同的钓点轮流试钓，提高搜索范围。",
+    "注意观察水色，水质浑浊时可选择腥味饵料，水质清澈时可选择本味饵料。",
+    "轻声细语，保持钓场安静，避免惊扰鱼群。"
+  ],
+  "recommended_spots": "山涧溪流、峡谷河流、水库上游支流",
+  "distribution": [
+    "云南省",
+    "台湾省",
+    "四川省",
+    "安徽省",
+    "广东省",
+    "广西壮族自治区",
+    "江西省",
+    "浙江省",
+    "湖北省",
+    "湖南省",
+    "福建省",
+    "贵州省",
+    "重庆市",
+    "陕西省"
+  ],
+  "similar_fish": [
+    "鲮鱼",
+    "麦穗鱼",
+    "䱻",
+    "石爬鮡",
+    "条纹鲮"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tai-wan-guang-chun-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/tai-wan-guang-chun-yu-0-c9009260.webp",
+      "https://fishweather.cn/asset-images/catch/tai-wan-guang-chun-yu-1-e3ed2a43.webp",
+      "https://fishweather.cn/asset-images/catch/tai-wan-guang-chun-yu-2-7d6faa0e.webp",
+      "https://fishweather.cn/asset-images/catch/tai-wan-guang-chun-yu-3-742f0d23.webp",
+      "https://fishweather.cn/asset-images/catch/tai-wan-guang-chun-yu-4-6b908c4d.webp"
+    ]
+  },
+  "profile_text_sha256": "5ebb292ab955aa8d992c55910c4728b4c46c0e63309e4ac7cb0d663009609d60",
+  "raw_line_count": 152,
+  "local_dir": "by_family/鲤科/tai-wan-guang-chun-yu_台湾光唇鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/tai-wan-guang-chun-yu_台湾光唇鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

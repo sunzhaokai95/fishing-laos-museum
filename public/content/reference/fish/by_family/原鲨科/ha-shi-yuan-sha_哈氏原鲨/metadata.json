@@ -1,0 +1,52 @@
+{
+  "name": "哈氏原鲨",
+  "slug": "ha-shi-yuan-sha",
+  "source_url": "https://fishweather.cn/fish/ha-shi-yuan-sha",
+  "list_page": 33,
+  "list_position": 771,
+  "scientific_name": "Proscyllium habereri",
+  "aliases": "斑纹猫鲨、台湾斑猫鲨、細點斑貓鯊",
+  "headline": "哈氏原鲨怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "哈氏副沙鲛是一种小型鲨鱼，体型细长。通体呈浅灰色或棕黄色，背部和侧面分布着显著的深褐色鞍状斑纹或不规则斑点，这些斑纹通常延伸至腹侧，使其具有独特的斑纹外观。头部略扁平，吻部短而圆钝。眼睛呈椭圆形，瞬膜发达。鼻孔位于吻部腹面，具有鼻褶。口小，呈弧形，牙齿细小而尖锐，适合捕食小型猎物。喷水孔细小，位于眼睛后方。背鳍两个，无",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "真鲨目",
+    "科": "原鲨科",
+    "水层": "底层",
+    "食性": "主要以小型底栖无脊椎动物为食，如小型甲壳类（虾、蟹等）、软体动物以及小型鱼类。",
+    "栖息环境": "主要栖息于近岸浅海的沙质或砾石海底，也可见于珊瑚礁附近。偏好大陆架和岛屿Shelf海域。",
+    "体长": "54 cm",
+    "体重": null,
+    "寿命": "寿命信息缺乏详细研究，但一般小型鲨鱼寿命相对较短，可能在数年至十数年之间。",
+    "适温": "未知，推测为暖温带至热带海洋环境 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "条纹斑猫鲨",
+    "日本虎鲨",
+    "须鲨",
+    "星鲨",
+    "真鲨"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ha-shi-yuan-sha.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "d48ce3cbe3f6b995d1f218399a3e8f1e2d09264cd13e31c40838b3e79375397b",
+  "raw_line_count": 30,
+  "local_dir": "by_family/原鲨科/ha-shi-yuan-sha_哈氏原鲨",
+  "local_images": {
+    "fish": [
+      "by_family/原鲨科/ha-shi-yuan-sha_哈氏原鲨/images/main.webp"
+    ],
+    "catch": []
+  }
+}

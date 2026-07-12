@@ -1,0 +1,55 @@
+{
+  "name": "眼斑双锯鱼",
+  "slug": "yan-ban-shuang-ju-yu",
+  "source_url": "https://fishweather.cn/fish/yan-ban-shuang-ju-yu",
+  "list_page": 12,
+  "list_position": 281,
+  "scientific_name": "Amphiprion ocellaris",
+  "aliases": "小丑鱼、尼莫鱼",
+  "headline": "眼斑双锯鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体卵圆形，侧扁。体色鲜艳，底色为亮橙色至橘红色，体侧有三条镶黑边的白色条纹，分别位于头部后方、身体中部和尾柄处。鳍为橘黄色或橘红色，部分鳍边缘有黑色细边。口小，牙齿细小。眼眶周围通常为橘色或红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "雀鲷科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、小型无脊椎动物（如桡足类、片脚类）、浮游生物以及海葵触手上的食物残渣为食。",
+    "栖息环境": "主要栖息于热带珊瑚礁海域，与海葵共生，常见于鹿角珊瑚、地毯海葵、紫点海葵等。",
+    "体长": "11 cm",
+    "体重": "0.08 kg",
+    "寿命": "在自然条件下，寿命通常为6-10年，人工饲养条件下，若环境适宜，可达10年以上，甚至更长，最长可达20年以上。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "克氏海葵鱼",
+    "鞍斑海葵鱼",
+    "粉红海葵鱼",
+    "番茄海葵鱼",
+    "透红小丑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yan-ban-shuang-ju-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yan-ban-shuang-ju-yu-0-22ae6aa8.webp",
+      "https://fishweather.cn/asset-images/catch/yan-ban-shuang-ju-yu-1-e7450718.webp"
+    ]
+  },
+  "profile_text_sha256": "e3e00dae775bb799c45469299ba2541d91e552864dd64a72efd983a0de9ae98c",
+  "raw_line_count": 60,
+  "local_dir": "by_family/雀鲷科/yan-ban-shuang-ju-yu_眼斑双锯鱼",
+  "local_images": {
+    "fish": [
+      "by_family/雀鲷科/yan-ban-shuang-ju-yu_眼斑双锯鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

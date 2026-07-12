@@ -1,0 +1,53 @@
+{
+  "name": "孔雀丝虾虎鱼",
+  "slug": "kong-que-si-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/kong-que-si-xia-hu-yu",
+  "list_page": 11,
+  "list_position": 258,
+  "scientific_name": "Cryptocentrus pavoninoides",
+  "aliases": "未知",
+  "headline": "孔雀丝虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，稍侧扁。头中等大，略平扁。吻短钝。眼大，侧上位。口大，前位，斜裂。上下颌牙细小，锥形。体被栉鳞，头部无鳞。背鳍两个，第一背鳍鳍棘较弱，第二背鳍与臀鳍相对。胸鳍圆形。腹鳍愈合成吸盘。尾鳍圆形。体色多变，通常为浅灰色至棕色，体侧散布蓝色或白色小点，背鳍、臀鳍和尾鳍具蓝色边缘，形似孔雀羽毛。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如小型甲壳类、多毛类等。",
+    "栖息环境": "珊瑚礁区、岩礁区或沙质海底",
+    "体长": "8 cm",
+    "体重": "0.01 kg",
+    "寿命": "寿命较短，一般为2-3年，具体寿命数据缺乏详细研究。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "丝鰕虎鱼属其他种",
+    "虾虎鱼科其他小型鱼类"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/kong-que-si-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/kong-que-si-xia-hu-yu-0-c38ca3e5.webp",
+      "https://fishweather.cn/asset-images/catch/kong-que-si-xia-hu-yu-1-a6f98c47.webp",
+      "https://fishweather.cn/asset-images/catch/kong-que-si-xia-hu-yu-2-45ea4762.webp"
+    ]
+  },
+  "profile_text_sha256": "792dd0f38d80c1b8d412c0a04a28a1a7ee9cc78ff902f3bd9fa0362caeb23efe",
+  "raw_line_count": 67,
+  "local_dir": "by_family/鰕虎科/kong-que-si-xia-hu-yu_孔雀丝虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/kong-que-si-xia-hu-yu_孔雀丝虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

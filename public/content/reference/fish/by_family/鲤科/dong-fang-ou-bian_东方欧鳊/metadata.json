@@ -1,0 +1,94 @@
+{
+  "name": "东方欧鳊",
+  "slug": "dong-fang-ou-bian",
+  "source_url": "https://fishweather.cn/fish/dong-fang-ou-bian",
+  "list_page": 11,
+  "list_position": 242,
+  "scientific_name": "Abramis brama orientalis",
+  "aliases": "扁鱼、草鳊、油鳊、长身鳊",
+  "headline": "东方欧鳊怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈纺锤形，侧扁，背部隆起，头小，吻钝。口端位，口裂较小。眼较大，侧上位。鳞片中等大小，侧线完全。体色银灰色或灰褐色，背部颜色较深，腹部银白色。各鳍均为灰色或淡灰色。背鳍和臀鳍较长，尾鳍深叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中下层",
+    "食性": "杂食性，幼鱼阶段主要摄食浮游动物、小型昆虫等，成鱼阶段食性广泛，包括水生植物碎屑、藻类、底栖无脊椎动物、小型鱼虾和人工饲料等。",
+    "栖息环境": "主要栖息于水流缓慢或静止的淡水水域，如湖泊、水库、河流、池塘和运河等，喜栖息于水草丛生或底质为泥沙的环境。",
+    "体长": "80 cm",
+    "体重": "8 kg",
+    "寿命": "寿命较长，自然条件下可达10年以上，人工养殖条件下若环境适宜，寿命可能更长。",
+    "适温": "18-28 °C"
+  },
+  "bait_options": [
+    "商品鳊鱼饵料（香味型",
+    "麸香型）",
+    "玉米粒（嫩玉米",
+    "老玉米）",
+    "麦粒（泡软或煮熟）",
+    "红薯（蒸熟切块）",
+    "土豆（蒸熟切块）",
+    "面包屑",
+    "豆饼（发酵后）",
+    "菜饼",
+    "酒糟",
+    "麸皮"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，通常是鳊鱼吞食饵料的死口。",
+    "慢подниматие(慢поднятие-上顶)",
+    "：",
+    "浮漂缓慢上升，幅度不大，可能是鳊鱼试探性吸食饵料。",
+    "顿口",
+    "：",
+    "浮漂快速下顿，幅度明显，是鳊鱼咬钩的典型信号。",
+    "移位",
+    "：",
+    "浮漂在水面缓慢横向移动，可能是鳊鱼拖动饵料。",
+    "连续点动",
+    "：",
+    "浮漂出现连续轻微的点动，频率快，可能是小鱼闹窝或鳊鱼轻微触碰饵料。"
+  ],
+  "practical_tips": [
+    "找准鱼窝:鳊鱼喜欢群聚，找到鱼窝后连杆性强。可通过观察水面鱼星、水草边、湾汊处等寻找鱼窝。",
+    "灵活调整饵料状态:根据鱼情调整饵料的软硬、雾化、味型等，提高饵料的适口性和诱鱼效果。",
+    "精准调漂:根据水深、风力、鱼情等因素，精准调整浮漂，确保钓组灵敏度。",
+    "轻声细语:垂钓时保持安静，避免大声喧哗惊扰鱼群。",
+    "耐心守钓:鳊鱼咬钩有时较慢，需要耐心守钓，抓住有效鱼口。"
+  ],
+  "recommended_spots": "湖泊、水库、河流缓流段、池塘、Canal",
+  "distribution": [
+    "新疆维吾尔自治区"
+  ],
+  "similar_fish": [
+    "鳊鱼(Abramisbramabrama)",
+    "团头鲂",
+    "三角鲂",
+    "翘嘴鲌",
+    "鲤鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/dong-fang-ou-bian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/dong-fang-ou-bian-0-22e880e8.webp",
+      "https://fishweather.cn/asset-images/catch/dong-fang-ou-bian-1-55cf3428.webp",
+      "https://fishweather.cn/asset-images/catch/dong-fang-ou-bian-2-6fa90abe.webp",
+      "https://fishweather.cn/asset-images/catch/dong-fang-ou-bian-3-8e3091a2.webp"
+    ]
+  },
+  "profile_text_sha256": "e93b45cf214d38aaae6b25afba4a247e94f69327249c7d8ec94b84cc9ccb0c43",
+  "raw_line_count": 131,
+  "local_dir": "by_family/鲤科/dong-fang-ou-bian_东方欧鳊",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/dong-fang-ou-bian_东方欧鳊/images/main.webp"
+    ],
+    "catch": []
+  }
+}

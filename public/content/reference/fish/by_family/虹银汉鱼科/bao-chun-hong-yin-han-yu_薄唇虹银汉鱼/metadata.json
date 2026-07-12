@@ -1,0 +1,77 @@
+{
+  "name": "薄唇虹银汉鱼",
+  "slug": "bao-chun-hong-yin-han-yu",
+  "source_url": "https://fishweather.cn/fish/bao-chun-hong-yin-han-yu",
+  "list_page": 32,
+  "list_position": 767,
+  "scientific_name": "Melanotaenia praecox",
+  "aliases": "迷你彩虹鱼、娇小美人、草莓美人",
+  "headline": "薄唇虹银汉鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型娇小，色彩绚丽，尤其雄性在繁殖期全身呈现鲜艳的橙红色至红色，体侧有银蓝色光泽。雌性颜色相对较淡，呈黄色或橙色。体侧扁，背鳍两个，间隔较近。口小，端位。眼睛较大，黑色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "银汉鱼目",
+    "科": "虹银汉鱼科",
+    "水层": "中层,上层",
+    "食性": "杂食性，主要以小型昆虫、甲壳类、藻类和植物碎屑为食。",
+    "栖息环境": "主要栖息于植被茂盛，水流缓慢的溪流、沼泽和湖泊的浅水区。",
+    "体长": "8 cm",
+    "体重": "0.02 kg",
+    "寿命": "寿命相对较短，通常为2-3年，良好的饲养条件下可能略有延长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "水蚤",
+    "面包屑",
+    "অতি微颗粒鱼饲料",
+    "сухое红虫",
+    "磨碎的сухое鱼饲料",
+    "小型昆虫幼虫",
+    "蚂蚁卵",
+    "蚜虫",
+    "蚊子幼虫"
+  ],
+  "float_signals": [
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而轻微地下沉，可能是鱼吸食饵料。",
+    "横向移动",
+    "：",
+    "浮漂出现轻微的横向移动，可能是鱼拖动饵料。",
+    "轻微点动",
+    "：",
+    "浮漂出现极轻微的点动，幅度很小，可能是鱼试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的微型钓组，确保灵敏度。",
+    "使用极小的饵料，提高适口性。",
+    "轻柔作钓，避免惊扰鱼群。",
+    "仔细观察漂相或竿稍的细微变化。",
+    "尝试不同的水层，寻找鱼的聚集位置。"
+  ],
+  "recommended_spots": "溪流浅水区、植被茂盛的沼泽、水流缓慢的湖泊、水族箱（模拟自然环境）",
+  "distribution": [],
+  "similar_fish": [
+    "其他美人鱼(彩虹鱼)种类",
+    "小型灯鱼",
+    "鳑鲏"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bao-chun-hong-yin-han-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "463e5c29e7ff8ed0fd87b1e6724c74ad6a4314e9fca99e8726215e708451fba8",
+  "raw_line_count": 63,
+  "local_dir": "by_family/虹银汉鱼科/bao-chun-hong-yin-han-yu_薄唇虹银汉鱼",
+  "local_images": {
+    "fish": [
+      "by_family/虹银汉鱼科/bao-chun-hong-yin-han-yu_薄唇虹银汉鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

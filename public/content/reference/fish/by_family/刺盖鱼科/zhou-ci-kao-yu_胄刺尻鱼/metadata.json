@@ -1,0 +1,52 @@
+{
+  "name": "胄刺尻鱼",
+  "slug": "zhou-ci-kao-yu",
+  "source_url": "https://fishweather.cn/fish/zhou-ci-kao-yu",
+  "list_page": 25,
+  "list_position": 584,
+  "scientific_name": "Centropyge loriculus",
+  "aliases": "火焰仙",
+  "headline": "胄刺尻鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "火焰神仙鱼体型娇小，体长通常不超过10厘米。身体呈卵圆形且侧扁。最显著的特征是其鲜艳的火焰般的红色至橙红色体色，身体上常有数条垂直的黑色条纹，这些条纹有时不太明显或断断续续。鳍边通常带有亮蓝色，尤其在背鳍、臀鳍和尾鳍边缘更为明显。眼睛相对较大，黑色。整体色彩艳丽夺目，如同燃烧的火焰，极具观赏性。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "刺盖鱼科",
+    "水层": "底层,中层",
+    "食性": "杂食性，主要以藻类为食，也摄食小型无脊椎动物，如小型甲壳类、海绵、tunicates等。",
+    "栖息环境": "主要栖息于珊瑚礁区域，尤其喜欢珊瑚茂盛、岩石缝隙多的环境。也可见于潟湖和清澈的沿岸水域。",
+    "体长": "10 cm",
+    "体重": null,
+    "寿命": "在良好的饲养条件下，火焰神仙鱼的寿命通常为5-8年，甚至更长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "橙色侏儒神仙鱼",
+    "黄新娘神仙鱼",
+    "双棘刺尻鱼",
+    "半环刺尻鱼",
+    "柠檬黄神仙鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhou-ci-kao-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "7a70e8e05bc476a62375584b97e10718eb1d65aa6b74299fdcc8ecedb43347f5",
+  "raw_line_count": 30,
+  "local_dir": "by_family/刺盖鱼科/zhou-ci-kao-yu_胄刺尻鱼",
+  "local_images": {
+    "fish": [
+      "by_family/刺盖鱼科/zhou-ci-kao-yu_胄刺尻鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

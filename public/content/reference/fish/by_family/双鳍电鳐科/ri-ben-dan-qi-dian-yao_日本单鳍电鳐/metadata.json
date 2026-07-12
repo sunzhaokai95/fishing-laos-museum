@@ -1,0 +1,51 @@
+{
+  "name": "日本单鳍电鳐",
+  "slug": "ri-ben-dan-qi-dian-yao",
+  "source_url": "https://fishweather.cn/fish/ri-ben-dan-qi-dian-yao",
+  "list_page": 20,
+  "list_position": 472,
+  "scientific_name": "Narke japonica",
+  "aliases": "电鳐、电鱼",
+  "headline": "日本单鳍电鳐怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体盘近圆形，稍大于体长。吻短而圆钝。眼小，突出。喷水孔大，位于眼后上方，靠近眼眶后缘。口小，横裂，唇褶不发达。鼻孔小，圆形，鼻瓣短小。齿细小，铺石状排列。背鳍2个，圆形，位于尾部，第二背鳍略大于第一背鳍。尾鳍圆形。胸鳍宽大，呈圆形。体背部棕褐色或灰褐色，腹部白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "电鳐目",
+    "科": "双鳍电鳐科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如虾、蟹、蠕虫等。",
+    "栖息环境": "主要栖息于近岸浅海沙泥底质海域，也可见于河口和海湾。",
+    "体长": "37 cm",
+    "体重": "1 kg",
+    "寿命": "寿命信息有限，推测与其他鳐类相似，可能在10年以上。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "中国麻痹鳐",
+    "单鳍电鳐",
+    "斑点麻痹鳐",
+    "ocellata麻痹鳐"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ri-ben-dan-qi-dian-yao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "2c2454e896b7038d13e80d948e589e9450ff1684e0b35b85414fc1acc14277d5",
+  "raw_line_count": 31,
+  "local_dir": "by_family/双鳍电鳐科/ri-ben-dan-qi-dian-yao_日本单鳍电鳐",
+  "local_images": {
+    "fish": [
+      "by_family/双鳍电鳐科/ri-ben-dan-qi-dian-yao_日本单鳍电鳐/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "金钱鱼",
+  "slug": "jin-qian-yu",
+  "source_url": "https://fishweather.cn/fish/jin-qian-yu",
+  "list_page": 8,
+  "list_position": 173,
+  "scientific_name": "Scatophagus argus",
+  "aliases": "金鼓鱼、花猫鱼、鸡笼鲳、射水鱼",
+  "headline": "金钱鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁而高，背腹缘均隆凸。头小，吻短钝。口小，前位，能伸缩。上下颌牙细小，呈绒毛状。眼大，位高侧位。前鳃盖骨边缘具锯齿。体被细小栉鳞，侧线完全。背鳍两个，分离，第一背鳍4-5枚硬棘，第二背鳍16-18枚鳍条；臀鳍4枚硬棘，14-15枚鳍条；胸鳍圆形；尾鳍截形或稍圆。体色多变，幼鱼体色银白或淡黄色，散布黑色圆斑",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "金钱鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性，幼鱼主要摄食浮游生物、小型无脊椎动物和藻类，成鱼食性广泛，包括藻类、底栖无脊椎动物、小型鱼类、甲壳类、软体动物、有机碎屑及人工饲料。",
+    "栖息环境": "广盐性鱼类，幼鱼主要栖息于河口、红树林、港湾等咸淡水区域，成鱼可进入纯海水或淡水水域，如珊瑚礁、岩礁、河口、内湾、红树林",
+    "体长": "30 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较长，一般可达5年以上，在适宜条件下甚至更长。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "贝肉",
+    "鱼肉碎",
+    "鸡肝",
+    "商品海钓饵料（腥味）",
+    "玉米粒（煮熟）",
+    "面包糠"
+  ],
+  "float_signals": [
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，没入水中，可能是鱼吸饵后缓慢游动。",
+    "加速下沉",
+    "：",
+    "浮漂快速下沉，甚至直接黑漂，通常是鱼吞食死口，是清晰的扬竿信号。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼咬饵后向侧方游动。",
+    "上浮",
+    "：",
+    "浮漂先下沉后突然上浮，可能是鱼将饵料吐出或改变泳层。",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小，频率快，可能是鱼试探性咬饵。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:星点叉鼻鲀喜欢栖息在水流较缓，饵料丰富的区域，如礁石缝隙、水草丛生处等。",
+    "使用腥味饵料:星点叉鼻鲀喜食腥味饵料，如南极虾、海蚯蚓等，可提高诱鱼效果。",
+    "灵敏的线组和浮漂:星点叉鼻鲀咬口轻，需使用灵敏的线组和浮漂，及时捕捉鱼讯。",
+    "耐心等待:星点叉鼻鲀觅食时较为谨慎，需要耐心等待鱼咬钩。",
+    "注意安全:在礁石区或防波堤等复杂地形垂钓时，要注意安全，防止滑倒或落水。"
+  ],
+  "recommended_spots": "礁石区、防波堤、港湾、河口、红树林、近海鱼排",
+  "distribution": [],
+  "similar_fish": [
+    "篮子鱼",
+    "刺尾鲷",
+    "臭肚鱼",
+    "海鲶",
+    "鲈鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jin-qian-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/jin-qian-yu-0-09da24f8.webp",
+      "https://fishweather.cn/asset-images/catch/jin-qian-yu-1-dc6040f3.webp",
+      "https://fishweather.cn/asset-images/catch/jin-qian-yu-2-99b63d5c.webp",
+      "https://fishweather.cn/asset-images/catch/jin-qian-yu-3-9f335214.webp",
+      "https://fishweather.cn/asset-images/catch/jin-qian-yu-4-903f0598.webp"
+    ]
+  },
+  "profile_text_sha256": "3ba595c89cc20d8584b60bffff7c2b564b0f626b7c04e53a321eb3a8bbc1f3a5",
+  "raw_line_count": 137,
+  "local_dir": "by_family/金钱鱼科/jin-qian-yu_金钱鱼",
+  "local_images": {
+    "fish": [
+      "by_family/金钱鱼科/jin-qian-yu_金钱鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

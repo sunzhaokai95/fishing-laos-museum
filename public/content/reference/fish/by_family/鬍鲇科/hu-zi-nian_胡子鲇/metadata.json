@@ -1,0 +1,94 @@
+{
+  "name": "胡子鲇",
+  "slug": "hu-zi-nian",
+  "source_url": "https://fishweather.cn/fish/hu-zi-nian",
+  "list_page": 3,
+  "list_position": 53,
+  "scientific_name": "Clarias fuscus",
+  "aliases": "土鲶鱼、塘鲺、黏鱼、鬍子鲢、鲶拐子",
+  "headline": "胡子鲇怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部粗圆，后部侧扁。头宽扁，吻短圆钝。口大，下位，口裂宽，唇厚。具须4对，鼻须、上颌须及颏须各2对，均较长。眼小，侧上位。体表光滑无鳞。背鳍和臀鳍均长，与尾鳍相连。胸鳍和腹鳍较小。体色背部灰黑色或黄褐色，腹部灰白色或浅黄色，体侧常有不规则的深色斑纹。各鳍灰黑色或浅黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "鬍鲇科",
+    "水层": "底层,中下层",
+    "食性": "杂食性，偏肉食性。幼鱼主要摄食浮游动物、水生昆虫幼虫等，成鱼食性广泛，摄食小鱼、虾、蟹、水生昆虫、软体动物、底栖动物、腐肉、水生植物碎片及人工饲料等。",
+    "栖息环境": "江河、湖泊、水库、池塘、沟渠、稻田等各种淡水水域，尤其喜栖息于静水或缓流水域的底层，如水草丛生、淤泥底质的环境。",
+    "体长": "70 cm",
+    "体重": "5 kg",
+    "寿命": "自然水域中通常为5-8年，人工养殖条件下可达10年以上。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "鸡肝",
+    "猪肝",
+    "鸡肠",
+    "鸭肠",
+    "商品肉味饵料",
+    "浓腥商品饵料",
+    "红虫（商品饵）",
+    "蚯蚓干（泡开）",
+    "螺蛳肉",
+    "虾肉"
+  ],
+  "float_signals": [
+    "持续点动",
+    "：",
+    "浮漂出现连续的点动，但幅度不大，可能是鲶鱼试探性触碰饵料，可轻提竿逗钓。",
+    "黑漂",
+    "：",
+    "浮漂快速有力地没入水中，是鲶鱼吞食饵料的典型漂相，应立即扬竿。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，但下沉速度与正常饵料沉底不同，可能为鲶鱼轻口吸食，需及时关注。",
+    "大幅度顿口",
+    "：",
+    "浮漂出现大幅度的下顿，或者快速的上下跳动，通常是鲶鱼咬钩的信号。",
+    "移位",
+    "：",
+    "浮漂缓慢或快速地横向移动，可能是鲶鱼拖动饵料，需密切关注。"
+  ],
+  "practical_tips": [
+    "选择腥味浓厚的饵料，如鸡肝、猪肝等，增强诱鱼效果。",
+    "钓点选择在水草、乱石、涵洞等鲶鱼藏身处。",
+    "夜钓效果更佳，可使用夜光漂或电子漂。",
+    "采用重铅到底钓法，确保饵料到底。",
+    "扬竿力度要大，确保钩牢鱼嘴。"
+  ],
+  "recommended_spots": "野河、水库、池塘、沟渠、稻田",
+  "distribution": [
+    "广东省",
+    "海南省",
+    "香港特别行政区"
+  ],
+  "similar_fish": [
+    "埃及胡子鲶",
+    "斑点叉尾鮰",
+    "革胡子鲶",
+    "黄颡鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hu-zi-nian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hu-zi-nian-0-91ebfb94.webp",
+      "https://fishweather.cn/asset-images/catch/hu-zi-nian-1-a0e401d5.webp",
+      "https://fishweather.cn/asset-images/catch/hu-zi-nian-2-ca17a9df.webp",
+      "https://fishweather.cn/asset-images/catch/hu-zi-nian-3-42e1c5bb.webp",
+      "https://fishweather.cn/asset-images/catch/hu-zi-nian-4-3822046b.webp"
+    ]
+  },
+  "profile_text_sha256": "922e011223b65ceccae0dcd1adfe480b3d6c25f224cc57809d40de6e611fdc05",
+  "raw_line_count": 140,
+  "local_dir": "by_family/鬍鲇科/hu-zi-nian_胡子鲇",
+  "local_images": {
+    "fish": [
+      "by_family/鬍鲇科/hu-zi-nian_胡子鲇/images/main.webp"
+    ],
+    "catch": []
+  }
+}

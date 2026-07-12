@@ -1,0 +1,54 @@
+{
+  "name": "大黄鱼",
+  "slug": "dai-huang-yu",
+  "source_url": "https://fishweather.cn/fish/dai-huang-yu",
+  "list_page": 15,
+  "list_position": 353,
+  "scientific_name": "Larimichthys crocea",
+  "aliases": "黄花鱼、大鲜、桂花黄鱼、红瓜、石首鱼",
+  "headline": "大黄鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体型elongated纺锤形，侧扁，头较大，约占体长的1/4。吻圆钝，口大，前位，倾斜。眼较大，侧上位。下颌略长于上颌。背鳍连续，起点于胸鳍基部上方，具深刻凹刻。胸鳍中长，圆形。腹鳍胸位。臀鳍与背鳍后部相对。尾鳍楔形。体背侧金黄色或棕黄色，腹侧银白色，各鳍黄色或灰黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "石首鱼科",
+    "水层": "底层,中下层",
+    "食性": "肉食性，主要捕食鱼类、虾、蟹等甲壳动物和软体动物。",
+    "栖息环境": "近海沙底和泥底、河口、海湾。",
+    "体长": "80 cm",
+    "体重": "9 kg",
+    "寿命": "自然寿命通常为10-15年，人工养殖条件下可能略短。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "浙江省"
+  ],
+  "similar_fish": [
+    "小黄鱼",
+    "棘头梅童鱼",
+    "鲈鱼",
+    "石斑鱼",
+    "鳕鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/dai-huang-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "a29b00d0d8c4d18b858b829fb4cb977fba96bf84c9b6c255f3581e759880c2c6",
+  "raw_line_count": 39,
+  "local_dir": "by_family/石首鱼科/dai-huang-yu_大黄鱼",
+  "local_images": {
+    "fish": [
+      "by_family/石首鱼科/dai-huang-yu_大黄鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

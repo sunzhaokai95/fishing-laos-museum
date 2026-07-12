@@ -1,0 +1,94 @@
+{
+  "name": "中华倒刺鲃",
+  "slug": "zhong-hua-dao-ci-ba",
+  "source_url": "https://fishweather.cn/fish/zhong-hua-dao-ci-ba",
+  "list_page": 4,
+  "list_position": 89,
+  "scientific_name": "Spinibarbus sinensis",
+  "aliases": "青波、墨线倒刺鲃、细鳞倒刺鲃",
+  "headline": "中华倒刺鲃怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体长形，稍侧扁，头后背部隆起。头中等大，吻圆钝。口下位，呈马蹄形，唇发达，下唇后缘具皱褶，口角须2对，较细。体被细小鳞片，侧线完全。体背部灰黑色或青灰色，腹部银白色，各鳍灰黑色。尾鳍深叉形，背鳍和胸鳍圆钝。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层,中下层",
+    "食性": "杂食性，主要摄食底栖无脊椎动物、藻类、植物碎屑及有机碎屑",
+    "栖息环境": "江河缓流或静水水域，喜栖息于砾石底质的清水河段",
+    "体长": "80 cm",
+    "体重": "10 kg",
+    "寿命": "寿命较长，自然条件下可达10年以上，甚至更长，具体寿命受环境条件影响较大。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "商品底钓饵料（腥香型）",
+    "кукуруза(玉米粒)",
+    "麦粒",
+    "红薯块",
+    "土豆块",
+    "饭粒",
+    "蚕豆",
+    "菜饼",
+    "麸皮",
+    "豆饼"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，消失不见，通常是鱼吞食死口，是清晰的扬竿信号。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿一下，是典型的吃口信号，需及时扬竿。",
+    "上顶",
+    "：",
+    "浮漂缓慢或快速上顶，可能是鱼将饵料顶起或拱起，也需注意扬竿。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口试探或吸食饵料。",
+    "移位",
+    "：",
+    "浮漂缓慢或快速横向移动，可能是鱼拖动饵料，需及时扬竿。"
+  ],
+  "practical_tips": [
+    "选择乱石或砾石底质的钓点，这些区域是倒刺鲃的天然栖息地。",
+    "使用重铅到底钓法，确保饵料稳定在水底。",
+    "饵料以腥香或本味为主，可适当添加酒米或药酒诱鱼。",
+    "钓组不宜过灵，可适当调钝，避免小鱼闹窝。",
+    "耐心等待，倒刺鲃吃口相对谨慎，需抓住有效漂相及时扬竿。"
+  ],
+  "recommended_spots": "江河缓流区、水库出水口下游、山涧溪流、水潭、峡谷深潭",
+  "distribution": [
+    "广西壮族自治区",
+    "贵州省"
+  ],
+  "similar_fish": [
+    "鲤鱼",
+    "鲮鱼",
+    "鲃鱼",
+    "鲫鱼",
+    "鲢鳙"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhong-hua-dao-ci-ba.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dao-ci-ba-0-f50f932a.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dao-ci-ba-1-8c61f9df.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dao-ci-ba-2-787f64c1.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dao-ci-ba-3-c87960b3.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-dao-ci-ba-4-70af17fd.webp"
+    ]
+  },
+  "profile_text_sha256": "58a110a08624327f4502f524c1c023c1f2c19320c23a6c3d01d00bd4788fe937",
+  "raw_line_count": 140,
+  "local_dir": "by_family/鲤科/zhong-hua-dao-ci-ba_中华倒刺鲃",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/zhong-hua-dao-ci-ba_中华倒刺鲃/images/main.webp"
+    ],
+    "catch": []
+  }
+}

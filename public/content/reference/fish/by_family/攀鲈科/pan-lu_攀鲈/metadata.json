@@ -1,0 +1,90 @@
+{
+  "name": "攀鲈",
+  "slug": "pan-lu",
+  "source_url": "https://fishweather.cn/fish/pan-lu",
+  "list_page": 2,
+  "list_position": 46,
+  "scientific_name": "Anabas testudineus",
+  "aliases": "猪哥鲫、攀鲈鱼、刺锅鱼、步鱼、飞鲫",
+  "headline": "攀鲈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁，背腹缘均隆起。头中等大，前端钝圆。吻短。口大，前位，口裂倾斜，下颌略突出。上下颌、犁骨及腭骨均具细齿。眼大，侧上位。前鳃盖骨后缘具锯齿，间鳃盖骨具小棘。体被栉鳞，侧线完全。背鳍和臀鳍均长，具硬棘和软条。胸鳍圆形。腹鳍胸位。尾鳍圆形。体色背部灰褐色，腹部浅黄色，体侧具不规则黑色斑块。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "攀鲈科",
+    "水层": "中下层",
+    "食性": "杂食性，主要摄食水生昆虫及其幼虫、小型鱼虾、甲壳类、水生植物碎屑、藻类和有机碎屑等。",
+    "栖息环境": "江河、湖泊、池塘、沟渠、稻田等静水或缓流水域，喜栖息于水草丛生、底泥松软的环境。",
+    "体长": "25 cm",
+    "体重": "0.25 kg",
+    "寿命": "自然条件下寿命一般为3-5年，人工养殖条件下，如果环境适宜，可达5年以上。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包屑",
+    "米饭粒",
+    "商品饵料（腥味）",
+    "面粉饵料",
+    "玉米粒（嫩玉米）",
+    "麦粒",
+    "豆饼碎屑",
+    "麸皮"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动，幅度小，频率快，可能是攀鲈试探性咬钩。",
+    "上顶",
+    "：",
+    "浮漂先下沉后突然上顶，可能是攀鲈咬钩后抬头。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，幅度不大，可能是攀鲈吸食饵料。",
+    "加速下沉",
+    "：",
+    "浮漂快速下沉，直至没入水中，通常为攀鲈吞食死口。",
+    "移位",
+    "：",
+    "浮漂水平方向缓慢移动，可能是攀鲈拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:攀鲈喜藏身于水草、乱石堆、树根等障碍物附近，选择这些区域作为钓点。",
+    "逗钓结合:采用逗钓手法，使饵料在水中呈现动态，吸引攀鲈注意。",
+    "轻口轻抬竿:攀鲈吃口轻，漂相小，需仔细观察，轻口轻抬竿，避免空竿。",
+    "饵料多样化:根据季节和水情变化，灵活选择饵料，如活饵、素饵、商品饵等。",
+    "保持安静:攀鲈警惕性较高，作钓时需保持安静，避免惊扰鱼群。"
+  ],
+  "recommended_spots": "池塘、稻田、沟渠、缓流小河、水库浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "鳜鱼",
+    "鳢鱼",
+    "塘鳢",
+    "鲈鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/pan-lu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/pan-lu-0-f985e53a.webp",
+      "https://fishweather.cn/asset-images/catch/pan-lu-1-9897b101.webp",
+      "https://fishweather.cn/asset-images/catch/pan-lu-2-ff4f3e14.webp",
+      "https://fishweather.cn/asset-images/catch/pan-lu-3-148ee627.webp",
+      "https://fishweather.cn/asset-images/catch/pan-lu-4-942b4a3f.webp"
+    ]
+  },
+  "profile_text_sha256": "8c1711aecbbe88fc726926c5c5e9a1712baaebe56308dc118145e28099671802",
+  "raw_line_count": 136,
+  "local_dir": "by_family/攀鲈科/pan-lu_攀鲈",
+  "local_images": {
+    "fish": [
+      "by_family/攀鲈科/pan-lu_攀鲈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

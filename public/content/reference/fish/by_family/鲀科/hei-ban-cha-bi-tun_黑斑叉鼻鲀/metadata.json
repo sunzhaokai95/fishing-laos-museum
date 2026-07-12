@@ -1,0 +1,55 @@
+{
+  "name": "黑斑叉鼻鲀",
+  "slug": "hei-ban-cha-bi-tun",
+  "source_url": "https://fishweather.cn/fish/hei-ban-cha-bi-tun",
+  "list_page": 17,
+  "list_position": 386,
+  "scientific_name": "Arothron nigropunctatus",
+  "aliases": "狗头豚、斑点星河豚、黑斑星鲀",
+  "headline": "黑斑叉鼻鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，稍侧扁。头部钝圆，口小，唇厚。眼圆，位于头侧上方。体表光滑无鳞，皮肤粗糙。背鳍、臀鳍均位于体后部，无腹鳍。体色鲜艳，底色黄色至橘黄色，全身布满黑色圆点，尾鳍黄色或橘黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鲀科",
+    "水层": "底层,近底层",
+    "食性": "杂食性，主要以藻类、珊瑚虫、海绵、甲壳类动物（如螃蟹、虾）、软体动物（如贝类）以及其他小型无脊椎动物为食。",
+    "栖息环境": "珊瑚礁区域，潟湖，以及清澈的沿海海域",
+    "体长": "33",
+    "体重": null,
+    "寿命": "寿命较长，在良好的饲养条件下可达10年以上，甚至更长。野外寿命可能受到环境因素和天敌的影响。",
+    "适温": "24-30"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "星斑叉鼻鲀",
+    "黄鳍河豚",
+    "条纹东方鲀",
+    "豹纹东方鲀",
+    "mappuffer(暂无常用中文名",
+    "指纹狗头)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-ban-cha-bi-tun.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hei-ban-cha-bi-tun-0-e3f4b7db.webp"
+    ]
+  },
+  "profile_text_sha256": "88d013f6e2842919ee2fcd2ea97d44ab6a2257d7ad5b82665195ba073f1c84c8",
+  "raw_line_count": 47,
+  "local_dir": "by_family/鲀科/hei-ban-cha-bi-tun_黑斑叉鼻鲀",
+  "local_images": {
+    "fish": [
+      "by_family/鲀科/hei-ban-cha-bi-tun_黑斑叉鼻鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "野翼甲鲇(清道夫)",
+  "slug": "ye-yi-jia-nian--qing-dao-fu",
+  "source_url": "https://fishweather.cn/fish/ye-yi-jia-nian--qing-dao-fu",
+  "list_page": 3,
+  "list_position": 67,
+  "scientific_name": "Pterygoplichthys disjunctivus",
+  "aliases": "清道夫鱼、垃圾鱼、琵琶鱼、吸盘鱼",
+  "headline": "野翼甲鲇(清道夫)怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈纺锤形，稍侧扁，腹部平坦。头部宽大，头背部略平直。吻部圆钝，口下位，口唇发达，具有吸盘状结构。眼小，侧位。体表粗糙，全身覆盖骨板。体色通常为深褐色或黑色，带有不规则的浅色斑纹，幼鱼斑纹较为明显。胸鳍和腹鳍水平展开，背鳍高耸，具有硬棘。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "甲鲇科",
+    "水层": "底层",
+    "食性": "杂食性为主，偏向植食性。主要摄食藻类、水底沉积物、有机碎屑、植物根茎及腐烂物，也摄食少量水生昆虫、小型无脊椎动物等。在人工饲养条件下，可接受人工饲料。",
+    "栖息环境": "喜栖息于水流缓慢的江河、湖泊、水库、池塘等水体的底层，尤其偏好富含腐殖质和藻类的环境。耐污能力强，可在低氧环境中生存。",
+    "体长": "50",
+    "体重": "2.5",
+    "寿命": "寿命较长，在自然条件下可达10年以上，人工饲养条件下若环境适宜可更长。",
+    "适温": "22-30"
+  },
+  "bait_options": [
+    "藻类片",
+    "蔬菜叶（如白菜叶",
+    "生菜叶）",
+    "红薯块",
+    "土豆块",
+    "玉米粒（老玉米）",
+    "麦麸",
+    "商品底栖鱼饲料",
+    "面包",
+    "煮熟的南瓜块",
+    "颗粒饲料（植物性为主）"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，通常为下口鲶吞食饵料。",
+    "上顶",
+    "：",
+    "在极少数情况下，浮漂可能会出现缓慢上顶的动作，这可能是下口鲶拱动底部饵料所致，但这种情况较少见。",
+    "持续下顿",
+    "：",
+    "浮漂出现连续的、有力的下顿，幅度较大，表示下口鲶正在啃食或拖动饵料。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能为下口鲶吸食饵料导致。",
+    "移位",
+    "：",
+    "浮漂在没有风浪或水流的情况下，出现横向移动，可能是下口鲶拖动饵料或线组。"
+  ],
+  "practical_tips": [
+    "选择重味饵料:下口鲶嗅觉灵敏，喜好重口味饵料，可在饵料中添加虾粉、鱼粉等增加诱食性。",
+    "精准找底:下口鲶为底层鱼，作钓时务必确保饵料沉底，可通过调整铅坠重量或使用跑铅钓法来实现。",
+    "慢速搜索:路亚钓法搜索时，要放慢拖动速度，让软饵有充分的时间吸引下口鲶。",
+    "夜钓效果更佳:下口鲶夜间活动频繁，夜钓效果往往优于白天，可尝试夜间垂钓。",
+    "注意安全:在自然水域垂钓时，注意水边安全，尤其夜钓时要携带照明设备，注意防蚊虫叮咬。"
+  ],
+  "recommended_spots": "江河缓流段、湖泊、水库、池塘、沟渠、城市景观水体（如公园湖、人工河道等）",
+  "distribution": [],
+  "similar_fish": [
+    "琵琶鼠",
+    "豹纹鸭嘴鲶",
+    "胡子鲶",
+    "埃及胡子鲶",
+    "斑点叉尾鮰"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ye-yi-jia-nian--qing-dao-fu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ye-yi-jia-nian--qing-dao-fu-0-2ef009a5.webp",
+      "https://fishweather.cn/asset-images/catch/ye-yi-jia-nian--qing-dao-fu-1-26e7cf39.webp",
+      "https://fishweather.cn/asset-images/catch/ye-yi-jia-nian--qing-dao-fu-2-8ec44e89.webp",
+      "https://fishweather.cn/asset-images/catch/ye-yi-jia-nian--qing-dao-fu-3-b5fa6749.webp",
+      "https://fishweather.cn/asset-images/catch/ye-yi-jia-nian--qing-dao-fu-4-0f1c50bd.webp"
+    ]
+  },
+  "profile_text_sha256": "1a18d25fc234941113f5adbae9f682ec1726eaeb7268c82109c4cd543edf22c3",
+  "raw_line_count": 138,
+  "local_dir": "by_family/甲鲇科/ye-yi-jia-nian--qing-dao-fu_野翼甲鲇(清道夫)",
+  "local_images": {
+    "fish": [
+      "by_family/甲鲇科/ye-yi-jia-nian--qing-dao-fu_野翼甲鲇(清道夫)/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-07-12T08:51:37+00:00",
+  "route_start_url": "/",
+  "route_end_url": "/visit/epilogue",
+  "counts": {
+    "route_pages": 35,
+    "collection_items": 86,
+    "sources": 11,
+    "images": 39
+  }
+}

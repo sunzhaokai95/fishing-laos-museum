@@ -1,0 +1,1330 @@
+[
+  {
+    "task_id": "review-IMG-CON-001",
+    "priority": "P0",
+    "action": "confirm_disclosure_or_replace",
+    "image_id": "IMG-CON-001",
+    "title": "水面与水下剖面概念图",
+    "local_path": "assets/placeholders/water-section-concept.webp",
+    "current_rights_status": "generated_reference",
+    "used_by": [
+      "epilogue-return-to-water",
+      "fish-waters-water-section-interaction",
+      "fish-waters-water-types",
+      "home",
+      "prologue-beneath-the-surface"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-001",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-001",
+    "title": "鲫鱼 *Carassius auratus*",
+    "local_path": "assets/fish/crucian-carp.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-common-comparisons",
+      "fish-waters-gallery-intro",
+      "species-crucian-carp"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-002",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-002",
+    "title": "鲤鱼 *Cyprinus carpio*",
+    "local_path": "assets/fish/common-carp.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-body",
+      "fish-waters-common-comparisons",
+      "species-common-carp"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-003",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-003",
+    "title": "草鱼 *Ctenopharyngodon idella*",
+    "local_path": "assets/fish/grass-carp.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-common-comparisons",
+      "fish-waters-niche-comparison",
+      "species-grass-carp"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-004",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-004",
+    "title": "青鱼 *Mylopharyngodon piceus*",
+    "local_path": "assets/fish/black-carp.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-common-comparisons",
+      "fish-waters-niche-comparison",
+      "species-black-carp"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-005",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-005",
+    "title": "团头鲂 *Megalobrama amblycephala*",
+    "local_path": "assets/fish/wuchang-bream.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-wuchang-bream"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-006",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-006",
+    "title": "鲢 *Hypophthalmichthys molitrix*",
+    "local_path": "assets/fish/silver-carp.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-common-comparisons",
+      "fish-waters-niche-comparison",
+      "species-silver-carp"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-007",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-007",
+    "title": "鳙 *Hypophthalmichthys nobilis*",
+    "local_path": "assets/fish/bighead-carp.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-common-comparisons",
+      "fish-waters-niche-comparison",
+      "species-bighead-carp"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-008",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-008",
+    "title": "白条 *Hemiculter leucisculus*",
+    "local_path": "assets/fish/white-strip.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-white-strip"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-009",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-009",
+    "title": "翘嘴鲌 *Culter alburnus*",
+    "local_path": "assets/fish/topmouth-culter.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-body",
+      "species-topmouth-culter"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-010",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-010",
+    "title": "黄尾鲴 *Xenocypris davidi*",
+    "local_path": "assets/fish/yellowfin-carp.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-yellowfin-carp"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-011",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-011",
+    "title": "红鳍鲌 *Chanodichthys erythropterus*",
+    "local_path": "assets/fish/redfin-culter.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-redfin-culter"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-012",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-012",
+    "title": "尼罗罗非鱼 *Oreochromis niloticus*",
+    "local_path": "assets/fish/nile-tilapia.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-nile-tilapia"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-013",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-013",
+    "title": "鲶 *Silurus asotus*",
+    "local_path": "assets/fish/amur-catfish.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-amur-catfish"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-014",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-014",
+    "title": "黄颡鱼 *Tachysurus fulvidraco*",
+    "local_path": "assets/fish/yellow-catfish.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-body",
+      "fish-waters-names",
+      "species-yellow-catfish"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-015",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-015",
+    "title": "乌鳢 *Channa argus*",
+    "local_path": "assets/fish/northern-snakehead.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-northern-snakehead"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-016",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-016",
+    "title": "马口鱼 *Opsariichthys bidens*",
+    "local_path": "assets/fish/opsariichthys-bidens.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-opsariichthys-bidens"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-017",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-017",
+    "title": "大口黑鲈 *Micropterus salmoides*",
+    "local_path": "assets/fish/largemouth-bass.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-protection-introductions",
+      "species-largemouth-bass"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-018",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-018",
+    "title": "鳜 *Siniperca chuatsi*",
+    "local_path": "assets/fish/mandarin-fish.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-mandarin-fish"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-019",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-019",
+    "title": "日本鳗鲡 *Anguilla japonica*",
+    "local_path": "assets/fish/japanese-eel.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-movement",
+      "species-japanese-eel"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-020",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-020",
+    "title": "高体鳑鲏 *Rhodeus ocellatus*",
+    "local_path": "assets/fish/rose-bitterling.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-rose-bitterling"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-021",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-021",
+    "title": "胭脂鱼 *Myxocyprinus asiaticus*",
+    "local_path": "assets/fish/chinese-sucker.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-protection-introductions",
+      "species-chinese-sucker"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-022",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-022",
+    "title": "麦穗鱼 *Pseudorasbora parva*",
+    "local_path": "assets/fish/topmouth-gudgeon.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-topmouth-gudgeon"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-023",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-023",
+    "title": "中国花鲈 *Lateolabrax maculatus*",
+    "local_path": "assets/fish/chinese-seabass.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-gallery-intro",
+      "fish-waters-names",
+      "species-chinese-seabass"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-024",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-024",
+    "title": "黑棘鲷 *Acanthopagrus schlegelii*",
+    "local_path": "assets/fish/blackhead-seabream.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-blackhead-seabream"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-025",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-025",
+    "title": "黄鳍棘鲷 *Acanthopagrus latus*",
+    "local_path": "assets/fish/yellowfin-seabream.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-yellowfin-seabream"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-026",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-026",
+    "title": "鲻 *Mugil cephalus*",
+    "local_path": "assets/fish/flathead-grey-mullet.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-flathead-grey-mullet"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-027",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-027",
+    "title": "赤点石斑鱼 *Epinephelus akaara*",
+    "local_path": "assets/fish/red-spotted-grouper.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-red-spotted-grouper"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-028",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-028",
+    "title": "蓝点马鲛 *Scomberomorus niphonius*",
+    "local_path": "assets/fish/japanese-spanish-mackerel.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "fish-waters-movement",
+      "species-japanese-spanish-mackerel"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-029",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-029",
+    "title": "三线矶鲈 *Parapristipoma trilineatum*",
+    "local_path": "assets/fish/chicken-grunt.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-chicken-grunt"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-FISH-030",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-FISH-030",
+    "title": "金钱鱼 *Scatophagus argus*",
+    "local_path": "assets/fish/spotted-scat.webp",
+    "current_rights_status": "rights_pending",
+    "used_by": [
+      "species-spotted-scat"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-HIS-001",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-HIS-001",
+    "title": "珙县猪圈门岩画拓印",
+    "local_path": "assets/source-docx/image9.jpeg",
+    "current_rights_status": "research_candidate",
+    "used_by": [
+      "origins-gallery-intro",
+      "origins-prehistoric-fishing",
+      "origins-timeline-node-copy"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-HIS-002",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-HIS-002",
+    "title": "半坡遗址骨质直形钓钩",
+    "local_path": "assets/source-docx/image10.jpeg",
+    "current_rights_status": "research_candidate",
+    "used_by": [
+      "object-bone-straight-hook",
+      "origins-gallery-intro",
+      "origins-prehistoric-fishing",
+      "origins-timeline-node-copy",
+      "tackle-gallery-intro"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-HIS-003",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-HIS-003",
+    "title": "清代吴友如版画《妇女钓鱼图》",
+    "local_path": "assets/source-docx/image12.jpeg",
+    "current_rights_status": "research_candidate",
+    "used_by": [
+      "anglers-complete-gallery",
+      "anglers-gallery-intro",
+      "anglers-portrait-wall",
+      "imaginations-complete-gallery",
+      "imaginations-gallery-intro",
+      "origins-from-subsistence-to-leisure",
+      "origins-timeline-node-copy",
+      "person-women-anglers-seat",
+      "work-women-fishing-print"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-HIS-004",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-HIS-004",
+    "title": "董诰《御制渔具十咏图并书》",
+    "local_path": "assets/source-docx/image15.jpeg",
+    "current_rights_status": "research_candidate",
+    "used_by": [
+      "imaginations-complete-gallery",
+      "imaginations-gallery-intro",
+      "origins-hook-line-and-other-methods",
+      "origins-rulers-ministers-and-metaphors",
+      "origins-timeline-node-copy",
+      "work-fishing-tools-ten-odes"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-HIS-006",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-HIS-006",
+    "title": "马远《寒江独钓图》相关图像",
+    "local_path": "assets/source-docx/image24.jpeg",
+    "current_rights_status": "research_candidate",
+    "used_by": [
+      "anglers-complete-gallery",
+      "anglers-gallery-intro",
+      "anglers-portrait-wall",
+      "imaginations-complete-gallery",
+      "imaginations-gallery-intro",
+      "object-ancient-fishing-wheel",
+      "origins-literati-reclusion-and-poetic-life",
+      "origins-timeline-node-copy",
+      "person-cold-river-angler",
+      "tackle-complete-gallery",
+      "work-cold-river-painting"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-HIS-007",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-HIS-007",
+    "title": "汉代画像石上的钓轮",
+    "local_path": "assets/source-docx/image25.jpeg",
+    "current_rights_status": "research_candidate",
+    "used_by": [
+      "object-ancient-fishing-wheel",
+      "origins-hook-line-and-other-methods",
+      "origins-timeline-node-copy",
+      "tackle-complete-gallery",
+      "tackle-gallery-intro"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-HIS-008",
+    "priority": "P0",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-HIS-008",
+    "title": "《金明池争标图》局部",
+    "local_path": "assets/source-docx/image35.jpeg",
+    "current_rights_status": "research_candidate",
+    "used_by": [
+      "anglers-complete-gallery",
+      "origins-from-subsistence-to-leisure",
+      "origins-timeline-node-copy"
+    ]
+  },
+  {
+    "task_id": "visual-origins-modern-recreational-fishing",
+    "priority": "P0",
+    "action": "source_or_create_visual",
+    "page_id": "origins-modern-recreational-fishing",
+    "page_url": "/visit/origins/modern-recreational-fishing",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "rights-IMG-HIS-005",
+    "priority": "P1",
+    "action": "clear_rights_or_replace",
+    "image_id": "IMG-HIS-005",
+    "title": "早期金属钓钩局部",
+    "local_path": "assets/source-docx/image19.jpeg",
+    "current_rights_status": "research_candidate",
+    "used_by": [
+      "object-early-metal-hook",
+      "tackle-complete-gallery",
+      "tackle-gallery-intro"
+    ]
+  },
+  {
+    "task_id": "visual-ethics-choosing-not-to-act",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "ethics-choosing-not-to-act",
+    "page_url": "/visit/ethics/choosing-not-to-act",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-ethics-complete-gallery",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "ethics-complete-gallery",
+    "page_url": "/visit/ethics/complete-gallery-text",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-ethics-gallery-intro",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "ethics-gallery-intro",
+    "page_url": "/visit/ethics",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-folklore-bao-hu",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "folklore-bao-hu",
+    "page_url": "/collection/folklore/bao-hu",
+    "asset_type": "documentary_photo_or_typographic_specimen",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-folklore-da-gui",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "folklore-da-gui",
+    "page_url": "/collection/folklore/da-gui",
+    "asset_type": "documentary_photo_or_typographic_specimen",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-folklore-kong-jun",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "folklore-kong-jun",
+    "page_url": "/collection/folklore/kong-jun",
+    "asset_type": "documentary_photo_or_typographic_specimen",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-folklore-lucky-gear",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "folklore-lucky-gear",
+    "page_url": "/collection/folklore/lucky-gear",
+    "asset_type": "documentary_photo_or_typographic_specimen",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-folklore-weather-proverb",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "folklore-weather-proverb",
+    "page_url": "/collection/folklore/weather-proverb",
+    "asset_type": "documentary_photo_or_typographic_specimen",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-folklore-zha-xian",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "folklore-zha-xian",
+    "page_url": "/collection/folklore/zha-xian",
+    "asset_type": "documentary_photo_or_typographic_specimen",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-folklore-zheng-kou",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "folklore-zheng-kou",
+    "page_url": "/collection/folklore/zheng-kou",
+    "asset_type": "documentary_photo_or_typographic_specimen",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-imaginations-superstition-cabinet",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "imaginations-superstition-cabinet",
+    "page_url": "/visit/imaginations/superstition-cabinet",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-baitcasting-reel",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-baitcasting-reel",
+    "page_url": "/collection/objects/baitcasting-reel",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-bamboo-rod",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-bamboo-rod",
+    "page_url": "/collection/objects/bamboo-rod",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-barbless-hook",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-barbless-hook",
+    "page_url": "/collection/objects/barbless-hook",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-braided-line",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-braided-line",
+    "page_url": "/collection/objects/braided-line",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-carbon-fiber-rod",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-carbon-fiber-rod",
+    "page_url": "/collection/objects/carbon-fiber-rod",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-dough-bait",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-dough-bait",
+    "page_url": "/collection/objects/dough-bait",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-fiberglass-rod",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-fiberglass-rod",
+    "page_url": "/collection/objects/fiberglass-rod",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-fluorocarbon-line",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-fluorocarbon-line",
+    "page_url": "/collection/objects/fluorocarbon-line",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-fly-reel",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-fly-reel",
+    "page_url": "/collection/objects/fly-reel",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-landing-net",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-landing-net",
+    "page_url": "/collection/objects/landing-net",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-lead-sinker",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-lead-sinker",
+    "page_url": "/collection/objects/lead-sinker",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-minnow-lure",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-minnow-lure",
+    "page_url": "/collection/objects/minnow-lure",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-natural-bait",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-natural-bait",
+    "page_url": "/collection/objects/natural-bait",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-nylon-line",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-nylon-line",
+    "page_url": "/collection/objects/nylon-line",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-seven-star-float",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-seven-star-float",
+    "page_url": "/collection/objects/seven-star-float",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-silk-line",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-silk-line",
+    "page_url": "/collection/objects/silk-line",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-spigot-rod",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-spigot-rod",
+    "page_url": "/collection/objects/spigot-rod",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-spinning-reel",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-spinning-reel",
+    "page_url": "/collection/objects/spinning-reel",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-spoon-lure",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-spoon-lure",
+    "page_url": "/collection/objects/spoon-lure",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-swivel",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-swivel",
+    "page_url": "/collection/objects/swivel",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-telescopic-rod",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-telescopic-rod",
+    "page_url": "/collection/objects/telescopic-rod",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-object-vertical-float",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "object-vertical-float",
+    "page_url": "/collection/objects/vertical-float",
+    "asset_type": "object_photo_or_structure_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-person-child-making-hook",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "person-child-making-hook",
+    "page_url": "/collection/people/child-making-hook",
+    "asset_type": "authorized_portrait_or_archive_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-person-fishing-lao-community-seat",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "person-fishing-lao-community-seat",
+    "page_url": "/collection/people/fishing-lao-community-seat",
+    "asset_type": "authorized_portrait_or_archive_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-person-fishing-worker-seat",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "person-fishing-worker-seat",
+    "page_url": "/collection/people/fishing-worker-research-seat",
+    "asset_type": "authorized_portrait_or_archive_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-person-jiang-shang",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "person-jiang-shang",
+    "page_url": "/collection/people/jiang-shang",
+    "asset_type": "authorized_portrait_or_archive_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-person-modern-competition-seat",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "person-modern-competition-seat",
+    "page_url": "/collection/people/modern-competition-angler-seat",
+    "asset_type": "authorized_portrait_or_archive_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-person-yan-ziling",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "person-yan-ziling",
+    "page_url": "/collection/people/yan-ziling",
+    "asset_type": "authorized_portrait_or_archive_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-tackle-disassembly-interaction",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "tackle-disassembly-interaction",
+    "page_url": "/visit/tackle/digital-disassembly-table",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-technique-cast-and-deliver",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "technique-cast-and-deliver",
+    "page_url": "/collection/techniques/cast-and-deliver",
+    "asset_type": "process_photo_or_video",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-technique-control-lure",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "technique-control-lure",
+    "page_url": "/collection/techniques/control-lure",
+    "asset_type": "process_photo_or_video",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-technique-failure-review",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "technique-failure-review",
+    "page_url": "/collection/techniques/failure-review",
+    "asset_type": "process_photo_or_video",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-technique-find-bottom",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "technique-find-bottom",
+    "page_url": "/collection/techniques/find-bottom",
+    "asset_type": "process_photo_or_video",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-technique-land-unhook-release",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "technique-land-unhook-release",
+    "page_url": "/collection/techniques/land-unhook-release",
+    "asset_type": "process_photo_or_video",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-technique-read-signal",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "technique-read-signal",
+    "page_url": "/collection/techniques/read-signal",
+    "asset_type": "process_photo_or_video",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-technique-read-water",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "technique-read-water",
+    "page_url": "/collection/techniques/read-water",
+    "asset_type": "process_photo_or_video",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-technique-strike-and-tension",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "technique-strike-and-tension",
+    "page_url": "/collection/techniques/strike-and-tension",
+    "asset_type": "process_photo_or_video",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-techniques-complete-gallery",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "techniques-complete-gallery",
+    "page_url": "/visit/techniques/complete-gallery-text",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-techniques-gallery-intro",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "techniques-gallery-intro",
+    "page_url": "/visit/techniques",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-techniques-signal-lab",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "techniques-signal-lab",
+    "page_url": "/visit/techniques/underwater-signal-lab",
+    "asset_type": "exhibit_lead_visual_or_interactive_diagram",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-work-hao-liang-debate",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "work-hao-liang-debate",
+    "page_url": "/collection/works/hao-liang-debate",
+    "asset_type": "licensed_collection_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-work-jiang-shang-yu-zhe",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "work-jiang-shang-yu-zhe",
+    "page_url": "/collection/works/jiang-shang-yu-zhe",
+    "asset_type": "licensed_collection_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-work-jiang-xue",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "work-jiang-xue",
+    "page_url": "/collection/works/jiang-xue",
+    "asset_type": "licensed_collection_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-work-xing-lu-nan",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "work-xing-lu-nan",
+    "page_url": "/collection/works/xing-lu-nan",
+    "asset_type": "licensed_collection_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  },
+  {
+    "task_id": "visual-work-yu-ge-zi",
+    "priority": "P1",
+    "action": "source_or_create_visual",
+    "page_id": "work-yu-ge-zi",
+    "page_url": "/collection/works/yu-ge-zi",
+    "asset_type": "licensed_collection_image",
+    "requirements": [
+      "object_and_caption_match",
+      "creator_or_photographer_recorded",
+      "license_scope_recorded",
+      "alt_text_required"
+    ]
+  }
+]

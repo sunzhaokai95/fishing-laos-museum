@@ -1,0 +1,91 @@
+{
+  "name": "施氏高体鲃",
+  "slug": "shi-shi-gao-ti-ba",
+  "source_url": "https://fishweather.cn/fish/shi-shi-gao-ti-ba",
+  "list_page": 7,
+  "list_position": 166,
+  "scientific_name": "Barbonymus schwanenfeldii",
+  "aliases": "白须公、玻璃鱼、忘不了鱼(商品名)",
+  "headline": "施氏高体鲃怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型呈纺锤形，侧扁且较高。头部中等大小，吻部略尖。口端位，口裂较大。眼睛较大，位于头部侧上方。鳞片较大，呈银白色，在光照下闪烁着金属光泽，犹如锡箔一般，这也是其名称的由来。背鳍高耸，呈三角形，红色或橙红色，末端尖细。臀鳍、腹鳍和胸鳍均为红色或橙红色。尾鳍深叉形，上下叶均为红色或橙红色，边缘黑色。幼鱼体色较浅，随着生长，",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中层,上层",
+    "食性": "杂食性，食性广泛，主要以藻类、水生植物、植物碎屑、小型无脊椎动物、昆虫幼虫和人工饲料为食。在人工饲养条件下，也接受颗粒饲料。",
+    "栖息环境": "主要栖息于河流、湖泊、水库、池塘等淡水水域，偏好水流缓慢或静止的区域，例如水草丛生或植被覆盖的河岸边。",
+    "体长": "35 cm",
+    "体重": "3 kg",
+    "寿命": "寿命较长，在自然条件下通常可达5-8年，人工饲养条件下，若管理得当，寿命可能更长。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "商品饵:疯钓鲫",
+    "商品饵:老鬼5号",
+    "商品饵:九一八野战篇",
+    "商品饵:天下鲫",
+    "商品饵:速攻2号",
+    "商品饵:藻元素",
+    "商品饵:红虫蚯蚓饵（商品饵）",
+    "商品饵:拉丝粉（调整饵料状态）",
+    "面包屑",
+    "麦粒"
+  ],
+  "float_signals": [
+    "缓升缓降",
+    "：",
+    "浮漂缓慢上升后又缓慢下降，幅度不大，可能是鱼在试探饵料或轻微拱动。",
+    "黑漂缓起",
+    "：",
+    "浮漂快速黑漂后又缓慢上升，可能是鱼吸入饵料后又吐出，需抓住黑漂瞬间或上升前的顿口扬竿。",
+    "快速下顿",
+    "：",
+    "浮漂快速有力地下顿，幅度较大，通常是鱼吞食饵料的信号，需及时扬竿。",
+    "移位",
+    "：",
+    "浮漂缓慢横向移动，可能是鱼拖动饵料或触碰鱼线。",
+    "小幅度点动",
+    "：",
+    "浮漂出现连续轻微的点动，频率较快，可能是小鱼闹窝或锡箔鲮轻口啄食。"
+  ],
+  "practical_tips": [
+    "选择合适的拟饵和钓法:根据水域环境和鱼情选择合适的拟饵和钓法，如在水草较多的地方使用防挂底的软饵或亮片，在开阔水域使用小胖子或VIB。",
+    "调整作钓泳层:锡箔鲮活动水层较广，可尝试不同泳层搜索鱼群，从表层到中层，再到底层，找到鱼的活性层。",
+    "注意逗钓结合:手竿悬坠钓时，可适当逗钓，轻微提动竿尖，使饵料在窝点附近呈现动态，增加诱鱼效果。",
+    "保持安静:锡箔鲮警惕性较高，作钓时保持安静，避免惊扰鱼群。",
+    "勤抛竿换位:如长时间无鱼咬钩，可尝试更换钓位或作钓区域。"
+  ],
+  "recommended_spots": "水库、湖泊、河流缓流区、池塘、人工养殖塘",
+  "distribution": [],
+  "similar_fish": [
+    "鲮鱼",
+    "鳊鱼",
+    "草鱼",
+    "鲢鱼",
+    "鳙鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shi-shi-gao-ti-ba.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/shi-shi-gao-ti-ba-0-7650a654.webp",
+      "https://fishweather.cn/asset-images/catch/shi-shi-gao-ti-ba-1-bc58500f.webp",
+      "https://fishweather.cn/asset-images/catch/shi-shi-gao-ti-ba-2-5f7019b5.webp",
+      "https://fishweather.cn/asset-images/catch/shi-shi-gao-ti-ba-3-70e23fc8.webp",
+      "https://fishweather.cn/asset-images/catch/shi-shi-gao-ti-ba-4-2da3fae3.webp"
+    ]
+  },
+  "profile_text_sha256": "2c69cffbe31afe53d0567d7ec1b571e62e1fc60bb3cb1e13d4773b392b3971bc",
+  "raw_line_count": 135,
+  "local_dir": "by_family/鲤科/shi-shi-gao-ti-ba_施氏高体鲃",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/shi-shi-gao-ti-ba_施氏高体鲃/images/main.webp"
+    ],
+    "catch": []
+  }
+}

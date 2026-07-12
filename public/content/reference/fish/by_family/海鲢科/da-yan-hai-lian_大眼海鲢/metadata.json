@@ -1,0 +1,91 @@
+{
+  "name": "大眼海鲢",
+  "slug": "da-yan-hai-lian",
+  "source_url": "https://fishweather.cn/fish/da-yan-hai-lian",
+  "list_page": 5,
+  "list_position": 104,
+  "scientific_name": "Elops machnata",
+  "aliases": "海鲢、纺锤鱼、丝鲹",
+  "headline": "大眼海鲢怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，呈纺锤形。头小而尖，吻尖。口大，端位，口裂深，下颌略突出。眼大，具脂眼睑。鳞小，圆鳞，侧线明显。背鳍和臀鳍相对，位于身体后部，尾鳍深叉形。体背部灰绿色或青灰色，体侧和腹部银白色，各鳍浅黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "海鲢目",
+    "科": "海鲢科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、虾、蟹等甲壳类动物。",
+    "栖息环境": "热带和亚热带沿海浅水区，包括河口、海湾、红树林和珊瑚礁附近水域。",
+    "体长": "100",
+    "体重": "10",
+    "寿命": "寿命较长，一般可达10年以上。",
+    "适温": "22-30"
+  },
+  "bait_options": [
+    "米诺Minnow",
+    "铅笔Pencil",
+    "波扒Popper",
+    "VIB",
+    "软饵卷尾蛆",
+    "软饵T尾",
+    "小鱼型亮片",
+    "铁板",
+    "鲜虾",
+    "沙丁鱼块"
+  ],
+  "float_signals": [
+    "连续点动后下沉",
+    "：",
+    "浮漂先出现连续轻微的点动，随后突然下沉，是海鲢试探性咬饵到吞食的过程，需把握下沉的瞬间扬竿。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而持续地下沉，可能是海鲢吸食饵料，也可能是水流或风力影响，需仔细辨别，如有异样可轻提竿试探。",
+    "浮漂移位",
+    "：",
+    "浮漂在水面横向快速移动，可能是海鲢咬饵后游动带动浮漂，应及时扬竿。",
+    "黑漂快速",
+    "：",
+    "浮漂直接快速没入水中，消失不见，表明鱼吞食饵料，是扬竿的绝佳时机。",
+    "顿口急促下沉",
+    "：",
+    "浮漂快速有力地下沉，通常是海鲢咬饵的明确信号，需立即扬竿。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:海鲢常在水流交汇处、礁石区、红树林边缘等区域活动，这些地方往往食物丰富，是理想的钓点。",
+    "根据鱼情选择拟饵:根据水深、水色、鱼的活跃度等因素选择合适的拟饵类型、颜色和大小。通常情况下，小鱼型拟饵和亮片类拟饵效果较好。",
+    "掌握正确的操作手法:不同的拟饵和钓法需要不同的操作手法，要根据实际情况灵活调整，多尝试不同的抽动和回收方式。",
+    "注意扬竿时机:海鲢咬口凶猛，但有时也比较谨慎，要仔细观察鱼讯，抓住最佳扬竿时机，避免脱钩。",
+    "合理搭配钓组:根据目标鱼的大小和钓场环境选择合适的鱼竿、线组和鱼钩，确保钓组强度足够应对海鲢的冲击力。"
+  ],
+  "recommended_spots": "近海礁石区、海湾、河口、红树林、码头、防波堤",
+  "distribution": [],
+  "similar_fish": [
+    "tarpon(大西洋海鲢)",
+    "ladyfish(短吻海鲢)",
+    "oxeyeherring(大眼海鲢)",
+    "milkfish(虱目鱼)",
+    "barracuda(梭鱼)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-yan-hai-lian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/da-yan-hai-lian-0-c623de58.webp",
+      "https://fishweather.cn/asset-images/catch/da-yan-hai-lian-1-2c3d5f03.webp",
+      "https://fishweather.cn/asset-images/catch/da-yan-hai-lian-2-606a4b50.webp",
+      "https://fishweather.cn/asset-images/catch/da-yan-hai-lian-3-74ae31f7.webp",
+      "https://fishweather.cn/asset-images/catch/da-yan-hai-lian-4-ecde78ed.webp"
+    ]
+  },
+  "profile_text_sha256": "61a89d549cc80641d38a865a762f13b94088f8a98136aa027496b389a9ac8bce",
+  "raw_line_count": 135,
+  "local_dir": "by_family/海鲢科/da-yan-hai-lian_大眼海鲢",
+  "local_images": {
+    "fish": [
+      "by_family/海鲢科/da-yan-hai-lian_大眼海鲢/images/main.webp"
+    ],
+    "catch": []
+  }
+}

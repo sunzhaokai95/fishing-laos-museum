@@ -1,0 +1,95 @@
+{
+  "name": "斑点叉尾鮰",
+  "slug": "ban-dian-cha-wei-hui",
+  "source_url": "https://fishweather.cn/fish/ban-dian-cha-wei-hui",
+  "list_page": 2,
+  "list_position": 45,
+  "scientific_name": "Ictalurus punctatus",
+  "aliases": "沟鲶、美国鲶鱼、河鲶、钳鱼、频道鲶",
+  "headline": "斑点叉尾鮰怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部粗圆，后部侧扁。头中等大，稍平扁。吻圆钝。口大，端位，下颌稍突出，口裂宽大。眼小，侧上位。须4对，鼻须短，颌须最长，超过胸鳍基部。体表光滑无鳞。背鳍1个，位于体前部，具硬棘1根和软条6-7根。胸鳍左右各1个，具硬棘1根和软条8-9根。脂鳍1个，位于背鳍后方，小而肉质。臀鳍长，软条24-29根。尾鳍深叉形。体",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "鮰科",
+    "水层": "底层,中下层",
+    "食性": "杂食性，食性广而杂，幼鱼阶段主要摄食浮游动物、水生昆虫幼虫等，成鱼阶段食性广泛，包括小鱼、虾、贝类、水生昆虫、底栖无脊椎动物、腐肉、植物碎屑及人工饲料等。具有较强的掠食性。",
+    "栖息环境": "主要栖息于江河、湖泊、水库等缓流水体中，也常见于池塘、沟渠等人工水域。喜好清洁、溶氧量高的水体，常在砾石或沙质底质的区域",
+    "体长": "130",
+    "体重": "30",
+    "寿命": "寿命较长，自然条件下可达10-20年，人工养殖条件下，若管理得当，寿命也较长。",
+    "适温": "20-30"
+  },
+  "bait_options": [
+    "鸡肝",
+    "猪肝",
+    "鸡肠",
+    "商品鲶鱼饵料",
+    "玉米粒（发酵玉米）",
+    "红薯（蒸熟）",
+    "麦麸",
+    "菜饼",
+    "颗粒饲料（膨化饲料）",
+    "面包虫"
+  ],
+  "float_signals": [
+    "持续点动",
+    "：",
+    "浮漂出现连续轻微的点动或颤动，幅度小，频率快，可能是小鱼闹窝或斑点叉尾鮰轻微触碰饵料，可稍等片刻再扬竿，或主动逗钓。",
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，通常是斑点叉尾鮰吞饵死口，是清晰的扬竿信号。",
+    "顿口",
+    "：",
+    "浮漂快速有力下顿1-3目，幅度明显，是斑点叉尾鮰咬钩的典型信号，需及时扬竿。",
+    "缓升",
+    "：",
+    "浮漂缓慢上升1-2目，可能是斑点叉尾鮰将饵料拱起或轻微吸食，多为轻口信号，需轻扬竿。",
+    "移位",
+    "：",
+    "浮漂缓慢或快速横向移动，或不规则晃动，可能是斑点叉尾鮰试探或拖动饵料，需密切关注，适时扬竿。"
+  ],
+  "practical_tips": [
+    "选择合适钓位:斑点叉尾鮰喜好栖息于水底，常在水底障碍物附近活动，如乱石堆、树桩、沉船等，选择这些区域作为钓位，中鱼率更高。",
+    "重窝诱鱼:斑点叉尾鮰食量大，诱鱼效果明显。可提前打重窝，使用颗粒饲料、菜饼、麦麸等混合饵料打窝，持续诱鱼。",
+    "荤饵为主:斑点叉尾鮰喜食荤腥饵料，使用鸡肝、猪肝、鸡肠等腥味重的饵料，更能吸引其咬钩。",
+    "夜钓效果佳:斑点叉尾鮰夜间觅食活跃，夜钓是提高渔获量的有效方法，可使用夜光漂或电子漂。",
+    "粗线大钩:斑点叉尾鮰力气大，冲击力强，垂钓时需使用粗线大钩，避免切线跑鱼。"
+  ],
+  "recommended_spots": "水库、湖泊、江河缓流区、池塘、人工养殖塘",
+  "distribution": [
+    "广东省",
+    "广西壮族自治区",
+    "海南省"
+  ],
+  "similar_fish": [
+    "鲶鱼",
+    "南方鲶鱼",
+    "胡子鲶",
+    "革胡子鲶",
+    "叉尾鮰"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ban-dian-cha-wei-hui.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ban-dian-cha-wei-hui-0-253484a8.webp",
+      "https://fishweather.cn/asset-images/catch/ban-dian-cha-wei-hui-1-9850c6f3.webp",
+      "https://fishweather.cn/asset-images/catch/ban-dian-cha-wei-hui-2-01c34e58.webp",
+      "https://fishweather.cn/asset-images/catch/ban-dian-cha-wei-hui-3-3a58903e.webp",
+      "https://fishweather.cn/asset-images/catch/ban-dian-cha-wei-hui-4-4f1fb5a2.webp"
+    ]
+  },
+  "profile_text_sha256": "e2662f804ff2231d1cd37671d16deb0231cb35661bb440dd98dfb1d45190830f",
+  "raw_line_count": 141,
+  "local_dir": "by_family/鮰科/ban-dian-cha-wei-hui_斑点叉尾鮰",
+  "local_images": {
+    "fish": [
+      "by_family/鮰科/ban-dian-cha-wei-hui_斑点叉尾鮰/images/main.webp"
+    ],
+    "catch": []
+  }
+}

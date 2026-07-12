@@ -1,0 +1,56 @@
+{
+  "name": "鳡鱼",
+  "slug": "gan-yu",
+  "source_url": "https://fishweather.cn/fish/gan-yu",
+  "list_page": 2,
+  "list_position": 25,
+  "scientific_name": "Elopichthys bambusa",
+  "aliases": "黄鲇、黄颊鱼、竿鱼、水老虎",
+  "headline": "鳡鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型elongated,略微侧扁。头部长而尖，口大，端位，斜裂。下颌略突出。眼小，位于头部上方侧面。无须。鳞片细小，侧线完全且平直。体色银白色，背部略呈灰色。各鳍透明无色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中上层",
+    "食性": "肉食性，性情凶猛，主要捕食鱼类。",
+    "栖息环境": "喜栖息于江河缓流或静水水域的中上层，尤其喜欢水质清澈、溶氧量高的江河上游和水库等水域。",
+    "体长": "200 cm",
+    "体重": "80 kg",
+    "寿命": "寿命长，可达20年以上。",
+    "适温": "18-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "翘嘴红鲌",
+    "鳜鱼",
+    "鳡鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/gan-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/gan-yu-0-57d3faaa.webp",
+      "https://fishweather.cn/asset-images/catch/gan-yu-1-a87c63e3.webp",
+      "https://fishweather.cn/asset-images/catch/gan-yu-2-d86417d8.webp",
+      "https://fishweather.cn/asset-images/catch/gan-yu-3-e3912a47.webp",
+      "https://fishweather.cn/asset-images/catch/gan-yu-4-fa8c6f22.webp"
+    ]
+  },
+  "profile_text_sha256": "09223fcc7a39e572187621c1df90959b13d4b16503b8dd443b32b28a934bd024",
+  "raw_line_count": 97,
+  "local_dir": "by_family/鲤科/gan-yu_鳡鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/gan-yu_鳡鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

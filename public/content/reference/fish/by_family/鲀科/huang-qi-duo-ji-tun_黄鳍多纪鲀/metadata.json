@@ -1,0 +1,92 @@
+{
+  "name": "黄鳍多纪鲀",
+  "slug": "huang-qi-duo-ji-tun",
+  "source_url": "https://fishweather.cn/fish/huang-qi-duo-ji-tun",
+  "list_page": 8,
+  "list_position": 180,
+  "scientific_name": "Takifugu xanthopterus",
+  "aliases": "鸡泡鱼、气鼓鱼、河豚、乖鱼",
+  "headline": "黄鳍多纪鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，稍侧扁，腹部膨大时呈球形。头中等大，吻短钝。口小，端位，牙齿愈合成板状。眼小，侧位。鳃孔小，位于胸鳍前方。体表光滑无鳞，皮肤松弛。背鳍、臀鳍相对，位于身体后部；胸鳍圆形；尾鳍截形或稍圆形。体背部灰褐色或棕褐色，腹部白色。最显著的特征是各鳍均为鲜黄色，故名黄鳍东方鲀。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鲀科",
+    "水层": "底层,近底层",
+    "食性": "肉食性为主，主要摄食底栖无脊椎动物，如虾、蟹、贝类、蠕虫等，也捕食小型鱼类。",
+    "栖息环境": "近海沿岸，常栖息于岩礁、砂砾或泥沙底质海区，也进入河口咸淡水区域。",
+    "体长": "40 cm",
+    "体重": "1.5 kg",
+    "寿命": "寿命较长，一般可达5-8年以上，在适宜的环境条件下，甚至更长。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "虾肉",
+    "蟹肉",
+    "贝肉（蛤蜊肉",
+    "海虹肉等）",
+    "鱿鱼肉",
+    "小鱼肉块",
+    "海মাছ肉",
+    "南极虾",
+    "海蚯蚓",
+    "沙蚕",
+    "虾砖"
+  ],
+  "float_signals": [
+    "点动漂",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是黄鳍东方鲀在试探性地触碰饵料。",
+    "黑漂",
+    "：",
+    "浮漂直接快速沉入水中，消失不见，表示鱼已吞食饵料，是扬竿的明显信号。",
+    "顿口下沉",
+    "：",
+    "浮漂出现快速有力的下顿动作，随即没入水中，这是黄鳍东方鲀咬钩的典型信号。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而持续地向下沉，可能是黄鳍东方鲀正在试探或吸食饵料。",
+    "横向移动",
+    "：",
+    "浮漂在水面或水下出现横向移动，可能是黄鳍东方鲀咬住饵料后游动。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:黄鳍东方鲀喜欢栖息在岩礁区和海底复杂地形处，这些地方往往食物丰富，是理想的钓点。",
+    "使用腥味饵料:黄鳍东方鲀是肉食性鱼类，对腥味饵料非常敏感，使用新鲜的虾肉、鱼肉等腥味饵料能有效提高诱鱼效果。",
+    "注意观察漂相:黄鳍东方鲀咬钩动作相对谨慎，漂相可能比较轻微，需要仔细观察浮漂的每一个细微变化，及时提竿。",
+    "灵活运用逗钓:在底钓时，可以适当进行逗钓，通过轻微提动鱼竿，使饵料在海底呈现动态，吸引黄鳍东方鲀的注意。",
+    "注意安全:黄鳍东方鲀属于河豚，部分内脏和血液有毒，垂钓时注意安全，避免直接接触鱼体，处理时要小心谨慎，不建议食用。"
+  ],
+  "recommended_spots": "岩礁区、码头、防波堤、海湾、近岸浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "暗纹东方鲀",
+    "红鳍东方鲀",
+    "弓斑东方鲀",
+    "豹纹东方鲀",
+    "星点东方鲀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huang-qi-duo-ji-tun.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/huang-qi-duo-ji-tun-0-91328e0a.webp",
+      "https://fishweather.cn/asset-images/catch/huang-qi-duo-ji-tun-1-b8d1e178.webp",
+      "https://fishweather.cn/asset-images/catch/huang-qi-duo-ji-tun-2-1af3fb65.webp",
+      "https://fishweather.cn/asset-images/catch/huang-qi-duo-ji-tun-3-4cf5db58.webp",
+      "https://fishweather.cn/asset-images/catch/huang-qi-duo-ji-tun-4-7766aec0.webp"
+    ]
+  },
+  "profile_text_sha256": "e887fc08b415171cabc968e77acc9bc3aa8122690bfc4ab20f2a5bb61c98bbbb",
+  "raw_line_count": 134,
+  "local_dir": "by_family/鲀科/huang-qi-duo-ji-tun_黄鳍多纪鲀",
+  "local_images": {
+    "fish": [
+      "by_family/鲀科/huang-qi-duo-ji-tun_黄鳍多纪鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

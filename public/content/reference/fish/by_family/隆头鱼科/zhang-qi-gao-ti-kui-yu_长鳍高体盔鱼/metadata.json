@@ -1,0 +1,52 @@
+{
+  "name": "长鳍高体盔鱼",
+  "slug": "zhang-qi-gao-ti-kui-yu",
+  "source_url": "https://fishweather.cn/fish/zhang-qi-gao-ti-kui-yu",
+  "list_page": 18,
+  "list_position": 414,
+  "scientific_name": "Pteragogus aurigarius",
+  "aliases": "未知",
+  "headline": "长鳍高体盔鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "金丝海龙体延长而侧扁，呈纺锤形。头部中等大小，吻尖。眼睛较大，位于头部上方。口小，端位。体被栉鳞，侧线完全。背鳍连续，具硬棘和软条；臀鳍短小；胸鳍圆形；尾鳍截形。体色多变，通常为黄褐色至红褐色，体侧有多条金色或白色纵纹，如同丝线，故名金丝海龙。各鳍颜色与体色相近，有时边缘略带浅色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "隆头鱼科",
+    "水层": "底层,近底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如小型甲壳类、多毛类、软体动物等。也会捕食小型鱼类。",
+    "栖息环境": "栖息于珊瑚礁和岩礁区域，通常在水深1-30米的海域活动。喜欢在珊瑚丛、海藻床或岩石缝隙中寻找庇护。",
+    "体长": "15 cm",
+    "体重": null,
+    "寿命": "寿命相对较短，一般为2-5年，具体寿命受环境和天敌等因素影响。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "丝鳍鹦鲷",
+    "বিভিন্নвидов鳚科鱼类(多种鳚科鱼类)",
+    "বিভিন্নвидов海龙科鱼类(多种海龙科鱼类)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhang-qi-gao-ti-kui-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhang-qi-gao-ti-kui-yu-0-d1208c8c.webp"
+    ]
+  },
+  "profile_text_sha256": "c2047343ff65d460bb599dd0bebfe02569e5cb93d97410b907a83ca97d2c720a",
+  "raw_line_count": 44,
+  "local_dir": "by_family/隆头鱼科/zhang-qi-gao-ti-kui-yu_长鳍高体盔鱼",
+  "local_images": {
+    "fish": [
+      "by_family/隆头鱼科/zhang-qi-gao-ti-kui-yu_长鳍高体盔鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

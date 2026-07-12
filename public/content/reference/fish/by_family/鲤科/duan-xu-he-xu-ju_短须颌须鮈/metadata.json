@@ -1,0 +1,90 @@
+{
+  "name": "短须颌须鮈",
+  "slug": "duan-xu-he-xu-ju",
+  "source_url": "https://fishweather.cn/fish/duan-xu-he-xu-ju",
+  "list_page": 5,
+  "list_position": 119,
+  "scientific_name": "Gnathopogon imberbis",
+  "aliases": "麻条子、沙鮈、须条子",
+  "headline": "短须颌须鮈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，前部近圆筒形，后部侧扁。头稍大，略平扁。吻钝圆。口下位，呈弧形。须退化或仅留痕迹。眼较大，侧上位。鳞片较大，侧线完全。体背部灰褐色，体侧银白色，腹部白色。背鳍和尾鳍灰黑色，其他鳍为浅色。体侧中央常有一条不明显的浅色纵带。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层,中下层",
+    "食性": "杂食性，主要摄食底栖无脊椎动物、藻类、植物碎屑等",
+    "栖息环境": "生活于砾石底质的溪流或江河缓流处",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为2-3年",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓",
+    "面包屑",
+    "米饭粒",
+    "商品鲫鱼饵料（腥香型）",
+    "麸皮",
+    "玉米面",
+    "豆渣",
+    "藻类",
+    "水蚯蚓"
+  ],
+  "float_signals": [
+    "上顶",
+    "：",
+    "浮漂缓慢上顶，可能是鱼拖动饵料",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼吸食饵料",
+    "加速下沉",
+    "：",
+    "浮漂突然加速下沉或直接黑漂",
+    "移位",
+    "：",
+    "七星漂出现横向移动",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小，频率不高"
+  ],
+  "practical_tips": [
+    "选择水流缓慢的浅滩或砾石滩",
+    "使用小号钩细线，提高灵敏度",
+    "饵料宜小而精，投喂精准",
+    "注意观察细微漂相，及时提竿",
+    "走钓结合，扩大搜索范围"
+  ],
+  "recommended_spots": "溪流、河流缓流段、山涧小溪",
+  "distribution": [],
+  "similar_fish": [
+    "麦穗鱼",
+    "棒花鱼",
+    "鱲鱼",
+    "细鳞鱲"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/duan-xu-he-xu-ju.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/duan-xu-he-xu-ju-0-fcdf4f8f.webp",
+      "https://fishweather.cn/asset-images/catch/duan-xu-he-xu-ju-1-0f7cc309.webp",
+      "https://fishweather.cn/asset-images/catch/duan-xu-he-xu-ju-2-ccaf7b1c.webp",
+      "https://fishweather.cn/asset-images/catch/duan-xu-he-xu-ju-3-f3b93c4a.webp",
+      "https://fishweather.cn/asset-images/catch/duan-xu-he-xu-ju-4-437232c5.webp"
+    ]
+  },
+  "profile_text_sha256": "73cdca87f13fca220d8ec516e2203b69be441191604cd3319656b4965da79022",
+  "raw_line_count": 134,
+  "local_dir": "by_family/鲤科/duan-xu-he-xu-ju_短须颌须鮈",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/duan-xu-he-xu-ju_短须颌须鮈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

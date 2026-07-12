@@ -1,0 +1,90 @@
+{
+  "name": "黄鲫",
+  "slug": "huang-ji",
+  "source_url": "https://fishweather.cn/fish/huang-ji",
+  "list_page": 7,
+  "list_position": 149,
+  "scientific_name": "Setipinna tenuifilis",
+  "aliases": "刀鱼、海刀鱼、白刀鱼、凤尾",
+  "headline": "黄鲫怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体形延长而侧扁，呈带状。头小而侧扁。吻突出，尖。口大，下位，口裂倾斜。上颌骨后端伸达眼后缘之后。眼大，侧上位。脂眼睑发达。体背部灰蓝色，体侧及腹部银白色。胸鳍长，镰刀形；尾鳍叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲱形目",
+    "科": "鳀科",
+    "水层": "中下层,近底层",
+    "食性": "肉食性，主要摄食小型鱼类、甲壳类等",
+    "栖息环境": "近海浅水区，河口咸淡水",
+    "体长": "40 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [
+    "沙蚕",
+    "虾肉",
+    "小鱼段",
+    "鱿鱼须",
+    "鱼肉块",
+    "海蚯蚓",
+    "南极虾",
+    "磷虾",
+    "鱼粉饵料",
+    "商品海钓饵料"
+  ],
+  "float_signals": [
+    "手感沉重",
+    "：",
+    "手持海竿或矶竿时，感觉到竿体突然变得沉重，表明鱼已咬钩。",
+    "竿稍快速回弹",
+    "：",
+    "在拖钓过程中，如果竿稍突然快速回弹，可能是鱼咬钩后又迅速吐钩，需要注意观察。",
+    "竿尖大幅度弯曲",
+    "：",
+    "海竿竿尖突然大幅度弯曲，并持续抖动，表明鱼已咬死钩，需要及时扬竿。",
+    "竿尖点动",
+    "：",
+    "海竿竿尖出现连续轻微的点动，幅度小，频率快，可能是鱼试探性咬钩。",
+    "线轮出线",
+    "：",
+    "使用拖钓轮时，鱼咬钩后可能会拉动线轮出线，发出“哒哒哒”的声音。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:凤尾鱼常在近岸浅水区活动，选择水流缓慢、饵料丰富的区域。",
+    "使用串钩多饵:串钩可以挂多枚饵料，增加诱鱼范围和机会。",
+    "慢速拖动或逗钓:凤尾鱼喜欢追逐动态饵料，可采用慢速拖动或逗钓的方式。",
+    "注意观察竿尖:海竿钓法竿尖灵敏度高，注意观察竿尖的细微动作。",
+    "根据潮汐变化调整钓位:涨潮时鱼群可能靠近岸边，退潮时则可能退至较深水域。"
+  ],
+  "recommended_spots": "近海浅水区、河口、海湾、码头、防波堤、沙滩",
+  "distribution": [],
+  "similar_fish": [
+    "鲚鱼",
+    "长颌鲚",
+    "蓝刀鱼",
+    "海鲢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huang-ji.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/huang-ji-0-9c518192.webp",
+      "https://fishweather.cn/asset-images/catch/huang-ji-1-68b37c22.webp",
+      "https://fishweather.cn/asset-images/catch/huang-ji-2-80074348.webp",
+      "https://fishweather.cn/asset-images/catch/huang-ji-3-79d83723.webp",
+      "https://fishweather.cn/asset-images/catch/huang-ji-4-95eebdd9.webp"
+    ]
+  },
+  "profile_text_sha256": "3fa849f14374ea18c7f8097951c628cd594508b375e5814de795d82e1f51729c",
+  "raw_line_count": 134,
+  "local_dir": "by_family/鳀科/huang-ji_黄鲫",
+  "local_images": {
+    "fish": [
+      "by_family/鳀科/huang-ji_黄鲫/images/main.webp"
+    ],
+    "catch": []
+  }
+}

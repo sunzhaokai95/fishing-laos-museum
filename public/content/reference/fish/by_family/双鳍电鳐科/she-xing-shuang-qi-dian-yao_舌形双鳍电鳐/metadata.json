@@ -1,0 +1,51 @@
+{
+  "name": "舌形双鳍电鳐",
+  "slug": "she-xing-shuang-qi-dian-yao",
+  "source_url": "https://fishweather.cn/fish/she-xing-shuang-qi-dian-yao",
+  "list_page": 29,
+  "list_position": 693,
+  "scientific_name": "Narcine lingula",
+  "aliases": "东方电鳐、电板鱼(泛指电鳐)",
+  "headline": "舌形双鳍电鳐怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体盘近圆形至椭圆形，体宽略大于体长，厚而柔软。吻端圆形。眼小，位于头背侧。喷水孔大，位于眼后方。鳃孔5对，位于体盘腹面。尾部粗壮，长度大于体盘长度。具两个背鳍，位于尾部上方。尾鳍发达，近三角形。体色多为棕褐色或灰色，腹面灰白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "电鳐目",
+    "科": "双鳍电鳐科",
+    "水层": "底层",
+    "食性": "肉食性，主要以底栖无脊椎动物，如环节动物、甲壳动物为食。",
+    "栖息环境": "主要栖息于沿海沙泥底质的浅水海域。",
+    "体长": "30 cm",
+    "体重": null,
+    "寿命": "数据暂无详细描述。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "那氏电鳐",
+    "弓头电鳐",
+    "其他电鳐科鱼类",
+    "团扇鳐科鱼类"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/she-xing-shuang-qi-dian-yao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "fa64bf45a579ff9509b9839983be4603b51ddaf4478f4b8fd5d3c91c586f934d",
+  "raw_line_count": 29,
+  "local_dir": "by_family/双鳍电鳐科/she-xing-shuang-qi-dian-yao_舌形双鳍电鳐",
+  "local_images": {
+    "fish": [
+      "by_family/双鳍电鳐科/she-xing-shuang-qi-dian-yao_舌形双鳍电鳐/images/main.webp"
+    ],
+    "catch": []
+  }
+}

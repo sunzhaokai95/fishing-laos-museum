@@ -1,0 +1,89 @@
+{
+  "name": "中华鳅",
+  "slug": "zhong-hua-qiu",
+  "source_url": "https://fishweather.cn/fish/zhong-hua-qiu",
+  "list_page": 8,
+  "list_position": 184,
+  "scientific_name": "Cobitis sinensis",
+  "aliases": "花鳅、沙锥、钢鳅、尖嘴泥鳅",
+  "headline": "中华鳅怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，前部近圆筒形，后部侧扁。头侧扁，吻尖。眼小，位于头侧前方。口下位，呈马蹄形，唇厚，具发达的肉质须3对，吻须2对，口角须1对。体被细小鳞片，埋于皮下。侧线完全。体背部灰褐色或黄褐色，腹部浅黄色。体侧具多行黑色斑点或斑纹，背鳍和尾鳍具黑色斑点形成的横纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鳅科",
+    "水层": "底层",
+    "食性": "杂食性，主要摄食底栖无脊椎动物、小型昆虫幼虫、藻类、植物碎屑等。",
+    "栖息环境": "生活于底质为砂砾或石砾的江河缓流或静水水域，也见于湖泊、池塘等。",
+    "体长": "15",
+    "体重": "0.05",
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "15-25"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓",
+    "面包屑",
+    "米饭粒",
+    "鸡肝泥",
+    "虾粉",
+    "麸皮",
+    "商品鲫鱼饵料（腥味）",
+    "煮熟的玉米渣",
+    "藻类碎屑"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，是较为明显的吃口信号。",
+    "横向移位",
+    "：",
+    "浮漂在水面上出现横向的轻微移动，可能是中华沙鳅拖动饵料。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而匀速地向下沉没，可能是中华沙鳅吸食饵料后缓慢游动。",
+    "轻微点动",
+    "：",
+    "浮漂出现轻微的、快速的点动，幅度很小，可能是中华沙鳅试探性触碰饵料。",
+    "上浮",
+    "：",
+    "浮漂先下沉后缓慢上浮，可能是中华沙鳅吃饵后抬头。"
+  ],
+  "practical_tips": [
+    "选择砂石底质或水草丰富的钓点。",
+    "使用腥香型饵料，如红虫、蚯蚓等。",
+    "钓组宜轻巧灵敏，线组和鱼钩要细小。",
+    "采用轻提逗钓的技巧，增加饵料的动态诱鱼效果。",
+    "仔细观察浮漂的细微动作，轻口轻抬竿，避免大力抽竿。"
+  ],
+  "recommended_spots": "溪流、河流缓流段、湖泊浅滩、池塘",
+  "distribution": [],
+  "similar_fish": [
+    "泥鳅",
+    "棒花鱼",
+    "条鳅",
+    "麦穗鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhong-hua-qiu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhong-hua-qiu-0-dc725d9d.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-qiu-1-0f9feeaa.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-qiu-2-9ddf382e.webp",
+      "https://fishweather.cn/asset-images/catch/zhong-hua-qiu-3-4b7fbe65.webp"
+    ]
+  },
+  "profile_text_sha256": "9826898f4aa005946e924e1ceb7814f4990b7a887c19112473a49c936dd61246",
+  "raw_line_count": 122,
+  "local_dir": "by_family/鳅科/zhong-hua-qiu_中华鳅",
+  "local_images": {
+    "fish": [
+      "by_family/鳅科/zhong-hua-qiu_中华鳅/images/main.webp"
+    ],
+    "catch": []
+  }
+}

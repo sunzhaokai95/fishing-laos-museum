@@ -1,0 +1,91 @@
+{
+  "name": "尖头大吻鱥",
+  "slug": "jian-tou-da-wen-gui",
+  "source_url": "https://fishweather.cn/fish/jian-tou-da-wen-gui",
+  "list_page": 3,
+  "list_position": 56,
+  "scientific_name": "Rhynchocypris oxycephalus",
+  "aliases": "洛氏鱥、柳根鱼、柳根子、拉氏大吻鱥",
+  "headline": "尖头大吻鱥怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "中华细鲫体型细长，略呈纺锤形，体侧扁。头部较小，吻短而钝圆。口端位，口裂小。眼较大，侧上位。鳞片细小，侧线完全。体背部灰褐色，体侧及腹部银白色，体侧中央常有一条银白色纵带。各鳍浅灰色或淡黄色。体长一般不超过10厘米。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中上层",
+    "食性": "杂食性，主要以水生昆虫及其幼虫、小型甲壳类、藻类和植物碎屑为食。",
+    "栖息环境": "主要栖息于水流清澈、底质为砂砾的小型溪流、山涧溪流或河流的缓流区。",
+    "体长": "10 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为2-3年。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓（小型）",
+    "面包屑",
+    "米饭粒",
+    "商品鲫鱼饵料（腥香型）",
+    "麸皮",
+    "玉米面",
+    "豆渣",
+    "藻类饵料（模拟自然食性）",
+    "南极虾粉（少量添加）"
+  ],
+  "float_signals": [
+    "上顶",
+    "：",
+    "浮漂向上顶起，可能是鱼儿吞饵后抬头。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼儿吸食饵料后缓慢游动。",
+    "快速下顿",
+    "：",
+    "浮漂快速下顿，甚至直接黑漂，是鱼儿快速吞食的信号。",
+    "轻微点动",
+    "：",
+    "浮漂出现轻微而快速的点动，可能是鱼儿试探性触碰饵料。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼儿拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择清澈水域和缓流区作为钓点。",
+    "采用轻巧灵敏的钓具，提高钓组的灵敏度。",
+    "饵料宜小而精，模拟自然饵料。",
+    "勤抛竿逗钓，主动寻找鱼口。",
+    "注意观察漂相，及时轻柔提竿。"
+  ],
+  "recommended_spots": "小型溪流、山涧、河流缓流区、水库入水口、山塘",
+  "distribution": [],
+  "similar_fish": [
+    "麦穗鱼",
+    "棒花鱼",
+    "䱻",
+    "鱊",
+    "鳑鲏"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jian-tou-da-wen-gui.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/jian-tou-da-wen-gui-0-ff2e859f.webp",
+      "https://fishweather.cn/asset-images/catch/jian-tou-da-wen-gui-1-e764cd46.webp",
+      "https://fishweather.cn/asset-images/catch/jian-tou-da-wen-gui-2-52531ade.webp",
+      "https://fishweather.cn/asset-images/catch/jian-tou-da-wen-gui-3-cbbcde40.webp",
+      "https://fishweather.cn/asset-images/catch/jian-tou-da-wen-gui-4-0cdd8266.webp"
+    ]
+  },
+  "profile_text_sha256": "ad8d62caac2c518b4b47d7fa8d2cd71d77ecc155c28e80d12cc67847f7b51b55",
+  "raw_line_count": 133,
+  "local_dir": "by_family/鲤科/jian-tou-da-wen-gui_尖头大吻鱥",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/jian-tou-da-wen-gui_尖头大吻鱥/images/main.webp"
+    ],
+    "catch": []
+  }
+}

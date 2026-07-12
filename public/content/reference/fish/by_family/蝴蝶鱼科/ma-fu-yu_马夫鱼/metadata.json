@@ -1,0 +1,90 @@
+{
+  "name": "马夫鱼",
+  "slug": "ma-fu-yu",
+  "source_url": "https://fishweather.cn/fish/ma-fu-yu",
+  "list_page": 6,
+  "list_position": 139,
+  "scientific_name": "Heniochus acuminatus",
+  "aliases": "燕鱼、假人字蝶鱼、白关刀",
+  "headline": "马夫鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "长吻真刺蝶鱼体型呈卵圆形且侧扁，体色以白色为基调，背部自眼睛上方至背鳍前端、以及臀鳍和尾鳍为亮黄色。最显著的特征是其延长的丝状背鳍棘，如同旗帜般飘逸。眼睛上方有一条黑色条纹向下延伸至鳃盖后方，身体中部也有一条宽阔的黑色横带，尾柄处亦有一条黑色细纹。吻部突出且细长，适合在珊瑚礁缝隙中觅食。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "蝴蝶鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以珊瑚虫、藻类、小型无脊椎动物为食",
+    "栖息环境": "珊瑚礁区，潟湖，临海礁石区",
+    "体长": "25 cm",
+    "体重": null,
+    "寿命": "野外寿命估计为5-10年，人工饲养条件下，若环境适宜且管理得当，寿命可能超过10年。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [
+    "海藻",
+    "虾肉",
+    "小鱼肉",
+    "鱿鱼须",
+    "海胆黄",
+    "海参",
+    "贝肉",
+    "蛤蜊肉",
+    "海苔",
+    "磷虾"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微且连续的点动，幅度小，频率快，可能是鱼在试探或啄食饵料。",
+    "快沉",
+    "：",
+    "浮漂快速且有力地向下沉没，通常是鱼积极抢食，中鱼信号明显。",
+    "加速下沉后停顿",
+    "：",
+    "浮漂先加速下沉，然后突然停顿，可能是鱼已将饵料吞入口中，需要及时扬竿。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，可能是鱼吸食饵料后缓慢下沉。",
+    "横移",
+    "：",
+    "浮漂不规则地横向移动，可能是鱼拖动饵料或在水底游动。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:长吻真刺蝶鱼常栖息于珊瑚礁或岩礁附近，选择这些区域作为钓点。",
+    "控制钓棚深度:根据水深和鱼的活动水层调整钓棚深度，可通过浮漂和水中调整。",
+    "诱钓结合:可使用诱饵粉或颗粒诱饵提前打窝，增加诱鱼效果。",
+    "轻口慢提:长吻真刺蝶鱼吃口较轻，漂相出现后不要急于扬竿，可稍等片刻待鱼吞实后再轻柔扬竿。",
+    "注意安全:矶钓环境复杂，注意防滑，穿着防滑鞋，注意潮汐变化，确保安全。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁、防波堤、码头、外海矶",
+  "distribution": [],
+  "similar_fish": [
+    "黄鹂锦鱼",
+    "月眉蝶鱼",
+    "线纹蝴蝶鱼",
+    "印度洋帆鳍鲳鲹"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ma-fu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ma-fu-yu-0-a5b1b597.webp",
+      "https://fishweather.cn/asset-images/catch/ma-fu-yu-1-d9643166.webp",
+      "https://fishweather.cn/asset-images/catch/ma-fu-yu-2-a95e0902.webp",
+      "https://fishweather.cn/asset-images/catch/ma-fu-yu-3-fac26f36.webp",
+      "https://fishweather.cn/asset-images/catch/ma-fu-yu-4-0e85be54.webp"
+    ]
+  },
+  "profile_text_sha256": "a80cd0d243981baf703684c9efceff56afe9cdc69ac892062238025ad32898c9",
+  "raw_line_count": 132,
+  "local_dir": "by_family/蝴蝶鱼科/ma-fu-yu_马夫鱼",
+  "local_images": {
+    "fish": [
+      "by_family/蝴蝶鱼科/ma-fu-yu_马夫鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "name": "台湾铲颌鱼",
+  "slug": "tai-wan-chan-he-yu",
+  "source_url": "https://fishweather.cn/fish/tai-wan-chan-he-yu",
+  "list_page": 13,
+  "list_position": 298,
+  "scientific_name": "Varicorhinus barbatulus",
+  "aliases": "鲮鱼、倒刺巴、坑坚、石鲮",
+  "headline": "台湾铲颌鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，呈纺锤形。头中等大，吻钝圆，吻皮发达，覆盖上唇。口下位，呈马蹄形，唇厚，下唇具发达的乳突。须2对，吻须较粗长，颌须短小。眼小，侧上位。鳞片中等大，侧线完全。背鳍起点位于腹鳍起点前方，具硬刺，后缘具锯齿。尾鳍深叉形。体背部灰褐色，体侧及腹部银白色，各鳍灰黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "硬骨鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性，主要摄食底栖藻类、水生昆虫幼虫、小型甲壳类及有机碎屑等。",
+    "栖息环境": "生活于山区溪流、江河的下层水域，喜栖息于水流湍急、底质为砾石或沙石的河段。",
+    "体长": "40",
+    "体重": "1.5",
+    "寿命": "寿命较长，可达10年以上。",
+    "适温": "18-25"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包虫",
+    "玉米粒",
+    "麦粒",
+    "商品饵（腥香型）",
+    "肝味饵",
+    "薯味饵",
+    "藻类饵",
+    "昆虫粉饵"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，为鱼吞食死口的信号。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿一下，为鱼咬钩的明显信号。",
+    "上顶",
+    "：",
+    "浮漂向上顶起，可能为鱼将饵料顶起或抬头吸食。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能为鱼轻口试探或吸食饵料。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能为鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:倒刺鲃喜好栖息于水流湍急、乱石堆积、水草丛生的地方，这些都是理想的钓位。",
+    "灵活运用钓法:根据不同的水情和鱼情，灵活选择溪流竿钓或路亚钓等钓法。",
+    "饵料的针对性:根据倒刺鲃的食性，选择天然饵料或腥香型商品饵，提高诱鱼效果。",
+    "轻手轻脚:在溪流或浅滩作钓时，动作要轻缓，避免惊扰到鱼。",
+    "注意安全:山区溪流作钓需注意防滑，选择安全可靠的钓位。"
+  ],
+  "recommended_spots": "山区溪流、江河浅滩、水库入水口、峡谷河流",
+  "distribution": [
+    "台湾省"
+  ],
+  "similar_fish": [
+    "鲮鱼",
+    "鲤鱼",
+    "鲫鱼",
+    "鳊鱼",
+    "鲢鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tai-wan-chan-he-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/tai-wan-chan-he-yu-0-44bf18de.webp",
+      "https://fishweather.cn/asset-images/catch/tai-wan-chan-he-yu-1-d788cd72.webp"
+    ]
+  },
+  "profile_text_sha256": "bd63b454ba59fee871a470ab4d5423688e3e0a07be31aab7c9a11cae4a6c67c1",
+  "raw_line_count": 103,
+  "local_dir": "by_family/鲤科/tai-wan-chan-he-yu_台湾铲颌鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/tai-wan-chan-he-yu_台湾铲颌鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

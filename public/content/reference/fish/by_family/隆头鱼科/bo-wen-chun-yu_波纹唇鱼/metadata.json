@@ -1,0 +1,52 @@
+{
+  "name": "波纹唇鱼",
+  "slug": "bo-wen-chun-yu",
+  "source_url": "https://fishweather.cn/fish/bo-wen-chun-yu",
+  "list_page": 20,
+  "list_position": 478,
+  "scientific_name": "Cheilinus undulatus",
+  "aliases": "苏眉鱼、拿破仑鱼、龙王鲷",
+  "headline": "波纹唇鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体型巨大而粗壮，略侧扁。头部轮廓突出，随着年龄增长，额头隆起尤为显著，形似拿破仑的帽子。唇部肥厚，故名唇鱼。体色会随年龄和性别而变化，幼鱼通常为浅绿色或棕色，成鱼则呈现鲜艳的蓝绿色、绿色或黄褐色，并带有深色波纹状斑纹。眼睛后方有两条黑色斜条纹，是显著的识别特征。鳞片大而明显。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "隆头鱼科",
+    "水层": "中层,底层",
+    "食性": "肉食性，主要捕食甲壳类动物、软体动物、棘皮动物（如海胆、海星）和小鱼，也以珊瑚为食",
+    "栖息环境": "珊瑚礁区，常栖息于清澈的潟湖和向海礁坡，幼鱼有时会在海草床或红树林中发现",
+    "体长": "230",
+    "体重": "190",
+    "寿命": "寿命长，可达30年以上，甚至有记录显示超过50年",
+    "适温": "24-30"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "隆头鹦哥鱼",
+    "曲纹唇鱼",
+    "条纹唇鱼",
+    "োভ唇鱼",
+    "绿唇鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bo-wen-chun-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "b42a77a417e99e852d21aa424607eab32ac5c013f067a3c25df1a33c7783e857",
+  "raw_line_count": 37,
+  "local_dir": "by_family/隆头鱼科/bo-wen-chun-yu_波纹唇鱼",
+  "local_images": {
+    "fish": [
+      "by_family/隆头鱼科/bo-wen-chun-yu_波纹唇鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

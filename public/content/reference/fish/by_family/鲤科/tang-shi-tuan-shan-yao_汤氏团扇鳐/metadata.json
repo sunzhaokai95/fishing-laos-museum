@@ -1,0 +1,50 @@
+{
+  "name": "汤氏团扇鳐",
+  "slug": "tang-shi-tuan-shan-yao",
+  "source_url": "https://fishweather.cn/fish/tang-shi-tuan-shan-yao",
+  "list_page": 22,
+  "list_position": 525,
+  "scientific_name": "Platyrhina tangi",
+  "aliases": "无",
+  "headline": "汤氏团扇鳐是保护动物吗？习性与识别图鉴",
+  "summary": "圆犁头鳐体盘近圆形，吻端钝圆。体盘宽度略大于体盘长度。眼小，位于头背面，眼间隔宽。喷水孔大，位于眼后方。鼻孔横列，鼻瓣发达。口小，下位，口弧形。牙细小，铺石状排列。鳃裂5对，位于胸鳍基底腹面。背鳍2个，无棘，第一背鳍位于腹鳍基底上方，第二背鳍较小，位于尾鳍起点前方。尾鳍发达，呈卵圆形。体背部棕褐色或灰褐色，腹部白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "主要以小型底栖无脊椎动物为食，如虾、蟹、贝类等。",
+    "栖息环境": "主要栖息于近岸浅海沙泥质海底，也见于岩礁区附近。",
+    "体长": "70 cm",
+    "体重": "5 kg",
+    "寿命": "寿命信息缺乏，推测与其他鳐类相似，可能在10年以上。",
+    "适温": "18-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "犁头鳐属其他种类",
+    "燕魟",
+    "鳐鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tang-shi-tuan-shan-yao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "529061f53510547999be16fe8c09ab41cb5b72071a09d660be2b5cce6068f967",
+  "raw_line_count": 35,
+  "local_dir": "by_family/鲤科/tang-shi-tuan-shan-yao_汤氏团扇鳐",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/tang-shi-tuan-shan-yao_汤氏团扇鳐/images/main.webp"
+    ],
+    "catch": []
+  }
+}

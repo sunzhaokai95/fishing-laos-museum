@@ -1,0 +1,79 @@
+{
+  "name": "似新亮丽鲷",
+  "slug": "shi-xin-liang-li-diao",
+  "source_url": "https://fishweather.cn/fish/shi-xin-liang-li-diao",
+  "list_page": 30,
+  "list_position": 712,
+  "scientific_name": "Neolamprologus similis",
+  "aliases": "无",
+  "headline": "似新亮丽鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "西米丽斯是一种小型而迷人的慈鲷，体长通常不超过5厘米。它们体型修长且侧扁，身体底色为浅米色或棕黄色，最显著的特征是遍布全身的垂直深棕色条纹，这些条纹从背部延伸至腹部，甚至会延伸到腹鳍和臀鳍上。眼睛相对较大，虹膜通常呈现美丽的蓝色。嘴巴小巧，位于吻端。背鳍和臀鳍长而连续，尾鳍呈圆形，整体形态优雅。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "底层",
+    "食性": "杂食性，在自然环境中主要以小型无脊椎动物、藻类、浮游生物和有机碎屑为食。在人工饲养条件下，接受多种人工饵料。",
+    "栖息环境": "主要栖息于坦噶尼喀湖的岩石沿岸地区，偏爱具有丰富蜗牛壳的区域。它们利用空的蜗牛壳作为庇护所和繁殖场所。",
+    "体长": "5 cm",
+    "体重": "0.01 kg",
+    "寿命": "在良好的饲养条件下，西米丽斯通常可以存活3-5年。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [
+    "丰年虾",
+    "鱼虫",
+    "丝蚯蚓",
+    "红线虫",
+    "微虫",
+    "螺旋藻粉",
+    "薄片饲料",
+    "颗粒饲料",
+    "冷冻红虫",
+    "卤虫卵",
+    "实战技巧",
+    "耐心观察，了解其活动规律",
+    "轻柔操作，避免惊吓",
+    "利用蜗牛壳进行诱导",
+    "选择合适的捞捕工具",
+    "保持水质稳定（水族箱捞捕时）",
+    "推荐钓点类型",
+    "水族箱、坦噶尼喀湖岩石区（理论上）",
+    "相似鱼种",
+    "多带Neolamprologus",
+    "短鲷Neolamprologus",
+    "其他Neolamprologus属慈鲷"
+  ],
+  "float_signals": [],
+  "practical_tips": [
+    "耐心观察，了解其活动规律",
+    "轻柔操作，避免惊吓",
+    "利用蜗牛壳进行诱导",
+    "选择合适的捞捕工具",
+    "保持水质稳定（水族箱捞捕时）"
+  ],
+  "recommended_spots": "水族箱、坦噶尼喀湖岩石区（理论上）",
+  "distribution": [],
+  "similar_fish": [
+    "多带Neolamprologus",
+    "短鲷Neolamprologus",
+    "其他Neolamprologus属慈鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shi-xin-liang-li-diao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "54e64876a7241d7bf55ed779e7fcf6cbd79c042a939e2bea71ab936c94099203",
+  "raw_line_count": 53,
+  "local_dir": "by_family/丽鱼科/shi-xin-liang-li-diao_似新亮丽鲷",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/shi-xin-liang-li-diao_似新亮丽鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

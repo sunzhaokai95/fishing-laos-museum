@@ -1,0 +1,52 @@
+{
+  "name": "迈氏条尾魟",
+  "slug": "mai-shi-tiao-wei-hong",
+  "source_url": "https://fishweather.cn/fish/mai-shi-tiao-wei-hong",
+  "list_page": 32,
+  "list_position": 768,
+  "scientific_name": "Taeniura meyeni",
+  "aliases": "黑斑黄貂鱼（英文俗名）、鲂鱼（误称）",
+  "headline": "迈氏条尾魟是保护动物吗？习性与识别图鉴",
+  "summary": "豹纹魟体盘近圆形，体盘宽度可达1.8米至3.3米，躯体扁平。体表光滑，背面呈黄褐色或橄榄色，遍布黑色或深棕色斑点，如同豹纹，故得名。腹面白色或浅色。尾部相对较短，呈鞭状，末端具毒刺，尾鳍退化。眼睛小，位于头部上方两侧。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "鳐形目",
+    "科": "魟科",
+    "水层": "底层",
+    "食性": "肉食性，主要以底栖无脊椎动物为食，包括螃蟹、虾、贝类、蠕虫等，有时也捕食小型鱼类。",
+    "栖息环境": "主要栖息于热带和亚热带珊瑚礁、潟湖、海湾以及沙质或岩石海底。偏好清澈水质和复杂地形，常在珊瑚礁附近巡游或埋藏于沙中。",
+    "体长": "330 cm",
+    "体重": "30 kg",
+    "寿命": "寿命较长，野生环境下估计可达20年以上，但具体寿命数据尚不完全明确。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "蓝点魟",
+    "牛尾魟",
+    "燕魟",
+    "赤魟",
+    "黄貂鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/mai-shi-tiao-wei-hong.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "39d33084982bce3cb74404b48b19e8a444ce56a414b50899ff9a0b3ec520883a",
+  "raw_line_count": 37,
+  "local_dir": "by_family/魟科/mai-shi-tiao-wei-hong_迈氏条尾魟",
+  "local_images": {
+    "fish": [
+      "by_family/魟科/mai-shi-tiao-wei-hong_迈氏条尾魟/images/main.webp"
+    ],
+    "catch": []
+  }
+}

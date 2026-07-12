@@ -1,0 +1,90 @@
+{
+  "name": "拉氏狼牙虾虎鱼",
+  "slug": "la-shi-lang-ya-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/la-shi-lang-ya-xia-hu-yu",
+  "list_page": 9,
+  "list_position": 210,
+  "scientific_name": "Odontamblyopus lacepedii",
+  "aliases": "喇蛄鱼、泥狗公、狗腿子、和尚鱼、癞蛤蟆鱼",
+  "headline": "拉氏狼牙虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部粗壮，后部侧扁。头极宽大平扁，吻短钝圆。眼小，退化，几乎消失。口大，斜裂，下颌突出。上下颌牙细小而尖。背鳍2个，连续，第一背鳍低矮，第二背鳍与臀鳍相对。胸鳍宽大，肉质。腹鳍愈合成吸盘。尾鳍长圆形。体裸露无鳞，皮肤光滑。体色灰褐色或棕褐色，腹部色浅。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型底栖无脊椎动物，如虾、蟹、小型鱼类、多毛类等。",
+    "栖息环境": "近海浅水区泥沙底质海域、河口、咸淡水水域及江河下游。",
+    "体长": "30 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命较短，一般为2-3年。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "贝肉",
+    "鱼肉块",
+    "鸡肝",
+    "鸭肠",
+    "商品腥味饵料",
+    "南极虾",
+    "小鱼干"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速下沉或直接没入水中，是明显的吞食信号。",
+    "快速下沉",
+    "：",
+    "浮漂缓慢下沉后突然加速下沉。",
+    "顿口",
+    "：",
+    "浮漂出现快速而有力的下顿，幅度较大。",
+    "持续抖动",
+    "：",
+    "浮漂出现连续而有力的抖动。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位，泥沙底质或有礁石的地方。",
+    "使用腥味较浓的饵料，提高诱鱼效果。",
+    "钓组沉底，确保饵料贴近水底。",
+    "注意观察漂相，抓住明显的吞食信号及时提竿。",
+    "根据潮汐变化选择合适的垂钓时间，涨潮或退潮时鱼活性较高。"
+  ],
+  "recommended_spots": "海边泥涂、河口、近海浅滩、码头、防波堤",
+  "distribution": [],
+  "similar_fish": [
+    "矛尾刺虾虎鱼",
+    "弹涂鱼",
+    "须鳗虾虎鱼",
+    "大弹涂鱼",
+    "斑点叉牙虾虎鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/la-shi-lang-ya-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/la-shi-lang-ya-xia-hu-yu-0-87e1042f.webp",
+      "https://fishweather.cn/asset-images/catch/la-shi-lang-ya-xia-hu-yu-1-e8235de2.webp",
+      "https://fishweather.cn/asset-images/catch/la-shi-lang-ya-xia-hu-yu-2-5997177e.webp",
+      "https://fishweather.cn/asset-images/catch/la-shi-lang-ya-xia-hu-yu-3-17bee9a2.webp"
+    ]
+  },
+  "profile_text_sha256": "fcbf8dc7775fdc92cdf061e755228af1307421205011a935d073bf373b4a1256",
+  "raw_line_count": 125,
+  "local_dir": "by_family/鰕虎科/la-shi-lang-ya-xia-hu-yu_拉氏狼牙虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/la-shi-lang-ya-xia-hu-yu_拉氏狼牙虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

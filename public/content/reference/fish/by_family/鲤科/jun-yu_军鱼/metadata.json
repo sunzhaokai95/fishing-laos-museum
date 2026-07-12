@@ -1,0 +1,51 @@
+{
+  "name": "军鱼",
+  "slug": "jun-yu",
+  "source_url": "https://fishweather.cn/fish/jun-yu",
+  "list_page": 4,
+  "list_position": 79,
+  "scientific_name": "Spinibarbus hollandi",
+  "aliases": "光倒刺鲃、黄娟、青棍、坑坚、粗鳞鱼、河坚鱼、光眼鱼、娟鱼",
+  "headline": "军鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体长，圆筒形，稍侧扁。头锥形，吻圆钝。口下位，马蹄形，唇厚，具发达的乳突。须2对，吻须较粗长。眼小，侧上位。鳞小，侧线完全。体背部灰褐色，腹部银白色。各鳍灰黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层,中层",
+    "食性": "杂食性，主要摄食藻类、水生昆虫、小型底栖动物及植物碎屑",
+    "栖息环境": "江河中上游多砾石或卵石的Rapids和潭涧中",
+    "体长": "80 cm",
+    "体重": "8 kg",
+    "寿命": "寿命较长，可达10年以上，具体寿命数据缺乏详细研究",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "南方鲇",
+    "黄颡鱼",
+    "长鳍吻鮈",
+    "淇河吻鮈"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jun-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "7fcca492011c5e44c9bee4a0567ce988621b93ea8f0312333e187df7bc79e15f",
+  "raw_line_count": 36,
+  "local_dir": "by_family/鲤科/jun-yu_军鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/jun-yu_军鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

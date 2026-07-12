@@ -1,0 +1,81 @@
+{
+  "name": "齿颌眶棘鲈",
+  "slug": "chi-he-kuang-ji-lu",
+  "source_url": "https://fishweather.cn/fish/chi-he-kuang-ji-lu",
+  "list_page": 22,
+  "list_position": 513,
+  "scientific_name": "Scolopsis ciliata",
+  "aliases": "拉丝鱼、丝鳍蜈蚣属",
+  "headline": "齿颌眶棘鲈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁。眼间隔凸起。前眶骨游离。前鳃盖骨具锯齿。体被栉鳞。侧线完全。背鳍和臀鳍具发达的鳞鞘。体背部棕红色，腹部银白色。体侧具数条蓝色纵带，幼鱼期纵带更明显。鳍黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "金线鱼科",
+    "水层": "底层",
+    "食性": "主要以小型底栖无脊椎动物为食，如甲壳类、软体动物等",
+    "栖息环境": "珊瑚礁区、岩礁区",
+    "体长": "25 cm",
+    "体重": null,
+    "寿命": "寿命较短，一般为3-5年",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "小虾肉",
+    "南极虾",
+    "海蚯蚓",
+    "沙蚕",
+    "鱼肉块",
+    "拟饵虾",
+    "软虫",
+    "亮片",
+    "小鱼型路亚",
+    "汲头钩+软饵",
+    "实战技巧",
+    "选择礁石缝隙和洞穴附近作为钓点",
+    "采用慢速匀速回收或结合停顿的手法",
+    "使用小型拟饵或天然饵料",
+    "注意感知轻微的鱼讯",
+    "使用较细的线组和小型鱼钩，提高隐蔽性",
+    "推荐钓点类型",
+    "珊瑚礁区、岩礁区、防波堤、码头附近礁石堆",
+    "相似鱼种",
+    "黄尾snapper",
+    "石斑鱼",
+    "鹦鹉鱼",
+    "雀鲷"
+  ],
+  "float_signals": [],
+  "practical_tips": [
+    "选择礁石缝隙和洞穴附近作为钓点",
+    "采用慢速匀速回收或结合停顿的手法",
+    "使用小型拟饵或天然饵料",
+    "注意感知轻微的鱼讯",
+    "使用较细的线组和小型鱼钩，提高隐蔽性"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、防波堤、码头附近礁石堆",
+  "distribution": [],
+  "similar_fish": [
+    "黄尾snapper",
+    "石斑鱼",
+    "鹦鹉鱼",
+    "雀鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/chi-he-kuang-ji-lu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "1233c749e15ba91c007578539448326cb0590a8425b3dc681d9088eb29bc7edd",
+  "raw_line_count": 54,
+  "local_dir": "by_family/金线鱼科/chi-he-kuang-ji-lu_齿颌眶棘鲈",
+  "local_images": {
+    "fish": [
+      "by_family/金线鱼科/chi-he-kuang-ji-lu_齿颌眶棘鲈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

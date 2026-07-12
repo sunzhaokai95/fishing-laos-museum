@@ -1,0 +1,52 @@
+{
+  "name": "胭脂鱼",
+  "slug": "yan-zhi-yu",
+  "source_url": "https://fishweather.cn/fish/yan-zhi-yu",
+  "list_page": 10,
+  "list_position": 218,
+  "scientific_name": "Myxocyprinus asiaticus",
+  "aliases": "火风、火麒麟、木叶盘、燕子鱼、紫鳊、刀片鱼、龙船、船丁子、翘嘴巴、胖子鱼、花船丁",
+  "headline": "胭脂鱼是保护动物吗？习性与识别图鉴",
+  "summary": "胭脂鱼体型独特而美丽，幼鱼时期体色鲜艳，呈胭脂红色，这也是其名称的由来。随着年龄增长，体色逐渐变为棕褐色或灰褐色，但仍保留着独特的体态。其最显著的特征是高耸的背鳍，形似船帆，几乎贯穿整个背部，非常发达。头部较小且圆钝，口唇肥厚，呈马蹄形。眼睛小，位于头部侧上方。身体侧扁且延长，呈纺锤形。鳞片细小而圆润。尾鳍呈叉形，但分",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "亚口鱼科",
+    "水层": "底层",
+    "食性": "胭脂鱼为杂食性鱼类，但偏向肉食性。幼鱼主要摄食水生昆虫、小型甲壳动物、底栖无脊椎动物等。成鱼食性范围更广，包括水生昆虫、小鱼虾、软体动物、藻类、植物碎屑等，也吞食少量腐殖质。",
+    "栖息环境": "主要栖息于长江上游干支流砾石底质、水流湍急的清澈江河中，喜好在水质清新、溶氧量高的环境中生活，也常出现于江河的深潭和砂石",
+    "体长": "130 cm",
+    "体重": "30 kg",
+    "寿命": "胭脂鱼是寿命很长的鱼类，在自然条件下，寿命可达数十年，甚至有报道称可超过50年。人工饲养条件下，若环境适宜，也能活到相当长的年龄。",
+    "适温": "18-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "青鱼",
+    "草鱼",
+    "圆吻鲴",
+    "长鳍吻鲴",
+    "中华倒刺鲃"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yan-zhi-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "8029483ca03579bdb980ca7eaa418b0795131bdcb1bc4bca9cba5a1364d24020",
+  "raw_line_count": 37,
+  "local_dir": "by_family/亚口鱼科/yan-zhi-yu_胭脂鱼",
+  "local_images": {
+    "fish": [
+      "by_family/亚口鱼科/yan-zhi-yu_胭脂鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

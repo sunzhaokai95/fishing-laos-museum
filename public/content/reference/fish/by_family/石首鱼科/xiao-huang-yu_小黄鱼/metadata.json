@@ -1,0 +1,97 @@
+{
+  "name": "小黄鱼",
+  "slug": "xiao-huang-yu",
+  "source_url": "https://fishweather.cn/fish/xiao-huang-yu",
+  "list_page": 5,
+  "list_position": 102,
+  "scientific_name": "Larimichthys polyactis",
+  "aliases": "黄花鱼(小黄鱼)、小鲜、娇娇、黄瓜鱼",
+  "headline": "小黄鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型延长，侧扁，背腹缘弧形。头中等大，吻圆钝。口大，前位，倾斜。下颌稍突出于上颌。眼较大，侧上位。鳞片较大，栉鳞，侧线完全。背鳍2个，连续，第一背鳍鳍棘细弱，第二背鳍鳍条较长。胸鳍较长，末端超过腹鳍起点。尾鳍楔形。体背侧黄褐色，腹侧金黄色，各鳍黄色，背鳍和尾鳍边缘黑色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "石首鱼科",
+    "水层": "底层,中下层",
+    "食性": "肉食性，主要捕食小型鱼类、虾、蟹等甲壳动物以及底栖无脊椎动物。",
+    "栖息环境": "近海沿岸，栖息于泥沙或泥质海底，也常进入河口咸淡水区域。",
+    "体长": "40 cm",
+    "体重": "1 kg",
+    "寿命": "寿命相对较短，一般为3-5年，最长可达7年左右。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "鲜虾肉",
+    "鱿鱼须",
+    "沙蚕",
+    "海肠",
+    "鱼肉块",
+    "南极虾",
+    "虾皮",
+    "鱼骨粉",
+    "商品海钓饵料",
+    "冷冻小鱼"
+  ],
+  "float_signals": [
+    "线组回线",
+    "：",
+    "抛竿后，原本绷直的钓线突然松弛回落，可能是小黄鱼咬钩后向自身方向游动，应及时收紧余线并扬竿。",
+    "竿尖点动",
+    "：",
+    "海竿竿尖出现连续轻微的点动，频率较快，幅度较小，可能是小黄鱼试探性咬饵。",
+    "竿尖下顿",
+    "：",
+    "海竿竿尖突然大幅度下弯，这是小黄鱼吞食饵料的明显信号，应立即扬竿。",
+    "持续拖拽",
+    "：",
+    "鱼竿持续被向外拉拽，手感沉重，说明小黄鱼已咬死钩，并开始游动，是扬竿的好时机。",
+    "轻微抖动",
+    "：",
+    "手持鱼竿时，能感觉到线组传来轻微的抖动，可能是小黄鱼正在啄食或拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的潮汐:涨潮和退潮时，水流活跃，带来食物，是钓小黄鱼的好时机。",
+    "精准抛投:将饵料准确抛投到鱼群聚集区域，如礁石区、沉船附近等。",
+    "灵活调整钓组:根据水深、流速和鱼情，调整铅坠重量和子线长度，确保饵料到底。",
+    "勤换饵料:保持饵料新鲜度和诱鱼效果，及时更换被海水浸泡过久的饵料。",
+    "注意夜钓:小黄鱼夜间觅食活跃，夜钓可选择夜光钓组和饵料，增加中鱼率。"
+  ],
+  "recommended_spots": "近海沙质或泥沙质海底、河口咸淡水区域、人工鱼礁区、海湾内、港口附近",
+  "distribution": [
+    "天津市",
+    "山东省",
+    "河北省",
+    "澳门特别行政区",
+    "辽宁省"
+  ],
+  "similar_fish": [
+    "大黄鱼",
+    "带鱼",
+    "鲈鱼",
+    "鳕鱼",
+    "鮟鱇鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xiao-huang-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xiao-huang-yu-0-022c8fc1.webp",
+      "https://fishweather.cn/asset-images/catch/xiao-huang-yu-1-80427ebb.webp",
+      "https://fishweather.cn/asset-images/catch/xiao-huang-yu-2-6b620e54.webp",
+      "https://fishweather.cn/asset-images/catch/xiao-huang-yu-3-a22e982e.webp",
+      "https://fishweather.cn/asset-images/catch/xiao-huang-yu-4-4298142a.webp"
+    ]
+  },
+  "profile_text_sha256": "c2293384d76580d199ba89cab24edab3aee95d97916be7c6567e2aef28dd61f6",
+  "raw_line_count": 143,
+  "local_dir": "by_family/石首鱼科/xiao-huang-yu_小黄鱼",
+  "local_images": {
+    "fish": [
+      "by_family/石首鱼科/xiao-huang-yu_小黄鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

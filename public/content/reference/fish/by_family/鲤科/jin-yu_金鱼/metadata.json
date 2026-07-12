@@ -1,0 +1,93 @@
+{
+  "name": "金鱼",
+  "slug": "jin-yu",
+  "source_url": "https://fishweather.cn/fish/jin-yu",
+  "list_page": 2,
+  "list_position": 26,
+  "scientific_name": "Carassius auratus",
+  "aliases": "金鲫鱼、红鲫、草金鱼、花金鱼、锦鲫、珍珠鳞、狮头鱼",
+  "headline": "金鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "金鱼是鲫鱼的变异品种，经过长期人工选育，在形态、体色、鳍型等方面呈现出极其丰富的多样性。体型从短圆到细长，体色涵盖红、橙、黄、白、黑、蓝、紫等多种颜色，以及各种混合色和花纹。鳍型变异尤为显著，有单尾、双尾、三尾、四尾、龙睛、蝶尾、琉金等，各具特色。部分品种头部具有发达的肉瘤或绒球。鳞片类型也多样，包括普通鳞、透明鳞、珍",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中层,下层",
+    "食性": "杂食性，人工饲料、植物碎屑、小型浮游生物、藻类、面包屑等",
+    "栖息环境": "人工饲养环境，如水族箱、池塘、公园湖泊等",
+    "体长": "40 cm",
+    "体重": "3 kg",
+    "寿命": "平均寿命5-10年，饲养良好且品种优良的金鱼可活到20年以上，甚至更长，部分品种如寿星金鱼寿命更长。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包屑",
+    "颗粒饲料（金鱼专用）",
+    "玉米粒（嫩玉米）",
+    "商品饵（香味型",
+    "如草莓味",
+    "奶香味等）",
+    "米饭粒",
+    "馒头",
+    "虾粉",
+    "藻类饵料（如螺旋藻粉）"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现连续轻微的点动或颤动，幅度小，频率快，可能是金鱼试探性触碰饵料。",
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，消失不见，通常是金鱼吞食死口，或较大个体金鱼咬钩。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是金鱼吞饵后游动，或饵料自身重量导致。",
+    "缓升",
+    "：",
+    "浮漂缓慢上升，可能是金鱼轻口吸食饵料后抬头，或饵料被拱起。",
+    "移位",
+    "：",
+    "浮漂在水面横向或斜向移动，可能是金鱼拖动饵料，或饵料被水流带动。"
+  ],
+  "practical_tips": [
+    "轻声细语，保持安静，避免大声喧哗或走动，减少对金鱼的惊扰。",
+    "提前打窝诱鱼，在垂钓前10-20分钟，在钓点少量投喂金鱼饲料、面包屑或商品饵等诱鱼。",
+    "灵活调整钓法，根据金鱼吃口情况，及时调整调漂灵敏度、饵料状态和作钓手法。",
+    "遛鱼时动作要轻柔，充分利用鱼竿的弹性卸力，避免大力拉扯，防止拉伤金鱼，特别是对于体型特殊的品种。",
+    "钓获后快速摘钩，尽量减少金鱼离水时间，使用无倒刺钩或摘钩器快速摘钩，并轻柔放回水中，确保放流存活率。"
+  ],
+  "recommended_spots": "公园池塘、人工湖、水族馆（允许垂钓区域）、观赏鱼养殖池塘、家庭鱼池",
+  "distribution": [],
+  "similar_fish": [
+    "鲫鱼",
+    "鲤鱼",
+    "草金鱼",
+    "锦鲤",
+    "彩鲫"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jin-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/jin-yu-0-5312bd4a.webp",
+      "https://fishweather.cn/asset-images/catch/jin-yu-1-a009c875.webp",
+      "https://fishweather.cn/asset-images/catch/jin-yu-2-1a4b07c9.webp",
+      "https://fishweather.cn/asset-images/catch/jin-yu-3-d6d01986.webp",
+      "https://fishweather.cn/asset-images/catch/jin-yu-4-f2dc572b.webp"
+    ]
+  },
+  "profile_text_sha256": "51c6377c6b7ad200ac154aefd865fc0f2db725d65fa8a7344c743fe53fffaa0f",
+  "raw_line_count": 139,
+  "local_dir": "by_family/鲤科/jin-yu_金鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/jin-yu_金鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

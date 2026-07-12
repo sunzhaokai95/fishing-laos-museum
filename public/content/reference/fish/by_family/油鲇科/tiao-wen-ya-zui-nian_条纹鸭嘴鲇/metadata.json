@@ -1,0 +1,89 @@
+{
+  "name": "条纹鸭嘴鲇",
+  "slug": "tiao-wen-ya-zui-nian",
+  "source_url": "https://fishweather.cn/fish/tiao-wen-ya-zui-nian",
+  "list_page": 11,
+  "list_position": 250,
+  "scientific_name": "Pseudoplatystoma fasciatum",
+  "aliases": "委内瑞拉鸭嘴、老虎鸭嘴(水族市场俗称)",
+  "headline": "条纹鸭嘴鲇怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "斑点副platystoma鲶体型延长，略呈纺锤形，头部扁平且宽大，吻部突出呈鸭嘴状。具有三对须，其中一对颌须特别长，可延伸至胸鳍甚至更远。体表光滑无鳞，背部呈灰褐色或棕褐色，体侧有明显的黑色垂直条纹，条纹数量和形状略有变异，腹部呈白色或淡黄色。尾鳍深叉形，各鳍均为深色或黑色。眼睛小，位于头顶上方，口裂宽大，牙齿细小而密",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "油鲇科",
+    "水层": "底层,中下层",
+    "食性": "肉食性，主要捕食鱼类，也摄食甲壳类、昆虫、两栖动物等。幼鱼阶段可能摄食小型无脊椎动物，成鱼则以各种鱼类为主要食物来源，属于掠食性鱼类。",
+    "栖息环境": "主要栖息于南美洲亚马逊河、奥里诺科河等大型河流及其支流、湖泊、洪泛平原等淡水水域，偏好水流缓慢、水底多障碍物的环境，如树",
+    "体长": "104 cm",
+    "体重": "15 kg",
+    "寿命": "在自然条件下，寿命可达10年以上，人工饲养条件下，如果环境适宜，管理得当，寿命可能更长。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "鸡肝",
+    "鸭肠",
+    "猪肺",
+    "牛肝",
+    "鸡胗",
+    "鱼肉块",
+    "虾肉",
+    "冷冻小鱼",
+    "商品鲶鱼饵料",
+    "缓沉颗粒饲料（腥味型）"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "鱼讯直接，浮漂快速沉入水中，通常是鲶鱼吞饵的信号。",
+    "走漂",
+    "：",
+    "浮漂横向移动，可能是鲶鱼拖动饵料。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鲶鱼吸饵但动作较轻。",
+    "回线",
+    "：",
+    "线组突然松弛或反弹，可能是鲶鱼咬饵后掉头游动。",
+    "抖动",
+    "：",
+    "线组或竿稍出现明显的抖动，鲶鱼在试探或咬合饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:斑点副platystoma鲶喜欢藏身于水底障碍物附近，如沉木、乱石堆、水草丛等，这些区域是理想的钓点。",
+    "使用腥味诱饵打窝:提前在钓点投放腥味浓郁的诱饵，如动物内脏、鸡鸭肠等，可以有效吸引鲶鱼前来觅食。",
+    "夜钓效果更佳:斑点副platystoma鲶是夜行性鱼类，夜间觅食活动频繁，夜钓比白天更容易钓获。",
+    "使用强力钓具:斑点副platystoma鲶体型较大，力量强劲，需要使用结实耐用的钓具，避免切线跑鱼。",
+    "耐心等待鱼讯:鲶鱼咬口可能较为谨慎，需要耐心观察鱼讯，抓住清晰的漂相或手感及时扬竿。"
+  ],
+  "recommended_spots": "大型河流、水库、湖泊、运河",
+  "distribution": [],
+  "similar_fish": [
+    "红尾鲶",
+    "狗仔鲸",
+    "豹纹鸭嘴鲶",
+    "亚马逊鸭嘴鲶",
+    "红尾皇冠"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tiao-wen-ya-zui-nian.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ya-zui-nian-0-c71d7e39.webp",
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ya-zui-nian-1-114a0939.webp",
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ya-zui-nian-2-b24f1e52.webp"
+    ]
+  },
+  "profile_text_sha256": "ea7b3f0c7aa6612e7d0f3db8db843cea86c4cef6ac442b0aded47ad534ac1c70",
+  "raw_line_count": 113,
+  "local_dir": "by_family/油鲇科/tiao-wen-ya-zui-nian_条纹鸭嘴鲇",
+  "local_images": {
+    "fish": [
+      "by_family/油鲇科/tiao-wen-ya-zui-nian_条纹鸭嘴鲇/images/main.webp"
+    ],
+    "catch": []
+  }
+}

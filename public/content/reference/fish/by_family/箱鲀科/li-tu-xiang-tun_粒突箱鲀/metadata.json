@@ -1,0 +1,51 @@
+{
+  "name": "粒突箱鲀",
+  "slug": "li-tu-xiang-tun",
+  "source_url": "https://fishweather.cn/fish/li-tu-xiang-tun",
+  "list_page": 25,
+  "list_position": 577,
+  "scientific_name": "Ostracion cubicus",
+  "aliases": "木瓜鱼、牛角鱼、正方箱鲀",
+  "headline": "粒突箱鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "箱鲀体呈明显的立方体形，全身包裹在由骨板组成的硬壳内，仅眼、口、鳃孔、鳍和尾柄突出于壳外。幼鱼体色鲜艳，呈亮黄色，随着成长颜色逐渐变暗，变为黄褐色或深棕色，体表散布着黑色斑点。口小，唇厚，眼睛突出。各鳍较小，胸鳍圆形，尾鳍截形或略圆。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "箱鲀科",
+    "水层": "底层",
+    "食性": "杂食性，主要以藻类、小型无脊椎动物（如海绵、tunicates,软体动物、甲壳类动物）以及底栖生物碎屑为食。",
+    "栖息环境": "主要栖息于热带和亚热带珊瑚礁和岩礁区域，也可见于潟湖和海草床附近。偏爱清澈、水质良好的水域。",
+    "体长": "45 cm",
+    "体重": "1 kg",
+    "寿命": "寿命较长，在自然条件下通常可以存活8-12年，人工饲养环境下，若条件适宜，寿命可能更长，甚至可达15年以上。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "角箱鲀",
+    "驼背箱鲀",
+    "三棱箱鲀",
+    "斑点箱鲀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/li-tu-xiang-tun.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "d952d8fc6b69c3e90670e7a6f08bd11104f43960ef78f424e8c8958860b96779",
+  "raw_line_count": 35,
+  "local_dir": "by_family/箱鲀科/li-tu-xiang-tun_粒突箱鲀",
+  "local_images": {
+    "fish": [
+      "by_family/箱鲀科/li-tu-xiang-tun_粒突箱鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

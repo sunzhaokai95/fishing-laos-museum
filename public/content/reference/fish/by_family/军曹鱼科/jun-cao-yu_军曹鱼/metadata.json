@@ -1,0 +1,63 @@
+{
+  "name": "军曹鱼",
+  "slug": "jun-cao-yu",
+  "source_url": "https://fishweather.cn/fish/jun-cao-yu",
+  "list_page": 29,
+  "list_position": 685,
+  "scientific_name": "Rachycentron canadum",
+  "aliases": "海鲡、黑鲡、懵仔鱼、少鳞仔、荷叶鱼(孟加拉语)",
+  "headline": "军曹鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "军曹鱼体延长，前部粗圆，后部侧扁。头宽而平扁。吻圆钝。口大，端位，上颌略突出于下颌。眼小，位于头侧上方。体被细小圆鳞，侧线完全。体背部灰褐色或黑褐色，腹部灰白色。幼鱼体侧有深色纵带，成鱼纵带不明显。背鳍分为两个部分，第一背鳍由分离的短棘组成，第二背鳍长而低。臀鳍与第二背鳍相对。尾鳍深叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "军曹鱼科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类（如蟹、虾）和头足类（如鱿鱼）。幼鱼也摄食浮游动物。",
+    "栖息环境": "主要栖息于热带和亚热带近海沿岸的开阔水域，也进入河口和海湾。常在水面附近活动，有时也下潜至较深水层。喜欢在漂浮物或人工鱼",
+    "体长": "200 cm",
+    "体重": "68 kg",
+    "寿命": "寿命相对较短，一般为7-10年，最长可达15年左右。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "大型米诺路亚",
+    "波扒路亚",
+    "铅笔路亚",
+    "VIB（震动）路亚",
+    "软饵（卷尾蛆",
+    "T尾）",
+    "铁板路亚",
+    "活鱿鱼（挂钩）",
+    "冰鲜鱼（如秋刀鱼",
+    "沙丁鱼块）",
+    "假饵鱼串",
+    "POPPING（撞水）路亚",
+    "分布区域",
+    "台湾省"
+  ],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "台湾省"
+  ],
+  "similar_fish": [],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jun-cao-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "19595a087a8a946576d4505a3ccb5844fe1ee2ede52dc981936150f1262ea85a",
+  "raw_line_count": 47,
+  "local_dir": "by_family/军曹鱼科/jun-cao-yu_军曹鱼",
+  "local_images": {
+    "fish": [
+      "by_family/军曹鱼科/jun-cao-yu_军曹鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

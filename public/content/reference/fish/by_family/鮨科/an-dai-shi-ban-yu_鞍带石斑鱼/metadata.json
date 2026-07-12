@@ -1,0 +1,51 @@
+{
+  "name": "鞍带石斑鱼",
+  "slug": "an-dai-shi-ban-yu",
+  "source_url": "https://fishweather.cn/fish/an-dai-shi-ban-yu",
+  "list_page": 6,
+  "list_position": 144,
+  "scientific_name": "Epinephelus lanceolatus",
+  "aliases": "龙趸、巨石斑鱼、大地鼠斑",
+  "headline": "鞍带石斑鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体型巨大，略呈纺锤形，侧扁。头大，约占体长的1/3。口大，端位，下颌稍突出。眼小，圆形，位于头侧上方。体色棕褐色或灰褐色，幼鱼体表有不规则黑色斑点，成鱼斑点不明显。背鳍连续，鳍棘粗壮。尾鳍圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食各种鱼类、甲壳类（如螃蟹、虾类）、头足类等。",
+    "栖息环境": "主要栖息于热带和亚热带沿海珊瑚礁、岩礁及其附近的深水海域。",
+    "体长": "270 cm",
+    "体重": "400 kg",
+    "寿命": "寿命很长，一般可达数十年，有记录显示可超过50年以上。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "点带石斑鱼",
+    "青石斑鱼",
+    "赤点石斑鱼",
+    "云纹石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/an-dai-shi-ban-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "15094310d929310b3f31889ed5811072f16ea012d6abb213db02829f8335f103",
+  "raw_line_count": 36,
+  "local_dir": "by_family/鮨科/an-dai-shi-ban-yu_鞍带石斑鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/an-dai-shi-ban-yu_鞍带石斑鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

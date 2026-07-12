@@ -1,0 +1,91 @@
+{
+  "name": "蓝鳃太阳鱼",
+  "slug": "lan-sai-tai-yang-yu",
+  "source_url": "https://fishweather.cn/fish/lan-sai-tai-yang-yu",
+  "list_page": 2,
+  "list_position": 41,
+  "scientific_name": "Lepomis macrochirus",
+  "aliases": "太阳鱼、扇贝鱼、蓝太阳鱼",
+  "headline": "蓝鳃太阳鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "蓝鳃太阳鱼体型呈卵圆形，侧扁，背部隆起。头部较小，口小，端位。眼大，位于头部上方。体色鲜艳，成鱼体侧为黄绿色至橄榄绿色，腹部黄色或橙色，鳃盖后缘有一黑色软膜，边缘呈鲜艳的蓝色，这也是其名称的由来。幼鱼体色较浅，颜色不明显。背鳍连续，硬棘和软条相连，胸鳍圆形，尾鳍叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "棘臀鱼科",
+    "水层": "中上层",
+    "食性": "杂食性，食谱广泛，包括水生昆虫及其幼虫、小型鱼类、甲壳类、软体动物、浮游动物、植物碎屑、藻类等，也摄食人工饲料",
+    "栖息环境": "偏好静水或缓流水域，如湖泊、池塘、水库、河流缓流区、沼泽等，常在水草丛生或结构复杂的水域活动",
+    "体长": "40 cm",
+    "体重": "2 kg",
+    "寿命": "自然条件下寿命通常为5-8年，人工养殖条件下，若环境适宜，可达10年以上",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包虫",
+    "颗粒饲料（小颗粒）",
+    "面包屑",
+    "玉米粒（嫩玉米）",
+    "商品饵（腥味或香味型）",
+    "小鱼型软饵",
+    "亮片路亚",
+    "微型VIB路亚"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的、连续的点动，幅度小，频率快，可能是鱼在试探性触碰或啄食。",
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，是鱼吞死口或快速拉走饵料的信号。",
+    "顿口",
+    "：",
+    "浮漂快速下顿一目或两目，幅度较明显，通常是鱼吞饵的信号。",
+    "缓升",
+    "：",
+    "浮漂缓慢上升半目或一目，然后停顿，可能是鱼吸饵后抬头。",
+    "移位",
+    "：",
+    "浮漂缓慢横向移动，可能是鱼拖着饵料游动。"
+  ],
+  "practical_tips": [
+    "找结构:蓝鳃太阳鱼喜欢在水草、树桩、沉木等结构附近活动，这些地方往往是藏身和觅食的好去处。",
+    "慢速搜索:在不确定鱼情时，可采用慢速搜索的方式，用不同类型的路亚或钓组，在不同水层和区域进行试探，快速找到鱼窝。",
+    "逗钓结合:手竿钓法时，可采用逗钓结合的方式，通过轻微提动竿梢，使饵料呈现动态，吸引蓝鳃太阳鱼的注意。",
+    "小饵轻口:蓝鳃太阳鱼口小，吃口轻，宜选用小号钩、细线，饵料也要小而精。",
+    "连竿技巧:蓝鳃太阳鱼常集群活动，一旦找到鱼窝，往往可以连竿作钓，要抓住机会，快速抛竿，持续诱鱼。"
+  ],
+  "recommended_spots": "池塘、湖泊、水库、公园水域、河流缓流区",
+  "distribution": [],
+  "similar_fish": [
+    "斑点叉尾鮰",
+    "加州鲈",
+    "其他太阳鱼",
+    "鳜鱼",
+    "鲈鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lan-sai-tai-yang-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/lan-sai-tai-yang-yu-0-bbf38fe2.webp",
+      "https://fishweather.cn/asset-images/catch/lan-sai-tai-yang-yu-1-2faa13cc.webp",
+      "https://fishweather.cn/asset-images/catch/lan-sai-tai-yang-yu-2-218d2341.webp",
+      "https://fishweather.cn/asset-images/catch/lan-sai-tai-yang-yu-3-ba888843.webp",
+      "https://fishweather.cn/asset-images/catch/lan-sai-tai-yang-yu-4-f4de7d2b.webp"
+    ]
+  },
+  "profile_text_sha256": "d74c77526488184fa6d4408c91aac5ebc8b76a2232183621c220991d35f46632",
+  "raw_line_count": 137,
+  "local_dir": "by_family/棘臀鱼科/lan-sai-tai-yang-yu_蓝鳃太阳鱼",
+  "local_images": {
+    "fish": [
+      "by_family/棘臀鱼科/lan-sai-tai-yang-yu_蓝鳃太阳鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

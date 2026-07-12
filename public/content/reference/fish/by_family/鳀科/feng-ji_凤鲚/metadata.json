@@ -1,0 +1,89 @@
+{
+  "name": "凤鲚",
+  "slug": "feng-ji",
+  "source_url": "https://fishweather.cn/fish/feng-ji",
+  "list_page": 11,
+  "list_position": 255,
+  "scientific_name": "Coilia mystus",
+  "aliases": "虾潺、狗母鱼、水潺、豆腐鱼、鼻涕鱼",
+  "headline": "凤鲚怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，前部近圆筒形，后部侧扁。头侧扁，吻突出。口大，下位，倾斜。上颌骨后端延伸超过眼后缘。眼大，侧上位。体光滑无鳞。背鳍位于体中部，臀鳍长，与尾鳍相连。体色透明或乳白色，新鲜时略带浅粉红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲱形目",
+    "科": "鳀科",
+    "水层": "中下层",
+    "食性": "肉食性，主要摄食小型甲壳类、小型鱼类及浮游生物。",
+    "栖息环境": "近海底层或河口半咸水区域，常栖息于泥沙质海底。",
+    "体长": "41",
+    "体重": "0.15",
+    "寿命": "寿命较短，一般为1-2年，少部分可达3年。",
+    "适温": "15-28"
+  },
+  "bait_options": [
+    "海মাছ粉",
+    "南极虾",
+    "沙蚕",
+    "鱿鱼碎",
+    "虾肉",
+    "鱼肉",
+    "贝肉",
+    "虾皮",
+    "小鱼干",
+    "商品海钓饵料"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动，连续或间断，可能是鱼试探或啄食。",
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，多为鱼抢食或吞死口。",
+    "走漂",
+    "：",
+    "浮漂在水面横向移动，不规则走动，可能是鱼拖动饵料。",
+    "缓升",
+    "：",
+    "浮漂缓慢上升，高于原本调目，可能是鱼将饵料顶起。",
+    "下顿",
+    "：",
+    "浮漂快速下沉一目或几目，有力顿挫，常为鱼吞饵信号。"
+  ],
+  "practical_tips": [
+    "选择浑水或水色略浑浊的钓点，龙头鱼喜好弱光环境。",
+    "钓底为主，可尝试离底或半水搜索鱼层。",
+    "饵料宜腥香，可用海মাছ粉或虾粉等增加诱食性。",
+    "钓组宜灵敏，线组不宜过粗，浮漂调灵。",
+    "勤抛竿，多尝试不同钓点，主动寻找鱼群。"
+  ],
+  "recommended_spots": "近海滩涂、河口、码头、防波堤、海湾",
+  "distribution": [],
+  "similar_fish": [
+    "带鱼",
+    "鳓鱼",
+    "凤鲚",
+    "鲚鱼",
+    "蓝圆鲹"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/feng-ji.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/feng-ji-0-8a18f4fe.webp",
+      "https://fishweather.cn/asset-images/catch/feng-ji-1-24b94a8f.webp",
+      "https://fishweather.cn/asset-images/catch/feng-ji-2-5a47045c.webp"
+    ]
+  },
+  "profile_text_sha256": "786424fadd5a03ed820419a0c355274afe897e0ff898bff2537a567c343a7444",
+  "raw_line_count": 113,
+  "local_dir": "by_family/鳀科/feng-ji_凤鲚",
+  "local_images": {
+    "fish": [
+      "by_family/鳀科/feng-ji_凤鲚/images/main.webp"
+    ],
+    "catch": []
+  }
+}

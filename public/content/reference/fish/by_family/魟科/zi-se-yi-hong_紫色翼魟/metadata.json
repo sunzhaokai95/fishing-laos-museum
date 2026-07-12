@@ -1,0 +1,50 @@
+{
+  "name": "紫色翼魟",
+  "slug": "zi-se-yi-hong",
+  "source_url": "https://fishweather.cn/fish/zi-se-yi-hong",
+  "list_page": 25,
+  "list_position": 589,
+  "scientific_name": "Pteroplatytrygon violacea",
+  "aliases": "远洋魟",
+  "headline": "紫色翼魟是保护动物吗？习性与识别图鉴",
+  "summary": "体盘呈菱形，宽大于长，边缘圆钝。体色背面通常为均匀的紫褐色、深灰色或蓝灰色，腹面白色。体盘表面光滑，无棘刺。尾部细长，通常不具尾刺或尾刺退化。吻部短钝。眼睛较小。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "鳐形目",
+    "科": "魟科",
+    "水层": "表层至深层",
+    "食性": "肉食性，捕食小型鱼类、甲壳类和头足类",
+    "栖息环境": "开放大洋水域",
+    "体长": "80",
+    "体重": "16",
+    "寿命": "估计为数年，可能达到10年以上，具体寿命尚需更多研究确认。",
+    "适温": "20-28"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "蝠鲼",
+    "牛鼻鲼",
+    "其他魟鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zi-se-yi-hong.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "8e597598c87b5e2fbdbd22ddc9cf8edbc6e9233bd0c04924ffcaa5b2885e78f6",
+  "raw_line_count": 35,
+  "local_dir": "by_family/魟科/zi-se-yi-hong_紫色翼魟",
+  "local_images": {
+    "fish": [
+      "by_family/魟科/zi-se-yi-hong_紫色翼魟/images/main.webp"
+    ],
+    "catch": []
+  }
+}

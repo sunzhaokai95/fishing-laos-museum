@@ -1,0 +1,51 @@
+{
+  "name": "黄尾副刺尾鱼",
+  "slug": "huang-wei-fu-ci-wei-yu",
+  "source_url": "https://fishweather.cn/fish/huang-wei-fu-ci-wei-yu",
+  "list_page": 20,
+  "list_position": 467,
+  "scientific_name": "Paracanthurus hepatus",
+  "aliases": "医生鱼、皇冠青蛙、蓝魔鬼",
+  "headline": "黄尾副刺尾鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体呈卵圆形且侧扁，体色鲜艳夺目，为亮蓝色，全身布满黑色条纹，这些条纹主要分布在背鳍和臀鳍的边缘，以及身体的腹侧。尾鳍呈醒目的黄色，与蓝色身体形成鲜明对比。眼睛相对较小，口小且位于吻部前端。整体外观优雅而富有热带风情。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "刺尾鱼科",
+    "水层": "中层,底层",
+    "食性": "主要以藻类为食，属于草食性鱼类。在自然环境中，它们啃食附着在珊瑚礁岩石上的丝状藻、大型藻类等。偶尔也会摄食浮游生物和小型无脊椎动物。",
+    "栖息环境": "主要栖息于热带珊瑚礁区域，尤其偏好水流较强、珊瑚繁茂的礁盘外缘和泻湖区。幼鱼常在枝状珊瑚丛中寻求庇护。",
+    "体长": "30",
+    "体重": "0.6",
+    "寿命": "寿命较长，在自然环境中通常可达8-12年，甚至更长。人工饲养条件下，如果提供良好的生活环境和充足的食物，寿命有可能超过20年。",
+    "适温": "24-28"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "黄尾倒吊",
+    "紫倒吊",
+    "纹倒吊",
+    "大帆倒吊"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huang-wei-fu-ci-wei-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "7ca30bbdfc14ab95100a2a2fa82f6ff5781459ba93608140cd6c61463f050884",
+  "raw_line_count": 36,
+  "local_dir": "by_family/刺尾鱼科/huang-wei-fu-ci-wei-yu_黄尾副刺尾鱼",
+  "local_images": {
+    "fish": [
+      "by_family/刺尾鱼科/huang-wei-fu-ci-wei-yu_黄尾副刺尾鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

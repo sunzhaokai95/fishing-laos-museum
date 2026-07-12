@@ -1,0 +1,52 @@
+{
+  "name": "短吻鼻鱼",
+  "slug": "duan-wen-bi-yu",
+  "source_url": "https://fishweather.cn/fish/duan-wen-bi-yu",
+  "list_page": 30,
+  "list_position": 706,
+  "scientific_name": "Naso brevirostris",
+  "aliases": "无",
+  "headline": "短吻鼻鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体延长且侧扁，呈卵圆形。头部轮廓圆钝。口小，位于吻端下方。眼大，位高。体表光滑，被小栉鳞。体色变化较大，幼鱼体黄褐色，成鱼体灰褐色至蓝灰色，头部和胸鳍黄色。尾鳍新月形，随着成长尾鳍丝状延长。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "刺尾鱼科",
+    "水层": "中层,底层",
+    "食性": "主要以丝状藻类和大型藻类为食。",
+    "栖息环境": "珊瑚礁区，通常栖息于清澈的潟湖和临海礁石。",
+    "体长": "60 cm",
+    "体重": null,
+    "寿命": "寿命较长，具体年限缺乏详细研究，但推测可达数十年。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "单角鼻鱼",
+    "丝鳍鼻鱼",
+    "橙斑鼻鱼",
+    "полосатыйхирург",
+    "спинорог-носорог"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/duan-wen-bi-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "097024d3375088b7c05216a79e9e42855d04726ce71ab9d5710a56c23187d6c8",
+  "raw_line_count": 35,
+  "local_dir": "by_family/刺尾鱼科/duan-wen-bi-yu_短吻鼻鱼",
+  "local_images": {
+    "fish": [
+      "by_family/刺尾鱼科/duan-wen-bi-yu_短吻鼻鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

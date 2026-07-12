@@ -1,0 +1,96 @@
+{
+  "name": "白梭吻鲈",
+  "slug": "bai-suo-wen-lu",
+  "source_url": "https://fishweather.cn/fish/bai-suo-wen-lu",
+  "list_page": 4,
+  "list_position": 86,
+  "scientific_name": "Sander lucioperca",
+  "aliases": "狗鱼梭鲈、河鲈梭鲈、东欧梭鲈",
+  "headline": "白梭吻鲈怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "梭鲈体型细长，略侧扁，背部隆起，头长而尖，吻部突出。口裂大，上下颌均具尖锐的犬齿，以及细小的绒毛状齿。眼大而明亮，位于头部侧上方。体被栉鳞，侧线明显。背鳍两个，彼此分离，第一背鳍硬棘，第二背鳍软条。体色背部灰褐色或黄绿色，两侧银白色，有不规则的黑色斑纹，腹部白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲈科",
+    "水层": "中下层,底层",
+    "食性": "肉食性，主要捕食鱼类，如鲱鱼、雅罗鱼、鲫鱼等，也捕食甲壳类、水生昆虫等。",
+    "栖息环境": "偏好大型开放水域，例如湖泊、水库和流速缓慢的河流。它们可以忍受微咸的环境，在天然和人工水体中都有发现。它们喜欢有水下植被",
+    "体长": "130 cm",
+    "体重": "20 kg",
+    "寿命": "寿命较长，在自然条件下可达10-20年，甚至更长。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "米诺",
+    "VIB",
+    "软饵（卷尾蛆",
+    "T尾",
+    "grub）",
+    "亮片",
+    "铅笔",
+    "popper",
+    "摇摆小胖",
+    "小鱼（鲦鱼",
+    "麦穗鱼等）",
+    "虾",
+    "拟饵虾"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，表明梭鲈吞饵较深。",
+    "顿口",
+    "：",
+    "浮漂快速下沉或出现明显的顿挫，是梭鲈咬钩的典型信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是梭鲈吸饵或拖动饵料。",
+    "移位",
+    "：",
+    "浮漂在水面缓慢横向移动，可能是梭鲈拖着饵料游动。",
+    "抖动",
+    "：",
+    "浮漂出现连续轻微的抖动，可能是小鱼闹窝或梭鲈试探性咬钩。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:梭鲈喜欢在水草、乱石堆、沉木等结构复杂的水域活动，这些地方是藏身和觅食的好去处。",
+    "掌握泳层:梭鲈在不同季节和天气条件下，活动泳层会有变化，需要根据实际情况调整钓法和拟饵泳层。",
+    "慢速搜索:梭鲈捕食方式相对谨慎，需要慢速搜索，给梭鲈足够的观察和攻击时间。",
+    "注意细节:子线要选择耐磨性好的碳氟线或钢丝子线，防止梭鲈牙齿磨损；鱼钩要锋利，确保刺鱼牢固。",
+    "灵活运用钓法:根据不同的钓场环境和鱼情，灵活运用路亚钓法和活饵钓法。"
+  ],
+  "recommended_spots": "水库、湖泊、河流缓流段、运河、采砂坑",
+  "distribution": [
+    "新疆维吾尔自治区"
+  ],
+  "similar_fish": [
+    "河鲈",
+    "狗鱼",
+    "鲶鱼",
+    "鳜鱼",
+    "鲈鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bai-suo-wen-lu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/bai-suo-wen-lu-0-649cda4e.webp",
+      "https://fishweather.cn/asset-images/catch/bai-suo-wen-lu-1-1f34def6.webp",
+      "https://fishweather.cn/asset-images/catch/bai-suo-wen-lu-2-f51edcd5.webp",
+      "https://fishweather.cn/asset-images/catch/bai-suo-wen-lu-3-62b649d6.webp",
+      "https://fishweather.cn/asset-images/catch/bai-suo-wen-lu-4-8ea578c7.webp"
+    ]
+  },
+  "profile_text_sha256": "5d1332292fdfc9b1ec5db1a0cff22ad6095cdb7c6c87c38b4b17f16e418467ee",
+  "raw_line_count": 142,
+  "local_dir": "by_family/鲈科/bai-suo-wen-lu_白梭吻鲈",
+  "local_images": {
+    "fish": [
+      "by_family/鲈科/bai-suo-wen-lu_白梭吻鲈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

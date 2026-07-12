@@ -1,0 +1,48 @@
+{
+  "name": "棘茄鱼",
+  "slug": "ji-jia-yu",
+  "source_url": "https://fishweather.cn/fish/ji-jia-yu",
+  "list_page": 23,
+  "list_position": 538,
+  "scientific_name": "Halieutaea stellata",
+  "aliases": "无",
+  "headline": "棘茄鱼是保护动物吗？习性与识别图鉴",
+  "summary": "星斑栉glob鱼体型扁平而圆，形似盘状，体盘宽大，边缘薄。皮肤粗糙，布满小棘突。头部宽阔，吻部短而圆钝。眼睛小，位于头顶。口小，下位。胸鳍发达，呈臂状，用于在海底爬行。背鳍和臀鳍低矮，尾鳍小而圆。体色呈浅棕色或灰色，背部散布着许多深色星状斑点，腹部颜色较浅。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鮟鱇目",
+    "科": "蝙蝠鱼科",
+    "水层": "底层",
+    "食性": "主要以底栖无脊椎动物为食，如小型甲壳类、多毛类等。",
+    "栖息环境": "主要栖息于深海海底，通常在大陆架和大陆坡的沙质或泥质海底生活。",
+    "体长": "8 cm",
+    "体重": null,
+    "寿命": "寿命未知，深海鱼类寿命可能相对较长，但星斑栉glob鱼的具体寿命尚无研究。",
+    "适温": "未知，推测为深海低温环境 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "其他栉glob鱼科鱼类"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ji-jia-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "038ee5aa9c830614d2ff8822b671a7c1e5031cfc4ceeb47f51b5abb2d2b56f34",
+  "raw_line_count": 31,
+  "local_dir": "by_family/蝙蝠鱼科/ji-jia-yu_棘茄鱼",
+  "local_images": {
+    "fish": [
+      "by_family/蝙蝠鱼科/ji-jia-yu_棘茄鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

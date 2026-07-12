@@ -1,0 +1,52 @@
+{
+  "name": "考氏鳍天竺鲷",
+  "slug": "kao-shi-qi-tian-zhu-diao",
+  "source_url": "https://fishweather.cn/fish/kao-shi-qi-tian-zhu-diao",
+  "list_page": 25,
+  "list_position": 597,
+  "scientific_name": "Pterapogon kauderni",
+  "aliases": "丁香鱼、斑加拉长鳍天竺鲷",
+  "headline": "考氏鳍天竺鲷是保护动物吗？习性与识别图鉴",
+  "summary": "身体侧扁，呈卵圆形。体色银白色至浅灰色，体侧具有三条醒目的黑色条纹，第一条穿过眼睛，第二条在胸鳍后方，第三条在第二背鳍下方延伸至臀鳍。各鳍透明，第一背鳍延长呈丝状。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "天竺鲷科",
+    "水层": "中下层",
+    "食性": "主要以小型甲壳类动物和浮游动物为食。",
+    "栖息环境": "主要栖息于热带珊瑚礁区域的潟湖和海湾中，偏爱海草床、软珊瑚和海葵附近。",
+    "体长": "8",
+    "体重": null,
+    "寿命": "寿命较短，通常为2-3年，在野外环境可能更短。",
+    "适温": "24-28"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "火焰鱼",
+    "海金鱼",
+    "雀鲷",
+    "隆头鱼",
+    "蝴蝶鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/kao-shi-qi-tian-zhu-diao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "219ad45313e4edebb3d73c48f70c3498a3e4d3f6263d3e4303e995e8c0165852",
+  "raw_line_count": 35,
+  "local_dir": "by_family/天竺鲷科/kao-shi-qi-tian-zhu-diao_考氏鳍天竺鲷",
+  "local_images": {
+    "fish": [
+      "by_family/天竺鲷科/kao-shi-qi-tian-zhu-diao_考氏鳍天竺鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

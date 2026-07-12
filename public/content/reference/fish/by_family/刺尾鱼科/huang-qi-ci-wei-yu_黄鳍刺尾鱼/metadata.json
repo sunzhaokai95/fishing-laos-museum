@@ -1,0 +1,51 @@
+{
+  "name": "黄鳍刺尾鱼",
+  "slug": "huang-qi-ci-wei-yu",
+  "source_url": "https://fishweather.cn/fish/huang-qi-ci-wei-yu",
+  "list_page": 16,
+  "list_position": 376,
+  "scientific_name": "Acanthurus xanthopterus",
+  "aliases": "紫吊、黄吊",
+  "headline": "黄鳍刺尾鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁。体色多变，幼鱼期至成鱼期颜色变化较大，通常为黄色至棕黄色，面部常呈紫色至蓝紫色。各鳍黄色，背鳍和臀鳍鳍棘突出，尾鳍新月形。体表粗糙。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "刺尾鱼科",
+    "水层": "中层,底层",
+    "食性": "主要以藻类为食，也摄食碎屑。",
+    "栖息环境": "珊瑚礁区、岩礁区",
+    "体长": "70 cm",
+    "体重": "5 kg",
+    "寿命": "寿命较长，可达数年以上。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "蓝吊",
+    "纹吊",
+    "粉蓝吊",
+    "大帆倒吊"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huang-qi-ci-wei-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "b3c55d6aed5b74e6d600a87e013b97c875ca858415294081734126ee8c41383e",
+  "raw_line_count": 31,
+  "local_dir": "by_family/刺尾鱼科/huang-qi-ci-wei-yu_黄鳍刺尾鱼",
+  "local_images": {
+    "fish": [
+      "by_family/刺尾鱼科/huang-qi-ci-wei-yu_黄鳍刺尾鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

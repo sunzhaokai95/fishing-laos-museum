@@ -1,0 +1,89 @@
+{
+  "name": "淡水红鲳",
+  "slug": "dan-shui-hong-chang",
+  "source_url": "https://fishweather.cn/fish/dan-shui-hong-chang",
+  "list_page": 2,
+  "list_position": 34,
+  "scientific_name": "Piaractus brachypomus",
+  "aliases": "淡水白鲳、红鲳鱼、平仓鱼、亚马逊鲳、小白鲳",
+  "headline": "淡水红鲳怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型较大，呈卵圆形且侧扁，体色为银灰色或灰褐色，幼鱼腹部通常呈现鲜艳的红色或橙红色，成年后红色逐渐变淡。头部小，吻部短而钝圆。眼睛大而圆，位于头部侧上方。具有发达的脂鳍。牙齿为锯齿状，适应于杂食性食性。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "脂鲤目",
+    "科": "脂鲤科",
+    "水层": "中下层,中层",
+    "食性": "杂食性，幼鱼阶段偏肉食性，摄食昆虫、小型鱼类等，成鱼阶段偏素食性，摄食植物、水果、坚果、种子等，也接受人工饲料",
+    "栖息环境": "天然栖息于南美洲亚马逊河和奥里诺科河流域的河流、湖泊等水域，人工养殖广泛分布于世界各地淡水水域",
+    "体长": "88",
+    "体重": "25",
+    "寿命": "寿命较长，一般可达10-25年",
+    "适温": "22-28"
+  },
+  "bait_options": [
+    "玉米粒",
+    "红薯块",
+    "面包屑",
+    "香蕉块",
+    "葡萄",
+    "颗粒饲料",
+    "鸡肝",
+    "虾肉",
+    "鱼肉块",
+    "蚯蚓"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速沉入水中，是明显的咬钩信号",
+    "快口",
+    "：",
+    "浮漂出现连续快速的点动或跳动后，迅速黑漂",
+    "走漂",
+    "：",
+    "浮漂在水面横向移动，表明鱼拖动饵料",
+    "顿口",
+    "：",
+    "浮漂先是轻微上顶或下沉，然后突然有力下顿",
+    "缓口",
+    "：",
+    "浮漂缓慢下沉或上顶，动作幅度较小"
+  ],
+  "practical_tips": [
+    "选择合适的饵料:根据季节和鱼情变化，灵活选择素饵或荤饵，提高诱鱼效果",
+    "打窝诱鱼:提前在钓点打窝，使用颗粒饲料、玉米等饵料，集中鱼群",
+    "粗线大钩:红腹锯脂鲤力气较大，使用粗线大钩，避免切线跑鱼",
+    "灵敏调漂:根据鱼情调整浮漂灵敏度，提高中鱼率",
+    "耐心等待:红腹锯脂鲤咬钩有时较慢，需要耐心等待，抓住漂相变化及时扬竿"
+  ],
+  "recommended_spots": "水库、湖泊、大型池塘、河流缓流区",
+  "distribution": [],
+  "similar_fish": [
+    "银鲳",
+    "巨脂鲤",
+    "草鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/dan-shui-hong-chang.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/dan-shui-hong-chang-0-e4379cce.webp",
+      "https://fishweather.cn/asset-images/catch/dan-shui-hong-chang-1-7b37301c.webp",
+      "https://fishweather.cn/asset-images/catch/dan-shui-hong-chang-2-ea34aee4.webp",
+      "https://fishweather.cn/asset-images/catch/dan-shui-hong-chang-3-0abb9fa4.webp",
+      "https://fishweather.cn/asset-images/catch/dan-shui-hong-chang-4-29fd8fba.webp"
+    ]
+  },
+  "profile_text_sha256": "9abaebf8e3e3a4ae8023b471bb1cdcda0714fea3b15fd0d2a1b3f07a593cf556",
+  "raw_line_count": 135,
+  "local_dir": "by_family/脂鲤科/dan-shui-hong-chang_淡水红鲳",
+  "local_images": {
+    "fish": [
+      "by_family/脂鲤科/dan-shui-hong-chang_淡水红鲳/images/main.webp"
+    ],
+    "catch": []
+  }
+}

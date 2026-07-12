@@ -1,0 +1,76 @@
+{
+  "name": "黑尻鲹",
+  "slug": "hei-kao-shen",
+  "source_url": "https://fishweather.cn/fish/hei-kao-shen",
+  "list_page": 18,
+  "list_position": 413,
+  "scientific_name": "Caranx melampygus",
+  "aliases": "蓝鳍金枪鱼(易混淆)、海瓜子(幼鱼)",
+  "headline": "黑尻鲹怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁。头中等大，吻尖。脂眼睑不发达。上下颌具一行犬齿。体被小圆鳞，侧线弯曲部具棱鳞。背鳍2个，臀鳍1个，均具软鳍条。体背部青绿色或蓝灰色，腹部银白色。各鳍黄色或淡黄色，第二背鳍、臀鳍和尾鳍边缘蓝色，故称蓝鳍鲹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰺科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类（如虾、蟹）、头足类（如乌贼）等",
+    "栖息环境": "热带和亚热带沿海珊瑚礁、岩礁、潟湖和外海",
+    "体长": "117 cm",
+    "体重": "43.5 kg",
+    "寿命": "寿命较长，一般可达10年以上，甚至更长，具体寿命取决于环境和捕捞压力。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "米诺",
+    "铅笔",
+    "波扒",
+    "VIB",
+    "金属JIG",
+    "软饵（卷尾蛆",
+    "T尾）",
+    "南极虾",
+    "鱿鱼块",
+    "小鱼块",
+    "海虾"
+  ],
+  "float_signals": [
+    "路亚海钓不显示",
+    "：",
+    "路亚海钓不显示漂像"
+  ],
+  "practical_tips": [
+    "选择合适钓点:蓝鳍鲹常在水流Exchange好的礁石区、珊瑚礁区或深水区活动。",
+    "根据鱼情选择路亚:不同类型路亚适用于不同水层和鱼情，需灵活选择。",
+    "掌握抽动手法:多尝试不同抽动手法，找到最有效诱鱼的方式。",
+    "注意控鱼技巧:蓝鳍鲹力道大，中鱼后需及时泄力，避免断线跑鱼。",
+    "使用PE线和碳氟子线:PE线强度高，碳氟子线耐磨隐蔽，提高中鱼率。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、外海、潟湖、码头、防波堤、海岛周围",
+  "distribution": [],
+  "similar_fish": [
+    "瓜鲹",
+    "浪人鲹",
+    "长鳍鲹",
+    "珍鲹",
+    "布氏鲹"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-kao-shen.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hei-kao-shen-0-431bee1a.webp"
+    ]
+  },
+  "profile_text_sha256": "b0ecbcb291108cc57735125439e0fe7cbfc8f1e6d86ec3255bad4caf4b6d52b3",
+  "raw_line_count": 78,
+  "local_dir": "by_family/鰺科/hei-kao-shen_黑尻鲹",
+  "local_images": {
+    "fish": [
+      "by_family/鰺科/hei-kao-shen_黑尻鲹/images/main.webp"
+    ],
+    "catch": []
+  }
+}

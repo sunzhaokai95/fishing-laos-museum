@@ -1,0 +1,93 @@
+{
+  "name": "云斑海猪鱼",
+  "slug": "yun-ban-hai-zhu-yu",
+  "source_url": "https://fishweather.cn/fish/yun-ban-hai-zhu-yu",
+  "list_page": 9,
+  "list_position": 201,
+  "scientific_name": "Halichoeres nigrescens",
+  "aliases": "黑濑鱼、乌尾冬仔",
+  "headline": "云斑海猪鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，呈纺锤形。头部中等大小，吻尖。口小，端位。唇厚。前鼻孔管状。眼眶前骨游离。前鳃盖骨后缘具锯齿。体被中大圆鳞，侧线连续。背鳍和臀鳍基底长。尾鳍圆形。幼鱼体色鲜艳，成鱼体色变为深褐色或黑色，故名黑胡椒鲷。体侧常有不规则的浅色斑点或条纹，但不如幼鱼明显。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "隆头鱼科",
+    "水层": "底层,中层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如甲壳类、软体动物、蠕虫等。",
+    "栖息环境": "珊瑚礁区、岩礁区、海草床",
+    "体长": "20 cm",
+    "体重": null,
+    "寿命": "寿命较长，一般可达5-10年以上，具体寿命受生存环境和天敌等因素影响。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "小型软饵（卷尾蛆",
+    "海蜈蚣等）",
+    "小虾肉",
+    "南极虾",
+    "海虫（沙蚕",
+    "海蚯蚓等）",
+    "小型亮片",
+    "迷你米诺",
+    "小号铅笔",
+    "微型Jig",
+    "胡萝卜块（特殊情况可用）",
+    "商品海钓小药"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，表示鱼吞饵较深。",
+    "顿口",
+    "：",
+    "浮漂快速下沉或出现明显的停顿，这是鱼咬钩的信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口试探，需注意观察。",
+    "加速下沉",
+    "：",
+    "浮漂下沉速度突然加快，通常是鱼快速咬饵。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:黑胡椒鲷常栖息于礁石缝隙或珊瑚礁附近，选择这些区域作为钓点。",
+    "轻型钓组:使用轻型钓组，提高灵敏度，更易感知鱼的咬口。",
+    "慢速搜索:黑胡椒鲷不属于активный捕食者，慢速拖动或跳底更易诱鱼。",
+    "注意水层:根据水深和鱼情调整钓棚深度，尝试不同的水层。",
+    "逗钓结合:在静等无口时，可尝试轻微逗钓，吸引鱼的注意。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、防波堤、码头附近、海草床边缘",
+  "distribution": [],
+  "similar_fish": [
+    "黄尾副绯鲤",
+    "六线鱼",
+    "篮子鱼",
+    "鹦嘴鱼",
+    "粗鳞鲬"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yun-ban-hai-zhu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yun-ban-hai-zhu-yu-0-fbc16e22.webp",
+      "https://fishweather.cn/asset-images/catch/yun-ban-hai-zhu-yu-1-3bedddc8.webp",
+      "https://fishweather.cn/asset-images/catch/yun-ban-hai-zhu-yu-2-322a9be0.webp",
+      "https://fishweather.cn/asset-images/catch/yun-ban-hai-zhu-yu-3-cd4f89ef.webp",
+      "https://fishweather.cn/asset-images/catch/yun-ban-hai-zhu-yu-4-c344538f.webp"
+    ]
+  },
+  "profile_text_sha256": "713af6707e8a02a7e15aa7db48603ea25842921795819abd0597693efad93c6f",
+  "raw_line_count": 137,
+  "local_dir": "by_family/隆头鱼科/yun-ban-hai-zhu-yu_云斑海猪鱼",
+  "local_images": {
+    "fish": [
+      "by_family/隆头鱼科/yun-ban-hai-zhu-yu_云斑海猪鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

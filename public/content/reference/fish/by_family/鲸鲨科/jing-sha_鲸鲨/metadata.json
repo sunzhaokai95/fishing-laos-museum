@@ -1,0 +1,50 @@
+{
+  "name": "鲸鲨",
+  "slug": "jing-sha",
+  "source_url": "https://fishweather.cn/fish/jing-sha",
+  "list_page": 9,
+  "list_position": 202,
+  "scientific_name": "Rhincodon typus",
+  "aliases": "大憨鲨、豆腐鲨、海中大熊猫",
+  "headline": "鲸鲨是保护动物吗？习性与识别图鉴",
+  "summary": "鲸鲨是世界上最大的鱼类，体型庞大，呈纺锤形，稍扁平。头部宽阔扁平，吻端钝圆。口巨大，横向，位于吻端前方。眼睛小。体表粗糙，背面灰褐色或蓝灰色，腹面淡黄色，全身布满白色或淡黄色的斑点和条纹，如同棋盘状。背鳍两个，胸鳍巨大呈镰刀状，尾鳍半月形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "须鲛目",
+    "科": "鲸鲨科",
+    "水层": "表层,中层",
+    "食性": "滤食性，主要以小型浮游生物如磷虾、桡足类、水母等为食，也会摄食小型鱼类和甲壳类",
+    "栖息环境": "热带和温带海洋的开放水域，常在近海大陆架和岛屿附近活动",
+    "体长": "2000 cm",
+    "体重": "34000 kg",
+    "寿命": "寿命较长，一般认为可达70-100年，甚至更长，是寿命最长的鱼类之一。",
+    "适温": "21-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "姥鲨",
+    "噬人鲨",
+    "长尾鲨"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jing-sha.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "0bc2eceb0fc88bf6672ec942ac8837845b45bf020b7e256bb4a52a293fe625f0",
+  "raw_line_count": 35,
+  "local_dir": "by_family/鲸鲨科/jing-sha_鲸鲨",
+  "local_images": {
+    "fish": [
+      "by_family/鲸鲨科/jing-sha_鲸鲨/images/main.webp"
+    ],
+    "catch": []
+  }
+}

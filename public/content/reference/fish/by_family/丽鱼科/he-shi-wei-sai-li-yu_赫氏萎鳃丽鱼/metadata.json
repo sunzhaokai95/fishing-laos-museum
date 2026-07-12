@@ -1,0 +1,61 @@
+{
+  "name": "赫氏萎鳃丽鱼",
+  "slug": "he-shi-wei-sai-li-yu",
+  "source_url": "https://fishweather.cn/fish/he-shi-wei-sai-li-yu",
+  "list_page": 11,
+  "list_position": 254,
+  "scientific_name": "Acarichthys heckelii",
+  "aliases": "无",
+  "headline": "赫氏萎鳃丽鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型较大，呈椭圆形，侧扁。头部钝圆，眼睛大而明亮。体色基调为银灰色至淡棕色，体侧分布有不规则的深色斑点和条纹，幼鱼斑纹更为明显。背鳍和臀鳍长而连续，尾鳍呈扇形。各鳍颜色与体色相近，边缘可能略带红色或橙色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以小型鱼类、昆虫、甲壳类、植物碎片和底栖生物为食。",
+    "栖息环境": "主要栖息于南美洲亚马逊河流域及其支流的缓流或静水区域，如湖泊、沼泽、河湾等。",
+    "体长": "30 cm",
+    "体重": "1 kg",
+    "寿命": "在良好的饲养条件下，寿命可达8-10年。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "信息不足"
+  ],
+  "float_signals": [
+    "不适用",
+    "：",
+    "非垂钓鱼种，不适用漂像分析。"
+  ],
+  "practical_tips": [
+    "信息不足"
+  ],
+  "recommended_spots": "信息不足",
+  "distribution": [],
+  "similar_fish": [
+    "慈鲷科其他鱼种",
+    "操作系统鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/he-shi-wei-sai-li-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/he-shi-wei-sai-li-yu-0-60cba630.webp",
+      "https://fishweather.cn/asset-images/catch/he-shi-wei-sai-li-yu-1-d06c3d3a.webp",
+      "https://fishweather.cn/asset-images/catch/he-shi-wei-sai-li-yu-2-c171cc49.webp"
+    ]
+  },
+  "profile_text_sha256": "3cb3a0322a089433819632a2bde72bb980575363afb377de2af54df5feeaf872",
+  "raw_line_count": 82,
+  "local_dir": "by_family/丽鱼科/he-shi-wei-sai-li-yu_赫氏萎鳃丽鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/he-shi-wei-sai-li-yu_赫氏萎鳃丽鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

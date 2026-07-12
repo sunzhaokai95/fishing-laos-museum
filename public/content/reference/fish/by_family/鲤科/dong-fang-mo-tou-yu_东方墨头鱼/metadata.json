@@ -1,0 +1,89 @@
+{
+  "name": "东方墨头鱼",
+  "slug": "dong-fang-mo-tou-yu",
+  "source_url": "https://fishweather.cn/fish/dong-fang-mo-tou-yu",
+  "list_page": 12,
+  "list_position": 267,
+  "scientific_name": "Garra orientalis",
+  "aliases": "石鲮、爬岩鱼、盘石鱼、油底滑鱼、麻雀鱼",
+  "headline": "东方墨头鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，前部平扁，后部侧扁。头平扁，吻端钝圆。口下位，呈马蹄形，唇厚，下唇具发达的后唇褶，形成吸盘。眼小，侧上位。鼻孔每侧2个。鳞细小。体背部灰褐色，腹部灰白色。体侧散布不规则黑色斑点。各鳍灰白色或淡黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性为主，主要摄食底栖藻类、水生昆虫幼虫、有机碎屑等。",
+    "栖息环境": "主要栖息于山区溪流的砾石底或沙砾底的缓流或静水处，也见于水库、池塘等水域。",
+    "体长": "15",
+    "体重": "0.1",
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "15-25"
+  },
+  "bait_options": [
+    "红蚯蚓",
+    "面包虫",
+    "蝇蛆",
+    "米饭粒",
+    "商品饵（腥味型）",
+    "虾粉",
+    "蚕蛹粉",
+    "藻类饵料",
+    "麸皮",
+    "玉米面"
+  ],
+  "float_signals": [
+    "横向移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢下沉，没入水中，可能是鱼吸食饵料。",
+    "顿口",
+    "：",
+    "浮漂突然有力地向下顿一下，是较明显的吃口信号。",
+    "快速上浮",
+    "：",
+    "浮漂快速上浮，可能是鱼将饵料吐出，或空钩挂底。",
+    "轻微点动",
+    "：",
+    "浮漂出现轻微的上下点动，幅度小，频率快，可能是鱼试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择缓流区或静水区作钓，东方吸鳅不喜急流。",
+    "钓点选择乱石堆或水草区域，这些地方是其藏身和觅食场所。",
+    "采用轻灵线组和小钩，提高钓组灵敏度。",
+    "饵料要贴底，东方吸鳅主要在水底活动觅食。",
+    "逗钓结合，轻微提动饵料，增加诱鱼效果。"
+  ],
+  "recommended_spots": "山区溪流、山涧、水库浅滩、池塘（水质较好）",
+  "distribution": [],
+  "similar_fish": [
+    "平鳍鳅",
+    "中华细鲫",
+    "麦穗鱼",
+    "棒花鱼",
+    "石斑鱼(指淡水石斑鱼类)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/dong-fang-mo-tou-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/dong-fang-mo-tou-yu-0-86ba8918.webp",
+      "https://fishweather.cn/asset-images/catch/dong-fang-mo-tou-yu-1-9be64a97.webp",
+      "https://fishweather.cn/asset-images/catch/dong-fang-mo-tou-yu-2-ce4320d7.webp"
+    ]
+  },
+  "profile_text_sha256": "3b44c0a0647c56a16414bd362959e8332175c33a64c508faacfc208887b41d3f",
+  "raw_line_count": 113,
+  "local_dir": "by_family/鲤科/dong-fang-mo-tou-yu_东方墨头鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/dong-fang-mo-tou-yu_东方墨头鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

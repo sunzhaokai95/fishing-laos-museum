@@ -1,0 +1,52 @@
+{
+  "name": "黄镊口鱼",
+  "slug": "huang-nie-kou-yu",
+  "source_url": "https://fishweather.cn/fish/huang-nie-kou-yu",
+  "list_page": 27,
+  "list_position": 634,
+  "scientific_name": "Forcipiger flavissimus",
+  "aliases": "黄镊口鱼、镊子鱼、黄管口鱼",
+  "headline": "黄镊口鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型小巧，侧扁呈卵圆形。最显著的特征是其极度突出的长管状嘴，约占头部长度的一半。体色鲜黄，头部和身体两侧通常没有明显的斑纹。眼睛黑色，位于头部上方。鱼鳍透明，背鳍和臀鳍连续且向后延伸至尾柄。尾鳍呈圆形或略微截形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "蝴蝶鱼科",
+    "水层": "中上层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如小型甲壳类动物、蠕虫、棘皮动物的管足等。也以珊瑚虫、藻类和鱼卵为食。其长管状嘴使其能够深入狭窄的缝隙中觅食。",
+    "栖息环境": "热带珊瑚礁区，包括泻湖和面向海洋的礁坡。常在珊瑚丛、岩石缝隙和海扇附近活动。",
+    "体长": "22.5 cm",
+    "体重": null,
+    "寿命": "野生环境下寿命可能在5-10年左右，水族箱饲养条件下，如果环境适宜，也可能达到类似寿命。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "镊口鱼属其他种类(如长嘴镊口鱼Forcipigerlongirostris)",
+    "黄尾副刺尾鲷(Zebrasomaflavescens)",
+    "柠檬蝶(Chaetodoncitrinellus)",
+    "月眉蝶鱼(Chaetodonlunula)",
+    "线纹蝴蝶鱼(Chaetodonlineolatus)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/huang-nie-kou-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "87b6ac98e41dd7a1012d47ec5a88964938344a72ec0be33a58d356bd05c35c19",
+  "raw_line_count": 30,
+  "local_dir": "by_family/蝴蝶鱼科/huang-nie-kou-yu_黄镊口鱼",
+  "local_images": {
+    "fish": [
+      "by_family/蝴蝶鱼科/huang-nie-kou-yu_黄镊口鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

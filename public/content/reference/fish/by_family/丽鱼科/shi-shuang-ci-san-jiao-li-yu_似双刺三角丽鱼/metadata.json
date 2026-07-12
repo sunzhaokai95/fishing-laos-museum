@@ -1,0 +1,83 @@
+{
+  "name": "似双刺三角丽鱼",
+  "slug": "shi-shuang-ci-san-jiao-li-yu",
+  "source_url": "https://fishweather.cn/fish/shi-shuang-ci-san-jiao-li-yu",
+  "list_page": 28,
+  "list_position": 664,
+  "scientific_name": "Uaru amphiacanthoides",
+  "aliases": "战舰鱼、斧头鱼、飞船鱼",
+  "headline": "似双刺三角丽鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈圆盘形，侧扁。幼鱼时期体色为深棕色至黑色，随着成长颜色逐渐变浅，变为浅棕色至黄棕色。体侧中部通常有一个明显的深色斑块。眼睛较大，嘴小。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "中层,底层",
+    "食性": "草食性，主要以水果、树叶和腐屑为食",
+    "栖息环境": "亚马逊河流域的黑水河和溪流，以及淹没的森林区域",
+    "体长": "30 cm",
+    "体重": "1 kg",
+    "寿命": "人工饲养条件下通常为8-10年，野生环境中可能较短",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "香蕉",
+    "葡萄",
+    "黄瓜",
+    "豌豆",
+    "藻类片",
+    "菠菜",
+    "生菜",
+    "面包",
+    "玉米粒",
+    "红薯"
+  ],
+  "float_signals": [
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿，通常为鱼吞食饵料的信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能为鱼轻口试探或吸食饵料。",
+    "横移",
+    "：",
+    "浮漂不规则地横向移动，可能为鱼拖动饵料。",
+    "持续下沉",
+    "：",
+    "浮漂持续没入水中，且速度加快，为明显咬钩信号。",
+    "上浮",
+    "：",
+    "浮漂先下沉后快速上浮，可能为鱼将饵料吐出或移动位置。"
+  ],
+  "practical_tips": [
+    "选择合适的植物性饵料，根据季节和当地环境调整。",
+    "使用细线小钩，提高灵敏度。",
+    "耐心等待，圆盘鱼咬钩可能较为谨慎。",
+    "注意观察水面动静，寻找鱼的踪迹。",
+    "轻声细语，避免惊扰鱼群。"
+  ],
+  "recommended_spots": "河流、溪流、水库(模拟其自然栖息地环境)",
+  "distribution": [],
+  "similar_fish": [
+    "七彩神仙鱼",
+    "神仙鱼",
+    "седловидныецихлиды(Herosseverus)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shi-shuang-ci-san-jiao-li-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "abd34efe86b749b077479650d6d0dd6cee312d70e6adf1bbf2255aae078ab27d",
+  "raw_line_count": 69,
+  "local_dir": "by_family/丽鱼科/shi-shuang-ci-san-jiao-li-yu_似双刺三角丽鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/shi-shuang-ci-san-jiao-li-yu_似双刺三角丽鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "鲈鲤",
+  "slug": "lu-li",
+  "source_url": "https://fishweather.cn/fish/lu-li",
+  "list_page": 10,
+  "list_position": 226,
+  "scientific_name": "Percocypris pingi",
+  "aliases": "棒棒鱼、麻花鱼、石棒棒、沙棒棒、花棒棒",
+  "headline": "鲈鲤是保护动物吗？习性与识别图鉴",
+  "summary": "体细长圆筒形，稍侧扁，后部略粗壮。头长而略平扁。吻钝圆。口下位，呈马蹄形。唇厚，肉质，下唇侧叶发达。眼小，侧上位。须2对，颌须较粗长，吻须短小。鳞小，侧线完全。体背部灰褐色或棕黄色，体侧及腹部银白色。体侧有数条黑色横纹或斑块，排列不规则，幼鱼期较为明显。各鳍浅灰色或淡黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性，主要以底栖无脊椎动物（如水生昆虫幼虫、小型甲壳类）和藻类、植物碎屑等为食。",
+    "栖息环境": "主要栖息于水流湍急、底质为砂砾石的江河中上游的浅滩或缓流区。",
+    "体长": "20 cm",
+    "体重": "0.1 kg",
+    "寿命": "寿命较短，一般为3-5年，具体寿命数据缺乏详细研究。",
+    "适温": "10-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "中华细鲫",
+    "麦穗鱼",
+    "棒花鱼属其他种"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lu-li.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "b63b191b403a005e6b1f32a8c5a52b80395daf7090d96cc8bec050aee3e01d68",
+  "raw_line_count": 35,
+  "local_dir": "by_family/鲤科/lu-li_鲈鲤",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/lu-li_鲈鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

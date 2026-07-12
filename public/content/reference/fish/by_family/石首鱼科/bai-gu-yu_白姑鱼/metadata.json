@@ -1,0 +1,93 @@
+{
+  "name": "白姑鱼",
+  "slug": "bai-gu-yu",
+  "source_url": "https://fishweather.cn/fish/bai-gu-yu",
+  "list_page": 7,
+  "list_position": 145,
+  "scientific_name": "Pennahia argentata",
+  "aliases": "黄婆鸡、咯咯鱼、钢头、叫姑鱼、沙姑子、花姑鱼、黄鱼、划鱼、厚鳞仔、石首鱼",
+  "headline": "白姑鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，背腹缘均呈弧形。头中等大，稍侧扁，吻钝圆。口大，前位，倾斜，下颌稍突出。上颌牙细小，绒毛状，下颌牙一行，犬牙状。颏部具短须5-6对。前鳃盖骨后缘具锯齿，鳃盖骨光滑。鳞片大，圆鳞，头部及体侧均被鳞。侧线完全，明显。背鳍连续，具鳍棘X-XI，鳍条25-30；臀鳍具鳍棘II，鳍条7-8；胸鳍长，末端超过臀鳍起点",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "石首鱼科",
+    "水层": "底层,近底层",
+    "食性": "肉食性，主要摄食小型鱼类、虾、蟹等底栖无脊椎动物。",
+    "栖息环境": "近海沙质和泥质海底、河口。.常栖息于近岸浅海泥沙底质海区，也进入河口咸淡水域。",
+    "体长": "40 cm",
+    "体重": "0.8 kg",
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "南极虾",
+    "贝肉",
+    "鱼肉块",
+    "鱿鱼块",
+    "小鱼干",
+    "虾皮",
+    "人工鱼饵（软饵",
+    "硬饵",
+    "模拟小鱼虾蟹等）"
+  ],
+  "float_signals": [
+    "竿尖点动",
+    "：",
+    "竿尖出现连续轻微的点动，幅度小，频率快，可能是黄姑鱼试探性触碰或啄食饵料。",
+    "竿尖抖动",
+    "：",
+    "竿尖出现明显的抖动，频率快，幅度不一，可能是黄姑鱼在拖动饵料或挣扎。",
+    "线轮出线",
+    "：",
+    "如果使用带泄力装置的线轮，鱼咬钩后线轮开始出线，说明中了大鱼，需要及时调整泄力，避免切线。",
+    "竿尖下弯",
+    "：",
+    "竿尖明显下弯，幅度较大，持续时间较长，表明黄姑鱼已咬实饵料，准备吞食。",
+    "竿稍大幅度弯曲",
+    "：",
+    "竿稍被大幅度拉弯，甚至出现弓竿现象，通常是大个体黄姑鱼咬钩，力量较大。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:黄姑鱼喜欢栖息在泥沙底质海区，尤其是有礁石或障碍物附近，这些地方是它们觅食和藏身之处。",
+    "使用腥味饵料:黄姑鱼是肉食性鱼类，对腥味饵料非常敏感，如海蚯蚓、虾肉、贝肉等都是不错的选择。",
+    "沉底钓为主:黄姑鱼主要在底层活动，因此底钓是最佳钓法，确保饵料到达水底。",
+    "慢速拖动逗钓:在底钓的基础上，可以尝试缓慢拖动钓组，模拟底栖生物的移动，吸引黄姑鱼的注意。",
+    "夜钓效果更佳:黄姑鱼夜间觅食活跃，夜钓往往比白天有更好的收获，可使用夜光棒或电子夜钓灯。"
+  ],
+  "recommended_spots": "近海泥沙底质海域、河口咸淡水域、海湾、内湾、礁石区附近、防波堤、码头、人工鱼礁区",
+  "distribution": [],
+  "similar_fish": [
+    "大黄鱼",
+    "小黄鱼",
+    "棘头梅童鱼",
+    "鮸鱼",
+    "鲈鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bai-gu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/bai-gu-yu-0-e581fb92.webp",
+      "https://fishweather.cn/asset-images/catch/bai-gu-yu-1-080a712d.webp",
+      "https://fishweather.cn/asset-images/catch/bai-gu-yu-2-a3bc16fb.webp",
+      "https://fishweather.cn/asset-images/catch/bai-gu-yu-3-895ed156.webp",
+      "https://fishweather.cn/asset-images/catch/bai-gu-yu-4-72a05d96.webp"
+    ]
+  },
+  "profile_text_sha256": "ae3798116e70dcdc80aa13d5b9fdc76524fbf3bd2131904dde5607d54dd58a4d",
+  "raw_line_count": 139,
+  "local_dir": "by_family/石首鱼科/bai-gu-yu_白姑鱼",
+  "local_images": {
+    "fish": [
+      "by_family/石首鱼科/bai-gu-yu_白姑鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

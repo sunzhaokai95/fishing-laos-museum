@@ -1,0 +1,92 @@
+{
+  "name": "子陵吻虾虎鱼",
+  "slug": "zi-ling-wen-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/zi-ling-wen-xia-hu-yu",
+  "list_page": 3,
+  "list_position": 69,
+  "scientific_name": "Rhinogobius giurinus",
+  "aliases": "爬虎鱼、狗母鱼、虎头鲨、和尚鱼、虾虎",
+  "headline": "子陵吻虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部近圆筒形，后部侧扁。头大而略平扁。口大，下颌稍突出。眼上位，略突出。体被栉鳞，头部无鳞。体色多变，通常为浅棕色或灰黄色，具深色斑纹，腹部灰白色。雄鱼体色较鲜艳，雌鱼腹部膨大。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性为主，主要摄食小型底栖无脊椎动物，如水生昆虫幼虫、小型甲壳类、蠕虫等，也捕食小型鱼虾。",
+    "栖息环境": "溪流、河流、湖泊、池塘、水库、稻田、河口等多种淡水及半咸水水域，偏好于砂砾底质、水流缓慢或静止的浅水区。",
+    "体长": "12 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命相对较短，一般为2-3年，在良好的饲养环境下可能达到4年以上。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓",
+    "面包虫",
+    "蝇蛆",
+    "米饭粒",
+    "面包屑",
+    "商品饵（腥味型）",
+    "虾粉",
+    "鸡肝泥",
+    "鱼粉"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂轻微颤动，幅度小，频率快，可能是鱼试探性碰触饵料。",
+    "黑漂",
+    "：",
+    "浮漂快速下沉没入水中，是鱼吞食死口的明显信号。",
+    "上顶",
+    "：",
+    "浮漂突然上顶一两目，然后停顿或下沉，可能是鱼抬头吞饵。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，没有明显的顿口，可能是鱼吸食饵料但动作轻缓。",
+    "移位",
+    "：",
+    "浮漂缓慢横向移动，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:吻虾虎鱼喜欢栖息在有掩蔽物的水域，如石头缝隙、水草丛中、树根旁等。",
+    "使用小型轻巧的钓具:吻虾虎鱼体型小，吃口轻，需要使用灵敏度高的钓组。",
+    "采用逗钓手法:通过轻轻提动竿梢，使饵料在水底呈现动态，吸引鱼的注意。",
+    "饵料要新鲜:吻虾虎鱼喜欢新鲜的活饵或腥味饵料。",
+    "轻声细语，避免惊扰:吻虾虎鱼胆小，作钓时要保持安静，避免大声喧哗或走动。"
+  ],
+  "recommended_spots": "溪流、山涧、池塘、水沟、稻田",
+  "distribution": [
+    "安徽省"
+  ],
+  "similar_fish": [
+    "塘鳢",
+    "麦穗鱼",
+    "鲫鱼",
+    "鳑鲏"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zi-ling-wen-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zi-ling-wen-xia-hu-yu-0-b3a42a4e.webp",
+      "https://fishweather.cn/asset-images/catch/zi-ling-wen-xia-hu-yu-1-395be8b5.webp",
+      "https://fishweather.cn/asset-images/catch/zi-ling-wen-xia-hu-yu-2-706fd16f.webp",
+      "https://fishweather.cn/asset-images/catch/zi-ling-wen-xia-hu-yu-3-7dfe2b0a.webp",
+      "https://fishweather.cn/asset-images/catch/zi-ling-wen-xia-hu-yu-4-03e73826.webp"
+    ]
+  },
+  "profile_text_sha256": "7e9e5d8a8085908fcfcf7cc972a9a20f347f7820dba135c0c1bb8c7126b63a59",
+  "raw_line_count": 138,
+  "local_dir": "by_family/鰕虎科/zi-ling-wen-xia-hu-yu_子陵吻虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/zi-ling-wen-xia-hu-yu_子陵吻虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

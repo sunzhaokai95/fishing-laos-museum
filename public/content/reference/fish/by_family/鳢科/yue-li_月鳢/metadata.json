@@ -1,0 +1,90 @@
+{
+  "name": "月鳢",
+  "slug": "yue-li",
+  "source_url": "https://fishweather.cn/fish/yue-li",
+  "list_page": 4,
+  "list_position": 76,
+  "scientific_name": "Channa asiatica",
+  "aliases": "七星鱼、山斑鱼、称星鱼、点秤星鱼、星点鳢、岗鱼、黑鱼",
+  "headline": "月鳢怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型粗壮呈圆筒形，头大且扁平，吻短圆钝。眼小，上位。口大，端位，下颌略突出，上下颌及腭骨均具绒毛状齿。背鳍和臀鳍长，分别延伸至尾鳍基部，胸鳍圆形，腹鳍小，尾鳍圆形。体色背部及体侧灰黑色或棕黑色，腹部灰白色，幼鱼体侧具7个黑色斑点，成鱼斑点不明显或消失。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鳢科",
+    "水层": "底层,中下层",
+    "食性": "肉食性，凶猛掠食性鱼类，主要捕食小型鱼类、虾类、蟹类、蛙类、昆虫及其幼虫等，也摄食水生植物碎屑。",
+    "栖息环境": "静水或缓流水域，如湖泊、水库、池塘、河流缓流区、沼泽、沟渠、稻田等，喜栖息于水草丛生、底质多石砾或泥沙的环境中。",
+    "体长": "60 cm",
+    "体重": "5 kg",
+    "寿命": "自然寿命较长，一般可达5-8年，人工饲养条件下可超过10年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "雷蛙",
+    "VIB",
+    "米诺",
+    "亮片",
+    "软虫",
+    "铅笔",
+    "波扒",
+    "活虾",
+    "鸡肝",
+    "猪肉"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速下沉或直接没入水中，是斑鳢吞食饵料的典型信号。",
+    "快口",
+    "：",
+    "浮漂出现快速而有力的下顿，幅度较大。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是斑鳢叼住饵料后试探性游动。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是斑鳢拖动饵料。",
+    "抖动",
+    "：",
+    "浮漂出现连续的抖动，可能是小鱼闹窝或斑鳢轻微触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:斑鳢喜欢藏身于水草、乱石堆、树桩等障碍物附近，这些地方是理想的钓点。",
+    "根据鱼情选择合适的饵料和钓法:在鱼口好时，可选择路亚钓法，提高效率；鱼口较慢时，可选择传统钓法，用腥味重的饵料诱鱼。",
+    "采用逗钓技巧:在传统钓中，可通过轻微提竿、放下、抖动等动作，使饵料在水中呈现动态，吸引斑鳢注意。",
+    "注意扬竿时机和力度:斑鳢吃口凶猛，但嘴部坚硬，扬竿要及时有力，确保钩牢。",
+    "做好安全防护:斑鳢牙齿锋利，中鱼后摘钩时要注意安全，防止被咬伤。"
+  ],
+  "recommended_spots": "野塘、水库、湖泊、河流缓流区、水草茂盛区域",
+  "distribution": [],
+  "similar_fish": [
+    "乌鳢",
+    "纹鳢",
+    "宽额鳢",
+    "眼斑鳢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yue-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yue-li-0-4b3f7197.webp",
+      "https://fishweather.cn/asset-images/catch/yue-li-1-7c5e00e7.webp",
+      "https://fishweather.cn/asset-images/catch/yue-li-2-730feaff.webp",
+      "https://fishweather.cn/asset-images/catch/yue-li-3-3975dc75.webp",
+      "https://fishweather.cn/asset-images/catch/yue-li-4-940a51fd.webp"
+    ]
+  },
+  "profile_text_sha256": "6e2537af1b9eb7ab4775992035e1cd329caf7a1db22c6706686f86ea28bbb92d",
+  "raw_line_count": 136,
+  "local_dir": "by_family/鳢科/yue-li_月鳢",
+  "local_images": {
+    "fish": [
+      "by_family/鳢科/yue-li_月鳢/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "name": "宽额鳢",
+  "slug": "kuan-e-li",
+  "source_url": "https://fishweather.cn/fish/kuan-e-li",
+  "list_page": 4,
+  "list_position": 83,
+  "scientific_name": "Channa gachua",
+  "aliases": "山花鱼、塘鳢、火柴头鱼、哥麻鱼、猪头斑、花斑鱼",
+  "headline": "宽额鳢怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型较小，圆筒形，头部扁平。背鳍和臀鳍长，无硬棘。口大，端位，下颌略突出。眼小，上位。体色多变，通常为棕褐色或灰褐色，具有不规则的深色斑纹，幼鱼体侧常有橘红色条纹。腹部灰白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鳢科",
+    "水层": "底层,中下层",
+    "食性": "肉食性，主要捕食小型鱼类、虾类、昆虫幼虫、水生无脊椎动物等。",
+    "栖息环境": "溪流、池塘、沼泽、稻田、沟渠等静水或缓流水域，喜栖息于水草丛生、底质松软的环境。",
+    "体长": "30 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命较短，野生条件下通常为2-3年，人工饲养条件下可能略长。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包虫",
+    "蚂蚱",
+    "蟋蟀",
+    "小鱼干",
+    "鸡肝",
+    "猪肉丁",
+    "商品饵（肉食性）",
+    "虾肉"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，是清晰的扬竿信号。",
+    "横向移位",
+    "：",
+    "浮漂不垂直下沉，而是向侧方移动，可能是斑鳢叼着饵料游动。",
+    "缓沉慢降",
+    "：",
+    "浮漂缓慢而匀速地向下沉没，可能是斑鳢吸食饵料后缓缓下沉。",
+    "快速下顿",
+    "：",
+    "浮漂突然快速下顿，幅度较大，通常是斑鳢快速咬饵的信号。",
+    "轻微点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是斑鳢试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择隐蔽钓点:斑鳢喜藏身于水草、乱石、树根等隐蔽处，钓点选择这些区域成功率更高。",
+    "慢速搜索:斑鳢捕食方式相对缓慢，路亚钓法宜采用慢速拖动或跳底等手法，给斑鳢足够的攻击时间。",
+    "逗钓结合:传统钓法中，通过提动、放下鱼竿，使饵料呈现动态，更能诱发斑鳢的捕食欲望。",
+    "观察水面:注意观察水面是否有水花、气泡等异常动静，可能是斑鳢活动或捕食的迹象。",
+    "灵活调整钓法:根据不同的水情、天气和斑鳢的活性，灵活调整钓法和饵料，提高垂钓效果。"
+  ],
+  "recommended_spots": "溪流、池塘、水库、稻田、沟渠、沼泽",
+  "distribution": [],
+  "similar_fish": [
+    "乌鳢",
+    "月鳢",
+    "宽额鳢",
+    "纹鳢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/kuan-e-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/kuan-e-li-0-38c63ddb.webp",
+      "https://fishweather.cn/asset-images/catch/kuan-e-li-1-b28e6a9a.webp",
+      "https://fishweather.cn/asset-images/catch/kuan-e-li-2-6ae353d4.webp",
+      "https://fishweather.cn/asset-images/catch/kuan-e-li-3-80997a38.webp",
+      "https://fishweather.cn/asset-images/catch/kuan-e-li-4-84079d20.webp"
+    ]
+  },
+  "profile_text_sha256": "60f599c3c569e9342f784f01b805d7343f0d3690b05de720d6de0dce6182ff68",
+  "raw_line_count": 134,
+  "local_dir": "by_family/鳢科/kuan-e-li_宽额鳢",
+  "local_images": {
+    "fish": [
+      "by_family/鳢科/kuan-e-li_宽额鳢/images/main.webp"
+    ],
+    "catch": []
+  }
+}

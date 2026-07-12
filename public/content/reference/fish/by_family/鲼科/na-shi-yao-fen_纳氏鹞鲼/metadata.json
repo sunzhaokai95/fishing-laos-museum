@@ -1,0 +1,52 @@
+{
+  "name": "纳氏鹞鲼",
+  "slug": "na-shi-yao-fen",
+  "source_url": "https://fishweather.cn/fish/na-shi-yao-fen",
+  "list_page": 16,
+  "list_position": 368,
+  "scientific_name": "Aetobatus narinari",
+  "aliases": "魔鬼鱼、鹰鲼、斑点鹰鳐",
+  "headline": "纳氏鹞鲼是保护动物吗？习性与识别图鉴",
+  "summary": "体盘菱形，宽大于长，吻突出而圆钝，形成鸭嘴状。尾细长如鞭，约为体盘长的2-3倍，尾部具1-5根毒刺。背面深蓝色至黑色，散布白色斑点，腹面白色。眼侧位，喷水孔位于眼后。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "鳐形目",
+    "科": "鲼科",
+    "水层": "中层,底层",
+    "食性": "主要以底栖无脊椎动物为食，包括双壳类、腹足类、甲壳类和多毛类等。有时也捕食小型鱼类。",
+    "栖息环境": "热带和亚热带沿海海域，包括海湾、珊瑚礁、泻湖和近海区域。常在沙质或岩石海底活动。",
+    "体长": "330 cm",
+    "体重": "230 kg",
+    "寿命": "寿命较长，据估计可达25年以上，甚至可能超过30年。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "蝠鲼",
+    "牛鼻鲼",
+    "犁头鳐",
+    "锯鳐",
+    "黄貂鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/na-shi-yao-fen.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "9088044279dc97acfe84a6118548355cf17a6d0142a3772d0550c0afe82cacec",
+  "raw_line_count": 37,
+  "local_dir": "by_family/鲼科/na-shi-yao-fen_纳氏鹞鲼",
+  "local_images": {
+    "fish": [
+      "by_family/鲼科/na-shi-yao-fen_纳氏鹞鲼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

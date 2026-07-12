@@ -1,0 +1,52 @@
+{
+  "name": "眼斑斗鱼",
+  "slug": "yan-ban-dou-yu",
+  "source_url": "https://fishweather.cn/fish/yan-ban-dou-yu",
+  "list_page": 10,
+  "list_position": 220,
+  "scientific_name": "Macropodus ocellatus",
+  "aliases": "菩萨鱼、斗鱼、盖斑、圆尾斗鱼",
+  "headline": "眼斑斗鱼是保护动物吗？习性与识别图鉴",
+  "summary": "体呈卵圆形，侧扁。头中等大。吻短钝。口上位。眼大。鳞片大，侧线不完全。体色多变，通常为红棕色或灰褐色，体侧有数条深色横纹，鳃盖后缘具一明显黑色斑点，尾鳍圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丝足鲈科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型无脊椎动物，如水蚤、蚊子幼虫、小鱼等",
+    "栖息环境": "静水或缓流水域，如池塘、稻田、沟渠、沼泽等",
+    "体长": "8 cm",
+    "体重": "0.05 kg",
+    "寿命": "自然条件下通常为2-3年",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "泰国斗鱼",
+    "圆尾斗鱼",
+    "叉尾斗鱼",
+    "蓝曼龙",
+    "丽丽鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yan-ban-dou-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "f1d2663a1bdaa637890de219870286bce68aad5aa2fbb2c7501430fd3161da67",
+  "raw_line_count": 37,
+  "local_dir": "by_family/丝足鲈科/yan-ban-dou-yu_眼斑斗鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丝足鲈科/yan-ban-dou-yu_眼斑斗鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

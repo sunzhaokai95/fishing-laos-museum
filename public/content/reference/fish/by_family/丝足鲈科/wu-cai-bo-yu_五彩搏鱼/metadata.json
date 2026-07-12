@@ -1,0 +1,52 @@
+{
+  "name": "五彩搏鱼",
+  "slug": "wu-cai-bo-yu",
+  "source_url": "https://fishweather.cn/fish/wu-cai-bo-yu",
+  "list_page": 16,
+  "list_position": 373,
+  "scientific_name": "Betta splendens",
+  "aliases": "花手巾、菩萨鱼",
+  "headline": "五彩搏鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型修长而侧扁，色彩艳丽，尤其雄性成鱼。各鳍发达舒展，尾鳍形状多样，如扇尾、马尾、冠尾等。雄鱼体色鲜艳，具有金属光泽，雌鱼体色相对暗淡，各鳍也较短小。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丝足鲈科",
+    "水层": "中层,上层",
+    "食性": "杂食性偏肉食，主要摄食昆虫、小型无脊椎动物、浮游生物及人工饲料",
+    "栖息环境": "静水或缓流水域，如池塘、稻田、沼泽、水沟等",
+    "体长": "8 cm",
+    "体重": "0.01 kg",
+    "寿命": "人工饲养条件下通常为2-3年，良好饲养条件下可达5年左右",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "圆尾斗鱼",
+    "马尾斗鱼",
+    "狮王斗鱼",
+    "将军斗鱼",
+    "巨型斗鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/wu-cai-bo-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "edbdf34b0d2616998271aa7a62e4237e7be0396c178d207f2cb89b0be8e84275",
+  "raw_line_count": 32,
+  "local_dir": "by_family/丝足鲈科/wu-cai-bo-yu_五彩搏鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丝足鲈科/wu-cai-bo-yu_五彩搏鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

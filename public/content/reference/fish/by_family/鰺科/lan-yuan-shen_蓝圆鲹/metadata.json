@@ -1,0 +1,91 @@
+{
+  "name": "蓝圆鲹",
+  "slug": "lan-yuan-shen",
+  "source_url": "https://fishweather.cn/fish/lan-yuan-shen",
+  "list_page": 5,
+  "list_position": 116,
+  "scientific_name": "Decapterus maruadsi",
+  "aliases": "池鱼、巴浪鱼、棍子鱼、黄占、刺巴鱼、海鲹",
+  "headline": "蓝圆鲹怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，呈纺锤形。头中等大，吻尖。脂眼睑发达。上下颌各具一行细齿。体被圆鳞，侧线完全，侧线鳞上方具一列棱鳞。背鳍两个，分离，第一背鳍鳍棘较弱，第二背鳍与臀鳍相对。尾鳍深叉形。体背部蓝灰色或青灰色，腹部银白色。各鳍浅黄色或淡色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰺科",
+    "水层": "中上层",
+    "食性": "肉食性为主，主要摄食小型鱼类、甲壳类（如虾、桡足类）、头足类幼体等浮游动物和小型无脊椎动物。",
+    "栖息环境": "近海暖温性中上层鱼类，常栖息于沿岸外海或近海大陆架水域，也进入港湾和河口区。",
+    "体长": "40 cm",
+    "体重": "0.6 kg",
+    "寿命": "一般为3-5年，最长可达7年左右。",
+    "适温": "18-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾肉",
+    "鱿鱼丝",
+    "小鱼块",
+    "鱼肉肠",
+    "商品海钓饵料（腥味）",
+    "沙蚕",
+    "管虫",
+    "青虫",
+    "磷虾"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，通常是蓝圆鲹吞饵较深，是清晰的扬竿信号。",
+    "走漂",
+    "：",
+    "浮漂在水面横向快速移动，可能是蓝圆鲹咬钩后拖动钓组，需及时扬竿。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿，幅度半目到一目，是蓝圆鲹咬钩的典型信号，需立即扬竿。",
+    "加速下沉",
+    "：",
+    "浮漂缓慢下沉过程中，突然加速下沉或停顿，可能是蓝圆鲹截口，需注意观察并适时扬竿。",
+    "小幅度点动",
+    "：",
+    "浮漂出现连续轻微的点动或颤动，可能是蓝圆鲹试探性触碰饵料，可稍等片刻再扬竿，或主动轻提鱼竿逗钓。"
+  ],
+  "practical_tips": [
+    "选择合适钓位:蓝圆鲹常在水流较急、饵料丰富的区域活动，如礁石区、码头桩基附近等。选择这些区域作为钓位，能提高钓获几率。",
+    "诱饵聚鱼:使用诱饵窝料提前打窝，能快速聚集鱼群，提高上鱼速度。诱饵可选择南极虾、鱼粉、虾粉等腥味较重的饵料。",
+    "灵活调整钓法:根据鱼情和水情，灵活调整钓法和钓组。如鱼口较轻时，可采用更灵敏的钓组和更小的鱼钩；水流较急时，可增加铅坠重量稳定钓组。",
+    "注意潮汐变化:了解潮汐规律，选择涨潮或退潮时段作钓，这些时段水流活跃，饵料丰富，蓝圆鲹觅食积极。",
+    "勤抛竿、多搜索:蓝圆鲹活动范围较广，勤抛竿、多搜索，扩大搜索范围，能更快找到鱼群。"
+  ],
+  "recommended_spots": "近海礁石区、海港、码头、防波堤、外海船钓钓点",
+  "distribution": [],
+  "similar_fish": [
+    "竹荚鱼",
+    "鲐鱼",
+    "金枪鱼",
+    "马鲛鱼",
+    "鲅鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lan-yuan-shen.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/lan-yuan-shen-0-b98de906.webp",
+      "https://fishweather.cn/asset-images/catch/lan-yuan-shen-1-36bb7154.webp",
+      "https://fishweather.cn/asset-images/catch/lan-yuan-shen-2-c335bf94.webp",
+      "https://fishweather.cn/asset-images/catch/lan-yuan-shen-3-f90a62eb.webp",
+      "https://fishweather.cn/asset-images/catch/lan-yuan-shen-4-ca6d739c.webp"
+    ]
+  },
+  "profile_text_sha256": "cda8ef4e1d2dc5c06da048bd88141d223bd697d2601d93487835af8a78cbe969",
+  "raw_line_count": 139,
+  "local_dir": "by_family/鰺科/lan-yuan-shen_蓝圆鲹",
+  "local_images": {
+    "fish": [
+      "by_family/鰺科/lan-yuan-shen_蓝圆鲹/images/main.webp"
+    ],
+    "catch": []
+  }
+}

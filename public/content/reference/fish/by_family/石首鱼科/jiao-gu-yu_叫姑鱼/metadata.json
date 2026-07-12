@@ -1,0 +1,89 @@
+{
+  "name": "叫姑鱼",
+  "slug": "jiao-gu-yu",
+  "source_url": "https://fishweather.cn/fish/jiao-gu-yu",
+  "list_page": 13,
+  "list_position": 289,
+  "scientific_name": "Johnius grypotus",
+  "aliases": "黄鱼",
+  "headline": "叫姑鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，背腹缘均凸出。头中大，吻圆钝。口大，前位，倾斜。上颌略突出于下颌。两颌牙细小，绒毛状。颏须短小或缺如。前鳃盖骨后缘具锯齿。鳃耙短。鳞片中大，栉鳞。侧线完全。背鳍2个，连续，第一背鳍鳍棘细弱，第二背鳍鳍条较长。胸鳍中长。腹鳍胸位。臀鳍短小。尾鳍楔形。体背侧灰褐色，腹侧银白色。各鳍淡黄色或灰黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "石首鱼科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型鱼类、甲壳类、底栖无脊椎动物为食。",
+    "栖息环境": "近海底层",
+    "体长": "40 cm",
+    "体重": null,
+    "寿命": "寿命信息缺乏详细研究，一般鱼类寿命在数年到十数年不等，具体寿命未知。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "沙蚕",
+    "海蚯蚓",
+    "虾肉",
+    "鱿鱼须",
+    "贝肉",
+    "鱼肉块",
+    "南极虾",
+    "小鱼干",
+    "海藻",
+    "商品海钓饵料"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，通常为鱼吞饵。",
+    "顿口",
+    "：",
+    "浮漂快速下沉或大幅度顿挫，是鱼咬钩的明显信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能为鱼轻口试探，需注意观察。",
+    "移位",
+    "：",
+    "浮漂不规则横向移动，可能是鱼拖动饵料。",
+    "抖动",
+    "：",
+    "浮漂出现轻微的抖动或颤动，可能为小鱼闹窝或鱼轻微触碰。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:礁石区、海底不平整区域是斑鳍叫姑鱼常栖息的地方。",
+    "使用腥味饵料:斑鳍叫姑鱼喜欢腥味饵料，如虾肉、沙蚕等。",
+    "注意潮汐变化:涨潮和退潮时鱼口较好。",
+    "慢速搜索:在海底缓慢拖动饵料，增加诱鱼效果。",
+    "灵敏观察鱼讯:海鱼吃口相对直接，但也要注意轻微鱼讯，及时扬竿。"
+  ],
+  "recommended_spots": "近海礁石区、海湾、码头、防波堤、沙滩附近海域",
+  "distribution": [],
+  "similar_fish": [
+    "黄姑鱼",
+    "棘头叫姑鱼",
+    "白姑鱼",
+    "花尾胡椒鲷",
+    "石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jiao-gu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/jiao-gu-yu-0-f133c5ed.webp",
+      "https://fishweather.cn/asset-images/catch/jiao-gu-yu-1-611d7d42.webp",
+      "https://fishweather.cn/asset-images/catch/jiao-gu-yu-2-caee9e90.webp"
+    ]
+  },
+  "profile_text_sha256": "bddfaac836cd3d0ec7b5552940187ad055afbee0477947e79bbd833547b9da3d",
+  "raw_line_count": 111,
+  "local_dir": "by_family/石首鱼科/jiao-gu-yu_叫姑鱼",
+  "local_images": {
+    "fish": [
+      "by_family/石首鱼科/jiao-gu-yu_叫姑鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "红带拟花鮨",
+  "slug": "hong-dai-ni-hua-yi",
+  "source_url": "https://fishweather.cn/fish/hong-dai-ni-hua-yi",
+  "list_page": 29,
+  "list_position": 690,
+  "scientific_name": "Pseudanthias rubrizonatus",
+  "aliases": "红腰花鲈、红带假花鮨",
+  "headline": "红带拟花鮨怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，呈纺锤形。口小，端位。眼大。体色鲜艳，雄鱼体色为亮橙色至红色，体侧中部有一条明显的紫红色或红色横带，延伸至尾柄。雌鱼体色略浅，为橙黄色，横带颜色较浅或不明显。各鳍透明，背鳍和臀鳍软鳍条延长，尾鳍叉形。体被小栉鳞，侧线完全。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "中上层",
+    "食性": "主要以浮游动物为食，包括桡足类、糠虾和其他小型浮游生物。",
+    "栖息环境": "珊瑚礁区，通常栖息于水流清澈、珊瑚繁茂的泻湖和外礁斜坡。",
+    "体长": "12 cm",
+    "体重": null,
+    "寿命": "在自然条件下，寿命可达5-8年，人工饲养条件下，若环境适宜，寿命也较长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "金花鮨(Pseudanthiassquamipinnis)",
+    "紫红花鮨(Pseudanthiaspascalus)",
+    "双棘花鮨(Nemanthiascarberryi)",
+    "黄鳍花鮨(Pseudanthiasevansi)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hong-dai-ni-hua-yi.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "be8d088ec4172dc9be5c2fc38d0b847d7f0515efc3ecb115e2529e34315639d5",
+  "raw_line_count": 29,
+  "local_dir": "by_family/鮨科/hong-dai-ni-hua-yi_红带拟花鮨",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/hong-dai-ni-hua-yi_红带拟花鮨/images/main.webp"
+    ],
+    "catch": []
+  }
+}

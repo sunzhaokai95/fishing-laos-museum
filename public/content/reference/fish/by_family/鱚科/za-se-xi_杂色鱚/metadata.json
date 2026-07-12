@@ -1,0 +1,88 @@
+{
+  "name": "杂色鱚",
+  "slug": "za-se-xi",
+  "source_url": "https://fishweather.cn/fish/za-se-xi",
+  "list_page": 19,
+  "list_position": 440,
+  "scientific_name": "Sillago aeolus",
+  "aliases": "海蜒、沙钻鱼、船丁鱼、面条鱼",
+  "headline": "杂色鱚怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，呈亚圆筒形。体色银白色，背部略带黄色。头锥形。口端位，小。眼眶下骨裸露。具两个背鳍，第一背鳍有硬棘，第二背鳍和臀鳍均为鳍条。尾鳍叉形。鳞片小，圆鳞。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鱚科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食，如甲壳类、多毛类、小型软体动物等",
+    "栖息环境": "近海浅水区域，沙泥质海底，河口",
+    "体长": "25",
+    "体重": "0.3",
+    "寿命": "推测寿命为3-5年",
+    "适温": "20-30"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "贝肉",
+    "小鱼肉",
+    "南极虾",
+    "鱼骨粉",
+    "海藻",
+    "商品海钓底钓饵料",
+    "冷冻鱼饵"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，消失不见，表明鱼已吞食饵料。",
+    "顿口",
+    "：",
+    "浮漂快速下顿，幅度明显，是鱼吞饵的典型信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口试探或拖动饵料。",
+    "移位",
+    "：",
+    "浮漂水平方向移动，可能是鱼拖着饵料游动。",
+    "连续点动",
+    "：",
+    "浮漂出现连续轻微的点动，可能是小鱼闹窝或目标鱼试探。"
+  ],
+  "practical_tips": [
+    "选择合适的潮汐时间，涨潮和退潮时鱼类活动频繁。",
+    "根据水深和流速选择合适的铅坠重量，确保饵料沉底。",
+    "采用逗钓技巧，轻微提动竿稍，吸引鱼的注意。",
+    "勤换饵料，保持饵料的新鲜度，提高诱鱼效果。",
+    "注意观察潮水变化和水流方向，适时调整钓位和钓法。"
+  ],
+  "recommended_spots": "沙滩、泥滩、河口、内湾、近岸浅海",
+  "distribution": [],
+  "similar_fish": [
+    "日本沙鮻",
+    "多鳞沙鮻",
+    "斑点沙鮻",
+    "栉齿沙鮻",
+    "青沙鮻"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/za-se-xi.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/za-se-xi-0-05e3ea2c.webp",
+      "https://fishweather.cn/asset-images/catch/za-se-xi-1-1dc111f3.webp"
+    ]
+  },
+  "profile_text_sha256": "9080347202b05b6b8fa019c682b883d0dc566a56b64b510b8438d7f5befa523f",
+  "raw_line_count": 101,
+  "local_dir": "by_family/鱚科/za-se-xi_杂色鱚",
+  "local_images": {
+    "fish": [
+      "by_family/鱚科/za-se-xi_杂色鱚/images/main.webp"
+    ],
+    "catch": []
+  }
+}

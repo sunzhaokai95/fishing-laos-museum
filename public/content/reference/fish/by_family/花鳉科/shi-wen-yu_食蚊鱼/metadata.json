@@ -1,0 +1,78 @@
+{
+  "name": "食蚊鱼",
+  "slug": "shi-wen-yu",
+  "source_url": "https://fishweather.cn/fish/shi-wen-yu",
+  "list_page": 9,
+  "list_position": 194,
+  "scientific_name": "Gambusia affinis",
+  "aliases": "柳条鱼、花花鱼、麻将鱼、船钉鱼",
+  "headline": "食蚊鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型细长，略呈纺锤形，小型鱼类，雌鱼体长通常大于雄鱼。头部平扁，吻短而圆钝。口上位，口裂大，下颌略突出。眼大，侧位。背鳍短小，位于体中部偏后，与臀鳍相对。尾鳍圆形。体侧扁，腹部圆凸。体色为浅灰色或黄褐色，背部颜色较深，腹部浅色。部分个体体侧有不规则黑色斑点。雄鱼臀鳍特化为交配器，称为输精棒。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鳉形目",
+    "科": "花鳉科",
+    "水层": "上层,中上层",
+    "食性": "杂食性，主要以小型无脊椎动物为食，尤其偏好蚊子幼虫（孑孓），也摄食藻类、浮游生物、有机碎屑等。是高效的蚊虫生物防治鱼类。",
+    "栖息环境": "静水或缓流水域，如池塘、沼泽、稻田、沟渠、湖泊浅水区等，耐污能力强，也常见于城市水体。",
+    "体长": "4 cm",
+    "体重": "1 kg",
+    "寿命": "寿命较短，通常为1-2年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "面包屑",
+    "米饭粒",
+    "ক্ষুদ্র面包虫(面包虫幼虫)",
+    "மிகசிறிய红虫(红虫幼虫)",
+    "மிகசிறிய蚯蚓(蚯蚓碎)",
+    "மிகசிறிய颗粒饲料(小型颗粒饲料)",
+    "面粉饵",
+    "豆渣",
+    "麸皮",
+    "藻类饵料"
+  ],
+  "float_signals": [
+    "不适用",
+    "：",
+    "食蚊鱼体型极小，通常不作为垂钓目标，漂相参考价值不大。"
+  ],
+  "practical_tips": [
+    "非垂钓目标鱼种，无专门垂钓技巧。",
+    "如需观察或采集，可使用极细小的鱼钩和轻巧的钓组。",
+    "饵料可选用অতিசிறிய面包屑或红虫。",
+    "注意保护其他水生生物，避免过度采集。",
+    "了解当地对外来物种的管理政策，负责任地对待外来物种。"
+  ],
+  "recommended_spots": "池塘、沟渠、稻田、缓流小溪",
+  "distribution": [],
+  "similar_fish": [
+    "麦穗鱼",
+    "青鳉",
+    "鳑鲏",
+    "棒花鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shi-wen-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/shi-wen-yu-0-a6565bd6.webp",
+      "https://fishweather.cn/asset-images/catch/shi-wen-yu-1-355094d5.webp",
+      "https://fishweather.cn/asset-images/catch/shi-wen-yu-2-50a7423b.webp",
+      "https://fishweather.cn/asset-images/catch/shi-wen-yu-3-c2ada3f0.webp",
+      "https://fishweather.cn/asset-images/catch/shi-wen-yu-4-fac69694.webp"
+    ]
+  },
+  "profile_text_sha256": "ff14e1c219e1dc1f38c9c0657727856ac90caa99381fea5113ff9f5399dc991d",
+  "raw_line_count": 118,
+  "local_dir": "by_family/花鳉科/shi-wen-yu_食蚊鱼",
+  "local_images": {
+    "fish": [
+      "by_family/花鳉科/shi-wen-yu_食蚊鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

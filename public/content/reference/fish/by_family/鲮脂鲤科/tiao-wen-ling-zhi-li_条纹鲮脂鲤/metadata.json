@@ -1,0 +1,91 @@
+{
+  "name": "条纹鲮脂鲤",
+  "slug": "tiao-wen-ling-zhi-li",
+  "source_url": "https://fishweather.cn/fish/tiao-wen-ling-zhi-li",
+  "list_page": 4,
+  "list_position": 95,
+  "scientific_name": "Prochilodus lineatus",
+  "aliases": "沙巴佬、南美鲮、库鲁巴塔",
+  "headline": "条纹鲮脂鲤怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈纺锤形，侧扁，银灰色至浅棕色。口小，唇厚且多褶皱，下颌略突出。眼大，脂眼睑发达。背鳍和臀鳍基部长，尾鳍叉形。体表覆盖圆鳞，侧线完全。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "脂鲤目",
+    "科": "鲮脂鲤科",
+    "水层": "中层,底层",
+    "食性": "主要以植物碎屑、底栖藻类和有机碎屑为食，也摄食少量昆虫幼虫和小型无脊椎动物。",
+    "栖息环境": "大型河流、湖泊、洪泛平原和水库等淡水水域。",
+    "体长": "110 cm",
+    "体重": "20 kg",
+    "寿命": "在自然条件下，寿命可达10年以上，人工养殖条件下，若环境适宜，寿命也较长。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "玉米粒",
+    "麦粒",
+    "红薯块",
+    "土豆块",
+    "商品底钓饵料",
+    "藻类饵料",
+    "麸皮",
+    "豆饼",
+    "菜饼",
+    "颗粒饲料"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速沉入水中，消失不见，是清晰的吃口信号，应立即扬竿。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，持续不断，可能是鱼在吸食饵料，应适时扬竿。",
+    "点动后黑漂",
+    "：",
+    "浮漂出现轻微点动，随后迅速黑漂，是鱼试探后吞食的信号，抓住黑漂时机扬竿。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料，需密切关注，适时扬竿。",
+    "下顿",
+    "：",
+    "浮漂先是缓慢上升，然后快速下顿，有力且干脆，为条纹锯脂鲤吞饵的典型漂相。"
+  ],
+  "practical_tips": [
+    "选择合适钓位:条纹锯脂鲤喜欢在水草区域、缓流区、水底有障碍物的地方活动，选择此类区域作为钓位。",
+    "打窝诱鱼:使用玉米、麦粒、菜饼等打窝，提前诱鱼，提高上鱼率。",
+    "灵活调整钓组:根据水深、水流、鱼情等因素，灵活调整浮漂、铅坠和子线长度。",
+    "耐心等待:条纹锯脂鲤咬钩相对稳健，要有耐心，不要频繁提竿，错过有效鱼讯。",
+    "注意遛鱼技巧:条纹锯脂鲤力道较大，中鱼后要及时泄力，避免拔河，采取正确的遛鱼技巧。"
+  ],
+  "recommended_spots": "水库、湖泊、大型河流、运河、池塘（大型）",
+  "distribution": [],
+  "similar_fish": [
+    "鲮鱼",
+    "鳙鱼",
+    "鲢鱼",
+    "草鱼",
+    "鲤鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tiao-wen-ling-zhi-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ling-zhi-li-0-ef7c1495.webp",
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ling-zhi-li-1-577384e3.webp",
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ling-zhi-li-2-8d8888d1.webp",
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ling-zhi-li-3-967a498f.webp",
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ling-zhi-li-4-b2d96cd4.webp"
+    ]
+  },
+  "profile_text_sha256": "387bcef6fc6c80b70848bc0373e659ebe2777a0cd3de6e80edc5704a775a161c",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鲮脂鲤科/tiao-wen-ling-zhi-li_条纹鲮脂鲤",
+  "local_images": {
+    "fish": [
+      "by_family/鲮脂鲤科/tiao-wen-ling-zhi-li_条纹鲮脂鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "大口线塘鳢",
+  "slug": "da-kou-xian-tang-li",
+  "source_url": "https://fishweather.cn/fish/da-kou-xian-tang-li",
+  "list_page": 14,
+  "list_position": 323,
+  "scientific_name": "Nemateleotris magnifica",
+  "aliases": "红丝鳍鳚、丝鳍鹦哥鱼",
+  "headline": "大口线塘鳢怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "火焰鳍鱼体型细长而优雅，色彩鲜艳夺目，主要呈红色至橙色，并带有白色条纹或斑点。其最显著的特征是第一背鳍极度延长，形成丝状鳍条，如同火焰般飘逸。体长通常不超过9厘米，属于小型海水观赏鱼。眼睛较大，口小而朝上。身体侧扁，整体呈现精致的流线型。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鳍塘鳢科",
+    "水层": "中层,底层",
+    "食性": "肉食性，主要以浮游动物为食，如桡足类、糠虾等小型甲壳动物，也会摄食小型无脊椎动物和藻类碎屑。",
+    "栖息环境": "主要栖息于热带珊瑚礁区域，偏爱水流较缓和、珊瑚丛生的环境。常在珊瑚或岩石缝隙中躲藏，或在开阔水域中悬浮。",
+    "体长": "9 cm",
+    "体重": "0.02 kg",
+    "寿命": "在良好的饲养环境下，火焰鳍鱼的寿命可达3-5年，甚至更长。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "紫鳍丝鳍鳚",
+    "海氏丝鳍鳚",
+    "黑鳍丝鳚",
+    "斑马丝鳚"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-kou-xian-tang-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/da-kou-xian-tang-li-0-f8468805.webp",
+      "https://fishweather.cn/asset-images/catch/da-kou-xian-tang-li-1-1358b988.webp"
+    ]
+  },
+  "profile_text_sha256": "85cf624903f15ae75d512387d870f4333f89f78ff1e9ad3b7546e57a1be155bf",
+  "raw_line_count": 57,
+  "local_dir": "by_family/鳍塘鳢科/da-kou-xian-tang-li_大口线塘鳢",
+  "local_images": {
+    "fish": [
+      "by_family/鳍塘鳢科/da-kou-xian-tang-li_大口线塘鳢/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "白带鱼",
+  "slug": "bai-dai-yu",
+  "source_url": "https://fishweather.cn/fish/bai-dai-yu",
+  "list_page": 7,
+  "list_position": 146,
+  "scientific_name": "Trichiurus lepturus",
+  "aliases": "裙带鱼、油带、刀鱼、白带鱼",
+  "headline": "白带鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体长而侧扁，呈带状，向后渐细尖呈尾鞭状。银灰色，无鳞。头小而尖，口大，吻尖突，牙齿发达而尖锐。背鳍和臀鳍基底长，分别延伸至尾端，胸鳍短小，无腹鳍和尾鳍。侧线明显，沿腹缘延伸。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "带鱼科",
+    "水层": "中上层,中层,底层",
+    "食性": "肉食性，性凶猛，主要捕食小型鱼类、甲壳类、头足类等。",
+    "栖息环境": "近海暖温性中下层鱼类，也进入河口和港湾内，喜栖息于泥沙质海底。白天栖息于较深水层，夜晚上升到较浅水层觅食。",
+    "体长": "234 cm",
+    "体重": "5 kg",
+    "寿命": "寿命较长，一般可达8-15年，甚至更长。",
+    "适温": "16-28 °C"
+  },
+  "bait_options": [
+    "冷冻小黄鱼",
+    "冷冻鱿鱼块",
+    "秋刀鱼块",
+    "沙丁鱼块",
+    "海মাছ肉块",
+    "虾肉",
+    "鱼粉颗粒",
+    "拟饵软饵（卷尾蛆",
+    "T尾等）",
+    "金属铁板",
+    "铅笔路亚"
+  ],
+  "float_signals": [
+    "竿稍持续颤动",
+    "：",
+    "竿稍出现持续的颤动，可能是带鱼在试探或拖动饵料。",
+    "线轮快速出线",
+    "：",
+    "在沉底钓或放流钓时，线轮突然快速出线，表明有鱼咬钩并快速游动。",
+    "水面出现异动",
+    "：",
+    "在近岸或水面平静时，有时可以看到水面出现鱼的翻滚或水花，可能是带鱼捕食或中钩后的反应。",
+    "竿稍大幅度下顿",
+    "：",
+    "竿稍突然大幅度弯曲下顿，力量较大，通常是带鱼咬住饵料的明显信号。",
+    "手感突然加重",
+    "：",
+    "手感上突然感觉到鱼的拉力，竿身受力明显加重。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:带鱼喜欢在水流较缓、有一定遮蔽物的海域活动，如港口、防波堤附近，以及海底有礁石或沉船的区域。",
+    "夜钓效果更佳:带鱼是夜行性鱼类，夜间觅食活跃，夜钓中鱼率更高。",
+    "使用发光诱鱼器:在夜钓时，可在钓组上加装发光棒或电子发光器，增强诱鱼效果。",
+    "注意钓棚深度:带鱼的活动水层会随时间和环境变化，需根据鱼情调整钓棚深度，可通过探鱼器或多次试钓来确定最佳钓棚。",
+    "快速扬竿刺鱼:带鱼咬口凶猛，一旦出现鱼讯要及时快速扬竿刺鱼，防止脱钩。"
+  ],
+  "recommended_spots": "近海海域、外海海域、港口码头、防波堤、岛屿礁石区",
+  "distribution": [
+    "浙江省"
+  ],
+  "similar_fish": [
+    "小带鱼",
+    "蓝点马鲛",
+    "鲅鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/bai-dai-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/bai-dai-yu-0-a1901ce7.webp",
+      "https://fishweather.cn/asset-images/catch/bai-dai-yu-1-c2d2a514.webp",
+      "https://fishweather.cn/asset-images/catch/bai-dai-yu-2-12af7888.webp",
+      "https://fishweather.cn/asset-images/catch/bai-dai-yu-3-bb4e5b3c.webp",
+      "https://fishweather.cn/asset-images/catch/bai-dai-yu-4-32e0625a.webp"
+    ]
+  },
+  "profile_text_sha256": "3f1f5d94e2ed2c320865032d377d4ba4758b46a808a182f4a83aef3f1548fa2b",
+  "raw_line_count": 136,
+  "local_dir": "by_family/带鱼科/bai-dai-yu_白带鱼",
+  "local_images": {
+    "fish": [
+      "by_family/带鱼科/bai-dai-yu_白带鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

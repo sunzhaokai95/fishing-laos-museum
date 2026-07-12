@@ -1,0 +1,50 @@
+{
+  "name": "隆氏拟丽鱼",
+  "slug": "long-shi-ni-li-yu",
+  "source_url": "https://fishweather.cn/fish/long-shi-ni-li-yu",
+  "list_page": 31,
+  "list_position": 721,
+  "scientific_name": "Maylandia lombardoi",
+  "aliases": "非洲王子、金头燕尾",
+  "headline": "隆氏拟丽鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "隆氏马面鲷是一种中小型慈鲷，体型呈纺锤形，略侧扁。雄鱼和雌鱼在颜色上差异很大，幼鱼和雌鱼通常为亮蓝色，而雄性成年鱼会变成鲜艳的金黄色或橙色。体表覆盖着细小的鳞片。它们的嘴唇较厚，牙齿呈锥形，适应刮食岩石表面的藻类。背鳍和臀鳍较长，尾鳍呈扇形。雄鱼的背鳍和臀鳍末端可能更尖，颜色更鲜艳。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "底层,中层",
+    "食性": "植食性为主，刮食岩石表面的藻类和浮游植物，也摄食小型无脊椎动物",
+    "栖息环境": "马拉维湖岩石区",
+    "体长": "15 cm",
+    "体重": "0.1 kg",
+    "寿命": "在良好的饲养条件下，寿命可达5-8年。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "非洲王子(Labidochromiscaeruleus)",
+    "闪电黄(Labidochromissp.'Hongi')",
+    "雪鲷(Pseudotropheussocolofi)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/long-shi-ni-li-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "57a1827a113c3f9d14f46f7468a8b33b58ec1eca86541cef9290d74981cbc656",
+  "raw_line_count": 30,
+  "local_dir": "by_family/丽鱼科/long-shi-ni-li-yu_隆氏拟丽鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/long-shi-ni-li-yu_隆氏拟丽鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

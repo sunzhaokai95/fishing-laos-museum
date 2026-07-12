@@ -1,0 +1,50 @@
+{
+  "name": "大西洋胸棘鲷",
+  "slug": "da-xi-yang-xiong-ji-diao",
+  "source_url": "https://fishweather.cn/fish/da-xi-yang-xiong-ji-diao",
+  "list_page": 17,
+  "list_position": 408,
+  "scientific_name": "Hoplostethus atlanticus",
+  "aliases": "红宝石鱼",
+  "headline": "大西洋胸棘鲷是保护动物吗？习性与识别图鉴",
+  "summary": "橙鲷体型侧扁，呈卵圆形，体色鲜艳的橙红色至红色，老龄鱼颜色可能偏暗。头部较大，眼睛显著且大，适应深海弱光环境。口大，略微上翘。鱼体覆盖细小鳞片，但触感粗糙。背鳍和臀鳍具有棘刺，胸鳍和腹鳍相对较小。尾鳍叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "金眼鲷目",
+    "科": "燧鲷科",
+    "水层": "深层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类动物（如磷虾、虾和桡足类）和头足类动物（如鱿鱼）。",
+    "栖息环境": "栖息于深海，通常在大陆坡和海山附近，水深从数百米到超过一千米。",
+    "体长": "75 cm",
+    "体重": "7 kg",
+    "寿命": "寿命极长，可达100年以上，甚至有研究表明其寿命可能超过150年。",
+    "适温": "4-10 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "金眼鲷",
+    "高体金眼鲷",
+    "粗鳞鲷"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-xi-yang-xiong-ji-diao.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "66a792a8b7d4db887604dbb7158ff2e7b1b20e65e1eecd68264bd50b7df81581",
+  "raw_line_count": 35,
+  "local_dir": "by_family/燧鲷科/da-xi-yang-xiong-ji-diao_大西洋胸棘鲷",
+  "local_images": {
+    "fish": [
+      "by_family/燧鲷科/da-xi-yang-xiong-ji-diao_大西洋胸棘鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

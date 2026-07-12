@@ -1,0 +1,86 @@
+{
+  "name": "星斑篮子鱼",
+  "slug": "xing-ban-lan-zi-yu",
+  "source_url": "https://fishweather.cn/fish/xing-ban-lan-zi-yu",
+  "list_page": 12,
+  "list_position": 287,
+  "scientific_name": "Siganus guttatus",
+  "aliases": "金点篮子鱼、斑点蓝子鱼",
+  "headline": "星斑篮子鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体侧扁呈卵圆形，背腹部轮廓凸出。头小，吻尖。口小，端位。眼大，位于头侧上方。背鳍和臀鳍连续，鳍棘尖锐且具毒腺。尾鳍叉形。体色黄色至棕黄色，体侧散布着许多橙色或棕红色的圆形小斑点，斑点大小不一，分布密集。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "篮子鱼科",
+    "水层": "中下层",
+    "食性": "藻食性为主，也摄食小型无脊椎动物",
+    "栖息环境": "珊瑚礁区,沿岸礁石区",
+    "体长": "25 cm",
+    "体重": null,
+    "寿命": "自然条件下寿命约为5-10年",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "海藻",
+    "虾肉",
+    "鱿鱼须",
+    "南极虾",
+    "鱼肉",
+    "贝肉",
+    "海胆黄",
+    "海藻颗粒",
+    "鱼粉颗粒",
+    "面包虫(海产)"
+  ],
+  "float_signals": [
+    "浮漂上浮",
+    "：",
+    "浮漂异常上浮，可能是鱼将饵料顶起或改变了饵料状态。",
+    "浮漂快速下沉",
+    "：",
+    "浮漂迅速没入水中，通常是鱼咬钩拉动浮漂的明显信号。",
+    "浮漂缓慢下沉",
+    "：",
+    "浮漂缓缓下沉，可能是鱼轻口试探或吸食饵料。",
+    "浮漂横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料。",
+    "浮漂点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是鱼触碰饵料但未完全咬实。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:星斑篮子鱼常栖息于珊瑚礁和礁石附近，选择这些区域作为钓点。",
+    "注意潮汐变化:涨潮时鱼类活跃，是垂钓的好时机。",
+    "使用诱饵窝料:可以使用海藻、虾皮等作为诱饵，提前打窝诱鱼。",
+    "轻口慢提竿:星斑篮子鱼吃口有时较轻，需要耐心观察漂相，轻口慢提竿。",
+    "灵活调整钓层:根据水深和鱼情，灵活调整钓棚深度。"
+  ],
+  "recommended_spots": "珊瑚礁区、礁石区、近海船钓钓点",
+  "distribution": [],
+  "similar_fish": [
+    "长鳍篮子鱼",
+    "蓝点篮子鱼",
+    "纹缟篮子鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xing-ban-lan-zi-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xing-ban-lan-zi-yu-0-56169f8d.webp",
+      "https://fishweather.cn/asset-images/catch/xing-ban-lan-zi-yu-1-4def0e15.webp"
+    ]
+  },
+  "profile_text_sha256": "b100ec73cedfcd58aabec9bc27d66aed9ec10b56a251c2da8bf666ca6c40e1b6",
+  "raw_line_count": 97,
+  "local_dir": "by_family/篮子鱼科/xing-ban-lan-zi-yu_星斑篮子鱼",
+  "local_images": {
+    "fish": [
+      "by_family/篮子鱼科/xing-ban-lan-zi-yu_星斑篮子鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

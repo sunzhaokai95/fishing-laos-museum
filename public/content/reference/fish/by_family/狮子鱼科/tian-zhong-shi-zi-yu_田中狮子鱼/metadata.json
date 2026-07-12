@@ -1,0 +1,55 @@
+{
+  "name": "田中狮子鱼",
+  "slug": "tian-zhong-shi-zi-yu",
+  "source_url": "https://fishweather.cn/fish/tian-zhong-shi-zi-yu",
+  "list_page": 10,
+  "list_position": 233,
+  "scientific_name": "Liparis tanakae",
+  "aliases": "无",
+  "headline": "田中狮子鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，柔软而略呈凝胶状，前部粗壮，向后渐细尖。头部宽大而略扁平。吻短钝。口大，端位，唇厚。眼小，位于头侧上方。背鳍和臀鳍长，与尾鳍相连。腹鳍特化为吸盘，位于胸鳍下方。体表光滑无鳞，皮肤松弛。体色多变，通常为淡褐色、粉红色或灰白色，有时具有深色斑点。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲉形目",
+    "科": "狮子鱼科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型甲壳类动物、底栖无脊椎动物和小鱼为食。",
+    "栖息环境": "主要栖息于近海底层，包括岩礁、砂砾底质海域，也可能出现在较深水域。",
+    "体长": "20 cm",
+    "体重": null,
+    "寿命": "寿命信息缺乏详细研究，推测可能为数年，但具体寿命长度尚不明确。",
+    "适温": "未知，推测为冷温性或温带性鱼类，适宜温度范围可能在5-20摄氏度之间，具体需进一步研究。 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "斑纹狮子鱼",
+    "光гладкий狮子鱼",
+    "太平洋狮子鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tian-zhong-shi-zi-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/tian-zhong-shi-zi-yu-0-d21691c1.webp",
+      "https://fishweather.cn/asset-images/catch/tian-zhong-shi-zi-yu-1-ea0c64ec.webp",
+      "https://fishweather.cn/asset-images/catch/tian-zhong-shi-zi-yu-2-a6a972f4.webp",
+      "https://fishweather.cn/asset-images/catch/tian-zhong-shi-zi-yu-3-a8990105.webp"
+    ]
+  },
+  "profile_text_sha256": "15cbcd84a6a5ab03cd4a618a63754dd39c4c2c9ef25cb8bd14dc2bf5d831dca9",
+  "raw_line_count": 80,
+  "local_dir": "by_family/狮子鱼科/tian-zhong-shi-zi-yu_田中狮子鱼",
+  "local_images": {
+    "fish": [
+      "by_family/狮子鱼科/tian-zhong-shi-zi-yu_田中狮子鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

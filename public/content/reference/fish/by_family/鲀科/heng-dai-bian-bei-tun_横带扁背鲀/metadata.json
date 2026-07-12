@@ -1,0 +1,76 @@
+{
+  "name": "横带扁背鲀",
+  "slug": "heng-dai-bian-bei-tun",
+  "source_url": "https://fishweather.cn/fish/heng-dai-bian-bei-tun",
+  "list_page": 34,
+  "list_position": 795,
+  "scientific_name": "Canthigaster valentini",
+  "aliases": "双斑刺豚、瓦伦丁箱鲀",
+  "headline": "横带扁背鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "瓦伦丁氏鲀体型娇小，呈卵圆形略侧扁，体表光滑无鳞，皮肤粗糙。体色基调为白色至淡黄色，最显著的特征是身体两侧对称分布着四块醒目的黑色斑块，形似马鞍状，因此也俗称鞍斑鲀。吻部突出，口小，牙齿愈合成喙状。眼睛圆大，颜色鲜艳。鳍透明，背鳍和臀鳍相对，位置靠后，尾鳍圆形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鲀科",
+    "水层": "底层,珊瑚礁区",
+    "食性": "杂食性，主要以藻类、小型底栖无脊椎动物为食，如海绵、tunicates、苔藓虫、小型甲壳类动物和蠕虫等。",
+    "栖息环境": "主要栖息于热带珊瑚礁区域，喜欢在珊瑚丛、岩石缝隙或海藻丛中活动，水深通常在1-50米范围内。",
+    "体长": "11 cm",
+    "体重": null,
+    "寿命": "寿命一般为3-5年，具体寿命受环境条件、食物来源和天敌等多种因素影响。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [
+    "不适用",
+    "瓦伦丁氏鲀主要以藻类和小型无脊椎动物为食",
+    "人工垂钓不具可行性。",
+    "实战技巧",
+    "不适用",
+    "不适用",
+    "不适用",
+    "不适用",
+    "不适用",
+    "推荐钓点类型",
+    "不适用",
+    "相似鱼种",
+    "青斑河鲀",
+    "星斑叉鼻鲀",
+    "网纹叉鼻鲀",
+    "黄鳍刺尾鲷",
+    "三刺鲀"
+  ],
+  "float_signals": [],
+  "practical_tips": [
+    "不适用",
+    "不适用",
+    "不适用",
+    "不适用",
+    "不适用"
+  ],
+  "recommended_spots": "不适用",
+  "distribution": [],
+  "similar_fish": [
+    "青斑河鲀",
+    "星斑叉鼻鲀",
+    "网纹叉鼻鲀",
+    "黄鳍刺尾鲷",
+    "三刺鲀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/heng-dai-bian-bei-tun.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "31cea88714a6ac6e8d409a5ce0e0badc052d80308a235d814d3654eed2682704",
+  "raw_line_count": 46,
+  "local_dir": "by_family/鲀科/heng-dai-bian-bei-tun_横带扁背鲀",
+  "local_images": {
+    "fish": [
+      "by_family/鲀科/heng-dai-bian-bei-tun_横带扁背鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

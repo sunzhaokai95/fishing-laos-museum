@@ -1,0 +1,91 @@
+{
+  "name": "弓斑多纪鲀",
+  "slug": "gong-ban-duo-ji-tun",
+  "source_url": "https://fishweather.cn/fish/gong-ban-duo-ji-tun",
+  "list_page": 4,
+  "list_position": 77,
+  "scientific_name": "Takifugu ocellatus",
+  "aliases": "河豚",
+  "headline": "弓斑多纪鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "星点东方鲀体呈圆筒形，稍侧扁，头圆钝。口小，端位，唇褶发达。眼小，侧上位。鼻孔每侧两个，圆形。体表光滑无鳞，但被小刺。背鳍1个，位于体后部，与臀鳍相对；胸鳍宽短；尾鳍圆形。体背部及侧面呈灰褐色或黄褐色，密布圆形黑斑，腹部白色。斑点大小不一，分布不规则，是其显著特征。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鲀科",
+    "水层": "底层",
+    "食性": "杂食性，主要摄食底栖无脊椎动物，如小型甲壳类、软体动物、蠕虫等，也摄食藻类及有机碎屑。",
+    "栖息环境": "主要栖息于近海及河口咸淡水水域，也进入淡水江河中下游。喜栖息于泥沙或砾石底质水域。",
+    "体长": "40 cm",
+    "体重": "1 kg",
+    "寿命": "寿命较长，一般为5-8年，人工饲养条件下可达10年以上。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "贝肉",
+    "鱼肉块",
+    "蟹肉",
+    "蛤蜊肉",
+    "海螺肉",
+    "南极虾",
+    "鱿鱼须"
+  ],
+  "float_signals": [
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢下沉，速度较慢，可能是轻口鱼或饵料过重导致，需判断是否为有效鱼讯。",
+    "横向移动",
+    "：",
+    "浮漂不垂直下沉，而是横向移动，可能是鱼拖动饵料或水底有暗流。",
+    "上浮停顿",
+    "：",
+    "浮漂先缓慢下沉，然后突然上浮并停顿，可能是鱼已将饵料吸入口中，准备吐出，需把握时机扬竿。",
+    "加速下沉",
+    "：",
+    "浮漂突然加速下沉，幅度较大，通常是鱼快速吞食饵料，为明显中鱼信号。",
+    "轻微点动",
+    "：",
+    "浮漂出现轻微的、不明显的点动，可能是试探性咬钩，需集中注意力观察。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:星点东方鲀喜栖息于泥沙或砾石底质水域，选择此类水域或水底有乱石、贝壳等复杂结构的区域作为钓点。",
+    "使用腥味饵料:星点东方鲀为杂食性鱼类，但更偏爱动物性饵料，使用海蚯蚓、虾肉等腥味饵料诱鱼效果更佳。",
+    "保持耐心等待:星点东方鲀咬口相对谨慎，漂相可能不明显，需保持耐心，仔细观察漂相变化，抓住有效鱼讯。",
+    "轻提慢引逗钓:在等待过程中，可轻微提动或缓慢拖动饵料，增加饵料的动态效果，吸引鱼的注意。",
+    "注意安全防护:星点东方鲀内脏及血液有毒，处理时需注意防护，避免直接接触，切勿食用。"
+  ],
+  "recommended_spots": "近海滩涂、河口水域、港湾、礁石区、养殖场外围",
+  "distribution": [],
+  "similar_fish": [
+    "弓斑东方鲀",
+    "假睛东方鲀",
+    "暗纹东方鲀",
+    "红鳍东方鲀",
+    "条纹东方鲀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/gong-ban-duo-ji-tun.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/gong-ban-duo-ji-tun-0-cae1f957.webp",
+      "https://fishweather.cn/asset-images/catch/gong-ban-duo-ji-tun-1-30aa9011.webp",
+      "https://fishweather.cn/asset-images/catch/gong-ban-duo-ji-tun-2-db285f3c.webp",
+      "https://fishweather.cn/asset-images/catch/gong-ban-duo-ji-tun-3-c6f935d1.webp",
+      "https://fishweather.cn/asset-images/catch/gong-ban-duo-ji-tun-4-9b03bb76.webp"
+    ]
+  },
+  "profile_text_sha256": "6b9cd4d528c541b9630ec0d67e90e384bc6d6303a19d033ba92551ba07a41e30",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鲀科/gong-ban-duo-ji-tun_弓斑多纪鲀",
+  "local_images": {
+    "fish": [
+      "by_family/鲀科/gong-ban-duo-ji-tun_弓斑多纪鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

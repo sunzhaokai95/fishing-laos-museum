@@ -1,0 +1,53 @@
+{
+  "name": "克氏双锯鱼",
+  "slug": "ke-shi-shuang-ju-yu",
+  "source_url": "https://fishweather.cn/fish/ke-shi-shuang-ju-yu",
+  "list_page": 18,
+  "list_position": 427,
+  "scientific_name": "Amphiprion clarkii",
+  "aliases": "克氏双锯鱼、黄尾双锯鱼、三带小丑鱼",
+  "headline": "克氏双锯鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁。体色多变，通常为橘黄色至深褐色，具三条白色条纹，第一条在眼睛后方，第二条在身体中部，第三条在尾柄前。尾鳍圆形或微凹，体表覆盖黏液。幼鱼颜色鲜艳，随着成长颜色可能变深。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "雀鲷科",
+    "水层": "中层,底层",
+    "食性": "杂食性，主要以藻类、小型无脊椎动物（如桡足类、片脚类）和海葵触手上的食物残渣为食。",
+    "栖息环境": "珊瑚礁区域，通常与海葵共生。",
+    "体长": "15",
+    "体重": "0.1",
+    "寿命": "在自然条件下，寿命约为6-8年，人工饲养条件下，寿命可达10年以上。",
+    "适温": "24-30"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "鞍斑海葵鱼",
+    "眼斑海葵鱼",
+    "红小丑鱼",
+    "双带小丑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ke-shi-shuang-ju-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ke-shi-shuang-ju-yu-0-d4c6cbf0.webp"
+    ]
+  },
+  "profile_text_sha256": "0e771876d61dcf1b6d040faa6edd83dce459706efa91c0d974445737c3eb30ae",
+  "raw_line_count": 47,
+  "local_dir": "by_family/雀鲷科/ke-shi-shuang-ju-yu_克氏双锯鱼",
+  "local_images": {
+    "fish": [
+      "by_family/雀鲷科/ke-shi-shuang-ju-yu_克氏双锯鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

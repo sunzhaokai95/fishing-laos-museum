@@ -1,0 +1,90 @@
+{
+  "name": "斐氏鲳鲹",
+  "slug": "fei-shi-chang-shen",
+  "source_url": "https://fishweather.cn/fish/fei-shi-chang-shen",
+  "list_page": 9,
+  "list_position": 208,
+  "scientific_name": "Trachinotus baillonii",
+  "aliases": "白鲳、圆鳍鲳、海鲎鲳",
+  "headline": "斐氏鲳鲹怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁而高，背缘隆起，腹缘较平。头中等大，吻钝圆。口小，端位，斜裂。眼较大，侧上位，脂眼睑不发达。鳞细小，侧线完全，侧线鳞约100枚。体背部灰蓝色或青灰色，体侧及腹部银白色。各鳍浅灰色或淡黄色。背鳍2个，第一背鳍短小，第二背鳍与臀鳍相对且同形，均较长，呈镰刀状。尾鳍深叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰺科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类（如虾、蟹）、头足类等。",
+    "栖息环境": "热带和亚热带沿海浅水区，常栖息于珊瑚礁附近或沙质海底，也进入河口咸淡水区。",
+    "体长": "60 cm",
+    "体重": "5 kg",
+    "寿命": "寿命较长，一般可达5-8年，人工养殖条件下，若管理得当，寿命可能更长。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海মাছ",
+    "沙蚕",
+    "鱿鱼块",
+    "小鱼干",
+    "虾仁",
+    "鱼肉块",
+    "海螺肉",
+    "贝肉",
+    "鸡肝"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速沉入水中，消失不见，是鱼吞食死口，清晰的扬竿信号。",
+    "顿口",
+    "：",
+    "浮漂快速下顿，幅度明显，有力，通常是鱼咬钩的信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，可能是鱼吸食饵料但动作轻缓。",
+    "上浮",
+    "：",
+    "浮漂原本稳定，突然缓慢或快速上浮，可能是鱼将饵料含入口中后抬头。",
+    "移位",
+    "：",
+    "浮漂在水面左右或斜向移动，不规则漂移，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适钓点:金鲳鱼喜欢在水流较缓、饵料丰富的区域活动，如礁石区、网箱附近等。",
+    "根据水层调整钓棚:金鲳鱼可能在中上层或底层活动，需要根据鱼情调整钓棚深度。",
+    "使用诱饵:提前打窝诱鱼，可以使用虾砖、鱼粉等诱饵。",
+    "掌握扬竿时机:出现明显顿口或黑漂时及时扬竿，避免跑鱼。",
+    "灵活运用拟饵:路亚钓法中，可尝试不同类型的拟饵，如铁板、米诺、铅笔等，找到当日最佳拟饵。"
+  ],
+  "recommended_spots": "近岸礁石区、海湾、码头、防波堤、养殖网箱附近",
+  "distribution": [],
+  "similar_fish": [
+    "银鲳",
+    "刺鲳",
+    "பால鲳(巴拉望鲳)",
+    "圆鲳"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/fei-shi-chang-shen.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/fei-shi-chang-shen-0-0b61941c.webp",
+      "https://fishweather.cn/asset-images/catch/fei-shi-chang-shen-1-ee2614dc.webp",
+      "https://fishweather.cn/asset-images/catch/fei-shi-chang-shen-2-fbf31b0e.webp",
+      "https://fishweather.cn/asset-images/catch/fei-shi-chang-shen-3-4ba0816d.webp",
+      "https://fishweather.cn/asset-images/catch/fei-shi-chang-shen-4-0c912adb.webp"
+    ]
+  },
+  "profile_text_sha256": "54b363b62055d2cca26939dd9254d693f26a800c2d5c805d0ba7a092c1232410",
+  "raw_line_count": 136,
+  "local_dir": "by_family/鰺科/fei-shi-chang-shen_斐氏鲳鲹",
+  "local_images": {
+    "fish": [
+      "by_family/鰺科/fei-shi-chang-shen_斐氏鲳鲹/images/main.webp"
+    ],
+    "catch": []
+  }
+}

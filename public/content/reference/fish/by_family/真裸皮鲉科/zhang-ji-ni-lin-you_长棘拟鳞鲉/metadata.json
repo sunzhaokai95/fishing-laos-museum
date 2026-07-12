@@ -1,0 +1,88 @@
+{
+  "name": "长棘拟鳞鲉",
+  "slug": "zhang-ji-ni-lin-you",
+  "source_url": "https://fishweather.cn/fish/zhang-ji-ni-lin-you",
+  "list_page": 14,
+  "list_position": 317,
+  "scientific_name": "Paracentropogon longispinis",
+  "aliases": "长棘鬼鲉",
+  "headline": "长棘拟鳞鲉怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "小型鱼类，体延长，侧扁。头大，棘棱明显。吻短钝。口大，倾斜。眼上位，侧位。前鳃盖骨后下角具2棘。体被栉鳞。背鳍连续，硬棘部明显高于鳍条部，具毒棘；胸鳍圆形；腹鳍胸位；尾鳍圆形。体色多变，通常为棕红色、黄色或灰色，具深色斑点或条纹，与栖息环境融为一体。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲉形目",
+    "科": "真裸皮鲉科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型甲壳类、小鱼及其他底栖无脊椎动物为食。",
+    "栖息环境": "主要栖息于沿海珊瑚礁、岩礁或沙石底质海域，常隐匿于礁石缝隙或海藻丛中。",
+    "体长": "8 cm",
+    "体重": null,
+    "寿命": "寿命相对较短，推测在3-5年左右。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾肉",
+    "鱿鱼须",
+    "小鱼块",
+    "沙蚕",
+    "海蟑螂",
+    "鱼肉肠",
+    "虾仁",
+    "贝肉",
+    "蟹肉棒"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，消失不见，通常是鱼吞食饵料较深。",
+    "顿口",
+    "：",
+    "浮漂快速下沉或有力顿挫，幅度明显，是典型的鱼咬钩信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口试探或拖动饵料。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料或触碰鱼线。",
+    "抖动",
+    "：",
+    "浮漂出现轻微的上下抖动，频率较快，可能是小鱼闹窝或长棘鬼鲉试探饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:长棘鬼鲉喜欢藏匿于礁石缝隙或洞穴中，钓位应选择在这些区域附近。",
+    "采用底钓为主:长棘鬼鲉为底栖鱼类，钓组应确保沉底，饵料贴近海底。",
+    "使用腥味饵料:长棘鬼鲉为肉食性鱼类，对腥味饵料敏感，如南极虾、海虾等。",
+    "轻柔提竿刺鱼:长棘鬼鲉咬口相对谨慎，提竿动作不宜过大，以免惊鱼。",
+    "注意安全防护:长棘鬼鲉背鳍具有毒棘，处理时需小心谨慎，避免被刺伤。"
+  ],
+  "recommended_spots": "珊瑚礁区、岩礁区、近岸矶石、沉船区",
+  "distribution": [],
+  "similar_fish": [
+    "狮子鱼",
+    "石头鱼",
+    "虎鱼",
+    "鮋鱼",
+    "斑鰶"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhang-ji-ni-lin-you.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/zhang-ji-ni-lin-you-0-a6463380.webp",
+      "https://fishweather.cn/asset-images/catch/zhang-ji-ni-lin-you-1-21cbb9ce.webp"
+    ]
+  },
+  "profile_text_sha256": "16f985d9b278ffa311e6debea7e36a3f1ed703aa510e6d0879ce07d5fd2238f1",
+  "raw_line_count": 99,
+  "local_dir": "by_family/真裸皮鲉科/zhang-ji-ni-lin-you_长棘拟鳞鲉",
+  "local_images": {
+    "fish": [
+      "by_family/真裸皮鲉科/zhang-ji-ni-lin-you_长棘拟鳞鲉/images/main.webp"
+    ],
+    "catch": []
+  }
+}

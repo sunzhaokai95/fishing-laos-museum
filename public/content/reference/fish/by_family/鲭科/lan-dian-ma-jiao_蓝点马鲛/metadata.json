@@ -1,0 +1,54 @@
+{
+  "name": "蓝点马鲛",
+  "slug": "lan-dian-ma-jiao",
+  "source_url": "https://fishweather.cn/fish/lan-dian-ma-jiao",
+  "list_page": 4,
+  "list_position": 74,
+  "scientific_name": "Scomberomorus niphonius",
+  "aliases": "马鲛鱼、燕鱼、板鲅、竹鲛、串条、䲠鱼",
+  "headline": "蓝点马鲛怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈纺锤形，侧扁而修长，背腹缘几成直线。头尖，吻尖长。口大，端位，口裂大，斜向后下方，上颌骨后端伸达眼后缘下方。上下颌各具一行强大而稀疏的圆锥形牙，犁骨和腭骨无牙。眼大，脂眼睑发达。鳞小，胸部鳞片特化为胸甲。侧线单一，略呈波状。背鳍两个，第一背鳍长，有15-18个鳍棘，第二背鳍与臀鳍相对，其后方各有5-6个小鳍。尾鳍深",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲭科",
+    "水层": "中上层,表层",
+    "食性": "肉食性，性凶猛，主要捕食小型鱼类、甲壳类（如虾、蟹等）和头足类（如鱿鱼、章鱼等）。",
+    "栖息环境": "近海暖温性中上层鱼类，主要栖息于大陆架沿岸及岛屿附近海域，也进入河口半咸水区。喜集群洄游，常成群索饵。",
+    "体长": "100 cm",
+    "体重": "45 kg",
+    "寿命": "一般寿命为7-10年，最长可达12年左右。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "山东省"
+  ],
+  "similar_fish": [],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/lan-dian-ma-jiao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/lan-dian-ma-jiao-0-8ad7152e.webp",
+      "https://fishweather.cn/asset-images/catch/lan-dian-ma-jiao-1-f87a5ab2.webp",
+      "https://fishweather.cn/asset-images/catch/lan-dian-ma-jiao-2-fd8f6ec8.webp",
+      "https://fishweather.cn/asset-images/catch/lan-dian-ma-jiao-3-d5176890.webp",
+      "https://fishweather.cn/asset-images/catch/lan-dian-ma-jiao-4-24f7d954.webp"
+    ]
+  },
+  "profile_text_sha256": "7ad717b88c838d246ac963cf8ad16efc9f3882c5e44508df34bed1926360d119",
+  "raw_line_count": 88,
+  "local_dir": "by_family/鲭科/lan-dian-ma-jiao_蓝点马鲛",
+  "local_images": {
+    "fish": [
+      "by_family/鲭科/lan-dian-ma-jiao_蓝点马鲛/images/main.webp"
+    ],
+    "catch": []
+  }
+}

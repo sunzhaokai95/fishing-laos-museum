@@ -1,0 +1,101 @@
+{
+  "name": "澳洲鲭",
+  "slug": "ao-zhou-qing",
+  "source_url": "https://fishweather.cn/fish/ao-zhou-qing",
+  "list_page": 17,
+  "list_position": 407,
+  "scientific_name": "Scomber australasicus",
+  "aliases": "青花鱼、鲐鱼、鯖魚、巴浪鱼",
+  "headline": "澳洲鲭怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈纺锤形，稍侧扁。背部青绿色，具深蓝色波状条纹。腹部银白色。第一背鳍鳍棘部呈三角形，第二背鳍和臀鳍后方各有一行小鳍。尾鳍深叉形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲭科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类和鱿鱼等",
+    "栖息环境": "近海和外海",
+    "体长": "50",
+    "体重": "1.5",
+    "寿命": "一般为6-8年",
+    "适温": "15-25"
+  },
+  "bait_options": [
+    "金属jig",
+    "米诺",
+    "铅笔",
+    "波扒",
+    "软饵卷尾蛆",
+    "VIB",
+    "匙形路亚",
+    "popper",
+    "spinnerbait",
+    "crankbait",
+    "实战技巧",
+    "使用探鱼器或声呐设备寻找鱼群聚集区域。",
+    "根据水深和流速选择合适的jig重量和路亚类型。",
+    "尝试不同的路亚泳层和回收速度，找到最佳的攻击模式。",
+    "注意观察水面动静，蓝圆鲹捕食时常有水花。",
+    "中鱼后及时扬竿，蓝圆鲹冲击力强，注意控线。",
+    "推荐钓点类型",
+    "外海、近海礁石区、海湾、码头、防波堤",
+    "真实钓获",
+    "来自钓鱼佬 App 用户的",
+    "澳洲鲭",
+    "实战记录",
+    "2025-12",
+    "·",
+    "葫芦岛市",
+    "0.8",
+    "kg",
+    "35",
+    "cm",
+    "天气：",
+    "水温3.2°C · 气压1015.5hPa · 溶氧10.2mg/L",
+    "👍",
+    "45",
+    "钓友***",
+    "相似鱼种",
+    "鲭鱼",
+    "鲅鱼",
+    "金枪鱼",
+    "鲣鱼",
+    "沙丁鱼"
+  ],
+  "float_signals": [],
+  "practical_tips": [
+    "使用探鱼器或声呐设备寻找鱼群聚集区域。",
+    "根据水深和流速选择合适的jig重量和路亚类型。",
+    "尝试不同的路亚泳层和回收速度，找到最佳的攻击模式。",
+    "注意观察水面动静，蓝圆鲹捕食时常有水花。",
+    "中鱼后及时扬竿，蓝圆鲹冲击力强，注意控线。"
+  ],
+  "recommended_spots": "外海、近海礁石区、海湾、码头、防波堤",
+  "distribution": [],
+  "similar_fish": [
+    "鲭鱼",
+    "鲅鱼",
+    "金枪鱼",
+    "鲣鱼",
+    "沙丁鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ao-zhou-qing.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ao-zhou-qing-0-c7838e6c.webp"
+    ]
+  },
+  "profile_text_sha256": "d49d44155cd419762d7f04222d850738f3e05430db3def36d21bf5da18841812",
+  "raw_line_count": 71,
+  "local_dir": "by_family/鲭科/ao-zhou-qing_澳洲鲭",
+  "local_images": {
+    "fish": [
+      "by_family/鲭科/ao-zhou-qing_澳洲鲭/images/main.webp"
+    ],
+    "catch": []
+  }
+}

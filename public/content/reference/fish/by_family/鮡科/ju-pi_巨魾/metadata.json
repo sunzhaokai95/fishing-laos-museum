@@ -1,0 +1,54 @@
+{
+  "name": "巨魾",
+  "slug": "ju-pi",
+  "source_url": "https://fishweather.cn/fish/ju-pi",
+  "list_page": 16,
+  "list_position": 369,
+  "scientific_name": "Bagarius yarrelli",
+  "aliases": "鮰鱼、印度坦克鸭嘴",
+  "headline": "巨魾是保护动物吗？习性与识别图鉴",
+  "summary": "大型鲶鱼，体粗壮呈纺锤形，头宽且扁平，吻部钝圆。口裂宽大，位于下方。眼小。具四对粗壮的须。体表光滑无鳞，背鳍和胸鳍前端有硬棘。体色通常为棕褐色或灰褐色，带有深色斑纹，腹部颜色较浅，呈灰白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲇形目",
+    "科": "鮡科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食鱼类、甲壳类、蛙类等水生动物。",
+    "栖息环境": "主要栖息于水流湍急的大型河流中，偏好砾石或岩石底质的河床。",
+    "体长": "200 cm",
+    "体重": "90 kg",
+    "寿命": "寿命较长，在自然条件下可能存活数十年，但确切寿命数据尚不明确。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "广西壮族自治区"
+  ],
+  "similar_fish": [
+    "鲶鱼",
+    "斑点叉尾鮰",
+    "鮠鱼",
+    "黄颡鱼",
+    "长吻鮠"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ju-pi.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "1e78576655e41fd9684b2a7e9fd303a34dd79926281a5336b6ee95805c1e34e5",
+  "raw_line_count": 39,
+  "local_dir": "by_family/鮡科/ju-pi_巨魾",
+  "local_images": {
+    "fish": [
+      "by_family/鮡科/ju-pi_巨魾/images/main.webp"
+    ],
+    "catch": []
+  }
+}

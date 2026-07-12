@@ -1,0 +1,51 @@
+{
+  "name": "大鳞金线鲃",
+  "slug": "da-lin-jin-xian-ba",
+  "source_url": "https://fishweather.cn/fish/da-lin-jin-xian-ba",
+  "list_page": 29,
+  "list_position": 689,
+  "scientific_name": "Sinocyclocheilus macrolepis",
+  "aliases": "无眼鱼、盲鱼、洞穴鱼",
+  "headline": "大鳞金线鲃是保护动物吗？习性与识别图鉴",
+  "summary": "体延长，前部粗壮，后部侧扁。头略平扁，吻钝圆。口下位，呈弧形。眼退化，完全消失，眼部皮肤覆盖。须2对，吻须较粗长，颌须短小。鳞片大，侧线完全。体色透明或肉白色，无色素。鳍条透明。背鳍和臀鳍相对，尾鳍叉形。体表光滑，粘液丰富，适应洞穴黑暗环境。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "推测为机会性食腐动物和食底栖无脊椎动物，可能以洞穴内腐烂的有机物、小型甲壳类、昆虫幼虫等为食。由于洞穴环境食物匮乏，可能具有较强的耐饥饿能力。",
+    "栖息环境": "栖息于喀斯特洞穴地下河流水域，常在黑暗无光的洞穴深处活动，对水质要求高，喜清澈、溶氧量高的水体。",
+    "体长": "15",
+    "体重": "0.1",
+    "寿命": "寿命信息未知。但由于生长缓慢，且洞穴环境相对稳定，推测其寿命可能较长，但缺乏科学数据支持。",
+    "适温": "18-24"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "云南省"
+  ],
+  "similar_fish": [
+    "其他白条鱼属洞穴鱼类(如:小眼白条鱼Sinocyclocheilusmicrophthalmus)",
+    "金线鲃属洞穴鱼类(如:closing)"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-lin-jin-xian-ba.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "09e20058fc18ee67d493f5dae457bcbe9d4a7742b57aebdf0358ab9d1c2f3125",
+  "raw_line_count": 36,
+  "local_dir": "by_family/鲤科/da-lin-jin-xian-ba_大鳞金线鲃",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/da-lin-jin-xian-ba_大鳞金线鲃/images/main.webp"
+    ],
+    "catch": []
+  }
+}

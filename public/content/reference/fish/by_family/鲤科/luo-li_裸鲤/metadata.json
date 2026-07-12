@@ -1,0 +1,54 @@
+{
+  "name": "裸鲤",
+  "slug": "luo-li",
+  "source_url": "https://fishweather.cn/fish/luo-li",
+  "list_page": 8,
+  "list_position": 190,
+  "scientific_name": "Gymnocypris",
+  "aliases": "湟鱼、花鱼、公子鱼",
+  "headline": "裸鲤是保护动物吗？习性与识别图鉴",
+  "summary": "体细长，前部粗壮，后部侧扁。头锥形，吻钝圆。口端位，弧形。眼大，侧上位。无须。体表裸露无鳞，仅在侧线及尾柄前部有少数退化鳞片。体背部灰褐色或棕褐色，腹部灰白色。各鳍灰黄色。为适应高寒缺氧环境，其鳃片退化，咽喉齿发达，具有辅助呼吸功能。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "硬骨鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层,中下层",
+    "食性": "杂食性为主，幼鱼主要摄食浮游动物、藻类和小型底栖无脊椎动物，成鱼食性广泛，包括水生昆虫幼虫、藻类、植物碎屑、底泥中的有机物等。",
+    "栖息环境": "主要栖息于高海拔、低水温的湖泊及其支流中，如青海湖及其入湖河流。喜好砂砾底质的缓流或静水水域。",
+    "体长": "50 cm",
+    "体重": "5 kg",
+    "寿命": "寿命长，自然条件下可达20年以上，甚至更长。是寿命较长的淡水鱼类之一。",
+    "适温": "5-15 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "甘肃省",
+    "西藏自治区"
+  ],
+  "similar_fish": [
+    "鲤鱼",
+    "鲫鱼",
+    "雅罗鱼",
+    "条鳅"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/luo-li.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "fd6ff01c038836094be43604a4ef6fe9bd080f298106b7181535e9d481d14e0d",
+  "raw_line_count": 39,
+  "local_dir": "by_family/鲤科/luo-li_裸鲤",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/luo-li_裸鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": "孔虾虎鱼",
+  "slug": "kong-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/kong-xia-hu-yu",
+  "list_page": 10,
+  "list_position": 236,
+  "scientific_name": "Trypauchen vagina",
+  "aliases": "泥钻鱼、盲鱼",
+  "headline": "孔虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，圆柱形，后部侧扁。头极度侧扁，吻圆钝。眼退化，隐于皮下或消失。口大，斜裂。上下颌牙细小。鳃孔侧位，狭小。体被小圆鳞，易脱落。背鳍和臀鳍长，与尾鳍相连。胸鳍小，圆形。腹鳍愈合成吸盘。体色粉红色或肉色，半透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "主要以小型底栖无脊椎动物为食，如小型甲壳类、多毛类等。",
+    "栖息环境": "主要栖息于热带河口、海湾和沿海泥泞底质的浅水区域，常钻入泥洞或沙洞中生活。",
+    "体长": "15 cm",
+    "体重": "0.03 kg",
+    "寿命": "寿命较短，一般为1-2年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "мелкиймотыль(俄语小红虫)",
+    "水蚯蚓",
+    "অতিক্ষুদ্রকৃমি(孟加拉语极小蠕虫)",
+    "หนอนแดงขนาดเล็ก(泰语小红虫)",
+    "작은실지렁이(韩语小蚯蚓)",
+    "작은벌레(韩语小虫子)",
+    "சிறுபுழு(泰米尔语小虫子)",
+    "சின்னపురుగు(泰卢固语小虫子)",
+    "சிறியபுழு(僧伽罗语小虫子)"
+  ],
+  "float_signals": [
+    "轻微上顶",
+    "：",
+    "极少情况下，浮漂可能会出现极轻微的上顶动作。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢而轻微地下沉，可能表示鱼正在吸食饵料。",
+    "停顿",
+    "：",
+    "浮漂原本缓慢移动或静止，突然出现极短暂停顿，可能是鱼咬住饵料后的轻微动作。",
+    "横向移动",
+    "：",
+    "浮漂在水面轻微横向移动，可能是鱼拖动饵料。",
+    "轻微点动",
+    "：",
+    "浮漂出现极轻微的点动，幅度很小，可能是鱼试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择泥质或沙泥底质的缓流区域作为钓点。",
+    "使用极细的钓组和极小的钩，提高灵敏度和适口性。",
+    "饵料少量多次投放，保持窝点诱鱼效果。",
+    "耐心等待，仔细观察浮漂或竿稍的极细微动作。",
+    "提竿动作要轻柔且迅速，避免惊鱼和跑鱼。"
+  ],
+  "recommended_spots": "河口、海湾、红树林、浅滩泥涂、近岸浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "弹涂鱼",
+    "虾虎鱼",
+    "䲗"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/kong-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/kong-xia-hu-yu-0-27cf90ba.webp",
+      "https://fishweather.cn/asset-images/catch/kong-xia-hu-yu-1-2461a696.webp",
+      "https://fishweather.cn/asset-images/catch/kong-xia-hu-yu-2-d25cc3c4.webp"
+    ]
+  },
+  "profile_text_sha256": "14dc223a3e1facf31e21212d4908da189e14ed16f9b80f9264f44a0356f6d48c",
+  "raw_line_count": 107,
+  "local_dir": "by_family/鰕虎科/kong-xia-hu-yu_孔虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/kong-xia-hu-yu_孔虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

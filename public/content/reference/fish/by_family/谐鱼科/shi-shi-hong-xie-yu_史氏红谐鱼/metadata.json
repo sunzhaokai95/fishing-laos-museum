@@ -1,0 +1,87 @@
+{
+  "name": "史氏红谐鱼",
+  "slug": "shi-shi-hong-xie-yu",
+  "source_url": "https://fishweather.cn/fish/shi-shi-hong-xie-yu",
+  "list_page": 13,
+  "list_position": 300,
+  "scientific_name": "Erythrocles schlegelii",
+  "aliases": "红眼",
+  "headline": "史氏红谐鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，呈纺锤形。头中等大，吻尖。口大，端位，口裂倾斜。眼大，位于头侧上方，眼眶下缘游离，眼眶后缘具一骨质棘。前鳃盖骨后缘具锯齿。体被小圆鳞，侧线完全。背鳍单一，位于体中部上方，具硬棘和软条。臀鳍短，位于体后部，与背鳍相对。尾鳍深叉形。体背部灰褐色，腹部银白色，眼眶周围红色，各鳍浅黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "谐鱼科",
+    "水层": "中上层",
+    "食性": "肉食性，主要以小型鱼类、甲壳类和头足类等为食。",
+    "栖息环境": "主要栖息于近岸沿海岩礁或珊瑚礁海域，也见于河口咸淡水区域。",
+    "体长": "30 cm",
+    "体重": "0.5 kg",
+    "寿命": "寿命较短，一般为3-5年。",
+    "适温": "20-28 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾肉",
+    "鱿鱼须",
+    "沙蚕",
+    "小鱼块",
+    "鱼肉肠",
+    "虾仁",
+    "青虫",
+    "面包虫",
+    "鸡肝"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现连续轻微的点动，幅度较小，频率较快，可能是鱼在试探饵料。",
+    "快沉",
+    "：",
+    "浮漂快速下沉或直接黑漂，是鱼吞食饵料的明显信号。",
+    "上顶",
+    "：",
+    "浮漂轻微上顶，可能是鱼在水底拱食饵料，带动子线上移。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，但速度不快，可能是鱼吸食饵料但动作轻缓。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，可能是鱼咬钩后拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:赤眼䱵喜欢栖息在岩礁或珊瑚礁附近，选择这些区域作为钓位。",
+    "根据水层调整钓棚:赤眼䱵主要活动于中上层水域，根据实际情况调整钓棚深度。",
+    "使用鲜活饵料:赤眼䱵为肉食性鱼类，使用新鲜的南极虾、海虾肉等饵料效果更佳。",
+    "注意扬竿时机:观察浮漂动作，出现明显信号时及时扬竿，但动作不宜过猛。",
+    "灵活运用逗钓技巧:在作钓过程中，可适当进行逗钓，使饵料呈现动态，吸引鱼的注意。"
+  ],
+  "recommended_spots": "近岸礁石区、防波堤、码头、海湾、河口咸淡水区",
+  "distribution": [],
+  "similar_fish": [
+    "鲈鱼",
+    "石斑鱼",
+    "鲷鱼",
+    "黄鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/shi-shi-hong-xie-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/shi-shi-hong-xie-yu-0-8d8a916a.webp",
+      "https://fishweather.cn/asset-images/catch/shi-shi-hong-xie-yu-1-67e5cfe3.webp"
+    ]
+  },
+  "profile_text_sha256": "0be0bd0a4f13677115527db5d20d9587fc68527959b4416420fef67aa277ad05",
+  "raw_line_count": 100,
+  "local_dir": "by_family/谐鱼科/shi-shi-hong-xie-yu_史氏红谐鱼",
+  "local_images": {
+    "fish": [
+      "by_family/谐鱼科/shi-shi-hong-xie-yu_史氏红谐鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "河川沙塘鳢",
+  "slug": "he-chuan-sha-tang-li",
+  "source_url": "https://fishweather.cn/fish/he-chuan-sha-tang-li",
+  "list_page": 3,
+  "list_position": 62,
+  "scientific_name": "Odontobutis potamophila",
+  "aliases": "塘鳢鱼、瞎眼鱼、土布鱼、虎头鲨",
+  "headline": "河川沙塘鳢怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型粗壮，前部近圆筒形，后部侧扁。头大且宽平，略呈三角形。吻短钝圆。口大，端位，斜裂。眼小，上位，略突出。体被栉鳞，头部无鳞。背鳍两个，分离；胸鳍宽大；腹鳍胸位，左右愈合呈吸盘状；臀鳍与第二背鳍相对；尾鳍圆形。体色呈黄褐色或棕褐色，具不规则深褐色斑纹，腹部灰白色。各鳍具褐色斑点。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "沙塘鳢科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、虾类、水生昆虫、甲壳类及其他小型底栖动物。",
+    "栖息环境": "主要栖息于静水或缓流水域的底层，如池塘、湖泊、水库、稻田、溪流缓流段等，喜好栖息于水草丛生、底质为泥沙或碎石的环境中。",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命相对较短，一般为3-5年，具体寿命受水域环境和食物条件等因素影响。",
+    "适温": "18-26 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包虫",
+    "虾肉",
+    "鱼肉",
+    "鸡肝",
+    "商品饵料（肉食性）",
+    "蚕蛹",
+    "蚂蚱",
+    "蟋蟀"
+  ],
+  "float_signals": [
+    "快速下沉",
+    "：",
+    "浮漂快速下沉，黑漂，通常是鱼儿吞食饵料的明显信号。",
+    "点动",
+    "：",
+    "浮漂出现轻微的点动，幅度小，频率快，可能是鱼儿触碰饵料。",
+    "缓поднимание",
+    "：",
+    "浮漂缓慢上升，可能是鱼儿轻口试探或含饵上浮。",
+    "停顿",
+    "：",
+    "浮漂在缓慢下沉过程中突然停顿，可能是鱼儿截口。",
+    "移位",
+    "：",
+    "浮漂缓慢横向移动，可能是鱼儿拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:乌塘鳢喜欢藏匿于水草、乱石堆、树根等隐蔽场所，选择这些地方作为钓点。",
+    "使用活饵逗钓:活饵如蚯蚓、红虫等对乌塘鳢有很强的诱惑力，配合逗钓手法，效果更佳。",
+    "轻口轻提:乌塘鳢吃口较轻，漂相细微，提竿动作要轻柔，避免大力抽竿惊鱼。",
+    "慢速搜索:路亚钓时，拟饵操作要慢，模拟弱小生物的游动姿态，吸引乌塘鳢注意。",
+    "注意季节和天气变化:根据季节和天气变化调整钓法和钓点，提高钓获率。"
+  ],
+  "recommended_spots": "池塘、水库、溪流缓流段、稻田、湖泊浅滩",
+  "distribution": [],
+  "similar_fish": [
+    "棒花鱼",
+    "麦穗鱼",
+    "䱻",
+    "黄黝鱼",
+    "沙塘鳢"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/he-chuan-sha-tang-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/he-chuan-sha-tang-li-0-a36f7ad7.webp",
+      "https://fishweather.cn/asset-images/catch/he-chuan-sha-tang-li-1-7362b1ef.webp",
+      "https://fishweather.cn/asset-images/catch/he-chuan-sha-tang-li-2-8105acf9.webp",
+      "https://fishweather.cn/asset-images/catch/he-chuan-sha-tang-li-3-b2d884c9.webp",
+      "https://fishweather.cn/asset-images/catch/he-chuan-sha-tang-li-4-5cc5de61.webp"
+    ]
+  },
+  "profile_text_sha256": "cf42b8160b93ce7142b076cbf4c919bc7bdc23385b6d65d48464c8d6cc51b8a7",
+  "raw_line_count": 137,
+  "local_dir": "by_family/沙塘鳢科/he-chuan-sha-tang-li_河川沙塘鳢",
+  "local_images": {
+    "fish": [
+      "by_family/沙塘鳢科/he-chuan-sha-tang-li_河川沙塘鳢/images/main.webp"
+    ],
+    "catch": []
+  }
+}

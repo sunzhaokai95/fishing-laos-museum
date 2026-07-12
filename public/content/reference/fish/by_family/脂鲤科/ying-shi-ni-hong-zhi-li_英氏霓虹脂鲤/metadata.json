@@ -1,0 +1,57 @@
+{
+  "name": "英氏霓虹脂鲤",
+  "slug": "ying-shi-ni-hong-zhi-li",
+  "source_url": "https://fishweather.cn/fish/ying-shi-ni-hong-zhi-li",
+  "list_page": 9,
+  "list_position": 213,
+  "scientific_name": "Paracheirodon innesi",
+  "aliases": "霓虹灯鱼、因内西特拉(印度)",
+  "headline": "英氏霓虹脂鲤怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "小型加拉辛鱼，体型细长而侧扁，体长通常为3-4厘米。最显著的特征是体侧中部自眼睛后方至尾鳍基部，贯穿一条明亮的蓝绿色荧光带，在光线照射下闪耀夺目，下方紧邻一条较细的红色条纹，但红色条纹不如红莲灯鱼明显且长。体色透明，背部略带灰色。各鳍透明，尾鳍呈叉形。整体体态娇小玲珑，游动时蓝绿光带闪烁，具有极高的观赏价值。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "脂鲤目",
+    "科": "脂鲤科",
+    "水层": "中层,上层",
+    "食性": "杂食性，在自然环境中主要以小型浮游生物、昆虫幼虫、藻类和植物碎屑为食。人工饲养条件下，可接受多种小型人工鱼粮、冷冻干燥饵料以及活饵，如丰年虾、水蚤等。",
+    "栖息环境": "主要栖息于南美洲亚马逊河流域的支流中，偏爱水流缓慢、植被茂盛的酸性软水环境，常见于光线较暗的雨林溪流或沼泽地带。",
+    "体长": "4 cm",
+    "体重": "1 kg",
+    "寿命": "寿命相对较短，一般为2-3年，在精心饲养和适宜的环境下，部分个体可达3-5年。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "红莲灯鱼",
+    "绿莲灯鱼",
+    "宝莲灯鱼",
+    "喷火灯鱼",
+    "柠檬灯鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ying-shi-ni-hong-zhi-li.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/ying-shi-ni-hong-zhi-li-0-5dca02ee.webp",
+      "https://fishweather.cn/asset-images/catch/ying-shi-ni-hong-zhi-li-1-c0fffc7b.webp",
+      "https://fishweather.cn/asset-images/catch/ying-shi-ni-hong-zhi-li-2-3f6aeb1b.webp",
+      "https://fishweather.cn/asset-images/catch/ying-shi-ni-hong-zhi-li-3-8106123b.webp"
+    ]
+  },
+  "profile_text_sha256": "93606b1189b409ebd73060f7c6fd1e5e8d85f3d6a96179363c26c0d0a643c03d",
+  "raw_line_count": 84,
+  "local_dir": "by_family/脂鲤科/ying-shi-ni-hong-zhi-li_英氏霓虹脂鲤",
+  "local_images": {
+    "fish": [
+      "by_family/脂鲤科/ying-shi-ni-hong-zhi-li_英氏霓虹脂鲤/images/main.webp"
+    ],
+    "catch": []
+  }
+}

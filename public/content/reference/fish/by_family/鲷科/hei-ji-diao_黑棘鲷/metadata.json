@@ -1,0 +1,104 @@
+{
+  "name": "黑棘鲷",
+  "slug": "hei-ji-diao",
+  "source_url": "https://fishweather.cn/fish/hei-ji-diao",
+  "list_page": 3,
+  "list_position": 71,
+  "scientific_name": "Acanthopagrus schlegelii",
+  "aliases": "乌格、厚唇、黑加吉",
+  "headline": "黑棘鲷怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体侧扁呈椭圆形，背部稍隆起。口小，端位。颌齿尖细。前鳃盖骨后缘有锯齿。体被栉鳞。体色背部灰黑色，腹部银灰色。各鳍呈灰黑色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鲷科",
+    "水层": "底层,近底层",
+    "食性": "杂食性，主要摄食小型底栖动物、藻类、贝类、甲壳类等",
+    "栖息环境": "近岸浅海岩礁区、沙泥底海域、河口、内湾",
+    "体长": "50 cm",
+    "体重": "3.2 kg",
+    "寿命": "寿命较长，一般可达10年以上，有些个体甚至更长。",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "海蜈蚣",
+    "南极虾",
+    "青虫",
+    "虾肉",
+    "贝肉",
+    "海藻",
+    "玉米",
+    "麦粒",
+    "商品黑鲷饵",
+    "颗粒饲料"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现连续轻微的点动或颤动，可能是黑鲷在试探或啄食饵料。",
+    "急沉",
+    "：",
+    "浮漂快速有力下沉，通常为黑鲷吞饵正口，是清晰的扬竿信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能为黑鲷试探性咬饵或轻口。",
+    "停顿",
+    "：",
+    "浮漂在缓慢下沉过程中突然停止下沉并稍作停顿，可能是黑鲷已将饵料吸入口中，准备吞咽。",
+    "横移",
+    "：",
+    "浮漂不沉反向侧向快速移动，可能是黑鲷咬饵后拖动饵料逃窜。"
+  ],
+  "practical_tips": [
+    "找准潮汐规律，黑鲷通常在涨潮时靠岸觅食。",
+    "选择合适的钓点，岩礁区、水流交汇处、饵料丰富的区域是好钓点。",
+    "根据水深和流速选择合适的钓组和铅坠。",
+    "采用诱钓结合的方式，提前打窝聚鱼效果更佳。",
+    "仔细观察浮漂动作，轻口时也要及时扬竿。"
+  ],
+  "recommended_spots": "岩礁区、防波堤、码头、海湾、近岸海域",
+  "distribution": [
+    "上海市",
+    "台湾省",
+    "天津市",
+    "山东省",
+    "广东省",
+    "广西壮族自治区",
+    "江苏省",
+    "河北省",
+    "浙江省",
+    "海南省",
+    "澳门特别行政区",
+    "福建省",
+    "辽宁省",
+    "香港特别行政区"
+  ],
+  "similar_fish": [
+    "黄鳍鲷",
+    "真鲷",
+    "鲈鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-ji-diao.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hei-ji-diao-0-9f925d65.webp",
+      "https://fishweather.cn/asset-images/catch/hei-ji-diao-1-899d4670.webp",
+      "https://fishweather.cn/asset-images/catch/hei-ji-diao-2-b175fac9.webp",
+      "https://fishweather.cn/asset-images/catch/hei-ji-diao-3-30fc5c22.webp",
+      "https://fishweather.cn/asset-images/catch/hei-ji-diao-4-c96c3551.webp"
+    ]
+  },
+  "profile_text_sha256": "c77dee009d78d116ceee9475938cbfbb5640776b75096beaec1fe1d43ca15cd9",
+  "raw_line_count": 152,
+  "local_dir": "by_family/鲷科/hei-ji-diao_黑棘鲷",
+  "local_images": {
+    "fish": [
+      "by_family/鲷科/hei-ji-diao_黑棘鲷/images/main.webp"
+    ],
+    "catch": []
+  }
+}

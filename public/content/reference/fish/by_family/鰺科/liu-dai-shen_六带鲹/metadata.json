@@ -1,0 +1,79 @@
+{
+  "name": "六带鲹",
+  "slug": "liu-dai-shen",
+  "source_url": "https://fishweather.cn/fish/liu-dai-shen",
+  "list_page": 9,
+  "list_position": 205,
+  "scientific_name": "Caranx sexfasciatus",
+  "aliases": "海鲹、军曹鱼、牛港鲹、拉仑曹",
+  "headline": "六带鲹怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，呈卵圆形。头中大，吻尖。脂眼睑不发达。上下颌具一行犬齿，锄骨、腭骨和舌上具绒毛状齿。侧线弯曲部稍长于直走部。体被小圆鳞，侧线上鳞约69-79枚。体背部呈银灰色或青灰色，腹部银白色。体侧上方具6条暗色横带，幼鱼期明显，成鱼期较模糊。各鳍浅黄色至淡灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰺科",
+    "水层": "中上层",
+    "食性": "肉食性，主要以小型鱼类、甲壳类（如虾、蟹）和头足类（如鱿鱼）等为食。幼鱼阶段也摄食浮游动物。",
+    "栖息环境": "主要栖息于沿岸礁石区、珊瑚礁区及沙泥底质海域，也常出现在港湾和河口区。幼鱼有时会进入红树林或河口半咸水域。",
+    "体长": "120 cm",
+    "体重": "18 kg",
+    "寿命": "寿命较长，一般可达10年以上，在适宜的环境条件下，甚至可超过15年。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [
+    "米诺",
+    "铅笔",
+    "波扒",
+    "VIB",
+    "软饵（卷尾蛆",
+    "T尾）",
+    "金属亮片",
+    "小鱼型路亚",
+    "虾型路亚",
+    "铁板",
+    "海মাছ(新鲜海鱼块)"
+  ],
+  "float_signals": [
+    "无",
+    "：",
+    "路亚钓法主要通过竿梢和手感来判断鱼讯，不依赖浮漂。"
+  ],
+  "practical_tips": [
+    "选择合适的标点:六带鲹常在礁石区、水流交汇处、饵鱼丰富的区域活动，选择这些标点能提高中鱼率。",
+    "根据水深选择路亚:浅水区可选择漂浮型或浅潜型路亚，深水区则选择沉水型或深潜型路亚。",
+    "灵活变换泳层和手法:六带鲹的活动泳层会随时间、天气变化，要不断尝试不同的泳层和抽动手法，找到最佳的作钓方式。",
+    "注意扬竿时机:六带鲹咬口凶猛，但有时也会试探性攻击，要抓住清晰的咬口信号，及时扬竿刺鱼。",
+    "做好防脱钩准备:六带鲹冲击力强，溜鱼过程中要控制好力度，避免脱钩跑鱼。"
+  ],
+  "recommended_spots": "礁石区、码头、防波堤、近海海域、船钓钓点",
+  "distribution": [],
+  "similar_fish": [
+    "蓝圆鲹",
+    "浪人鲹",
+    "珍鲹",
+    "长鳍鲹",
+    "瓜子鲹"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/liu-dai-shen.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/liu-dai-shen-0-87a421c0.webp",
+      "https://fishweather.cn/asset-images/catch/liu-dai-shen-1-1510afe3.webp",
+      "https://fishweather.cn/asset-images/catch/liu-dai-shen-2-367e2b69.webp",
+      "https://fishweather.cn/asset-images/catch/liu-dai-shen-3-0cadecb1.webp"
+    ]
+  },
+  "profile_text_sha256": "ab9f39261ac0cc18c91b9d4b4190ba104eebb0c77c449bc9c3c17487992f20c5",
+  "raw_line_count": 110,
+  "local_dir": "by_family/鰺科/liu-dai-shen_六带鲹",
+  "local_images": {
+    "fish": [
+      "by_family/鰺科/liu-dai-shen_六带鲹/images/main.webp"
+    ],
+    "catch": []
+  }
+}

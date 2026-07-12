@@ -1,0 +1,90 @@
+{
+  "name": "大鳍鱊",
+  "slug": "da-qi-yu",
+  "source_url": "https://fishweather.cn/fish/da-qi-yu",
+  "list_page": 2,
+  "list_position": 32,
+  "scientific_name": "Acheilognathus macropterus",
+  "aliases": "船钉子、钢钉、尖嘴鱊",
+  "headline": "大鳍鱊怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，呈柳叶形。头小，吻尖。口小，端位，马蹄形。眼大，侧上位。须一对，短小。鳞片中等大，侧线完全。背鳍起点位于腹鳍起点稍后。胸鳍侧位。腹鳍腹位。臀鳍与背鳍相对。尾鳍叉形。体背部灰褐色，体侧银白色，腹部白色。各鳍浅灰色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中下层",
+    "食性": "杂食性，主要以藻类、植物碎屑、浮游生物、小型底栖无脊椎动物等为食。",
+    "栖息环境": "主要栖息于水流缓慢或静止的浅水区，如湖泊、池塘、河流缓流段、沟渠、稻田等，喜好水草丰茂的环境。",
+    "体长": "15 cm",
+    "体重": "0.1 kg",
+    "寿命": "寿命较短，自然条件下一般为2-3年，最长可达4年左右。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓",
+    "面包屑",
+    "米饭粒",
+    "麸皮",
+    "豆饼粉",
+    "玉米面",
+    "商品鲫鱼饵料（腥味）",
+    "商品鲫鱼饵料（香味）",
+    "藻类粉"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，消失不见，通常是鱼吞食死口。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿一目或两目，是清晰的咬钩信号。",
+    "缓升",
+    "：",
+    "浮漂缓慢上升半目或一目，可能是鱼吸食饵料后抬头。",
+    "阴漂",
+    "：",
+    "浮漂缓慢下沉，但未完全没入水中，可能是鱼将饵料拖离钓点。",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小而频率快，可能是鱼试探性触碰饵料。"
+  ],
+  "practical_tips": [
+    "选择细线小钩:大鳍鱊体型小，警惕性高，细线小钩能降低鱼的警觉性，提高中鱼率。",
+    "饵料状态调整:根据鱼情调整饵料的软硬、雾化状态，提高饵料的适口性和诱鱼效果。",
+    "灵活逗钓:通过轻微的提、放、摆动等手法，使饵料在水中呈现动态，刺激鱼的食欲。",
+    "找准鱼层:大鳍鱊主要在中下层活动，但也会根据天气、水温等因素改变泳层，需通过试钓找到当日鱼层。",
+    "轻口抓顿:大鳍鱊吃口轻，需仔细观察浮漂的细微动作，抓住清晰的顿口或黑漂信号及时扬竿。"
+  ],
+  "recommended_spots": "池塘、湖泊、河流缓流段、沟渠、稻田",
+  "distribution": [],
+  "similar_fish": [
+    "麦穗鱼",
+    "棒花鱼",
+    "䱗条鱼",
+    "鳑鲏"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-qi-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/da-qi-yu-0-9f5f388f.webp",
+      "https://fishweather.cn/asset-images/catch/da-qi-yu-1-d9d5575e.webp",
+      "https://fishweather.cn/asset-images/catch/da-qi-yu-2-701f19de.webp",
+      "https://fishweather.cn/asset-images/catch/da-qi-yu-3-a417c574.webp",
+      "https://fishweather.cn/asset-images/catch/da-qi-yu-4-585ce93c.webp"
+    ]
+  },
+  "profile_text_sha256": "202f96b944d88515fb5a9e9315e55d5a87ed0245d7e698710bbbd2b26b049eac",
+  "raw_line_count": 136,
+  "local_dir": "by_family/鲤科/da-qi-yu_大鳍鱊",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/da-qi-yu_大鳍鱊/images/main.webp"
+    ],
+    "catch": []
+  }
+}

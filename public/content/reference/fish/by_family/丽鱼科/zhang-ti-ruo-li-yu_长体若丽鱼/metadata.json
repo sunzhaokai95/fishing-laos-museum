@@ -1,0 +1,52 @@
+{
+  "name": "长体若丽鱼",
+  "slug": "zhang-ti-ruo-li-yu",
+  "source_url": "https://fishweather.cn/fish/zhang-ti-ruo-li-yu",
+  "list_page": 33,
+  "list_position": 779,
+  "scientific_name": "Pseudotropheus elongatus",
+  "aliases": "无",
+  "headline": "长体若丽鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "Pseudotropheuselongatus是一种体型细长的马拉维湖慈鲷。身体呈纺锤形，侧扁但不过分。头部中等大小，吻部略尖。口端位，唇部较薄。眼睛较大，位于头部上方。背鳍长而连续，从背部中部延伸至尾鳍基部，硬棘部分和软鳍部分相连。臀鳍较小，与背鳍相对。尾鳍呈叉形。体色多变，但基本色为蓝色或灰色，雄性通常颜色更鲜艳，",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "中层,底层",
+    "食性": "杂食性偏素食性，主要以刮食岩石表面的藻类和浮游植物为食，也摄食小型无脊椎动物和有机碎屑。",
+    "栖息环境": "马拉维湖的岩石沿岸区域，喜欢栖息在布满岩石和碎石的湖底，以及岩石缝隙和洞穴中。",
+    "体长": "10 cm",
+    "体重": "0.1 kg",
+    "寿命": "在良好的饲养环境下，寿命通常为5-8年。",
+    "适温": "24-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "非洲王子",
+    "闪电黄",
+    "斑马鱼",
+    "蓝宝石",
+    "雪中红"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/zhang-ti-ruo-li-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "de38224a205facad40ade47934924e042e3245a8dc693a951bc49192db3c58e0",
+  "raw_line_count": 32,
+  "local_dir": "by_family/丽鱼科/zhang-ti-ruo-li-yu_长体若丽鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/zhang-ti-ruo-li-yu_长体若丽鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

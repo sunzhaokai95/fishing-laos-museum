@@ -1,0 +1,69 @@
+{
+  "name": "黑鳍蛇鲭",
+  "slug": "hei-qi-she-qing",
+  "source_url": "https://fishweather.cn/fish/hei-qi-she-qing",
+  "list_page": 31,
+  "list_position": 726,
+  "scientific_name": "Thyrsitoides marleyi",
+  "aliases": "无",
+  "headline": "黑鳍蛇鲭怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，侧扁，呈带状。头长而尖，吻尖。口大，端位，上颌稍突出。眼大，侧位。上下颌均具强犬齿及细小齿。鳃耙退化为棘状突起。体被小圆鳞，侧线单一，明显。背鳍两个，第一背鳍具鳍棘，第二背鳍与臀鳍相对。尾鳍叉形。体背部蓝灰色或深灰色，腹部银白色，各鳍灰色或淡色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "蛇鲭科",
+    "水层": "中上层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类和头足类等。",
+    "栖息环境": "主要栖息于热带和亚热带海域的近海和外海，通常在大陆架和岛屿附近水域活动。",
+    "体长": "200 cm",
+    "体重": null,
+    "寿命": "寿命较长，具体年限未见详细记录，但蛇鲭科鱼类通常具有较长的寿命。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "深潜米诺",
+    "VIB",
+    "铅笔",
+    "波扒",
+    "金属缓沉铁板",
+    "金属快沉铁板",
+    "橡胶鱼",
+    "卷尾蛆",
+    "复合亮片",
+    "旋转亮片",
+    "相似鱼种",
+    "带鱼",
+    "鲅鱼",
+    "金枪鱼",
+    "旗鱼",
+    "剑鱼"
+  ],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "带鱼",
+    "鲅鱼",
+    "金枪鱼",
+    "旗鱼",
+    "剑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-qi-she-qing.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "c0dfd56d26ce0858fc311630e1839e14a9f0bde912dd659e9001b696e988ab8d",
+  "raw_line_count": 45,
+  "local_dir": "by_family/蛇鲭科/hei-qi-she-qing_黑鳍蛇鲭",
+  "local_images": {
+    "fish": [
+      "by_family/蛇鲭科/hei-qi-she-qing_黑鳍蛇鲭/images/main.webp"
+    ],
+    "catch": []
+  }
+}

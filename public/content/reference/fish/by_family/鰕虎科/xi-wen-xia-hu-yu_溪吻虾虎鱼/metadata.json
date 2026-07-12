@@ -1,0 +1,94 @@
+{
+  "name": "溪吻虾虎鱼",
+  "slug": "xi-wen-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/xi-wen-xia-hu-yu",
+  "list_page": 9,
+  "list_position": 206,
+  "scientific_name": "Rhinogobius duospilus",
+  "aliases": "狗甘仔、溪哥仔、沙塘鳢",
+  "headline": "溪吻虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型细长，略呈圆柱形，后部侧扁。头部略平扁，口大，端位，斜裂。上下颌牙细小。眼较大，位于头侧上方。体被栉鳞，头部裸露无鳞。体色多变，通常为浅棕色或黄褐色，体侧有2-3条黑色横纹，背鳍有两个黑色斑点，故名“双斑”。雄鱼颜色较鲜艳，繁殖期体色加深，出现婚姻色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性为主，主要摄食水生昆虫幼虫、小型甲壳类、丝蚯蚓、藻类及有机碎屑。",
+    "栖息环境": "主要栖息于水流清澈、底质多砾石或沙石的山涧溪流中，也可见于水库、湖泊的浅水区。",
+    "体长": "8 cm",
+    "体重": "0.01 kg",
+    "寿命": "寿命相对较短，一般为2-3年，在适宜环境下可能达到4年以上。",
+    "适温": "18-26 °C"
+  },
+  "bait_options": [
+    "红虫",
+    "蚯蚓（细小的）",
+    "面包虫",
+    "蝇蛆",
+    "小米",
+    "碎玉米",
+    "商品小药（腥味）",
+    "虾粉",
+    "藻粉",
+    "麸皮"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速没入水中，是鱼吞食饵料的明显信号。",
+    "顿口",
+    "：",
+    "浮漂快速有力地向下顿一下，幅度较小，是鱼吞食饵料的信号。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，半目或一目，可能是鱼吸食饵料。",
+    "移位",
+    "：",
+    "七星漂出现横向移动，可能是鱼拖动饵料。",
+    "轻点",
+    "：",
+    "浮漂出现轻微的点动，幅度小，频率快，可能是鱼在试探或啄食。"
+  ],
+  "practical_tips": [
+    "选择缓流石缝处作钓:双斑栉虾虎鱼喜欢栖息在水流较缓、石块较多的地方，将钓点选在这些地方，更容易钓到目标鱼。",
+    "饵料宜小且鲜活:使用红虫、细蚯蚓等鲜活饵料，并保持饵料小巧，更易于小鱼吸食。",
+    "钓组灵敏度要高:采用细线小钩，搭配灵敏的浮漂，及时捕捉微弱的鱼讯。",
+    "逗钓结合:在作钓过程中，适当进行逗钓，轻微提动竿稍，使饵料呈现动态，吸引鱼的注意。",
+    "轻声细语，避免惊扰:溪流环境安静，作钓时要保持安静，避免大声喧哗或走动，以免惊扰鱼群。"
+  ],
+  "recommended_spots": "山涧溪流、水库浅滩、湖泊入水口、河流缓流区",
+  "distribution": [
+    "浙江省",
+    "贵州省",
+    "重庆市"
+  ],
+  "similar_fish": [
+    "栉虾虎鱼属其他种类",
+    "塘鳢",
+    "麦穗鱼",
+    "䱻"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xi-wen-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/xi-wen-xia-hu-yu-0-69623970.webp",
+      "https://fishweather.cn/asset-images/catch/xi-wen-xia-hu-yu-1-726bbbdd.webp",
+      "https://fishweather.cn/asset-images/catch/xi-wen-xia-hu-yu-2-c0e86a29.webp",
+      "https://fishweather.cn/asset-images/catch/xi-wen-xia-hu-yu-3-0bb4a6f7.webp",
+      "https://fishweather.cn/asset-images/catch/xi-wen-xia-hu-yu-4-45b273bc.webp"
+    ]
+  },
+  "profile_text_sha256": "0c0f4e3c4d7e4980caaf6c7f93b1eddffce9168688482d8791d5e8e0d72c392b",
+  "raw_line_count": 136,
+  "local_dir": "by_family/鰕虎科/xi-wen-xia-hu-yu_溪吻虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/xi-wen-xia-hu-yu_溪吻虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "线斑黄鳞鲀",
+  "slug": "xian-ban-huang-lin-tun",
+  "source_url": "https://fishweather.cn/fish/xian-ban-huang-lin-tun",
+  "list_page": 31,
+  "list_position": 724,
+  "scientific_name": "Xanthichthys lineopunctatus",
+  "aliases": "无",
+  "headline": "线斑黄鳞鲀怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体呈卵圆形，侧扁。头部轮廓圆钝。口小，端位。牙齿呈锥形。眼眶上缘略微隆起。体表粗糙，覆盖着小鳞片。体色以浅灰色或米黄色为基调，体侧遍布细密的蓝色或黑色点状和线状斑纹，这些斑纹在头部和身体前部较为密集，向后逐渐稀疏。各鳍颜色与体色相近，但边缘可能略带黄色或橙色。尾鳍呈新月形或截形。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲀形目",
+    "科": "鳞鲀科",
+    "水层": "中层,底层",
+    "食性": "主要以浮游动物为食，包括浮游甲壳类、藻类碎片和小型无脊椎动物。有时也会摄食底栖生物。",
+    "栖息环境": "主要栖息于热带和亚热带珊瑚礁区域，通常在水流清澈、珊瑚生长茂盛的礁盘和斜坡附近活动。也可能出现在岩礁或碎石底质的海域。",
+    "体长": "30 cm",
+    "体重": null,
+    "寿命": "寿命相对较长，在自然条件下可能存活5-10年以上。具体寿命受到环境压力、捕食压力和疾病等多种因素的影响。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "橙斑副鳞鲀",
+    "印度副鳞鲀",
+    "蓝面炮弹鱼",
+    "镰刀炮弹鱼",
+    "星斑叉鼻鲀"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/xian-ban-huang-lin-tun.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "6654d32b4b05cc891c7c81c4f9f72d00d7b834896f9010e697ecde0960598e6c",
+  "raw_line_count": 30,
+  "local_dir": "by_family/鳞鲀科/xian-ban-huang-lin-tun_线斑黄鳞鲀",
+  "local_images": {
+    "fish": [
+      "by_family/鳞鲀科/xian-ban-huang-lin-tun_线斑黄鳞鲀/images/main.webp"
+    ],
+    "catch": []
+  }
+}

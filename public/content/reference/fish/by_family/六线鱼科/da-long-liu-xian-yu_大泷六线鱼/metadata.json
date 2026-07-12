@@ -1,0 +1,93 @@
+{
+  "name": "大泷六线鱼",
+  "slug": "da-long-liu-xian-yu",
+  "source_url": "https://fishweather.cn/fish/da-long-liu-xian-yu",
+  "list_page": 4,
+  "list_position": 81,
+  "scientific_name": "Hexagrammos otakii",
+  "aliases": "黑鱼、黑老婆、鲈鱼虎、石狗公、沙包愣、嘎鱼",
+  "headline": "大泷六线鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，稍侧扁，呈亚圆筒形。头中大，稍平扁。吻短钝。眼大，侧上位。口大，前位，斜裂。上下颌、犁骨和腭骨均具细齿。前鳃盖骨后缘具5棘，主棘强壮。鳃盖膜不连峡部。体被栉鳞，侧线完全，单侧线。背鳍2个，连续，第一背鳍鳍棘部较第二背鳍鳍条部为长。胸鳍宽大，圆形。腹鳍胸位，具1棘5鳍条。臀鳍与第二背鳍相对。尾鳍截形或稍圆形。体背",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲉形目",
+    "科": "六线鱼科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类、软体动物等底栖无脊椎动物。",
+    "栖息环境": "近海岩礁、海藻丛生的海底",
+    "体长": "50 cm",
+    "体重": "1.5 kg",
+    "寿命": "一般为5-7年，最长可达10年以上。",
+    "适温": "10-20 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海虾",
+    "沙蚕",
+    "海蜈蚣",
+    "鱼肉块",
+    "鱿鱼块",
+    "虾仁",
+    "贝肉",
+    "海胆黄",
+    "海参"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接没入水中，不见漂尾，表明鱼吞饵较深。",
+    "点动后下沉",
+    "：",
+    "浮漂先出现轻微点动，然后快速下沉，是清晰的吃口信号。",
+    "顿口",
+    "：",
+    "浮漂快速有力地下顿，幅度半目到一目，是典型的吃口信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，可能是试探性咬钩。",
+    "横移",
+    "：",
+    "浮漂在水面横向移动，不规则漂移，可能是鱼拖动饵料。"
+  ],
+  "practical_tips": [
+    "选择潮汐涨落流速缓慢时作钓，流水过急不利于鱼觅食和垂钓。",
+    "探明海底结构，重点搜索岩石缝隙、乱石堆、海藻丛等复杂地形。",
+    "根据水深和鱼情灵活调整钓层，可尝试底钓、半水钓、甚至离底钓法。",
+    "采用逗钓结合的方式，轻微提动或拖动饵料，增加诱鱼效果。",
+    "中鱼后遛鱼要稳，避免大力拉扯，防止切线或跑鱼，尤其在矶钓复杂环境中。"
+  ],
+  "recommended_spots": "岩礁区、防波堤、码头、海藻床、沉船区",
+  "distribution": [
+    "山东省",
+    "辽宁省"
+  ],
+  "similar_fish": [
+    "黑鲪",
+    "褐菖鲉",
+    "黄鲪",
+    "石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/da-long-liu-xian-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/da-long-liu-xian-yu-0-8e4c75a5.webp",
+      "https://fishweather.cn/asset-images/catch/da-long-liu-xian-yu-1-f255907a.webp",
+      "https://fishweather.cn/asset-images/catch/da-long-liu-xian-yu-2-245093cb.webp",
+      "https://fishweather.cn/asset-images/catch/da-long-liu-xian-yu-3-95753090.webp",
+      "https://fishweather.cn/asset-images/catch/da-long-liu-xian-yu-4-89b7e4a3.webp"
+    ]
+  },
+  "profile_text_sha256": "0b6ee47f8edefdb3ee3baf461a0a073f4eb390d32640a7bc8687c780fa02cecf",
+  "raw_line_count": 141,
+  "local_dir": "by_family/六线鱼科/da-long-liu-xian-yu_大泷六线鱼",
+  "local_images": {
+    "fish": [
+      "by_family/六线鱼科/da-long-liu-xian-yu_大泷六线鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

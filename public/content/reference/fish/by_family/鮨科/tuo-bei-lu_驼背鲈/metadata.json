@@ -1,0 +1,52 @@
+{
+  "name": "驼背鲈",
+  "slug": "tuo-bei-lu",
+  "source_url": "https://fishweather.cn/fish/tuo-bei-lu",
+  "list_page": 25,
+  "list_position": 598,
+  "scientific_name": "Cromileptes altivelis",
+  "aliases": "花鲈、老虎斑、狗腿鱼、尖嘴鲈",
+  "headline": "驼背鲈是保护动物吗？习性与识别图鉴",
+  "summary": "体延长而侧扁，背部隆起，呈驼背状，故得名驼背鲈。头小，吻尖突。口大，端位，颌骨延伸至眼后下方。眼小，圆形，位于头侧上方。前鳃盖骨后缘具锯齿，鳃盖骨后缘具扁棘。体被细小栉鳞，侧线完全。体色变化较大，幼鱼体色浅棕色至白色，散布黑色圆点；成鱼体色逐渐变为灰褐色或棕褐色，黑点减少或消失，体侧有时出现不规则的深色斑纹。各鳍浅色或",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类（如虾、蟹）和头足类等底栖无脊椎动物。",
+    "栖息环境": "主要栖息于热带和亚热带珊瑚礁海域，也可见于岩礁、沙地和海草床附近。幼鱼常在浅水区活动，成鱼则栖息于较深水域。",
+    "体长": "70 cm",
+    "体重": "7 kg",
+    "寿命": "寿命较长，在自然条件下可存活超过10年以上，人工养殖条件下若管理得当，也可达到相似寿命。",
+    "适温": "22-28 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "鞍带石斑鱼",
+    "青石斑鱼",
+    "点带石斑鱼",
+    "云纹石斑鱼",
+    "赤点石斑鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tuo-bei-lu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "c9344e7c0d0c6e24b27e95613a9bc2ef03de6cc394b3c4c66d730b9001dd67ae",
+  "raw_line_count": 37,
+  "local_dir": "by_family/鮨科/tuo-bei-lu_驼背鲈",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/tuo-bei-lu_驼背鲈/images/main.webp"
+    ],
+    "catch": []
+  }
+}

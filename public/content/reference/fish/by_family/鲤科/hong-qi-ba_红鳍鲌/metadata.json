@@ -1,0 +1,91 @@
+{
+  "name": "红鳍鲌",
+  "slug": "hong-qi-ba",
+  "source_url": "https://fishweather.cn/fish/hong-qi-ba",
+  "list_page": 1,
+  "list_position": 9,
+  "scientific_name": "Chanodichthys erythropterus",
+  "aliases": "红尾刁、刁子鱼、黄尾刁、快鱼、侉条、青梢",
+  "headline": "红鳍鲌怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体细长，稍侧扁，背部平直。头较小，吻尖。口上位，倾斜。眼大。背鳍起点位于腹鳍起点之前。尾鳍深叉形，下叶稍长。体背灰褐色，腹部银白。胸鳍、腹鳍、臀鳍和尾鳍下叶红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中上层",
+    "食性": "肉食性鱼类，性情凶猛。幼鱼主要摄食枝角类、桡足类和水生昆虫；成鱼以小鱼、虾、螺、昆虫幼虫等为食。",
+    "栖息环境": "江河、湖泊等开阔水域",
+    "体长": "102 cm",
+    "体重": "9 kg",
+    "寿命": "较长，可达数年",
+    "适温": "18-28 °C"
+  },
+  "bait_options": [
+    "商品饵",
+    "麸皮",
+    "玉米",
+    "麦粒",
+    "藻类饵料",
+    "面包屑",
+    "饭粒",
+    "红薯",
+    "豆饼",
+    "菜饼"
+  ],
+  "float_signals": [
+    "上顶",
+    "：",
+    "浮漂快速上顶，可能是鱼抬头吃饵",
+    "斜走",
+    "：",
+    "浮漂斜向移动，鱼拖动饵料",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，轻口或试探",
+    "停顿",
+    "：",
+    "浮漂在不规则动作后突然停顿，可能是鱼已吸入",
+    "下顿",
+    "：",
+    "浮漂快速下沉，明显顿口"
+  ],
+  "practical_tips": [
+    "搜索泳层:路亚钓法中，尝试不同水层搜索鱼群",
+    "饵料动态:通过抽动手法赋予拟饵生动的泳姿",
+    "观察水面:注意水面是否有鱼星或捕食迹象",
+    "选择亮色拟饵:红翅鲌对亮色反应灵敏",
+    "灵活调整钓组:根据鱼情变化调整钓组和饵料"
+  ],
+  "recommended_spots": "江河流水、水库浅滩、湖泊近岸",
+  "distribution": [],
+  "similar_fish": [
+    "翘嘴鲌",
+    "蒙古红鲌",
+    "赤眼鳟",
+    "鱤鱼",
+    "军鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hong-qi-ba.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hong-qi-ba-0-ab696920.webp",
+      "https://fishweather.cn/asset-images/catch/hong-qi-ba-1-35e636ee.webp",
+      "https://fishweather.cn/asset-images/catch/hong-qi-ba-2-5cd1b9d4.webp",
+      "https://fishweather.cn/asset-images/catch/hong-qi-ba-3-cd962528.webp",
+      "https://fishweather.cn/asset-images/catch/hong-qi-ba-4-5e91cd2b.webp"
+    ]
+  },
+  "profile_text_sha256": "d2f059fe425010f4da4a263fa0f3f111ae39682165ea7e01f787f191e6791fe7",
+  "raw_line_count": 136,
+  "local_dir": "by_family/鲤科/hong-qi-ba_红鳍鲌",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/hong-qi-ba_红鳍鲌/images/main.webp"
+    ],
+    "catch": []
+  }
+}

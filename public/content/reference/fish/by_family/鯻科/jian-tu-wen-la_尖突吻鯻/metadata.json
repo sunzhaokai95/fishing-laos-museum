@@ -1,0 +1,75 @@
+{
+  "name": "尖突吻鯻",
+  "slug": "jian-tu-wen-la",
+  "source_url": "https://fishweather.cn/fish/jian-tu-wen-la",
+  "list_page": 16,
+  "list_position": 371,
+  "scientific_name": "Rhynchopelates oxyrhynchus",
+  "aliases": "金目鲈、盲曹、石鲈、海鲈、澳洲肺鱼",
+  "headline": "尖突吻鯻怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长而侧扁，背腹缘均凸出，背缘较腹缘稍拱。头中大，略侧扁。吻尖突，口大，前位，口裂倾斜，下颌稍突出于上颌。上下颌、犁骨及腭骨均具绒毛状齿。前鳃盖骨后缘及下缘具锯齿，间鳃盖骨后缘光滑。体被栉鳞，侧线完全，侧线鳞数48-53。背鳍2个，彼此分离，第一背鳍硬棘VIII，第二背鳍软条I,11-12；臀鳍硬棘III，软条7-8",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鯻科",
+    "水层": "中下层",
+    "食性": "肉食性，主要捕食鱼类、虾、蟹等甲壳类及其他小型无脊椎动物",
+    "栖息环境": "近海沿岸、河口、红树林、咸淡水水域，幼鱼亦可进入淡水江河",
+    "体长": "120 cm",
+    "体重": "20 kg",
+    "寿命": "自然条件下寿命可达10年以上，人工养殖条件下若管理得当，寿命相近",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [
+    "活虾",
+    "海虾",
+    "鱼肉块",
+    "鱿鱼块",
+    "沙蚕",
+    "小鱼干",
+    "虾仁",
+    "鸡肝",
+    "商品路亚饵",
+    "软饵"
+  ],
+  "float_signals": [
+    "路亚海钓不显示",
+    "：",
+    "路亚海钓主要通过手感和竿梢动作判断鱼讯，不依赖浮漂。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:尖吻鲈常栖息于礁石区、河口等复杂地形，选择这些区域作为钓点。",
+    "根据水层选择拟饵和钓法:尖吻鲈活动水层不固定，需根据鱼情和水深选择合适的拟饵和钓法。",
+    "掌握抽动手法:不同的抽动手法会产生不同的泳姿，需根据鱼情灵活调整。",
+    "注意控鱼技巧:尖吻鲈力量大，中鱼后需利用竿子的腰力控鱼，避免硬拉。",
+    "合理搭配钓组:根据目标鱼体型和钓场环境，合理搭配钓竿、鱼轮、线组等钓具。"
+  ],
+  "recommended_spots": "海边礁石区、河口、红树林、码头、养殖网箱、近海海域",
+  "distribution": [],
+  "similar_fish": [
+    "花鲈",
+    "七星鲈",
+    "宝石鲈",
+    "澳洲肺鱼",
+    "加州鲈"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/jian-tu-wen-la.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/jian-tu-wen-la-0-213f8f98.webp"
+    ]
+  },
+  "profile_text_sha256": "659d1f4190c0a7ad3deaad4c9acec7e14550b8a63c934d18d4bb9a7edf269432",
+  "raw_line_count": 77,
+  "local_dir": "by_family/鯻科/jian-tu-wen-la_尖突吻鯻",
+  "local_images": {
+    "fish": [
+      "by_family/鯻科/jian-tu-wen-la_尖突吻鯻/images/main.webp"
+    ],
+    "catch": []
+  }
+}

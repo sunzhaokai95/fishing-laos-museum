@@ -1,0 +1,94 @@
+{
+  "name": "黑斑狗鱼",
+  "slug": "hei-ban-gou-yu",
+  "source_url": "https://fishweather.cn/fish/hei-ban-gou-yu",
+  "list_page": 11,
+  "list_position": 244,
+  "scientific_name": "Esox reichertii",
+  "aliases": "狗鱼、鸭鱼、雅鱼、梭鱼、河蟑螂(俄语)",
+  "headline": "黑斑狗鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型elongate呈鱼雷状，稍侧扁。头部平扁，吻长而尖，形似鸭嘴。口大，端位，上下颌均具锐齿。眼大，侧上位。背鳍和臀鳍位置相对，均位于身体后部。尾鳍叉形。体色背部灰褐色或棕褐色，侧面银白色，具不规则黑色斑纹，腹部白色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "狗鱼目",
+    "科": "狗鱼科",
+    "水层": "中上层,全水层",
+    "食性": "肉食性，凶猛的掠食性鱼类。主要捕食各种鱼类、蛙类、小型哺乳动物、水鸟等。幼鱼阶段也摄食水生昆虫、甲壳类等。",
+    "栖息环境": "主要栖息于水流缓慢、水草丛生的江河、湖泊、水库及沼泽地带。喜好清澈、溶氧量高的水域。",
+    "体长": "150 cm",
+    "体重": "40 kg",
+    "寿命": "寿命较长，自然条件下可达15-20年以上，甚至更长。但受环境因素和捕捞压力影响，野生种群的平均寿命可能较短。",
+    "适温": "10-22 °C"
+  },
+  "bait_options": [
+    "米诺(Minnow)",
+    "VIB(Vibration)",
+    "亮片(Spinner)",
+    "软饵(SoftPlastic)",
+    "铅笔(PencilBait)",
+    "波扒(Popper)",
+    "缓沉型拟饵(SinkingLure)",
+    "深潜型拟饵(DeepDiverLure)",
+    "蠕虫(Worm)",
+    "蛙型饵(FrogLure)"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速下沉或直接没入水中，通常是狗鱼咬死口或快速拖拽饵料。",
+    "快口下顿",
+    "：",
+    "浮漂有力且快速地下顿，幅度较大，是狗鱼咬钩的典型信号。",
+    "横向移位",
+    "：",
+    "浮漂在水面横向快速移动，通常是狗鱼咬住饵料后游动。",
+    "持续抖动",
+    "：",
+    "浮漂持续轻微抖动，可能是小鱼闹窝或狗鱼轻微触碰饵料。",
+    "慢口缓沉",
+    "：",
+    "浮漂缓慢下沉，幅度较小，可能是狗鱼轻口试探或叼住饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的拟饵和泳层:根据水深、水色和鱼情选择合适的拟饵类型和泳层。在浅水区可使用浅水型拟饵，在深水区可使用深潜型拟饵或软饵。",
+    "掌握抽动节奏和力度:根据拟饵类型和鱼情调整抽动节奏和力度。匀速回收适合米诺等拟饵，抽停结合适合VIB等拟饵，快速抽动可用于刺激狗鱼攻击。",
+    "搜索钓法扩大搜索范围:采用扇形搜索或定点反复抛投的方式，扩大搜索范围，提高发现狗鱼的几率。",
+    "注意钓点选择:狗鱼常ambush埋伏在水草区、障碍物区或水流交汇处，选择这些区域作为钓点。",
+    "使用钢丝前导线:狗鱼牙齿锋利，作钓时务必使用钢丝前导线，防止切线跑鱼。"
+  ],
+  "recommended_spots": "江河缓流段、湖泊、水库、沼泽、水草丰茂区域、障碍物区域(树桩、乱石堆)",
+  "distribution": [
+    "内蒙古自治区",
+    "吉林省",
+    "新疆维吾尔自治区",
+    "辽宁省",
+    "黑龙江省"
+  ],
+  "similar_fish": [
+    "白斑狗鱼",
+    "欧洲狗鱼",
+    "北美狗鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hei-ban-gou-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hei-ban-gou-yu-0-b467b05e.webp",
+      "https://fishweather.cn/asset-images/catch/hei-ban-gou-yu-1-d584e1b9.webp",
+      "https://fishweather.cn/asset-images/catch/hei-ban-gou-yu-2-55ad0983.webp",
+      "https://fishweather.cn/asset-images/catch/hei-ban-gou-yu-3-1c6ad1b8.webp"
+    ]
+  },
+  "profile_text_sha256": "0bbc704b25b9feae193f4501088af1ac19773f4717f5e7e8e7418e853c65e171",
+  "raw_line_count": 127,
+  "local_dir": "by_family/狗鱼科/hei-ban-gou-yu_黑斑狗鱼",
+  "local_images": {
+    "fish": [
+      "by_family/狗鱼科/hei-ban-gou-yu_黑斑狗鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

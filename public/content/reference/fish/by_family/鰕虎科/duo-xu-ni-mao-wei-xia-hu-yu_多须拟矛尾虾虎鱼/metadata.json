@@ -1,0 +1,87 @@
+{
+  "name": "多须拟矛尾虾虎鱼",
+  "slug": "duo-xu-ni-mao-wei-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/duo-xu-ni-mao-wei-xia-hu-yu",
+  "list_page": 19,
+  "list_position": 438,
+  "scientific_name": "Parachaeturichthys polynema",
+  "aliases": "须虾虎、沙狗卵、狗甘仔",
+  "headline": "多须拟矛尾虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部近圆筒形，后部侧扁。头中等大，略平扁。吻短钝。口大，前位，斜裂。上下颌牙细小，绒毛状。眼上位，侧位。体被栉鳞，头部无鳞。背鳍2个，连续，第一背鳍鳍棘细弱，第二背鳍与臀鳍相对。胸鳍宽大，圆形。腹鳍胸位，基部宽。尾鳍圆形。体背侧棕黄色，腹侧灰白色，体侧具不规则暗色斑纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性，主要摄食小型底栖无脊椎动物，如虾、蟹、小型鱼类等。",
+    "栖息环境": "近海沙泥底质海域",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为1-2年。",
+    "适温": "15-30 °C"
+  },
+  "bait_options": [
+    "海মাছ(海鱼肉)",
+    "虾肉",
+    "鱿鱼须",
+    "沙蚕",
+    "海肠",
+    "南极虾",
+    "鱼骨肠",
+    "鸡肝",
+    "商品海钓饵料（腥味）",
+    "冷冻小虾"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "竿尖出现连续轻微的点动，幅度小，频率快，可能是鱼在试探或啄食。",
+    "回线",
+    "：",
+    "竿尖下顿后又缓慢回弹，可能是鱼咬钩后又松口，需及时提竿。",
+    "慢拉",
+    "：",
+    "竿尖缓慢向下拉动，可能是鱼拖动饵料游动。",
+    "下顿",
+    "：",
+    "竿尖突然大幅度下顿，或铃铛急促响铃，表示鱼已咬钩。",
+    "连续抖动",
+    "：",
+    "竿尖持续且有力的抖动，表示鱼挣扎力度较大，应及时扬竿。"
+  ],
+  "practical_tips": [
+    "选择沙泥底质或混合底质的钓点，多丝须虾虎鱼常栖息于此类环境。",
+    "采用腥味饵料，如海মাছ、虾肉等，提高诱鱼效果。",
+    "底钓时铅坠要贴底，子线不宜过长，提高鱼讯传递灵敏度。",
+    "矶钓时可尝试轻矶钓组，利用浮漂搜索不同水层。",
+    "注意观察竿尖或铃铛的细微动作，及时提竿，避免跑鱼。"
+  ],
+  "recommended_spots": "近海沙泥底质海域、防波堤、码头、礁石区、海湾浅滩",
+  "distribution": [],
+  "similar_fish": [
+    "矛尾刺虾虎鱼",
+    "斑点刺虾虎鱼",
+    "赤魟",
+    "鲬",
+    "狗鲨"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/duo-xu-ni-mao-wei-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/duo-xu-ni-mao-wei-xia-hu-yu-0-cafedbf4.webp"
+    ]
+  },
+  "profile_text_sha256": "ae3e342c3592d0ab1ac49117fb5aee623a69400cda10274cfe1a63381dae2a92",
+  "raw_line_count": 89,
+  "local_dir": "by_family/鰕虎科/duo-xu-ni-mao-wei-xia-hu-yu_多须拟矛尾虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/duo-xu-ni-mao-wei-xia-hu-yu_多须拟矛尾虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

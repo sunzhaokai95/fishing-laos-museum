@@ -1,0 +1,91 @@
+{
+  "name": "矛尾虾虎鱼",
+  "slug": "mao-wei-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/mao-wei-xia-hu-yu",
+  "list_page": 7,
+  "list_position": 164,
+  "scientific_name": "Chaeturichthys stigmatias",
+  "aliases": "狗甘仔、虾虎、沙狗卵",
+  "headline": "矛尾虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部近圆筒形，后部侧扁。头大而略平扁。吻短钝。口大，前位，斜裂。上下颌牙细小，圆锥形。眼大，侧上位。鳃孔中大。体被栉鳞，头部裸露无鳞。背鳍两个，分离，第一背鳍棘状，第二背鳍鳍条状。胸鳍宽大。腹鳍胸位，愈合成吸盘。尾鳍矛形。体色棕黄色或灰褐色，体侧散布不规则暗褐色斑点，背鳍和尾鳍具深褐色斑纹。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性，主要摄食小型甲壳类、底栖无脊椎动物及小型鱼类",
+    "栖息环境": "近海沿岸浅水区，包括岩礁、沙泥底质海域及河口半咸水区域",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，一般为1-2年",
+    "适温": "18-28 °C"
+  },
+  "bait_options": [
+    "海蚯蚓",
+    "沙蚕",
+    "虾肉",
+    "贝肉",
+    "鱼肉碎",
+    "南极虾",
+    "磷虾",
+    "面包虫",
+    "鸡肝",
+    "商品海钓饵料（腥味）"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂直接快速没入水中，表示鱼吞饵较深，是扬竿的好时机。",
+    "顿口",
+    "：",
+    "浮漂快速下沉或有力地顿一下，是鱼咬钩的明显信号。",
+    "慢沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼轻口试探，需密切关注，适时扬竿。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是鱼拖动饵料，可以尝试扬竿。",
+    "抖动",
+    "：",
+    "浮漂轻微而快速地抖动，可能是小鱼闹窝或矛尾刺虾虎鱼轻微触碰饵料。"
+  ],
+  "practical_tips": [
+    "找准标点:矛尾刺虾虎鱼喜欢栖息在岩石缝隙、碎石堆或海藻丛中，选择这些结构复杂区域作为钓点。",
+    "逗钓结合:采用逗钓手法，轻微提动、放下或拖动饵料，增加饵料的动态和诱惑力。",
+    "灵敏线组:使用相对灵敏的线组和浮漂，能更清晰地捕捉到矛尾刺虾虎鱼的轻微bite信号。",
+    "耐心等待:矛尾刺虾虎鱼咬口相对谨慎，需要耐心等待，不要频繁提竿。",
+    "多点尝试:如果在一个钓点长时间没有鱼讯，可以尝试更换钓点，寻找鱼群聚集区。"
+  ],
+  "recommended_spots": "海边岩礁、防波堤、码头、海湾、河口、近岸浅水区",
+  "distribution": [],
+  "similar_fish": [
+    "许氏刺虾虎鱼",
+    "斑点刺虾虎鱼",
+    "裸颈栉虾虎鱼",
+    "弹涂鱼",
+    "鰕虎鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/mao-wei-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/mao-wei-xia-hu-yu-0-5f81c2cb.webp",
+      "https://fishweather.cn/asset-images/catch/mao-wei-xia-hu-yu-1-ba7d8b7c.webp",
+      "https://fishweather.cn/asset-images/catch/mao-wei-xia-hu-yu-2-7f64d209.webp",
+      "https://fishweather.cn/asset-images/catch/mao-wei-xia-hu-yu-3-3790e947.webp",
+      "https://fishweather.cn/asset-images/catch/mao-wei-xia-hu-yu-4-192364a9.webp"
+    ]
+  },
+  "profile_text_sha256": "0aacd35e534dbeac27c7c1861deb240d4d3f85eb94ab0ee6f8d3db5b0d97382b",
+  "raw_line_count": 137,
+  "local_dir": "by_family/鰕虎科/mao-wei-xia-hu-yu_矛尾虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/mao-wei-xia-hu-yu_矛尾虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

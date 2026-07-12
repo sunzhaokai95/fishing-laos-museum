@@ -1,0 +1,87 @@
+{
+  "name": "五带高鳍虾虎鱼",
+  "slug": "wu-dai-gao-qi-xia-hu-yu",
+  "source_url": "https://fishweather.cn/fish/wu-dai-gao-qi-xia-hu-yu",
+  "list_page": 16,
+  "list_position": 370,
+  "scientific_name": "Pterogobius zacalles",
+  "aliases": "暂无",
+  "headline": "五带高鳍虾虎鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，略侧扁，后部稍圆柱形。头中等大，稍平扁。吻钝圆。眼大，侧上位。口大，前位，斜裂。上下颌牙细小。颊部和鳃盖裸露。背鳍两个，分离；胸鳍圆形；腹鳍愈合成吸盘；尾鳍圆形。体黄褐色或棕褐色，体侧具数条深色横带，各鳍具深色斑点。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鰕虎科",
+    "水层": "底层",
+    "食性": "肉食性，主要以小型底栖无脊椎动物为食",
+    "栖息环境": "沿海岩礁区域或砾石海底",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "寿命较短，通常为2-3年",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "南极虾",
+    "海蚯蚓",
+    "小鱼肉",
+    "虾肉",
+    "鱼肉块",
+    "蟹肉",
+    "贝肉",
+    "磷虾",
+    "面包虫",
+    "冷冻红虫"
+  ],
+  "float_signals": [
+    "加速上浮",
+    "：",
+    "浮漂原本缓慢下沉，突然加速上浮，可能是鱼吐饵或改变泳层。",
+    "缓慢下沉",
+    "：",
+    "浮漂缓慢下沉，逐渐没入水中，可能是鱼吞饵后下潜。",
+    "横向移动",
+    "：",
+    "浮漂在水面横向移动，可能是鱼咬饵后拖动饵料。",
+    "轻微下顿",
+    "：",
+    "浮漂出现轻微的快速下顿，幅度不大，但有力，可能是鱼咬钩的信号。",
+    "连续点动",
+    "：",
+    "浮漂出现连续轻微的点动，频率较快，可能是鱼在试探或啄食饵料。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:斑鳍栉虾虎鱼喜欢栖息在岩礁缝隙或碎石堆中，选择这些区域作为钓位。",
+    "使用小型饵料:由于口小，应选择小型的、易于入口的饵料。",
+    "保持耐心:此类鱼咬口较轻，需要耐心等待，仔细观察漂相。",
+    "轻柔操作:提竿动作要轻柔，避免惊吓鱼群。",
+    "灵活调整钓组:根据潮汐、水流等情况，灵活调整钓组和钓法。"
+  ],
+  "recommended_spots": "岩礁、近岸碎石滩、防波堤、码头、海湾",
+  "distribution": [],
+  "similar_fish": [
+    "栉虾虎鱼",
+    "裸颊虾虎鱼",
+    "蚓虾虎鱼",
+    "塘鳢",
+    "鰕虎鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/wu-dai-gao-qi-xia-hu-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/wu-dai-gao-qi-xia-hu-yu-0-00ae75cb.webp"
+    ]
+  },
+  "profile_text_sha256": "f09ac870757d8c4a23eb351804063601d21d0bc1c519db2977341daa2db9aeff",
+  "raw_line_count": 89,
+  "local_dir": "by_family/鰕虎科/wu-dai-gao-qi-xia-hu-yu_五带高鳍虾虎鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鰕虎科/wu-dai-gao-qi-xia-hu-yu_五带高鳍虾虎鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

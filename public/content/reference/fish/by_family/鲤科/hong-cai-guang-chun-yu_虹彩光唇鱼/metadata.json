@@ -1,0 +1,90 @@
+{
+  "name": "虹彩光唇鱼",
+  "slug": "hong-cai-guang-chun-yu",
+  "source_url": "https://fishweather.cn/fish/hong-cai-guang-chun-yu",
+  "list_page": 7,
+  "list_position": 158,
+  "scientific_name": "Acrossocheilus iridescens",
+  "aliases": "无",
+  "headline": "虹彩光唇鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，稍侧扁，呈纺锤形。头中等大，吻钝圆。口下位，呈马蹄形。唇厚，下唇具发达的褶皱和乳突。须2对，颌须较吻须长。眼较大，侧上位。鳞片中等大，侧线完全。体背部为灰褐色或黄褐色，腹部银白色。各鳍灰黄色或淡黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "底层",
+    "食性": "杂食性，主要以藻类、水生昆虫幼虫及有机碎屑为食。",
+    "栖息环境": "主要栖息于水流湍急、底质多砾石的山区溪流中。",
+    "体长": "25 cm",
+    "体重": "0.3 kg",
+    "寿命": "寿命相对较短，一般为3-5年。",
+    "适温": "18-25 °C"
+  },
+  "bait_options": [
+    "蚯蚓",
+    "红虫",
+    "面包屑",
+    "藻类",
+    "商品饵料（腥味）",
+    "麸皮",
+    "玉米面",
+    "米饭",
+    "豆饼",
+    "菜饼"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动或颤动，可能是鱼试探性触碰饵料。",
+    "快速下沉",
+    "：",
+    "浮漂快速有力地没入水中，通常是鱼吞食死口。",
+    "上顶",
+    "：",
+    "浮漂缓慢上顶，可能是鱼将饵料顶起，或在吸食饵料时触碰到子线。",
+    "斜走",
+    "：",
+    "浮漂不规则地斜向移动，可能是鱼咬饵后游动。",
+    "缓沉",
+    "：",
+    "浮漂缓慢下沉，可能是鱼吸食饵料后，浮漂失去平衡。"
+  ],
+  "practical_tips": [
+    "选择合适的钓点:光倒刺鲃喜欢栖息在水流湍急、底质多砾石的溪流中，选择这样的环境作为钓点。",
+    "使用小型饵料:光倒刺鲃口型较小，使用小型饵料更易于入口。",
+    "注意作钓手法:采用逗钓或路亚手法，使饵料在水中呈现动态，吸引鱼的注意。",
+    "保持安静:溪流环境较为安静，作钓时尽量保持安静，避免惊扰鱼群。",
+    "灵活调整钓组:根据不同的水情和鱼情，灵活调整钓组和饵料。"
+  ],
+  "recommended_spots": "山区溪流、浅滩、石缝",
+  "distribution": [],
+  "similar_fish": [
+    "鲫鱼",
+    "鲤鱼",
+    "鳊鱼",
+    "鲴鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hong-cai-guang-chun-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hong-cai-guang-chun-yu-0-b8964837.webp",
+      "https://fishweather.cn/asset-images/catch/hong-cai-guang-chun-yu-1-bf5aa93c.webp",
+      "https://fishweather.cn/asset-images/catch/hong-cai-guang-chun-yu-2-74c45d6e.webp",
+      "https://fishweather.cn/asset-images/catch/hong-cai-guang-chun-yu-3-6306b70d.webp",
+      "https://fishweather.cn/asset-images/catch/hong-cai-guang-chun-yu-4-919f7137.webp"
+    ]
+  },
+  "profile_text_sha256": "aba678d2c5fe47fc575d6f104ebd267eae4c68fdfcd2f923634ccbdbd0ba047d",
+  "raw_line_count": 136,
+  "local_dir": "by_family/鲤科/hong-cai-guang-chun-yu_虹彩光唇鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/hong-cai-guang-chun-yu_虹彩光唇鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

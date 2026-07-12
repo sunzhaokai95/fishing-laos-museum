@@ -1,0 +1,51 @@
+{
+  "name": "污翅真鲨",
+  "slug": "wu-chi-zhen-sha",
+  "source_url": "https://fishweather.cn/fish/wu-chi-zhen-sha",
+  "list_page": 17,
+  "list_position": 397,
+  "scientific_name": "Carcharhinus melanopterus",
+  "aliases": "黑鳍鲨、礁鲨",
+  "headline": "污翅真鲨怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型中等，纺锤形，吻部短而圆钝。最显著的特征是其背鳍、胸鳍、腹鳍和尾鳍下叶顶端都呈现明显的黑色。第一背鳍较大，呈三角形，第二背鳍和臀鳍相对较小。牙齿呈锯齿状，适合捕食小型鱼类和无脊椎动物。体背部呈灰褐色至黄褐色，腹部为白色或淡黄色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "板鳃亚纲",
+    "目": "真鲨目",
+    "科": "真鲨科",
+    "水层": "中层,底层",
+    "食性": "主要以小型鱼类为食，也捕食甲壳类（如虾、蟹）、头足类（如鱿鱼、章鱼）和海洋腹足动物。属于机会主义捕食者，食性随栖息地和猎物丰度而变化。",
+    "栖息环境": "主要栖息于热带和亚热带地区的珊瑚礁和近岸浅水区，包括泻湖、海湾、河口和红树林等。偏好清澈水质和沙质或珊瑚海底。",
+    "体长": "160 cm",
+    "体重": "13.6 kg",
+    "寿命": "寿命较长，一般可达20-25年，甚至更长。在适宜的环境和无过度捕捞压力下，种群能够维持稳定。",
+    "适温": "22-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "灰三齿鲨",
+    "白鳍鲨",
+    "护士鲨",
+    "柠檬鲨"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/wu-chi-zhen-sha.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "5097f1f8b0ccdc930588a451681dac624939d4b55a1a73d278bf570067dbcace",
+  "raw_line_count": 31,
+  "local_dir": "by_family/真鲨科/wu-chi-zhen-sha_污翅真鲨",
+  "local_images": {
+    "fish": [
+      "by_family/真鲨科/wu-chi-zhen-sha_污翅真鲨/images/main.webp"
+    ],
+    "catch": []
+  }
+}

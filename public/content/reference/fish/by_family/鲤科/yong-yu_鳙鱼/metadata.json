@@ -1,0 +1,89 @@
+{
+  "name": "鳙鱼",
+  "slug": "yong-yu",
+  "source_url": "https://fishweather.cn/fish/yong-yu",
+  "list_page": 2,
+  "list_position": 33,
+  "scientific_name": "Hypophthalmichthys nobilis",
+  "aliases": "胖头鱼、大头鱼、花鲢、黑鲢、麻鲢、黄鲢、大头鲢",
+  "headline": "鳙鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体延长，前部粗壮，亚圆筒形，后部侧扁。头极大而宽阔，约占体长的1/3。吻钝圆，口上位，口裂宽大，向上倾斜。眼小，位于头侧上方。下颌稍突出于上颌。鳃耙细密呈海绵状。鳞小，侧线平直。体背部灰黑色或灰褐色，两侧及腹部银灰色，体侧有不规则的黑色斑块。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲤形目",
+    "科": "鲤科",
+    "水层": "中上层",
+    "食性": "滤食性，主要滤食浮游动物，也摄食部分浮游植物和碎屑。",
+    "栖息环境": "江河、湖泊、水库等水域的中上层，喜栖息于肥水水域",
+    "体长": "140 cm",
+    "体重": "40 kg",
+    "寿命": "自然条件下寿命可达20年以上，人工养殖条件下通常为5-10年。",
+    "适温": "20-30 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [
+    "上海市",
+    "云南省",
+    "内蒙古自治区",
+    "北京市",
+    "台湾省",
+    "吉林省",
+    "四川省",
+    "天津市",
+    "宁夏回族自治区",
+    "安徽省",
+    "山东省",
+    "山西省",
+    "广东省",
+    "广西壮族自治区",
+    "新疆维吾尔自治区",
+    "江苏省",
+    "江西省",
+    "河北省",
+    "河南省",
+    "浙江省",
+    "湖北省",
+    "湖南省",
+    "甘肃省",
+    "贵州省",
+    "辽宁省",
+    "重庆市",
+    "陕西省",
+    "香港特别行政区",
+    "黑龙江省"
+  ],
+  "similar_fish": [
+    "鲢鱼",
+    "草鱼",
+    "鲤鱼",
+    "青鱼",
+    "鲮鱼",
+    "鳙鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/yong-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/yong-yu-0-0f516241.webp",
+      "https://fishweather.cn/asset-images/catch/yong-yu-1-7589ae00.webp",
+      "https://fishweather.cn/asset-images/catch/yong-yu-2-42aaabdd.webp",
+      "https://fishweather.cn/asset-images/catch/yong-yu-3-a5dce00d.webp",
+      "https://fishweather.cn/asset-images/catch/yong-yu-4-afb17921.webp"
+    ]
+  },
+  "profile_text_sha256": "a890f9c880762bb3adb7fa878b017810e8fabde8a9d573e0a5ac3afc26f6acaa",
+  "raw_line_count": 142,
+  "local_dir": "by_family/鲤科/yong-yu_鳙鱼",
+  "local_images": {
+    "fish": [
+      "by_family/鲤科/yong-yu_鳙鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

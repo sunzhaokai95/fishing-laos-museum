@@ -1,0 +1,93 @@
+{
+  "name": "花身副丽鱼",
+  "slug": "hua-shen-fu-li-yu",
+  "source_url": "https://fishweather.cn/fish/hua-shen-fu-li-yu",
+  "list_page": 3,
+  "list_position": 49,
+  "scientific_name": "Parachromis managuensis",
+  "aliases": "豹点鲷、火焰鲷、斑马天使、曼瓜丽体鱼",
+  "headline": "花身副丽鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "体型粗壮，略呈纺锤形，侧扁。头部较大，口上位，唇厚。体色底色为浅灰色或银白色，遍布黑色或深棕色不规则斑点，如同豹纹，故名豹点鲷。斑点大小和分布因个体而异。幼鱼体色较浅，斑点不明显，随着生长逐渐显现。背鳍和臀鳍鳍棘发达，尾鳍圆形。眼睛虹膜为红色或橙红色，非常醒目。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "丽鱼科",
+    "水层": "中层,底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类、昆虫、蝌蚪等水生动物。人工饲养环境下可接受鱼肉、虾肉、颗粒饲料等。",
+    "栖息环境": "天然栖息于中美洲尼加拉瓜和哥斯达黎加的湖泊、河流和潟湖等淡水水域，偏好水流缓慢、植被茂盛的环境。",
+    "体长": "60 cm",
+    "体重": "2.5 kg",
+    "寿命": "寿命较长，一般可达8-10年，人工饲养环境下，精心照料甚至可以超过10年。",
+    "适温": "24-30 °C"
+  },
+  "bait_options": [
+    "冷冻鱼块（如巴沙鱼",
+    "罗非鱼）",
+    "鸡肝",
+    "虾肉",
+    "牛肉粒",
+    "猪肉粒",
+    "商品路亚饵（软饵",
+    "硬饵）",
+    "缓沉型米诺",
+    "VIB",
+    "亮片",
+    "铅笔"
+  ],
+  "float_signals": [
+    "黑漂",
+    "：",
+    "浮漂快速下沉或直接没入水中，是典型的咬口信号，需立即扬竿。",
+    "移位漂",
+    "：",
+    "浮漂在水面横向移动，表明鱼已咬饵并开始游动。",
+    "慢口缓沉",
+    "：",
+    "浮漂缓慢下沉，幅度不大，可能是鱼试探性咬饵，需耐心等待。",
+    "快口顿漂",
+    "：",
+    "浮漂先是轻微上顶，紧接着快速下顿，幅度较大，是鱼抢食的表现。",
+    "连续点动",
+    "：",
+    "浮漂出现连续轻微的点动或颤动，可能是鱼在啄食或试探饵料，需密切关注后续动作。"
+  ],
+  "practical_tips": [
+    "选择合适的钓位:玛瑙丽体鱼喜欢藏匿在水草、岩石、沉木等障碍物附近，钓点应选择在这些结构附近。",
+    "根据水温和天气选择钓法和饵料:水温较高时，鱼活性高，可选择路亚等主动搜索钓法；水温较低或鱼口较慢时，可选择拟饵或活饵底钓。",
+    "灵活运用抽动手法:路亚钓法中，抽动手法是关键，要根据鱼情和拟饵类型，灵活调整抽动频率、幅度和节奏。",
+    "注意扬竿时机:玛瑙丽体鱼咬口凶猛，但有时也较为谨慎，要抓住黑漂、顿漂等明显信号及时扬竿。",
+    "使用强力钓具:玛瑙丽体鱼力量较大，冲击力强，要选择强度足够的鱼竿、线组和鱼钩，防止切线跑鱼。"
+  ],
+  "recommended_spots": "水库、湖泊、河流缓流段、池塘、人工饲养池",
+  "distribution": [],
+  "similar_fish": [
+    "红魔鬼",
+    "德州豹",
+    "火口鱼",
+    "杰克鲶",
+    "斑点叉尾鮰"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/hua-shen-fu-li-yu.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/hua-shen-fu-li-yu-0-5b65a22f.webp",
+      "https://fishweather.cn/asset-images/catch/hua-shen-fu-li-yu-1-774666b2.webp",
+      "https://fishweather.cn/asset-images/catch/hua-shen-fu-li-yu-2-6210c31c.webp",
+      "https://fishweather.cn/asset-images/catch/hua-shen-fu-li-yu-3-bd0f432f.webp",
+      "https://fishweather.cn/asset-images/catch/hua-shen-fu-li-yu-4-b9a7fee3.webp"
+    ]
+  },
+  "profile_text_sha256": "9397926d53416ac12ab5a63756889650c6c4fe8cbe69441f6a12a12e0e62c301",
+  "raw_line_count": 139,
+  "local_dir": "by_family/丽鱼科/hua-shen-fu-li-yu_花身副丽鱼",
+  "local_images": {
+    "fish": [
+      "by_family/丽鱼科/hua-shen-fu-li-yu_花身副丽鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "日本姬鱼",
+  "slug": "ri-ben-ji-yu",
+  "source_url": "https://fishweather.cn/fish/ri-ben-ji-yu",
+  "list_page": 30,
+  "list_position": 700,
+  "scientific_name": "Hime japonica",
+  "aliases": "无",
+  "headline": "日本姬鱼怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "小型鱼类，体型细长略侧扁，头小吻尖，口大。背部灰褐色，侧腹银白色。繁殖期雄鱼腹部会呈现红色。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "仙女鱼目",
+    "科": "仙女鱼科",
+    "水层": "中层,上层",
+    "食性": "主要以水生昆虫、小型无脊椎动物和藻类为食",
+    "栖息环境": "清澈的溪流、河流上游砾石和岩石底质区域",
+    "体长": "15 cm",
+    "体重": "0.05 kg",
+    "寿命": "通常为2-3年",
+    "适温": "15-25 °C"
+  },
+  "bait_options": [
+    "小型匙形路亚",
+    "小型米诺",
+    "曲柄钩软虫",
+    "卷尾蛆",
+    "小亮片",
+    "铅头钩+软饵",
+    "纳米米诺",
+    "浮水铅笔",
+    "小VIB",
+    "小popper"
+  ],
+  "float_signals": [
+    "点动",
+    "：",
+    "浮漂出现轻微的点动，幅度小，频率快，可能是姬隼试探性触碰饵料。",
+    "上顶",
+    "：",
+    "浮漂缓慢向上顶起，可能是姬隼抬头吃饵。",
+    "下沉",
+    "：",
+    "浮漂快速下沉或直接没入水中，通常是姬隼吞食饵料的信号。",
+    "停顿",
+    "：",
+    "浮漂原本缓慢下沉或移动，突然停止动作，也可能是鱼讯。",
+    "移位",
+    "：",
+    "浮漂在水面横向移动，可能是姬隼咬饵后游动。"
+  ],
+  "practical_tips": [
+    "选择水流缓慢或有遮蔽物的水域作为钓点",
+    "使用轻型钓组和小型路亚或饵料",
+    "采用逗钓结合的手法，增加饵料的动态",
+    "注意观察水面动静和浮漂信号",
+    "根据天气和水温变化，灵活调整钓法和饵料"
+  ],
+  "recommended_spots": "清澈溪流、河流上游",
+  "distribution": [],
+  "similar_fish": [
+    "白条",
+    "麦穗鱼",
+    "棒花鱼",
+    "鳑鲏",
+    "餐条"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/ri-ben-ji-yu.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "860abbdbd1e046ce5f9128ed73527b21fdceb2f7217e9f1028f83a5d7ae1597b",
+  "raw_line_count": 73,
+  "local_dir": "by_family/仙女鱼科/ri-ben-ji-yu_日本姬鱼",
+  "local_images": {
+    "fish": [
+      "by_family/仙女鱼科/ri-ben-ji-yu_日本姬鱼/images/main.webp"
+    ],
+    "catch": []
+  }
+}

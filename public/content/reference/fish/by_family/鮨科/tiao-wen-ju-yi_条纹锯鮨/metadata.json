@@ -1,0 +1,75 @@
+{
+  "name": "条纹锯鮨",
+  "slug": "tiao-wen-ju-yi",
+  "source_url": "https://fishweather.cn/fish/tiao-wen-ju-yi",
+  "list_page": 15,
+  "list_position": 343,
+  "scientific_name": "Centropristis striata",
+  "aliases": "黑海鲈、石鲈",
+  "headline": "条纹锯鮨怎么钓？习性·钓法·饵料与真实钓获",
+  "summary": "条纹鮨体延长而侧扁，呈纺锤形。头部钝圆，口大，端位，上下颌均具细齿。眼眶前骨和鳃盖骨后缘具锯齿。体被栉鳞，侧线完全。背鳍单一，硬棘部与软条部相连，鳍棘强度中等。臀鳍短小，与背鳍软条部相对。尾鳍截形或微凹形。体色多变，通常为深灰色至黑色，体侧具数条不规则的白色或浅色横带，幼鱼和雌鱼的条纹更为明显，雄鱼体色较深，条纹模糊。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲈形目",
+    "科": "鮨科",
+    "水层": "底层",
+    "食性": "肉食性，主要捕食小型鱼类、甲壳类（如虾、蟹）、头足类（如鱿鱼）和多毛类等底栖无脊椎动物。",
+    "栖息环境": "主要栖息于沿海岩礁、珊瑚礁、海草床等近岸水域，也可见于河口和海湾。偏好复杂结构的底部环境，如岩石缝隙、洞穴和沉船残骸等。",
+    "体长": "60 cm",
+    "体重": "4.5 kg",
+    "寿命": "寿命较长，一般可达10年以上，部分个体甚至可超过20年。",
+    "适温": "16-24 °C"
+  },
+  "bait_options": [
+    "虾肉",
+    "鱿鱼块",
+    "沙丁鱼块",
+    "青花鱼块",
+    "小鱼干",
+    "南极虾",
+    "海worms(海蚯蚓)",
+    "螃蟹肉",
+    "贝肉",
+    "人工鱼饵（软饵",
+    "硬饵）"
+  ],
+  "float_signals": [
+    "不适用",
+    "：",
+    "路亚海钓和船钓底钓通常不依赖浮漂观察漂像。"
+  ],
+  "practical_tips": [
+    "选择结构复杂的水底环境作为钓点，如岩石缝隙、洞穴和沉船残骸附近。",
+    "使用腥味重的饵料或具有强烈气味的人工饵料，提高诱鱼效果。",
+    "根据水深和流速选择合适的铅坠重量和路亚类型。",
+    "采用不同的抽动手法和搜索策略，快速找到鱼群。",
+    "注意安全，在礁石区或船上垂钓时，穿着防滑鞋，注意防浪和防风。"
+  ],
+  "recommended_spots": "岩礁区、珊瑚礁区、沉船区、码头、防波堤、海湾、河口",
+  "distribution": [],
+  "similar_fish": [
+    "黑鲈(黑海鲈属其他种类)",
+    "石斑鱼(石斑鱼属部分种类)",
+    "狼鲈"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/tiao-wen-ju-yi.webp"
+    ],
+    "catch": [
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ju-yi-0-7b5edcfa.webp",
+      "https://fishweather.cn/asset-images/catch/tiao-wen-ju-yi-1-0dc643b6.webp"
+    ]
+  },
+  "profile_text_sha256": "b3c2619241285de3f56309d2836f3abf40269dd0124178482b50dd1a54b61634",
+  "raw_line_count": 90,
+  "local_dir": "by_family/鮨科/tiao-wen-ju-yi_条纹锯鮨",
+  "local_images": {
+    "fish": [
+      "by_family/鮨科/tiao-wen-ju-yi_条纹锯鮨/images/main.webp"
+    ],
+    "catch": []
+  }
+}

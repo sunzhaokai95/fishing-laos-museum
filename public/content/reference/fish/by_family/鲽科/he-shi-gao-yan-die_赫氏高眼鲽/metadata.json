@@ -1,0 +1,50 @@
+{
+  "name": "赫氏高眼鲽",
+  "slug": "he-shi-gao-yan-die",
+  "source_url": "https://fishweather.cn/fish/he-shi-gao-yan-die",
+  "list_page": 34,
+  "list_position": 805,
+  "scientific_name": "Cleisthenes herzensteini",
+  "aliases": "暂无",
+  "headline": "赫氏高眼鲽是保护动物吗？习性与识别图鉴",
+  "summary": "体细长，前部近圆柱形，后部侧扁。头长而略平扁。吻尖。口下位，呈弧形。眼小，位于头前侧上方。须3对，吻须2对，颌须1对。体表光滑无鳞。体背部灰褐色，腹部浅黄色。体侧有不规则的深色斑点。各鳍浅黄色透明。",
+  "date_published": "2026-07-05",
+  "date_modified": "2026-07-05",
+  "fields": {
+    "纲": "辐鳍鱼纲",
+    "目": "鲽形目",
+    "科": "鲽科",
+    "水层": "底层",
+    "食性": "底栖无脊椎动物、小型昆虫",
+    "栖息环境": "山区溪流砾石底质水域",
+    "体长": "15 cm",
+    "体重": null,
+    "寿命": "寿命较短，具体寿命信息不足",
+    "适温": "15-22 °C"
+  },
+  "bait_options": [],
+  "float_signals": [],
+  "practical_tips": [],
+  "recommended_spots": null,
+  "distribution": [],
+  "similar_fish": [
+    "中华细刺鳅",
+    "北方须鳅",
+    "齐口裂腹鱼"
+  ],
+  "images": {
+    "fish": [
+      "https://fishweather.cn/asset-images/fish/he-shi-gao-yan-die.webp"
+    ],
+    "catch": []
+  },
+  "profile_text_sha256": "81ee9258e06072de143af5aa8ca940428bf36795a2809e7e2f92354b14c3c1c7",
+  "raw_line_count": 33,
+  "local_dir": "by_family/鲽科/he-shi-gao-yan-die_赫氏高眼鲽",
+  "local_images": {
+    "fish": [
+      "by_family/鲽科/he-shi-gao-yan-die_赫氏高眼鲽/images/main.webp"
+    ],
+    "catch": []
+  }
+}
