@@ -52,6 +52,8 @@ pnpm build
 - `PRODUCT.md`：产品定位与不可破坏的体验原则
 - `design/current/`：当前桌面端和手机端页面截图
 - `GEMINI_DESIGN_BRIEF.md`：供 Gemini 从 GitHub 读取的线上视觉优化任务书
+- `gemini-context/`：可直接上传给 Gemini 的纯文本真实代码上下文和分批代码提示词
+- `scripts/build-gemini-context.mjs`：按当前源码重新生成 Gemini 文本上下文
 
 ## 设计与内容边界
 
