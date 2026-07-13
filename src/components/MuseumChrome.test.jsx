@@ -25,6 +25,12 @@ describe('MuseumChrome', () => {
     expect(screen.getByText('PROGRESSING TOUR / 常设展参观路线').parentElement).toHaveClass('hidden', 'sm:flex')
   })
 
+  it('keeps the homepage entry unique and free of the route footer', () => {
+    render(<MemoryRouter initialEntries={['/']}><MuseumChrome /></MemoryRouter>)
+    expect(screen.queryByRole('contentinfo')).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: /下一厅/ })).not.toBeInTheDocument()
+  })
+
   it('opens one ordered museum map with all ten stages', () => {
     render(
       <MemoryRouter initialEntries={['/visit/history']}>

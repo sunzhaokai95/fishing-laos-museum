@@ -71,7 +71,7 @@ export default function MuseumChrome({ children }) {
 
         <main className="flex-grow">{children}</main>
 
-        <footer className="sticky bottom-0 z-30 bg-white/95 border-t border-zinc-200/60 py-3 px-4 md:px-8 flex flex-row items-center justify-center sm:justify-between gap-2 sm:gap-4 shadow-[0_-1px_0_rgba(0,0,0,0.02)]">
+        {index > 0 ? <footer className="sticky bottom-0 z-30 bg-white/95 border-t border-zinc-200/60 py-3 px-4 md:px-8 flex flex-row items-center justify-center sm:justify-between gap-2 sm:gap-4 shadow-[0_-1px_0_rgba(0,0,0,0.02)]">
           <div className="hidden sm:flex items-center gap-2.5">
             <span className="text-[10px] text-zinc-400 font-mono block">
               {index === 0 ? 'WELCOME / 参观起点' : index === MUSEUM_ROUTE.length - 1 ? 'CONCLUDED / 参观结束' : 'PROGRESSING TOUR / 常设展参观路线'}
@@ -103,7 +103,7 @@ export default function MuseumChrome({ children }) {
               <Link to="/" aria-label="回到首页" className="px-5 py-2 rounded-xl bg-emerald-700 hover:bg-emerald-600 text-white text-xs font-semibold shadow-xs hover:shadow-md transition-all flex items-center gap-1.5">回到首页<ChevronRight size={14} aria-hidden="true" /></Link>
             )}
           </nav>
-        </footer>
+        </footer> : null}
 
         <AnimatePresence>
           {mapOpen ? (
