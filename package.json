@@ -12,6 +12,7 @@
     "lint": "oxlint",
     "test": "vitest run",
     "verify:parity": "node scripts/verify-interaction-parity.mjs",
+    "verify:effects": "node scripts/verify-motion-effects.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

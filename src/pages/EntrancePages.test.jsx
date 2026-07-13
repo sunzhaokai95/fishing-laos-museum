@@ -24,6 +24,7 @@ describe('entrance, prologue and epilogue content contract', () => {
     const { container } = render(<MemoryRouter><HomePage /></MemoryRouter>)
     for (let index = 0; index < 30; index += 1) fireEvent.mouseMove(container.firstChild, { clientX: index * 4, clientY: index * 3 })
     expect(screen.getAllByTestId('home-ripple').length).toBeLessThanOrEqual(9)
+    expect(screen.getAllByTestId('home-ripple').at(-1)).toHaveClass('home-water-ripple')
   })
 
   it('keeps the prologue as one continuous paragraph', () => {

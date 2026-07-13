@@ -34,6 +34,22 @@
   animation: museum-ripple 3s infinite ease-out;
 }
 
+.home-water-ripple {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border: 1px solid rgba(9, 9, 11, 0.2);
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%) scale(0.5);
+  animation: museum-home-ripple 1.8s cubic-bezier(0.1, 0.8, 0.2, 1) forwards;
+}
+
+.home-water-ripple.is-reduced {
+  animation-name: museum-home-ripple-reduced;
+  animation-duration: 420ms;
+}
+
 .fish-current {
   position: absolute;
   width: 120px;
@@ -260,6 +276,16 @@ main[class*="bg-[#f4f0ea]"] div[class*="grid md:grid-cols-2 gap-px bg-stone-300"
 @keyframes museum-ripple {
   0% { transform: scale(0.6); opacity: 0.65; }
   100% { transform: scale(2.4); opacity: 0; }
+}
+
+@keyframes museum-home-ripple {
+  from { opacity: 0.8; transform: translate(-50%, -50%) scale(0.5); }
+  to { opacity: 0; transform: translate(-50%, -50%) scale(16); }
+}
+
+@keyframes museum-home-ripple-reduced {
+  from { opacity: 0.55; transform: translate(-50%, -50%) scale(0.85); }
+  to { opacity: 0; transform: translate(-50%, -50%) scale(2.2); }
 }
 
 @keyframes museum-fish-current {
