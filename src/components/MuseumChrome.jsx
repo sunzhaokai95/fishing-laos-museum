@@ -1,24 +1,27 @@
 import { AnimatePresence, motion, MotionConfig } from 'motion/react'
-import { ChevronLeft, ChevronRight, Eye, EyeOff, Map, X } from 'lucide-react'
+import { ArrowLeft, ArrowRight, Eye, EyeOff, Menu, X } from 'lucide-react'
 import { useCallback, useEffect, useState } from 'react'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { MUSEUM_ROUTE, routeContext } from '../data/museumRoute.js'
 import useDialogBehavior from '../hooks/useDialogBehavior.js'
 
+const padIndex = (value) => String(value).padStart(2, '0')
+
 export default function MuseumChrome({ children }) {
   const { pathname } = useLocation()
   const navigate = useNavigate()
   const { current, previous, next, index } = routeContext(pathname)
-  const [mapOpen, setMapOpen] = useState(false)
+  const [directoryOpen, setDirectoryOpen] = useState(false)
   const [reducedMotion, setReducedMotion] = useState(false)
 
-  const closeMap = useCallback(() => setMapOpen(false), [])
-  const mapRef = useDialogBehavior(mapOpen, closeMap)
+  const closeDirectory = useCallback(() => setDirectoryOpen(false), [])
+  const directoryRef = useDialogBehavior(directoryOpen, closeDirectory)
 
   useEffect(() => {
     const moveThroughRoute = (event) => {
-      const tag = document.activeElement?.tagName
-      if (['INPUT', 'SELECT', 'TEXTAREA'].includes(tag) || document.activeElement?.getAttribute('role') === 'slider') return
+      const activeElement = document.activeElement
+      const tag = activeElement?.tagName
+      if (['INPUT', 'SELECT', 'TEXTAREA'].includes(tag) || activeElement?.getAttribute('role') === 'slider') return
       if (event.key === 'ArrowRight' && next) navigate(next.url)
       if (event.key === 'ArrowLeft' && previous) navigate(previous.url)
     }
@@ -27,140 +30,129 @@ export default function MuseumChrome({ children }) {
   }, [navigate, next, previous])
 
   if (pathname === '/') {
-    return (
-      <MotionConfig reducedMotion="user">
-        {children}
-      </MotionConfig>
-    )
+    return <MotionConfig reducedMotion="user">{children}</MotionConfig>
   }
 
   return (
     <MotionConfig reducedMotion={reducedMotion ? 'always' : 'user'}>
-      <div className="museum-shell min-h-screen">
-        <header className="museum-chrome-header">
-          <Link className="museum-chrome-brand" to="/" aria-label="钓鱼佬博物馆首页">
-            <span className="w-8 h-8 rounded-lg bg-zinc-900 flex items-center justify-center text-white font-bold text-sm tracking-tighter shadow-sm" aria-hidden="true">钓</span>
-            <span className="text-left">
-              <strong className="text-sm font-bold tracking-normal text-zinc-900 block">钓鱼佬博物馆</strong>
-              <small className="text-[9px] text-zinc-500 uppercase tracking-normal font-mono block">MUSEUM OF ANGLING HERITAGE</small>
-            </span>
+      <div className="museum-shell museum-theatre-shell">
+        <header className="museum-edge-header">
+          <Link className="museum-edge-brand" to="/" aria-label="钓鱼佬博物馆首页">
+            <span>钓鱼佬博物馆</span>
+            <small>MUSEUM OF ANGLING</small>
           </Link>
 
-          <div className="museum-route-status" aria-live="polite">
-            <div className="flex items-center gap-2 border-r border-zinc-200/60 pr-6">
-              <span className="text-[10px] text-zinc-400 uppercase">ROUTE SEQUENCE:</span>
-              <span className="text-zinc-800 font-medium">{String(index + 1).padStart(2, '0')} / {String(MUSEUM_ROUTE.length).padStart(2, '0')}</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-[10px] text-zinc-400 uppercase">CURRENT HALL:</span>
-              <strong className="text-zinc-900 font-semibold">{current.title}</strong>
-            </div>
+          <div className="museum-edge-status" aria-live="polite">
+            <span className="museum-edge-index">{padIndex(index + 1)} / {padIndex(MUSEUM_ROUTE.length)}</span>
+            <span className="museum-edge-title">{current.title}</span>
           </div>
 
-          <div className="museum-chrome-actions">
+          <div className="museum-edge-actions">
             <button
               type="button"
               onClick={() => setReducedMotion((value) => !value)}
-              className="p-2 rounded-xl bg-white border border-zinc-200/70 hover:bg-zinc-50 text-zinc-500 hover:text-zinc-800 transition-all cursor-pointer active:scale-95 shadow-xs"
+              className="museum-edge-icon"
               aria-label={reducedMotion ? '恢复动效' : '减少动效'}
+              title={reducedMotion ? '恢复动效' : '减少动效'}
             >
-              {reducedMotion ? <EyeOff size={14} aria-hidden="true" /> : <Eye size={14} aria-hidden="true" />}
+              {reducedMotion ? <EyeOff aria-hidden="true" /> : <Eye aria-hidden="true" />}
             </button>
             <button
               type="button"
-              onClick={() => setMapOpen(true)}
-              className="px-3.5 py-2 rounded-xl bg-zinc-900 hover:bg-zinc-800 text-xs font-mono text-white flex items-center gap-2 cursor-pointer transition-all active:scale-95 shadow-sm"
-              aria-label="展厅地图"
+              onClick={() => setDirectoryOpen(true)}
+              className="museum-edge-icon"
+              aria-label="打开参观目录"
+              title="参观目录"
             >
-              <Map size={14} aria-hidden="true" /><span className="hidden sm:inline">展厅地图</span>
+              <Menu aria-hidden="true" />
             </button>
           </div>
         </header>
 
         <main className="museum-shell-content">{children}</main>
 
-        {index > 0 ? <footer className="museum-route-footer flex-row">
-          <div className="hidden sm:flex items-center gap-2.5">
-            <span className="text-[10px] text-zinc-400 font-mono block">
-              {index === 0 ? 'WELCOME / 参观起点' : index === MUSEUM_ROUTE.length - 1 ? 'CONCLUDED / 参观结束' : 'PROGRESSING TOUR / 常设展参观路线'}
-            </span>
-            <ol className="flex gap-1 m-0 p-0 list-none" aria-label="常设展参观路线">
-              {MUSEUM_ROUTE.map((item, itemIndex) => (
-                <li
-                  key={item.id}
-                  className={`h-1.5 rounded-full transition-all duration-300 ${itemIndex === index ? 'w-5 bg-zinc-900' : itemIndex < index ? 'w-1.5 bg-zinc-400' : 'w-1.5 bg-zinc-200'}`}
-                  title={item.title}
-                />
-              ))}
-            </ol>
-          </div>
+        {index > 0 ? (
+          <footer className="museum-edge-footer">
+            <nav className="museum-edge-pager" aria-label="参观路线前后页">
+              {previous ? (
+                <Link to={previous.url} aria-label={`上一厅 ${previous.title}`} className="museum-edge-direction museum-edge-direction--previous">
+                  <ArrowLeft aria-hidden="true" />
+                  <span><small>上一厅</small>{previous.title}</span>
+                </Link>
+              ) : <span />}
 
-          <nav className="flex w-full sm:w-auto items-center justify-center gap-3" aria-label="参观路线前后页">
-            {previous ? (
-              <Link to={previous.url} aria-label={`上一厅 ${previous.title}`} className="px-4 py-2 rounded-xl bg-white border border-zinc-200 text-zinc-600 hover:text-zinc-900 hover:bg-zinc-50 hover:border-zinc-300 text-xs transition-all flex items-center gap-1.5 shadow-xs">
-                <ChevronLeft size={14} aria-hidden="true" /><span>上一厅</span><span className="hidden lg:inline text-zinc-400">{previous.title}</span>
-              </Link>
-            ) : (
-              <span className="px-4 py-2 rounded-xl border border-zinc-200 text-xs opacity-35 flex items-center gap-1.5" aria-hidden="true"><ChevronLeft size={14} />上一厅</span>
-            )}
-            {next ? (
-              <Link to={next.url} aria-label={`下一厅 ${next.title}`} className="px-5 py-2 rounded-xl bg-zinc-900 hover:bg-zinc-800 text-white text-xs font-semibold shadow-xs hover:shadow-md transition-all flex items-center gap-1.5">
-                <span>下一厅</span><span className="hidden lg:inline text-zinc-300">{next.title}</span><ChevronRight size={14} aria-hidden="true" />
-              </Link>
-            ) : (
-              <Link to="/" aria-label="回到首页" className="px-5 py-2 rounded-xl bg-emerald-700 hover:bg-emerald-600 text-white text-xs font-semibold shadow-xs hover:shadow-md transition-all flex items-center gap-1.5">回到首页<ChevronRight size={14} aria-hidden="true" /></Link>
-            )}
-          </nav>
-        </footer> : null}
+              {next ? (
+                <Link to={next.url} aria-label={`下一厅 ${next.title}`} className="museum-edge-direction museum-edge-direction--next">
+                  <span><small>下一厅</small>{next.title}</span>
+                  <ArrowRight aria-hidden="true" />
+                </Link>
+              ) : (
+                <Link to="/" aria-label="回到首页" className="museum-edge-direction museum-edge-direction--next">
+                  <span><small>参观结束</small>回到首页</span>
+                  <ArrowRight aria-hidden="true" />
+                </Link>
+              )}
+            </nav>
+
+            <nav className="museum-linear-progress" aria-label="常设展线性进度">
+              <ol>
+                {MUSEUM_ROUTE.map((item, itemIndex) => (
+                  <li
+                    key={item.id}
+                    className={itemIndex === index ? 'is-current' : itemIndex < index ? 'is-past' : ''}
+                    title={item.title}
+                  />
+                ))}
+              </ol>
+            </nav>
+          </footer>
+        ) : null}
 
         <AnimatePresence>
-          {mapOpen ? (
-            <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-              <motion.div initial={{ opacity: 0 }} animate={{ opacity: 0.4 }} exit={{ opacity: 0 }} onClick={closeMap} className="absolute inset-0 bg-black" />
-              <motion.section
-                ref={mapRef}
-                role="dialog"
-                aria-modal="true"
-                aria-label="展厅地图"
-                tabIndex={-1}
-                initial={{ scale: 0.95, opacity: 0 }}
-                animate={{ scale: 1, opacity: 1 }}
-                exit={{ scale: 0.95, opacity: 0 }}
-                transition={{ type: 'spring', damping: 25, stiffness: 200 }}
-                className="relative w-full max-w-3xl max-h-[calc(100svh-2rem)] overflow-auto bg-white/95 backdrop-blur-2xl border border-zinc-200/60 rounded-3xl p-6 md:p-8 space-y-6 z-10 shadow-2xl text-zinc-800"
-              >
-                <header className="flex justify-between items-start border-b border-zinc-200/60 pb-4">
-                  <div><h2 className="text-lg md:text-xl font-bold tracking-normal text-zinc-900">展厅地图</h2><p className="text-xs text-zinc-500 font-light mt-1">首页、序厅、七个展厅与尾厅组成一条固定的参观顺序。</p></div>
-                  <button type="button" onClick={closeMap} className="p-2 rounded-xl bg-zinc-100 border border-zinc-200 text-zinc-700 hover:bg-zinc-200/50" aria-label="关闭展厅地图"><X size={15} aria-hidden="true" /></button>
-                </header>
+          {directoryOpen ? (
+            <motion.section
+              ref={directoryRef}
+              role="dialog"
+              aria-modal="true"
+              aria-label="参观目录"
+              tabIndex={-1}
+              initial={{ opacity: 0, clipPath: 'inset(0 0 100% 0)' }}
+              animate={{ opacity: 1, clipPath: 'inset(0 0 0% 0)' }}
+              exit={{ opacity: 0, clipPath: 'inset(0 0 100% 0)' }}
+              transition={{ duration: 0.58, ease: [0.76, 0, 0.24, 1] }}
+              className="museum-route-overlay"
+            >
+              <header className="museum-route-overlay__header">
+                <span>钓鱼佬博物馆</span>
+                <button type="button" onClick={closeDirectory} aria-label="关闭参观目录" className="museum-route-overlay__close">
+                  <X aria-hidden="true" />
+                </button>
+              </header>
 
-                <div className="relative h-28 bg-zinc-50 border border-zinc-200/80 rounded-2xl p-4 overflow-hidden hidden sm:flex items-center justify-center" aria-hidden="true">
-                  <svg className="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 800 100">
-                    <path d="M 40 50 Q 150 20, 250 50 T 450 50 T 650 50 T 760 50" fill="none" stroke="#e4e4e7" strokeWidth="8" strokeLinecap="round" />
-                    <motion.path d="M 40 50 Q 150 20, 250 50 T 450 50 T 650 50 T 760 50" fill="none" stroke="#18181b" strokeWidth="4" strokeLinecap="round" initial={{ pathLength: 0 }} animate={{ pathLength: (index + 1) / MUSEUM_ROUTE.length }} transition={{ duration: 0.8 }} />
-                  </svg>
-                  <div className="absolute inset-x-8 flex justify-between items-center z-10 w-[90%] mx-auto">
-                    {MUSEUM_ROUTE.map((item, itemIndex) => <span key={item.id} className={`w-8 h-8 rounded-full border flex items-center justify-center text-[9px] font-mono ${itemIndex === index ? 'bg-zinc-900 border-zinc-900 text-white ring-4 ring-zinc-900/10 scale-110' : itemIndex < index ? 'bg-zinc-100 border-zinc-300 text-zinc-700' : 'bg-white border-zinc-200 text-zinc-400'}`}>{String(itemIndex + 1).padStart(2, '0')}</span>)}
-                  </div>
-                </div>
+              <div className="museum-route-overlay__intro">
+                <p>ONE CONTINUOUS VISIT</p>
+                <h2>参观目录</h2>
+              </div>
 
-                <ol className="grid grid-cols-2 sm:grid-cols-3 gap-3 m-0 p-0 list-none">
-                  {MUSEUM_ROUTE.map((item, itemIndex) => (
-                    <li key={item.id}>
-                      <Link
-                        to={item.url}
-                        onClick={closeMap}
-                        aria-label={`第${itemIndex + 1}站 ${item.title}`}
-                        className={`p-3.5 rounded-[18px] border text-left transition-all flex flex-col justify-between h-24 ${itemIndex === index ? 'bg-zinc-900 border-zinc-900 text-white shadow-lg' : itemIndex < index ? 'bg-zinc-50 border-zinc-200 text-zinc-700 hover:bg-zinc-100/70' : 'bg-white border-zinc-200 text-zinc-400 hover:border-zinc-300 hover:text-zinc-700'}`}
-                      >
-                        <span className="font-mono text-[9px] uppercase opacity-60">STAGE {String(itemIndex + 1).padStart(2, '0')}</span>
-                        <span><strong className="text-xs font-semibold block">{item.title}</strong><small className="text-[8px] font-mono uppercase opacity-50">{item.stage}</small></span>
-                      </Link>
-                    </li>
-                  ))}
-                </ol>
-              </motion.section>
-            </div>
+              <ol className="museum-route-list">
+                {MUSEUM_ROUTE.map((item, itemIndex) => (
+                  <motion.li
+                    key={item.id}
+                    initial={{ opacity: 0, y: 24 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: 0.08 + itemIndex * 0.035, duration: 0.42 }}
+                    className={itemIndex === index ? 'is-current' : ''}
+                  >
+                    <Link to={item.url} onClick={closeDirectory} aria-label={`第${itemIndex + 1}站 ${item.title}`}>
+                      <span className="museum-route-list__number">{padIndex(itemIndex + 1)}</span>
+                      <span className="museum-route-list__stage">{item.stage}</span>
+                      <strong>{item.title}</strong>
+                      <ArrowRight aria-hidden="true" />
+                    </Link>
+                  </motion.li>
+                ))}
+              </ol>
+            </motion.section>
           ) : null}
         </AnimatePresence>
       </div>

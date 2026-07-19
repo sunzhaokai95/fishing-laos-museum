@@ -46,7 +46,8 @@ describe('entrance, prologue and epilogue content contract', () => {
     const { container } = render(<PrologueHall />)
     expect(screen.getByRole('heading', { name: '水面之下' })).toBeInTheDocument()
     expect(container.querySelectorAll('p')).toHaveLength(1)
-    expect(container.firstChild).toHaveClass('min-h-[calc(100svh-132px)]')
+    expect(container.firstChild).toHaveClass('prologue-theatre')
+    expect(screen.getByText('水下', { selector: '[aria-hidden="true"]' })).toBeInTheDocument()
   })
 
   it('synchronizes the prologue depth slider and numerical readout', () => {
@@ -63,6 +64,7 @@ describe('entrance, prologue and epilogue content contract', () => {
     )
     expect(screen.getByRole('heading', { name: '回到水边' })).toBeInTheDocument()
     expect(screen.getAllByText(/./, { selector: 'p' })).toHaveLength(1)
-    expect(container.firstChild).toHaveClass('min-h-[calc(100svh-132px)]')
+    expect(container.firstChild).toHaveClass('epilogue-theatre')
+    expect(screen.getByText('回', { selector: '[aria-hidden="true"]' })).toBeInTheDocument()
   })
 })
