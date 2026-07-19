@@ -2,15 +2,14 @@
   position: relative;
   min-height: 100svh;
   overflow: hidden;
-  color: #17211f;
-  background: #dce7e4;
+  color: #171815;
+  background: #152f2c;
   isolation: isolate;
 }
 
 .museum-hero-scene,
 .museum-hero-scene > img,
-.museum-hero-scene > canvas,
-.museum-home-vignette {
+.museum-hero-scene > canvas {
   position: absolute;
   inset: 0;
   width: 100%;
@@ -18,213 +17,454 @@
 }
 
 .museum-hero-scene {
-  z-index: -3;
+  z-index: 0;
   overflow: hidden;
-  transform: scale(1.02);
-  transition: transform 1.1s cubic-bezier(.22, 1, .36, 1), filter 1.1s ease;
+  background: #152f2c;
 }
 
 .museum-hero-scene > img,
 .museum-hero-scene > canvas {
   object-fit: cover;
+  object-position: center;
 }
 
 .museum-hero-scene > canvas {
   opacity: 0;
-  transition: opacity 700ms ease;
+  transition: opacity 720ms ease;
 }
 
 .museum-hero-scene.is-ready > canvas {
   opacity: 1;
 }
 
-.museum-home.is-departing .museum-hero-scene {
-  filter: saturate(.82) brightness(.72);
-  transform: scale(1.16) translate3d(-2.5%, 3%, 0);
-}
-
-.museum-home-vignette {
-  z-index: -2;
-  pointer-events: none;
-  background:
-    linear-gradient(90deg, rgba(242, 241, 232, .94) 0%, rgba(242, 241, 232, .68) 27%, transparent 53%),
-    linear-gradient(0deg, rgba(17, 31, 29, .36), transparent 34%);
-}
-
-.museum-home-header {
+.museum-curtain {
   position: absolute;
-  inset: 0 0 auto;
-  z-index: 2;
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  padding: clamp(1.25rem, 3.2vw, 2.75rem) clamp(1.25rem, 4vw, 4rem);
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  min-height: 100svh;
+  place-items: center;
+  overflow: hidden;
+  color: #fff;
+  background: #111866;
 }
 
-.museum-home-header p {
+.museum-curtain-sound,
+.museum-curtain-present,
+.museum-curtain-copy {
+  position: absolute;
   margin: 0;
-}
-
-.museum-home-header span,
-.museum-home-header strong {
-  display: block;
-}
-
-.museum-home-header span,
-.museum-home-footer span,
-.museum-home-footer small {
+  font-family: var(--sans);
   font-size: .64rem;
+  font-weight: 500;
   line-height: 1.4;
 }
 
-.museum-home-header strong {
-  margin-top: .3rem;
-  font-family: var(--display);
-  font-size: .92rem;
-  font-weight: 600;
+.museum-curtain-sound {
+  top: 1.5rem;
+  left: 1.5rem;
 }
 
-.museum-home-header button {
-  display: grid;
-  width: 2.75rem;
-  height: 2.75rem;
-  place-items: center;
-  color: #f8f4ec;
-  background: rgba(24, 38, 35, .8);
-  border: 1px solid rgba(255, 255, 255, .38);
-  border-radius: 50%;
-  cursor: pointer;
+.museum-curtain-present {
+  top: 1.5rem;
+  right: 1.5rem;
 }
 
-.museum-home-header svg {
-  width: 1rem;
-}
-
-.museum-home-copy {
-  position: absolute;
-  z-index: 1;
-  top: 19%;
-  left: clamp(1.25rem, 6.5vw, 7rem);
-  width: min(35rem, 42vw);
-  transition: opacity 600ms ease, transform 900ms cubic-bezier(.22, 1, .36, 1);
-}
-
-.museum-home-copy h1 {
-  margin: 0;
-  font-family: var(--display);
-  font-size: clamp(4.5rem, 8.6vw, 9.6rem);
-  font-weight: 400;
-  line-height: .82;
-  letter-spacing: 0;
-}
-
-.museum-home-copy > p {
-  max-width: 25rem;
-  margin: clamp(1.6rem, 3vw, 2.8rem) 0 0;
-  font-size: clamp(.88rem, 1.08vw, 1.05rem);
-  line-height: 1.9;
-}
-
-.museum-home-copy a {
-  display: inline-flex;
-  min-height: 3.35rem;
-  align-items: center;
-  gap: 2rem;
-  margin-top: 2rem;
-  padding: 0 1.2rem 0 1.45rem;
-  color: #f8f4ec;
-  background: #1a2724;
-  border: 1px solid #1a2724;
-  text-decoration: none;
-  transition: color 240ms ease, background 240ms ease;
-}
-
-.museum-home-copy a:hover {
-  color: #1a2724;
-  background: rgba(247, 242, 232, .86);
-}
-
-.museum-home-copy a svg {
-  width: 1rem;
-  transition: transform 240ms ease;
-}
-
-.museum-home-copy a:hover svg {
-  transform: translateX(.25rem);
-}
-
-.museum-home.is-departing .museum-home-copy,
-.museum-home.is-departing .museum-home-footer {
-  opacity: 0;
-  transform: translateY(-1.5rem);
-}
-
-.museum-home-footer {
-  position: absolute;
-  right: clamp(1.25rem, 4vw, 4rem);
-  bottom: clamp(1.25rem, 3vw, 2.5rem);
-  left: clamp(1.25rem, 4vw, 4rem);
-  z-index: 1;
-  display: grid;
-  grid-template-columns: auto 1fr auto;
-  align-items: end;
-  gap: 1rem;
-  color: #f5efe5;
-  transition: opacity 500ms ease, transform 800ms ease;
-}
-
-.museum-home-footer p {
-  margin: 0;
-  font-family: var(--display);
-  font-size: .86rem;
-}
-
-.museum-home-footer small {
+.museum-curtain-copy {
+  right: 1.5rem;
+  bottom: 1.5rem;
+  width: min(17rem, calc(100vw - 3rem));
   text-align: right;
 }
 
-@media (max-width: 720px) {
-  .museum-home-vignette {
-    background:
-      linear-gradient(180deg, rgba(242, 241, 232, .94) 0%, rgba(242, 241, 232, .68) 34%, transparent 62%),
-      linear-gradient(0deg, rgba(17, 31, 29, .56), transparent 42%);
-  }
+.museum-curtain h1 {
+  position: relative;
+  width: min(70rem, calc(100vw - 7rem));
+  height: min(31rem, 58vh);
+  margin: 0;
+  font-family: var(--display);
+  font-size: clamp(3.5rem, 8vw, 8.8rem);
+  font-weight: 400;
+  line-height: .82;
+}
 
-  .museum-hero-scene,
+.museum-curtain h1 span {
+  position: absolute;
+  white-space: nowrap;
+}
+
+.museum-curtain h1 span:nth-child(1) {
+  top: 0;
+  left: 0;
+}
+
+.museum-curtain h1 span:nth-child(2) {
+  top: 18%;
+  right: 3%;
+}
+
+.museum-curtain h1 span:nth-child(3) {
+  bottom: 16%;
+  left: 12%;
+}
+
+.museum-curtain h1 span:nth-child(4) {
+  right: 0;
+  bottom: 0;
+}
+
+.museum-curtain > button {
+  position: absolute;
+  bottom: 1.4rem;
+  left: 50%;
+  display: inline-flex;
+  min-width: 9.8rem;
+  min-height: 3rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 0 .9rem 0 1.15rem;
+  color: #111866;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 0;
+  cursor: pointer;
+  transform: translateX(-50%);
+  transition: color 180ms ease, background 180ms ease;
+}
+
+.museum-curtain > button:hover {
+  color: #fff;
+  background: transparent;
+}
+
+.museum-curtain > button svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+.museum-room-ui,
+.museum-object-focus {
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+  pointer-events: none;
+}
+
+.museum-room-index {
+  position: absolute;
+  top: 1.25rem;
+  left: 1.25rem;
+  display: flex;
+  min-width: 8.5rem;
+  min-height: 2.75rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0 .85rem;
+  color: #171815;
+  background: #fff;
+  border: 1px solid #171815;
+  font-size: .65rem;
+  pointer-events: auto;
+}
+
+.museum-room-index strong {
+  font-variant-numeric: tabular-nums;
+}
+
+.museum-hotspot {
+  position: absolute;
+  top: var(--spot-y);
+  left: var(--spot-x);
+  display: grid;
+  width: 3.2rem;
+  height: 3.2rem;
+  padding: 0;
+  place-items: center;
+  color: #171815;
+  background: #fff;
+  border: 1px solid #171815;
+  border-radius: 50%;
+  cursor: pointer;
+  pointer-events: auto;
+  transform: translate(-50%, -50%);
+}
+
+.museum-hotspot::before,
+.museum-hotspot::after {
+  position: absolute;
+  inset: -.45rem;
+  content: '';
+  border: 1px solid rgba(255, 255, 255, .88);
+  border-radius: 50%;
+}
+
+.museum-hotspot::after {
+  inset: -.9rem;
+  opacity: .4;
+  animation: museum-hotspot-pulse 2.8s ease-out infinite;
+}
+
+.museum-hotspot svg {
+  width: 1rem;
+  height: 1rem;
+  stroke-width: 1.5;
+}
+
+.museum-hotspot > span {
+  position: absolute;
+  top: calc(100% + 1rem);
+  left: 50%;
+  width: max-content;
+  max-width: 10rem;
+  padding: .35rem .5rem;
+  color: #171815;
+  background: #fff;
+  border: 1px solid #171815;
+  font-size: .64rem;
+  line-height: 1.3;
+  opacity: 0;
+  transform: translate(-50%, .35rem);
+  transition: opacity 180ms ease, transform 180ms ease;
+}
+
+.museum-hotspot:hover > span,
+.museum-hotspot:focus-visible > span {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+.museum-room-enter {
+  position: absolute;
+  bottom: 1.25rem;
+  left: 50%;
+  display: inline-flex;
+  min-width: 10.5rem;
+  min-height: 3rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 0 .9rem 0 1.15rem;
+  color: #171815;
+  background: #fff;
+  border: 1px solid #171815;
+  text-decoration: none;
+  pointer-events: auto;
+  transform: translateX(-50%);
+  transition: color 180ms ease, background 180ms ease;
+}
+
+.museum-room-enter:hover {
+  color: #fff;
+  background: #171815;
+}
+
+.museum-room-enter svg {
+  width: 1rem;
+}
+
+.museum-room-observe {
+  position: absolute;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  padding: .45rem .6rem;
+  color: #171815;
+  background: #fff;
+  border: 1px solid #171815;
+  font-size: .62rem;
+}
+
+.museum-object-focus {
+  z-index: 8;
+}
+
+.museum-focus-back {
+  position: absolute;
+  top: 1.25rem;
+  left: 1.25rem;
+  display: grid;
+  width: 3rem;
+  height: 3rem;
+  padding: 0;
+  place-items: center;
+  color: #171815;
+  background: #fff;
+  border: 1px solid #171815;
+  border-radius: 0;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.museum-focus-back svg {
+  width: 1rem;
+}
+
+.museum-focus-caption {
+  position: absolute;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  width: min(28rem, calc(100vw - 2.5rem));
+  padding: 1rem 1.15rem 1.1rem;
+  color: #171815;
+  background: #fff;
+  border: 1px solid #171815;
+  pointer-events: auto;
+}
+
+.museum-focus-caption span {
+  display: block;
+  margin-bottom: .65rem;
+  font-size: .62rem;
+}
+
+.museum-focus-caption h2 {
+  margin: 0;
+  font-family: var(--display);
+  font-size: clamp(1.55rem, 2.7vw, 2.6rem);
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+.museum-focus-caption p {
+  margin: .75rem 0 0;
+  font-size: .78rem;
+  line-height: 1.75;
+}
+
+.museum-home.is-departing::after {
+  position: absolute;
+  inset: 0;
+  z-index: 30;
+  content: '';
+  background: #111866;
+  animation: museum-departure 1s cubic-bezier(.22, 1, .36, 1) both;
+}
+
+@keyframes museum-hotspot-pulse {
+  0% {
+    opacity: .5;
+    transform: scale(.72);
+  }
+  70%, 100% {
+    opacity: 0;
+    transform: scale(1.28);
+  }
+}
+
+@keyframes museum-departure {
+  from {
+    clip-path: circle(0 at 50% calc(100% - 2.75rem));
+  }
+  to {
+    clip-path: circle(150% at 50% calc(100% - 2.75rem));
+  }
+}
+
+@media (max-width: 720px) {
   .museum-hero-scene > img,
   .museum-hero-scene > canvas {
     object-position: 57% center;
   }
 
-  .museum-home-copy {
-    top: 15%;
-    left: 1.25rem;
-    width: calc(100% - 2.5rem);
+  .museum-curtain-sound,
+  .museum-curtain-present {
+    top: 1rem;
   }
 
-  .museum-home-copy h1 {
-    font-size: clamp(4rem, 20vw, 5.9rem);
+  .museum-curtain-sound {
+    left: 1rem;
   }
 
-  .museum-home-copy > p {
-    max-width: 19rem;
-    font-size: .82rem;
-    line-height: 1.75;
+  .museum-curtain-present {
+    right: 1rem;
   }
 
-  .museum-home-footer {
-    grid-template-columns: 1fr auto;
+  .museum-curtain-copy {
+    right: 1rem;
+    bottom: 4.75rem;
+    left: 1rem;
+    width: auto;
+    font-size: .58rem;
+    text-align: center;
   }
 
-  .museum-home-footer p {
-    display: none;
+  .museum-curtain h1 {
+    width: calc(100vw - 2rem);
+    height: min(28rem, 58vh);
+    font-size: clamp(3.25rem, 17.5vw, 5.15rem);
+  }
+
+  .museum-curtain h1 span:nth-child(2) {
+    top: 22%;
+    right: 0;
+  }
+
+  .museum-curtain h1 span:nth-child(3) {
+    bottom: 20%;
+    left: 0;
+  }
+
+  .museum-curtain > button {
+    bottom: 1rem;
+  }
+
+  .museum-room-index,
+  .museum-focus-back {
+    top: 1rem;
+    left: 1rem;
+  }
+
+  .museum-hotspot {
+    width: 2.8rem;
+    height: 2.8rem;
+  }
+
+  .museum-hotspot[aria-label='观察 时间的入口'] {
+    --spot-x: 72% !important;
+    --spot-y: 23% !important;
+  }
+
+  .museum-hotspot[aria-label='观察 水下标本'] {
+    --spot-x: 28% !important;
+    --spot-y: 64% !important;
+  }
+
+  .museum-hotspot[aria-label='观察 器物工作台'] {
+    --spot-x: 72% !important;
+    --spot-y: 49% !important;
+  }
+
+  .museum-hotspot > span {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+
+  .museum-room-enter {
+    bottom: 1rem;
+  }
+
+  .museum-room-observe {
+    right: 1rem;
+    bottom: 4.75rem;
+    font-size: .57rem;
+  }
+
+  .museum-focus-caption {
+    right: 1rem;
+    bottom: 1rem;
+    width: calc(100vw - 2rem);
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .museum-hero-scene,
-  .museum-home-copy,
-  .museum-home-footer {
+  .museum-hero-scene > canvas,
+  .museum-hotspot > span {
     transition: none;
+  }
+
+  .museum-hotspot::after,
+  .museum-home.is-departing::after {
+    animation: none;
   }
 }

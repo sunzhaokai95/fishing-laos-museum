@@ -17,8 +17,12 @@ const fragmentShader = `
   uniform vec2 uResolution;
   uniform vec2 uImage;
   uniform vec2 uPointer;
+  uniform vec2 uFocus;
   uniform float uTime;
   uniform float uMotion;
+  uniform float uZoom;
+  uniform float uBlur;
+  uniform float uRoom;
   varying vec2 vUv;
 
   vec2 coverUv(vec2 uv, vec2 screenSize, vec2 imageSize) {
@@ -30,8 +34,18 @@ const fragmentShader = `
     return (uv - 0.5) * scale + 0.5;
   }
 
+  vec4 sampleScene(vec2 uv, vec2 blurStep) {
+    vec4 color = texture2D(uTexture, uv) * 0.4;
+    color += texture2D(uTexture, clamp(uv + vec2(blurStep.x, 0.0), 0.002, 0.998)) * 0.15;
+    color += texture2D(uTexture, clamp(uv - vec2(blurStep.x, 0.0), 0.002, 0.998)) * 0.15;
+    color += texture2D(uTexture, clamp(uv + vec2(0.0, blurStep.y), 0.002, 0.998)) * 0.15;
+    color += texture2D(uTexture, clamp(uv - vec2(0.0, blurStep.y), 0.002, 0.998)) * 0.15;
+    return color;
+  }
+
   void main() {
-    vec2 uv = coverUv(vUv, uResolution, uImage);
+    vec2 cameraUv = (vUv - uFocus) / uZoom + uFocus;
+    vec2 uv = coverUv(cameraUv, uResolution, uImage);
     vec2 pointerUv = uPointer * 0.5 + 0.5;
     pointerUv.y = 1.0 - pointerUv.y;
 
@@ -42,14 +56,21 @@ const fragmentShader = `
     float ring = sin(distanceToPointer * 76.0 - uTime * 2.7) * exp(-distanceToPointer * 11.0);
     float current = sin((uv.x * 9.0 + uv.y * 5.0) - uTime * 0.42) * 0.00085;
     vec2 displacement = vec2(ring * 0.0018, ring * 0.0011 + current) * waterMask * uMotion;
-    vec2 parallax = uPointer * vec2(0.006, -0.004) * uMotion;
+    vec2 parallax = uPointer * vec2(0.012, -0.008) * uMotion * uRoom;
+    vec2 finalUv = clamp(uv + displacement + parallax, 0.002, 0.998);
+    vec2 blurStep = vec2(1.0) / uResolution * (2.0 + uBlur * 8.0) * uBlur;
 
-    vec4 color = texture2D(uTexture, clamp(uv + displacement + parallax, 0.002, 0.998));
-    gl_FragColor = color;
+    gl_FragColor = sampleScene(finalUv, blurStep);
   }
 `
 
-export default function MuseumHeroScene({ pointerRef, reducedMotion = false, departing = false }) {
+export default function MuseumHeroScene({
+  pointerRef,
+  sceneStateRef,
+  reducedMotion = false,
+  departing = false,
+  focusId = null,
+}) {
   const [status, setStatus] = useState('fallback')
   const canvasRef = useRef(null)
 
@@ -58,7 +79,7 @@ export default function MuseumHeroScene({ pointerRef, reducedMotion = false, dep
     if (!canvas || typeof window.WebGLRenderingContext === 'undefined') return undefined
 
     let disposed = false
-    let frame = 0
+    let animationFrame = 0
     let renderer
     let geometry
     let material
@@ -88,8 +109,12 @@ export default function MuseumHeroScene({ pointerRef, reducedMotion = false, dep
             uResolution: { value: new THREE.Vector2(1, 1) },
             uImage: { value: new THREE.Vector2(texture.image.width || 1672, texture.image.height || 941) },
             uPointer: { value: new THREE.Vector2(0, 0) },
+            uFocus: { value: new THREE.Vector2(0.5, 0.5) },
             uTime: { value: 0 },
             uMotion: { value: reducedMotion ? 0 : 1 },
+            uZoom: { value: 1.08 },
+            uBlur: { value: 0 },
+            uRoom: { value: 0 },
           },
           vertexShader,
           fragmentShader,
@@ -105,19 +130,51 @@ export default function MuseumHeroScene({ pointerRef, reducedMotion = false, dep
         resizeObserver.observe(canvas)
         resize()
 
-        const current = new THREE.Vector2(0, 0)
+        const currentPointer = new THREE.Vector2(0, 0)
+        const currentFocus = new THREE.Vector2(0.5, 0.5)
+        let currentZoom = 1.08
+        let currentBlur = 0
+        let currentRoom = 0
+        let firstFrame = true
+
         const render = (time = 0) => {
           if (disposed) return
-          const target = pointerRef.current
-          current.x += (target.x - current.x) * 0.035
-          current.y += (target.y - current.y) * 0.035
-          material.uniforms.uPointer.value.copy(current)
-          material.uniforms.uTime.value = time * 0.001
-          material.uniforms.uMotion.value += ((reducedMotion ? 0 : 1) - material.uniforms.uMotion.value) * 0.045
+          const pointer = pointerRef.current
+          const state = sceneStateRef.current
+          const targetFocus = state.focus
+            ? { x: state.focus.focus[0], y: 1 - state.focus.focus[1] }
+            : { x: 0.5, y: 0.5 }
+          const targetZoom = state.departing ? 1.24 : state.focus ? state.focus.zoom : state.phase === 'room' ? 1 : 1.08
+          const targetRoom = state.phase === 'room' && !state.focus ? 1 : 0
+          const damping = reducedMotion ? 1 : 0.055
+          const focusDistance = Math.abs(currentFocus.x - targetFocus.x) + Math.abs(currentFocus.y - targetFocus.y)
+          const cameraDistance = Math.abs(currentZoom - targetZoom)
+          const targetBlur = state.focus
+            ? Math.min(0.62, 0.015 + focusDistance * 2.2 + cameraDistance * 1.6)
+            : Math.min(0.5, focusDistance * 2 + cameraDistance * 1.4)
+
+          currentPointer.x += (pointer.x - currentPointer.x) * (reducedMotion ? 1 : 0.035)
+          currentPointer.y += (pointer.y - currentPointer.y) * (reducedMotion ? 1 : 0.035)
+          currentFocus.x += (targetFocus.x - currentFocus.x) * damping
+          currentFocus.y += (targetFocus.y - currentFocus.y) * damping
+          currentZoom += (targetZoom - currentZoom) * damping
+          currentBlur += (targetBlur - currentBlur) * (reducedMotion ? 1 : 0.14)
+          currentRoom += (targetRoom - currentRoom) * damping
+
+          material.uniforms.uPointer.value.copy(currentPointer)
+          material.uniforms.uFocus.value.copy(currentFocus)
+          material.uniforms.uZoom.value = currentZoom
+          material.uniforms.uBlur.value = currentBlur
+          material.uniforms.uRoom.value = currentRoom
+          material.uniforms.uTime.value = reducedMotion ? 0 : time * 0.001
+          material.uniforms.uMotion.value = reducedMotion ? 0 : 1
           renderer.render(scene, camera)
-          if (frame === 0) setStatus('ready')
-          frame += 1
-          if (!reducedMotion) frame = window.requestAnimationFrame(render)
+
+          if (firstFrame) {
+            firstFrame = false
+            setStatus('ready')
+          }
+          animationFrame = window.requestAnimationFrame(render)
         }
         render()
       } catch {
@@ -131,7 +188,7 @@ export default function MuseumHeroScene({ pointerRef, reducedMotion = false, dep
 
     return () => {
       disposed = true
-      window.cancelAnimationFrame(frame)
+      window.cancelAnimationFrame(animationFrame)
       canvas.removeEventListener('webglcontextlost', contextLost)
       resizeObserver?.disconnect()
       geometry?.dispose()
@@ -139,7 +196,7 @@ export default function MuseumHeroScene({ pointerRef, reducedMotion = false, dep
       texture?.dispose()
       renderer?.dispose()
     }
-  }, [pointerRef, reducedMotion])
+  }, [pointerRef, reducedMotion, sceneStateRef])
 
   return (
     <div
@@ -147,6 +204,7 @@ export default function MuseumHeroScene({ pointerRef, reducedMotion = false, dep
       data-testid="museum-hero-scene"
       data-renderer="three"
       data-pointer-ready={pointerRef.current.active ? 'true' : 'false'}
+      data-focus={focusId || 'room'}
     >
       <img src={HERO_IMAGE} alt="水边与展厅相连的钓鱼佬博物馆" />
       <canvas ref={canvasRef} data-museum-hero-canvas aria-hidden="true" />

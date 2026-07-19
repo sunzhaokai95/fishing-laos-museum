@@ -24,6 +24,12 @@ const failures = []
 const results = []
 
 async function interact(page, route) {
+  if (route === '/') {
+    await page.getByRole('button', { name: '进入空间' }).click()
+    await page.waitForTimeout(1100)
+    await page.getByRole('button', { name: '观察 水下标本' }).click()
+    await page.waitForTimeout(1300)
+  }
   if (route === '/visit/prologue') await page.getByRole('slider', { name: '观察深度' }).fill('72')
   if (route === '/visit/history') await page.getByRole('button', { name: /现代转型/ }).click()
   if (route === '/visit/fish') { await page.getByRole('button', { name: /观察鱼种/ }).first().evaluate((element) => element.click()); await page.keyboard.press('Escape') }
