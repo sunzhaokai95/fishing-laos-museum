@@ -38,7 +38,8 @@ describe('technique laboratories', () => {
   })
 
   it('selects the matching simulator when technique categories change', () => {
-    render(<TechniquesHall hall={{ title: '读懂看不见的鱼', summary: '动作与判断' }} />)
+    const { container } = render(<TechniquesHall hall={{ title: '读懂看不见的鱼', summary: '动作与判断' }} />)
+    expect(container.querySelector('main')).toHaveClass('techniques-theatre')
     expect(screen.getByRole('heading', { name: '饵料状态观察' })).toBeInTheDocument()
     fireEvent.click(screen.getByRole('button', { name: '漂技' }))
     expect(screen.getByRole('heading', { name: '浮漂信号观察' })).toBeInTheDocument()

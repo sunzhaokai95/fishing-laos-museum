@@ -3,9 +3,15 @@ import { afterEach, describe, expect, it, vi } from 'vitest'
 import { DECISION_CONFIRMATIONS } from '../../lib/experienceAdapters.js'
 import CatchDecisionLab from './CatchDecisionLab.jsx'
 import WatersidePledge from './WatersidePledge.jsx'
+import EthicsHall from '../../halls/EthicsHall.jsx'
 
 describe('catch decision laboratory', () => {
   afterEach(() => { cleanup(); vi.useRealTimers() })
+
+  it('uses a judgment theatre for rules, decisions and the pledge', () => {
+    const { container } = render(<EthicsHall hall={{ title: '钓获之后' }} />)
+    expect(container.querySelector('main')).toHaveClass('ethics-theatre')
+  })
 
   it('tracks confirmations without issuing a legal verdict', () => {
     render(<CatchDecisionLab />)

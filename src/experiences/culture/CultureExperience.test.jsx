@@ -3,6 +3,7 @@ import { afterEach, describe, expect, it } from 'vitest'
 import LanguageIndex from './LanguageIndex.jsx'
 import MetaphysicsCabinet from './MetaphysicsCabinet.jsx'
 import PoetryFolios from './PoetryFolios.jsx'
+import CultureHall from '../../halls/CultureHall.jsx'
 
 const items = [
   { id: 'one', title: '条目一', text: '第一条完整说明。' },
@@ -11,6 +12,11 @@ const items = [
 
 describe('culture reading modes', () => {
   afterEach(cleanup)
+
+  it('uses a folio theatre for the three cultural reading modes', () => {
+    const { container } = render(<CultureHall hall={{ title: '鱼不只活在水里', summary: '鱼文化' }} data={{ 'collection-items': [] }} />)
+    expect(container.querySelector('main')).toHaveClass('culture-theatre')
+  })
 
   it('uses a paged folio for poetry and image culture', () => {
     render(<PoetryFolios items={items} onOpen={() => {}} />)

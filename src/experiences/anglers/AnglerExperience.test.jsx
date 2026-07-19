@@ -5,11 +5,18 @@ import { PEOPLE_GROUPS } from '../../data/people.js'
 import AnglerAssessment from './AnglerAssessment.jsx'
 import AnglerIdentityStage from './AnglerIdentityStage.jsx'
 import WaterFortuneDraw from './WaterFortuneDraw.jsx'
+import AnglersHall from '../../halls/AnglersHall.jsx'
 
 const records = PEOPLE_GROUPS.map((group, index) => ({ id: group.recordIds[0] || `record-${index}`, title: `${group.label}人物`, text: `${group.label}记录`, kind: '人物记录', groupId: group.id }))
 
 describe('angler experiences', () => {
   afterEach(() => { cleanup(); vi.useRealTimers() })
+
+  it('uses a portrait theatre without changing the six identity groups', () => {
+    const data = { 'collection-items': [], 'baike-library': [] }
+    const { container } = render(<AnglersHall hall={{ title: '谁坐在水边', summary: '身份' }} data={data} />)
+    expect(container.querySelector('main')).toHaveClass('anglers-theatre')
+  })
 
   it('switches all six identity groups and opens a real record', () => {
     const onOpen = vi.fn()
