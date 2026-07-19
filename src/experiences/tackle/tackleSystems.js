@@ -6,7 +6,7 @@ export const TACKLE_SYSTEMS = [
   { id: '线', label: '线与结', icon: Link2, test: /线|转环|子线/ },
   { id: '钩', label: '钩', icon: PackageOpen, test: /钩|脱钩|取钩/ },
   { id: '漂坠', label: '漂与坠', icon: Waves, test: /漂|坠|铃/ },
-  { id: '饵', label: '饵', icon: Boxes, test: /饵|诱|香虎|九一八|速攻|蓝鲫|水溶袋/ },
+  { id: '饵', label: '饵', icon: Boxes, test: /饵|诱|香虎|九一八|速攻|蓝鲫|水溶袋|天元邓刚浮钓鲢鳙|易包搞定/ },
   { id: '辅助', label: '辅助', icon: Boxes, test: /.*/ },
 ]
 

@@ -1,5 +1,7 @@
 import { cleanup, fireEvent, render, screen } from '@testing-library/react'
 import { afterEach, describe, expect, it } from 'vitest'
+import { objectNoteFor } from '../data/tackleObjectNotes.js'
+import { tackleSystemFor } from '../experiences/tackle/tackleSystems.js'
 import TackleHall from './TackleHall.jsx'
 
 const data = {
@@ -39,5 +41,17 @@ describe('tackle hall text collection', () => {
     expect(screen.getByText('多节中空竿节由细至粗套接，使用时逐节抽出并锁定，收纳时缩回底柄。它便于携带、展开迅速；抽收须依次进行，避免接口过紧、夹砂或竿节受损。')).toBeInTheDocument()
     expect(screen.getByRole('heading', { name: '台钓' })).toBeInTheDocument()
     expect(screen.getByText('以竿、线、漂、坠、钩与饵构成可调钓组，通过调漂和饵料状态读取水下信号。')).toBeInTheDocument()
+  })
+
+  it('keeps curated object notes for entries whose source intros are unsuitable', () => {
+    const titles = [
+      '鱼钩', '关东钩、新关东钩', '伊豆钩', '滞线', '诱饵笼', '台钓竿', '振出式钓竿',
+      '海竿', '木虾钩', '阿波漂', '水溶袋', '鱼铃铛', '香虎', '夜钓灯', '子线尺',
+      '脱钩器', '绑钩器', '九一八·野战', '速攻', '天元邓刚浮钓鲢鳙', '易包搞定', '蓝鲫',
+    ]
+
+    expect(titles.every((title) => objectNoteFor(title).length >= 45)).toBe(true)
+    expect(tackleSystemFor('天元邓刚浮钓鲢鳙')).toBe('饵')
+    expect(tackleSystemFor('易包搞定')).toBe('饵')
   })
 })
