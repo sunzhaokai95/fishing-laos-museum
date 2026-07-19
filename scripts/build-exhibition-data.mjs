@@ -17,7 +17,15 @@ mkdirSync(dataDestination, { recursive: true })
 mkdirSync(referenceDestination, { recursive: true })
 
 const fish = JSON.parse(readFileSync(resolve(fishRoot, 'index.json'), 'utf8')).map((item) => ({
-  ...item,
+  name: item.name,
+  slug: item.slug,
+  list_position: item.list_position,
+  scientific_name: item.scientific_name,
+  aliases: item.aliases,
+  summary: item.summary,
+  fields: item.fields,
+  bait_options: item.bait_options,
+  similar_fish: item.similar_fish,
   image_url: item.local_images?.fish?.[0]
     ? `/content/reference/fish/${item.local_images.fish[0]}`
     : null,

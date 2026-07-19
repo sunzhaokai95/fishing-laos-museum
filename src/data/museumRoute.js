@@ -12,7 +12,8 @@ export const MUSEUM_ROUTE = [
 ]
 
 export function routeContext(pathname) {
-  const index = Math.max(0, MUSEUM_ROUTE.findIndex((item) => item.url === pathname))
+  const normalizedPathname = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
+  const index = Math.max(0, MUSEUM_ROUTE.findIndex((item) => item.url === normalizedPathname))
   return {
     index,
     current: MUSEUM_ROUTE[index],

@@ -5,6 +5,7 @@ import { createPortal } from 'react-dom'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { MUSEUM_ROUTE, routeContext } from '../data/museumRoute.js'
 import useDialogBehavior from '../hooks/useDialogBehavior.js'
+import { preloadDataForPath } from '../hooks/useMuseumData.js'
 
 const padIndex = (value) => String(value).padStart(2, '0')
 
@@ -29,6 +30,18 @@ export default function MuseumChrome({ children }) {
     window.addEventListener('keydown', moveThroughRoute)
     return () => window.removeEventListener('keydown', moveThroughRoute)
   }, [navigate, next, previous])
+
+  useEffect(() => {
+    if (!next) return undefined
+    const prefetch = () => preloadDataForPath(next.url).catch(() => {})
+    const idleId = window.requestIdleCallback
+      ? window.requestIdleCallback(prefetch, { timeout: 1800 })
+      : window.setTimeout(prefetch, 700)
+    return () => {
+      if (window.cancelIdleCallback) window.cancelIdleCallback(idleId)
+      else window.clearTimeout(idleId)
+    }
+  }, [next])
 
   if (pathname === '/') {
     return <MotionConfig reducedMotion="user">{children}</MotionConfig>
