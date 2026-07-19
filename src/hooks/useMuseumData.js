@@ -1,22 +1,37 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { rebaseContentPaths, withBasePath } from '../lib/publicPath.js'
 
-const DATA_FILES = [
-  'route-pages',
-  'collection-items',
-  'images',
-  'fish-library',
-  'baike-library',
-  'history-timeline',
-]
+const ROUTE_DATA_FILES = {
+  '/visit/history': ['history-timeline', 'images'],
+  '/visit/fish': ['fish-library'],
+  '/visit/tackle': ['collection-items', 'images', 'baike-library'],
+  '/visit/anglers': ['collection-items', 'baike-library'],
+  '/visit/culture': ['collection-items'],
+}
 
-export default function useMuseumData() {
-  const [state, setState] = useState({ data: null, error: null })
+export function dataFilesForPath(pathname) {
+  const normalized = pathname.replace(/\/+$/, '') || '/'
+  return ROUTE_DATA_FILES[normalized] ?? []
+}
+
+export default function useMuseumData(pathname) {
+  const files = useMemo(() => dataFilesForPath(pathname), [pathname])
+  const [state, setState] = useState(() => ({
+    pathname,
+    data: files.length ? null : {},
+    error: null,
+  }))
 
   useEffect(() => {
+    if (!files.length) {
+      setState({ pathname, data: {}, error: null })
+      return undefined
+    }
+
     const controller = new AbortController()
+    setState({ pathname, data: null, error: null })
     Promise.all(
-      DATA_FILES.map(async (name) => {
+      files.map(async (name) => {
         const response = await fetch(withBasePath(`/content/data/${name}.json`), {
           signal: controller.signal,
         })
@@ -25,13 +40,16 @@ export default function useMuseumData() {
       }),
     )
       .then((entries) => {
-        setState({ data: Object.fromEntries(entries), error: null })
+        setState({ pathname, data: Object.fromEntries(entries), error: null })
       })
       .catch((error) => {
-        if (error.name !== 'AbortError') setState({ data: null, error })
+        if (error.name !== 'AbortError') setState({ pathname, data: null, error })
       })
     return () => controller.abort()
-  }, [])
+  }, [files, pathname])
 
-  return state
+  if (state.pathname !== pathname) {
+    return { data: files.length ? null : {}, error: null }
+  }
+  return { data: state.data, error: state.error }
 }
