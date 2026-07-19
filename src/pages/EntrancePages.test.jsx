@@ -8,8 +8,8 @@ import HomePage from './HomePage.jsx'
 describe('entrance, prologue and epilogue content contract', () => {
   afterEach(cleanup)
 
-  it('keeps the homepage to one museum entry without an unapproved image', () => {
-    render(
+  it('uses the approved museum image as one spatial entry with a static fallback', () => {
+    const { container } = render(
       <MemoryRouter>
         <HomePage />
       </MemoryRouter>,
@@ -17,14 +17,19 @@ describe('entrance, prologue and epilogue content contract', () => {
     expect(screen.getByRole('heading', { name: '钓鱼佬博物馆' })).toBeInTheDocument()
     expect(screen.getAllByRole('link')).toHaveLength(1)
     expect(screen.getByRole('link', { name: '进入博物馆' })).toHaveAttribute('href', '/visit/prologue')
-    expect(screen.queryByRole('img')).not.toBeInTheDocument()
+    expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-renderer', 'three')
+    expect(screen.getByRole('img', { name: '水边与展厅相连的钓鱼佬博物馆' })).toHaveAttribute(
+      'src',
+      expect.stringContaining('fishing-museum-hero-parallax'),
+    )
+    expect(container.querySelector('canvas')).toBeInTheDocument()
+    expect(container.querySelector('section')).not.toBeInTheDocument()
   })
 
-  it('keeps the homepage ripple field bounded during continuous movement', () => {
+  it('passes bounded pointer coordinates to the spatial scene', () => {
     const { container } = render(<MemoryRouter><HomePage /></MemoryRouter>)
-    for (let index = 0; index < 30; index += 1) fireEvent.mouseMove(container.firstChild, { clientX: index * 4, clientY: index * 3 })
-    expect(screen.getAllByTestId('home-ripple').length).toBeLessThanOrEqual(9)
-    expect(screen.getAllByTestId('home-ripple').at(-1)).toHaveClass('home-water-ripple')
+    fireEvent.pointerMove(container.firstChild, { clientX: 120, clientY: 80 })
+    expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-pointer-ready', 'true')
   })
 
   it('keeps the prologue as one continuous paragraph', () => {

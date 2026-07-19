@@ -17,7 +17,8 @@ export default function HallPage({ hallId, data }) {
   const hall = hallById(hallId)
   const Scene = SCENES[hallId]
   return (
-    <div className={`hall-page hall-${hallId}`}>
+    <div className={`hall-page hall-${hallId}`} data-hall={hallId}>
+      <div className="hall-atmosphere" aria-hidden="true"><span /><i /></div>
       <Suspense fallback={<div className="load-state" role="status"><span className="loading-line" aria-hidden="true" /><p>正在打开展厅</p></div>}>
         <Scene hall={hall} data={data} />
       </Suspense>

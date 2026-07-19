@@ -17,8 +17,7 @@ export default function HistoryHall({ hall, data }) {
   const visibleTimeline = useMemo(() => timeline.map((item, index) => ({ item, index, era: historyEra(item, index) })).filter(({ era }) => activeEra === 'all' || era.id === activeEra), [activeEra, timeline])
 
   return (
-    <main className="min-h-screen bg-[#f5f5f7] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans">
-      <div className="absolute top-24 -left-32 w-[34rem] h-[34rem] rounded-full bg-zinc-200/45 blur-[140px] pointer-events-none" />
+    <main className="museum-hall museum-hall--history min-h-screen" data-motion-language="scroll">
       <div className="max-w-6xl mx-auto relative z-10 space-y-12">
         <ExhibitHeader eyebrow="HALL 01 / 第一展厅" title={hall.title} summary={hall.summary}>
           <span className="px-3 py-1.5 bg-white border border-zinc-200 rounded-lg shadow-xs">{timeline.length} 个历史节点</span>

@@ -10,6 +10,8 @@ import NotFound from './pages/NotFound.jsx'
 import './App.css'
 import './editorial.css'
 import './museum-shell.css'
+import './immersive.css'
+import './museum-redesign.css'
 
 export function ScrollToTop() {
   const { pathname } = useLocation()
@@ -56,11 +58,12 @@ export default function App() {
       <AnimatePresence mode="wait" initial={false}>
         <motion.div
           className="museum-stage"
+          data-route={location.pathname}
           key={location.pathname}
-          initial={{ opacity: 0, y: 12 }}
-          animate={{ opacity: 1, y: 0 }}
-          exit={{ opacity: 0, y: -8 }}
-          transition={{ duration: 0.46, ease: [0.25, 1, 0.5, 1] }}
+          initial={{ opacity: 0, scale: 1.018, filter: 'blur(8px)' }}
+          animate={{ opacity: 1, scale: 1, filter: 'blur(0px)' }}
+          exit={{ opacity: 0, scale: 0.988, filter: 'blur(6px)' }}
+          transition={{ duration: 0.72, ease: [0.22, 1, 0.36, 1] }}
         >
           <Routes location={location}>
             <Route path="/" element={<HomePage />} />

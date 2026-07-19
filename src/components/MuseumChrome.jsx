@@ -26,11 +26,19 @@ export default function MuseumChrome({ children }) {
     return () => window.removeEventListener('keydown', moveThroughRoute)
   }, [navigate, next, previous])
 
+  if (pathname === '/') {
+    return (
+      <MotionConfig reducedMotion="user">
+        {children}
+      </MotionConfig>
+    )
+  }
+
   return (
     <MotionConfig reducedMotion={reducedMotion ? 'always' : 'user'}>
-      <div className="min-h-screen bg-[#f5f5f7] text-zinc-800 flex flex-col justify-between relative selection:bg-zinc-900/10 selection:text-zinc-900 font-sans">
-        <header className="sticky top-0 z-40 bg-white/95 border-b border-zinc-200/60 py-3.5 px-4 md:px-8 flex items-center justify-between shadow-[0_1px_0_rgba(0,0,0,0.02)]">
-          <Link className="flex items-center gap-3" to="/" aria-label="钓鱼佬博物馆首页">
+      <div className="museum-shell min-h-screen">
+        <header className="museum-chrome-header">
+          <Link className="museum-chrome-brand" to="/" aria-label="钓鱼佬博物馆首页">
             <span className="w-8 h-8 rounded-lg bg-zinc-900 flex items-center justify-center text-white font-bold text-sm tracking-tighter shadow-sm" aria-hidden="true">钓</span>
             <span className="text-left">
               <strong className="text-sm font-bold tracking-normal text-zinc-900 block">钓鱼佬博物馆</strong>
@@ -38,7 +46,7 @@ export default function MuseumChrome({ children }) {
             </span>
           </Link>
 
-          <div className="hidden lg:flex items-center gap-6 text-xs text-zinc-500 font-mono" aria-live="polite">
+          <div className="museum-route-status" aria-live="polite">
             <div className="flex items-center gap-2 border-r border-zinc-200/60 pr-6">
               <span className="text-[10px] text-zinc-400 uppercase">ROUTE SEQUENCE:</span>
               <span className="text-zinc-800 font-medium">{String(index + 1).padStart(2, '0')} / {String(MUSEUM_ROUTE.length).padStart(2, '0')}</span>
@@ -49,7 +57,7 @@ export default function MuseumChrome({ children }) {
             </div>
           </div>
 
-          <div className="flex items-center gap-3">
+          <div className="museum-chrome-actions">
             <button
               type="button"
               onClick={() => setReducedMotion((value) => !value)}
@@ -69,9 +77,9 @@ export default function MuseumChrome({ children }) {
           </div>
         </header>
 
-        <main className="flex-grow">{children}</main>
+        <main className="museum-shell-content">{children}</main>
 
-        {index > 0 ? <footer className="sticky bottom-0 z-30 bg-white/95 border-t border-zinc-200/60 py-3 px-4 md:px-8 flex flex-row items-center justify-center sm:justify-between gap-2 sm:gap-4 shadow-[0_-1px_0_rgba(0,0,0,0.02)]">
+        {index > 0 ? <footer className="museum-route-footer flex-row">
           <div className="hidden sm:flex items-center gap-2.5">
             <span className="text-[10px] text-zinc-400 font-mono block">
               {index === 0 ? 'WELCOME / 参观起点' : index === MUSEUM_ROUTE.length - 1 ? 'CONCLUDED / 参观结束' : 'PROGRESSING TOUR / 常设展参观路线'}

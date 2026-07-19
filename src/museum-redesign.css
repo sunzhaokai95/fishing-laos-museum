@@ -1,0 +1,1319 @@
+:root {
+  --museum-ink: #15231f;
+  --museum-paper: #f1eee5;
+  --museum-vermillion: #bd4938;
+  --museum-line: rgba(21, 35, 31, 0.22);
+  --museum-ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  overflow-x: hidden;
+  background: var(--museum-paper);
+}
+
+.museum-stage {
+  min-height: 100svh;
+  transform-origin: 50% 42%;
+}
+
+.museum-shell {
+  position: relative;
+  min-height: 100svh;
+  color: var(--museum-ink);
+  background: var(--museum-paper);
+}
+
+.museum-shell-content {
+  min-height: 100svh;
+}
+
+/* A thin route instrument, not an application toolbar. */
+.museum-chrome-header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 40;
+  display: grid;
+  grid-template-columns: minmax(12rem, 1fr) auto minmax(12rem, 1fr);
+  align-items: center;
+  min-height: 68px;
+  padding: 0 2rem;
+  color: var(--museum-ink);
+  background: color-mix(in srgb, var(--museum-paper) 86%, transparent);
+  border-bottom: 1px solid var(--museum-line);
+  backdrop-filter: blur(18px) saturate(0.8);
+}
+
+.museum-chrome-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
+  width: fit-content;
+  color: inherit;
+  text-decoration: none;
+}
+
+.museum-chrome-brand > span:first-child {
+  display: grid;
+  width: 1.9rem;
+  height: 1.9rem;
+  place-items: center;
+  color: var(--museum-vermillion);
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  box-shadow: none;
+}
+
+.museum-chrome-brand strong {
+  font-family: var(--display);
+  font-size: 0.86rem;
+  font-weight: 600;
+}
+
+.museum-chrome-brand small {
+  margin-top: 0.12rem;
+  font-size: 0.46rem;
+  color: currentColor;
+  letter-spacing: 0;
+  opacity: 0.55;
+}
+
+.museum-route-status {
+  display: flex;
+  align-items: center;
+  gap: 1.4rem;
+  font-family: var(--sans);
+  font-size: 0.65rem;
+}
+
+.museum-route-status > div {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.museum-route-status > div:first-child {
+  padding-right: 1.4rem;
+  border-right: 1px solid var(--museum-line);
+}
+
+.museum-route-status span:first-child {
+  font-size: 0.48rem;
+  color: inherit;
+  opacity: 0.48;
+}
+
+.museum-route-status strong {
+  font-weight: 500;
+}
+
+.museum-chrome-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.45rem;
+}
+
+.museum-chrome-actions button {
+  display: inline-flex;
+  min-width: 2.3rem;
+  height: 2.3rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0 0.75rem;
+  color: var(--museum-ink);
+  background: transparent;
+  border: 1px solid var(--museum-line);
+  border-radius: 50%;
+  box-shadow: none;
+}
+
+.museum-chrome-actions button:last-child {
+  border-radius: 0;
+}
+
+.museum-chrome-actions button:hover {
+  color: var(--museum-paper);
+  background: var(--museum-ink);
+  border-color: var(--museum-ink);
+}
+
+.museum-route-footer {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  left: 1.25rem;
+  z-index: 30;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  pointer-events: none;
+}
+
+.museum-route-footer > div,
+.museum-route-footer > nav {
+  pointer-events: auto;
+}
+
+.museum-route-footer > div {
+  padding: 0.72rem 0.9rem;
+  color: var(--museum-ink);
+  background: color-mix(in srgb, var(--museum-paper) 88%, transparent);
+  border: 1px solid var(--museum-line);
+  backdrop-filter: blur(16px);
+}
+
+.museum-route-footer ol li {
+  height: 2px;
+  border-radius: 0;
+}
+
+.museum-route-footer nav {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.museum-route-footer nav a,
+.museum-route-footer nav > span {
+  display: inline-flex;
+  min-height: 2.75rem;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0 1rem;
+  color: var(--museum-ink);
+  background: color-mix(in srgb, var(--museum-paper) 92%, transparent);
+  border: 1px solid var(--museum-line);
+  border-radius: 0;
+  box-shadow: none;
+  text-decoration: none;
+  backdrop-filter: blur(16px);
+}
+
+.museum-route-footer nav a:last-child {
+  color: var(--museum-paper);
+  background: var(--museum-ink);
+  border-color: var(--museum-ink);
+}
+
+.museum-route-footer nav a:hover {
+  transform: translateY(-3px);
+}
+
+/* Hall threshold and shared exhibit label. */
+.hall-page {
+  position: relative;
+  min-height: 100svh;
+  overflow-x: clip;
+}
+
+.hall-atmosphere {
+  position: fixed;
+  inset: 68px 0 auto;
+  z-index: 1;
+  height: 1px;
+  pointer-events: none;
+}
+
+.hall-atmosphere span {
+  display: block;
+  width: 0;
+  height: 1px;
+  background: var(--museum-vermillion);
+  animation: hall-line-arrival 1.4s var(--museum-ease) 0.15s forwards;
+}
+
+.museum-hall {
+  position: relative;
+  min-height: 100svh;
+  padding: 9.5rem max(1.25rem, calc((100vw - 1400px) / 2)) 10rem;
+  overflow-x: clip;
+  font-family: var(--sans);
+}
+
+.museum-hall > .max-w-6xl,
+.museum-hall > .max-w-7xl {
+  width: min(100%, 1280px);
+  max-width: none;
+}
+
+.exhibit-header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(12rem, auto);
+  align-items: end;
+  gap: 4rem;
+  padding-bottom: 3.25rem;
+  border-bottom: 1px solid currentColor;
+}
+
+.exhibit-heading {
+  max-width: 54rem;
+}
+
+.exhibit-kicker {
+  display: block;
+  margin-bottom: 1.25rem;
+  padding: 0;
+  font-size: 0.58rem;
+  color: currentColor;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  opacity: 0.62;
+}
+
+.exhibit-title {
+  margin: 0;
+  font-family: var(--display);
+  font-size: 5.2rem;
+  font-weight: 400;
+  line-height: 1.02;
+  letter-spacing: 0;
+}
+
+.exhibit-summary {
+  max-width: 42rem;
+  margin: 1.8rem 0 0;
+  font-size: 0.94rem;
+  font-weight: 400;
+  line-height: 2;
+  opacity: 0.72;
+}
+
+.exhibit-facts {
+  display: grid;
+  min-width: 12rem;
+  gap: 0;
+  font-size: 0.64rem;
+}
+
+.exhibit-facts > * {
+  display: block;
+  padding: 0.72rem 0;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  border-top: 1px solid currentColor;
+  border-radius: 0;
+  box-shadow: none;
+  opacity: 0.68;
+}
+
+/* 01 — historical paper and a line that grows as the visitor reads. */
+.museum-hall--history {
+  color: #342f26;
+  background-color: #e9e0cf;
+  background-image: repeating-linear-gradient(0deg, transparent 0 5px, rgba(71, 57, 40, 0.018) 6px);
+}
+
+.museum-hall--history .exhibit-header {
+  border-color: rgba(52, 47, 38, 0.38);
+}
+
+.museum-hall--history section[aria-label="中国钓鱼史纵向时间轴"] {
+  max-width: 66rem;
+  margin: 2rem auto 0;
+  padding-left: 5.5rem;
+}
+
+.museum-hall--history section[aria-label="中国钓鱼史纵向时间轴"] > div:first-child {
+  width: 2px;
+  background: var(--museum-vermillion);
+}
+
+.museum-hall--history section[aria-label="中国钓鱼史纵向时间轴"] article {
+  padding: 0 0 2.3rem;
+  border-color: rgba(52, 47, 38, 0.18);
+}
+
+.museum-hall--history section[aria-label="中国钓鱼史纵向时间轴"] article > span {
+  border-radius: 50%;
+  background: #e9e0cf;
+  border-color: var(--museum-vermillion);
+}
+
+.museum-hall--history section[aria-label="中国钓鱼史纵向时间轴"] article button {
+  color: inherit;
+}
+
+.museum-hall--history section[aria-label="中国钓鱼史纵向时间轴"] article h3,
+.museum-hall--history section[aria-label="中国钓鱼史纵向时间轴"] article button strong {
+  font-family: var(--display);
+  font-weight: 500;
+}
+
+.museum-hall--history figure button,
+.museum-hall--history figure img {
+  border-radius: 0;
+}
+
+/* 02 — a water column whose catalogue stays inspectable. */
+.museum-hall--fish {
+  color: #19332f;
+  background: #d5e5df;
+}
+
+.museum-hall-current {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.museum-hall--fish .fish-current {
+  background: rgba(20, 70, 65, 0.08);
+}
+
+.museum-hall--fish .fish-orbit-stage {
+  height: min(56vw, 650px);
+  border: 0;
+  border-top: 1px solid rgba(25, 51, 47, 0.26);
+  border-bottom: 1px solid rgba(25, 51, 47, 0.26);
+  background-color: rgba(217, 238, 232, 0.5);
+  background-image: repeating-linear-gradient(to bottom, transparent 0 24.8%, rgba(25, 51, 47, 0.1) 25%);
+}
+
+.museum-hall--fish .fish-orbit-image {
+  width: 6.4rem;
+  background: rgba(241, 245, 235, 0.88);
+  border-color: rgba(25, 51, 47, 0.25);
+  border-radius: 50% 45% 52% 46%;
+  box-shadow: 0 18px 40px rgba(25, 51, 47, 0.08);
+}
+
+.museum-hall--fish section[aria-label="鱼类馆藏分布"] {
+  display: grid;
+  grid-template-columns: 0.7fr 1.1fr 1.4fr;
+  overflow: visible;
+  color: inherit;
+  background: transparent;
+  border-color: rgba(25, 51, 47, 0.3);
+}
+
+.museum-hall--fish section[aria-label="鱼类馆藏分布"] > div {
+  color: inherit;
+  background: transparent;
+}
+
+.museum-hall--fish section[aria-label="鱼类标本检索"] > div.sticky {
+  top: 82px;
+  color: #eff4eb;
+  background: rgba(25, 51, 47, 0.94);
+  border: 0;
+  box-shadow: 0 16px 36px rgba(25, 51, 47, 0.16);
+  backdrop-filter: blur(18px);
+}
+
+.museum-hall--fish section[aria-label="鱼类标本检索"] > div.sticky input,
+.museum-hall--fish section[aria-label="鱼类标本检索"] > div.sticky select,
+.museum-hall--fish section[aria-label="鱼类标本检索"] > div.sticky button {
+  color: #19332f;
+  background: #edf2e8;
+  border: 0;
+  border-radius: 0;
+}
+
+.museum-hall--fish section[aria-label="鱼类标本检索"] .grid.grid-cols-2 > button {
+  color: inherit;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid rgba(25, 51, 47, 0.24);
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.museum-hall--fish section[aria-label="鱼类标本检索"] .grid.grid-cols-2 > button:hover {
+  background: rgba(241, 245, 235, 0.32);
+  box-shadow: none;
+}
+
+.museum-hall--fish section[aria-label="鱼类标本检索"] .grid.grid-cols-2 > button > div:first-child {
+  background: transparent;
+}
+
+/* 03 — warm material bench with a dark instrument surface. */
+.museum-hall--tackle {
+  color: #25271f;
+  background: #d9d0bd;
+}
+
+.museum-hall--tackle section[aria-label="钓具受力拆解台"] {
+  border-color: rgba(37, 39, 31, 0.5);
+  box-shadow: 0 30px 70px rgba(60, 44, 26, 0.12);
+}
+
+.museum-hall--tackle section[aria-label="钓具受力拆解台"] > div {
+  grid-template-columns: 230px minmax(360px, 1fr) 300px;
+}
+
+.museum-hall--tackle section[aria-label="钓具受力拆解台"] aside {
+  color: #25271f;
+  background: #eee6d4;
+  border-color: rgba(37, 39, 31, 0.28);
+}
+
+.museum-hall--tackle section[aria-label="钓具受力拆解台"] > div > div {
+  color: #eef0df;
+  background: #26342d;
+}
+
+.museum-hall--tackle section[aria-label="钓具受力拆解台"] > div > div:nth-child(2) * {
+  color: #eef0df;
+}
+
+.museum-hall--tackle [data-testid="tackle-load-path"] {
+  stroke: #e6c767 !important;
+}
+
+.museum-hall--tackle section[aria-label="钓具受力拆解台"] button {
+  border-radius: 0;
+}
+
+.museum-hall--tackle section[aria-label="钓具受力拆解台"] + div span {
+  padding: 0.55rem 0;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid rgba(37, 39, 31, 0.45);
+  border-radius: 0;
+}
+
+/* 04 — gesture and signal, with the simulator as the moving exhibit. */
+.museum-hall--techniques {
+  color: #222b29;
+  background: #e7ece6;
+}
+
+.museum-hall--techniques section[aria-label="技法展台"] > nav {
+  width: 100%;
+  max-width: none;
+  gap: 0;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid rgba(34, 43, 41, 0.35);
+}
+
+.museum-hall--techniques section[aria-label="技法展台"] > nav button {
+  min-height: 4.5rem;
+  color: rgba(34, 43, 41, 0.62);
+  background: transparent;
+  border-radius: 0;
+}
+
+.museum-hall--techniques section[aria-label="技法展台"] > nav button:hover,
+.museum-hall--techniques section[aria-label="技法展台"] > nav button[aria-pressed="true"] {
+  color: #e9eee6;
+  background: #263a35;
+}
+
+.museum-hall--techniques .technique-lab {
+  color: #edf1e7;
+  background: #243833;
+  border: 0;
+  box-shadow: 0 24px 60px rgba(36, 56, 51, 0.14);
+}
+
+.museum-hall--techniques .technique-lab-heading,
+.museum-hall--techniques .technique-lab label,
+.museum-hall--techniques .technique-lab button,
+.museum-hall--techniques .technique-lab-note {
+  color: inherit;
+  background: transparent;
+  border-color: rgba(237, 241, 231, 0.2);
+}
+
+.museum-hall--techniques .technique-lab-heading *,
+.museum-hall--techniques .technique-lab-note,
+.museum-hall--techniques .technique-lab label,
+.museum-hall--techniques .technique-lab output {
+  color: #edf1e7;
+}
+
+.museum-hall--techniques .technique-lab > div[class*="h-64"] {
+  background: #dbe4dc;
+}
+
+.museum-hall--techniques section[aria-label="技法展台"] > div > div:last-child {
+  border-color: rgba(34, 43, 41, 0.35);
+}
+
+.museum-hall--techniques section[aria-label$="目录"] button,
+.museum-hall--techniques article {
+  color: #222b29;
+  background: rgba(247, 248, 238, 0.52);
+  border-color: rgba(34, 43, 41, 0.18);
+}
+
+/* 05 — a warm portrait theatre, not a people database. */
+.museum-hall--anglers {
+  color: #39282b;
+  background: #e4cbc3;
+}
+
+.hall-mode-switch,
+.hall-submode-switch {
+  display: inline-flex;
+  border-bottom: 1px solid rgba(57, 40, 43, 0.35);
+}
+
+.hall-mode-switch button,
+.hall-submode-switch button {
+  display: inline-flex;
+  min-height: 2.8rem;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0 1.1rem;
+  color: rgba(57, 40, 43, 0.62);
+  background: transparent;
+  border: 0;
+}
+
+.hall-mode-switch button.is-active,
+.hall-submode-switch button.is-active {
+  color: #f5e9e2;
+  background: #673d3d;
+}
+
+.museum-hall--anglers section[aria-label="水边身份图谱"] > nav {
+  border-color: rgba(57, 40, 43, 0.35);
+}
+
+.museum-hall--anglers section[aria-label="水边身份图谱"] > div {
+  border-color: rgba(57, 40, 43, 0.35);
+}
+
+.museum-hall--anglers section[aria-label="水边身份图谱"] article {
+  color: #39282b;
+  background: #f0dfd7;
+}
+
+.museum-hall--anglers section[aria-label="水边身份图谱"] aside,
+.museum-hall--anglers section[aria-label="水边身份图谱"] nav {
+  border-color: rgba(57, 40, 43, 0.25);
+}
+
+.angler-reflection-stage {
+  display: grid;
+  grid-template-columns: 13rem minmax(0, 1fr);
+  gap: 0;
+  border-top: 1px solid rgba(57, 40, 43, 0.35);
+  border-bottom: 1px solid rgba(57, 40, 43, 0.35);
+}
+
+.hall-submode-switch {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  border-right: 1px solid rgba(57, 40, 43, 0.35);
+  border-bottom: 0;
+}
+
+.angler-reflection-content {
+  min-height: 34rem;
+  padding: 3rem;
+  background: rgba(244, 226, 217, 0.58);
+}
+
+/* 06 — paper, ink, folio edges and index tabs. */
+.museum-hall--culture {
+  color: #2d2b25;
+  background-color: #ece6d8;
+  background-image: repeating-linear-gradient(90deg, transparent 0 31px, rgba(45, 43, 37, 0.018) 32px);
+}
+
+.culture-index {
+  display: flex;
+  gap: 2.25rem;
+  overflow-x: auto;
+  border-bottom: 1px solid rgba(45, 43, 37, 0.35);
+}
+
+.culture-index button {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0 0 0.95rem;
+  color: rgba(45, 43, 37, 0.58);
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid transparent;
+}
+
+.culture-index button[aria-pressed="true"] {
+  color: #2d2b25;
+  border-bottom-color: var(--museum-vermillion);
+}
+
+.museum-hall--culture section[aria-label="诗画册页"] {
+  background: #d7cebb;
+  border-color: rgba(45, 43, 37, 0.4);
+  perspective: 1200px;
+}
+
+.museum-hall--culture section[aria-label="诗画册页"] article {
+  background: #f5f0e5;
+  box-shadow: 12px 16px 0 rgba(63, 53, 39, 0.06), 0 28px 70px rgba(63, 53, 39, 0.12);
+}
+
+.museum-hall--culture section[aria-label="钓鱼语言索引"],
+.museum-hall--culture section[aria-label="玄学标本柜"] {
+  border-color: rgba(45, 43, 37, 0.4);
+}
+
+.museum-hall--culture section[aria-label="钓鱼语言索引"] article,
+.museum-hall--culture section[aria-label="玄学标本柜"] article {
+  background: #f5f0e5;
+}
+
+/* 07 — chartreuse paper, black rules and consequential sequence. */
+.museum-hall--ethics {
+  color: #20251d;
+  background: #dce2c8;
+}
+
+.law-history-stage {
+  display: grid;
+  grid-template-columns: 18rem minmax(0, 1fr);
+  gap: 4rem;
+}
+
+.law-history-intro {
+  position: sticky;
+  top: 7rem;
+  align-self: start;
+}
+
+.law-history-intro > span,
+.ethics-consequences > div:first-child > span {
+  font-size: 0.58rem;
+  opacity: 0.58;
+}
+
+.law-history-intro h2,
+.ethics-consequences h2 {
+  margin: 0.6rem 0 0;
+  font-family: var(--display);
+  font-size: 2.2rem;
+  font-weight: 500;
+}
+
+.law-history-intro p,
+.law-history-line p {
+  font-size: 0.85rem;
+  line-height: 1.9;
+  opacity: 0.72;
+}
+
+.law-history-line {
+  border-left: 2px solid #20251d;
+}
+
+.law-history-line article {
+  position: relative;
+  padding: 0 0 2.2rem 2rem;
+  border-bottom: 1px solid rgba(32, 37, 29, 0.22);
+}
+
+.law-history-line article::before {
+  position: absolute;
+  top: 0.2rem;
+  left: -0.42rem;
+  width: 0.72rem;
+  height: 0.72rem;
+  content: '';
+  background: #dce2c8;
+  border: 2px solid #20251d;
+  border-radius: 50%;
+}
+
+.law-history-line article > span {
+  font-size: 0.58rem;
+  opacity: 0.58;
+}
+
+.law-history-line h3 {
+  margin: 0.6rem 0 0;
+  font-size: 1.15rem;
+}
+
+.museum-hall--ethics section[aria-label="鱼获决定实验室"] {
+  border-color: rgba(32, 37, 29, 0.48);
+}
+
+.museum-hall--ethics section[aria-label="鱼获决定实验室"] header {
+  border-color: rgba(32, 37, 29, 0.4);
+}
+
+.museum-hall--ethics section[aria-label="鱼获决定实验室"] aside {
+  color: #f0f1dd;
+  background: #253027;
+  border-color: rgba(32, 37, 29, 0.5);
+}
+
+.museum-hall--ethics section[aria-label="鱼获决定实验室"] aside * {
+  color: inherit;
+}
+
+.ethics-consequences > div:first-child {
+  max-width: 40rem;
+  margin-bottom: 2rem;
+}
+
+.ethics-consequence-list {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  border-top: 1px solid rgba(32, 37, 29, 0.45);
+  border-bottom: 1px solid rgba(32, 37, 29, 0.45);
+}
+
+.ethics-consequence-list article {
+  min-height: 22rem;
+  padding: 1.4rem;
+  border-right: 1px solid rgba(32, 37, 29, 0.3);
+}
+
+.ethics-consequence-list article:last-child {
+  border-right: 0;
+}
+
+.ethics-consequence-list article > div {
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.58;
+}
+
+.ethics-consequence-list h3 {
+  margin: 6rem 0 1rem;
+  font-family: var(--display);
+  font-size: 1.25rem;
+}
+
+.ethics-consequence-list strong,
+.ethics-consequence-list p {
+  display: block;
+  font-size: 0.75rem;
+  line-height: 1.8;
+}
+
+.ethics-consequence-list p {
+  opacity: 0.62;
+}
+
+/* Prologue and epilogue are quiet thresholds around the seven halls. */
+.prologue-scene {
+  position: relative;
+  display: grid;
+  min-height: 100svh;
+  grid-template-columns: minmax(0, 1fr) minmax(18rem, 27rem);
+  align-items: center;
+  gap: 5rem;
+  padding: 9rem max(2rem, calc((100vw - 1180px) / 2)) 7rem;
+  overflow: hidden;
+  color: #18332f;
+  background: #e9e6d9;
+}
+
+.prologue-scene::before,
+.epilogue-scene::before {
+  display: none;
+}
+
+.prologue-water {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.prologue-water::before {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: calc(43% + var(--observation-depth) * 42%);
+  content: '';
+  background-color: #a9cbc8;
+  background-image: repeating-linear-gradient(0deg, transparent 0 3rem, rgba(24, 51, 47, 0.07) calc(3rem + 1px));
+  border-top: 1px solid rgba(24, 51, 47, 0.45);
+  transition: height 900ms var(--museum-ease);
+}
+
+.prologue-water::after {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: calc(18% + var(--observation-depth) * 66%);
+  content: '';
+  background: rgba(32, 72, 68, calc(var(--observation-depth) * 0.24));
+  transition: height 900ms var(--museum-ease), background 900ms ease;
+}
+
+.prologue-float {
+  position: absolute;
+  top: 51%;
+  left: 72%;
+  z-index: 2;
+  width: 0.7rem;
+  height: 7rem;
+  background: linear-gradient(to bottom, #bd4938 0 34%, #f3ecd9 34% 58%, #18332f 58%);
+  border-radius: 0.5rem;
+  transform-origin: bottom;
+}
+
+.prologue-line {
+  position: absolute;
+  top: 58%;
+  left: 72%;
+  z-index: 1;
+  width: 1px;
+  height: 38%;
+  background: rgba(24, 51, 47, 0.48);
+}
+
+.prologue-fish {
+  position: absolute;
+  top: 74%;
+  left: -8rem;
+  z-index: 1;
+  width: 7rem;
+  height: 2.2rem;
+  background: rgba(24, 51, 47, 0.15);
+  border-radius: 60% 44% 48% 60%;
+}
+
+.prologue-fish::after {
+  position: absolute;
+  top: 0.2rem;
+  right: -1.7rem;
+  content: '';
+  border-top: 0.9rem solid transparent;
+  border-bottom: 0.9rem solid transparent;
+  border-left: 1.9rem solid rgba(24, 51, 47, 0.15);
+}
+
+.prologue-copy,
+.prologue-control {
+  position: relative;
+  z-index: 3;
+}
+
+.prologue-copy {
+  max-width: 40rem;
+  padding: 0;
+  animation: none;
+}
+
+.prologue-kicker,
+.epilogue-scene article > span {
+  font-size: 0.58rem;
+  opacity: 0.62;
+}
+
+.prologue-copy h1,
+.epilogue-scene h1 {
+  margin: 1rem 0 0;
+  font-family: var(--display);
+  font-size: 5.2rem;
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: 0;
+}
+
+.prologue-copy p,
+.epilogue-scene p {
+  margin: 2rem 0 0;
+  padding-top: 2rem;
+  font-size: 0.94rem;
+  line-height: 2.1;
+  border-top: 1px solid rgba(24, 51, 47, 0.35);
+}
+
+.prologue-control {
+  padding: 1.5rem;
+  color: #edf3e9;
+  background: rgba(24, 51, 47, 0.92);
+}
+
+.prologue-control > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.58rem;
+}
+
+.prologue-control input {
+  width: 100%;
+  margin: 1.4rem 0;
+  accent-color: #d4c16a;
+}
+
+.prologue-presets {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 1px solid rgba(237, 243, 233, 0.28);
+}
+
+.prologue-presets button {
+  min-height: 2.8rem;
+  color: inherit;
+  background: transparent;
+  border: 0;
+}
+
+.prologue-presets button + button {
+  border-left: 1px solid rgba(237, 243, 233, 0.28);
+}
+
+.prologue-presets button[aria-pressed="true"] {
+  color: #18332f;
+  background: #edf3e9;
+}
+
+.prologue-reading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  margin-top: 1rem;
+  font-size: 0.62rem;
+  opacity: 0.72;
+}
+
+.epilogue-scene {
+  position: relative;
+  display: grid;
+  min-height: 100svh;
+  place-items: center;
+  padding: 8rem 1.25rem;
+  overflow: hidden;
+  color: #e8eee6;
+  background: #17302c;
+}
+
+.epilogue-scene article {
+  position: relative;
+  z-index: 2;
+  max-width: 46rem;
+  text-align: center;
+}
+
+.epilogue-scene p {
+  color: inherit;
+  border-color: rgba(232, 238, 230, 0.28);
+  text-shadow: none;
+}
+
+.epilogue-water {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+  max-width: none;
+  padding: 0;
+  animation: none;
+}
+
+.epilogue-water span {
+  position: absolute;
+  width: 58vw;
+  height: 18vw;
+  border: 1px solid rgba(232, 238, 230, 0.35);
+  border-radius: 50%;
+}
+
+/* Drawers and map retain the context of the current exhibit. */
+.museum-shell [role="dialog"] {
+  border-radius: 0;
+}
+
+.museum-shell aside[role="dialog"] {
+  color: #1d2b27;
+  background: #f0ede2;
+  border-left: 1px solid rgba(29, 43, 39, 0.3);
+  backdrop-filter: none;
+}
+
+.museum-shell aside[role="dialog"] > button {
+  border-radius: 50%;
+  box-shadow: none;
+}
+
+.museum-shell section[role="dialog"][aria-label="展厅地图"] {
+  color: #e7ede3;
+  background: #1d302b;
+  border: 1px solid rgba(231, 237, 227, 0.26);
+  border-radius: 0;
+}
+
+.museum-shell section[role="dialog"][aria-label="展厅地图"] > header {
+  border-color: rgba(231, 237, 227, 0.26);
+}
+
+.museum-shell section[role="dialog"][aria-label="展厅地图"] ol {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  border-top: 1px solid rgba(231, 237, 227, 0.25);
+}
+
+.museum-shell section[role="dialog"][aria-label="展厅地图"] ol a {
+  height: auto;
+  min-height: 5.2rem;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  border-right: 1px solid rgba(231, 237, 227, 0.18);
+  border-bottom: 1px solid rgba(231, 237, 227, 0.18);
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.museum-shell section[role="dialog"][aria-label="展厅地图"] ol a:hover,
+.museum-shell section[role="dialog"][aria-label="展厅地图"] ol a[class*="bg-zinc-900"] {
+  color: #1d302b;
+  background: #e7ede3;
+}
+
+@keyframes hall-line-arrival {
+  to { width: 100%; }
+}
+
+@media (max-width: 900px) {
+  .prologue-scene {
+    grid-template-columns: 1fr;
+    align-content: center;
+    gap: 2.5rem;
+    padding: 7.5rem 1.25rem 6rem;
+  }
+
+  .prologue-copy h1,
+  .epilogue-scene h1 {
+    font-size: 3.5rem;
+  }
+
+  .prologue-copy p,
+  .epilogue-scene p {
+    font-size: 0.86rem;
+  }
+
+  .prologue-control {
+    width: min(100%, 28rem);
+  }
+
+  .prologue-float,
+  .prologue-line {
+    left: 86%;
+  }
+
+  .museum-chrome-header {
+    grid-template-columns: 1fr auto;
+    min-height: 60px;
+    padding: 0 1rem;
+  }
+
+  .museum-route-status {
+    display: none;
+  }
+
+  .museum-chrome-brand small {
+    display: none;
+  }
+
+  .museum-chrome-actions button:last-child span {
+    display: none;
+  }
+
+  .museum-chrome-actions button:last-child {
+    width: 2.3rem;
+    padding: 0;
+    border-radius: 50%;
+  }
+
+  .museum-route-footer {
+    right: 0.7rem;
+    bottom: 0.7rem;
+    left: 0.7rem;
+    justify-content: center;
+  }
+
+  .museum-route-footer > div {
+    display: none;
+  }
+
+  .museum-route-footer nav {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .museum-route-footer nav a {
+    flex: 1;
+    justify-content: center;
+    max-width: 12rem;
+    min-width: 0;
+  }
+
+  .museum-hall {
+    padding: 7.6rem 1.25rem 7rem;
+  }
+
+  .exhibit-header {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .exhibit-title {
+    font-size: 3rem;
+    line-height: 1.08;
+  }
+
+  .exhibit-summary {
+    margin-top: 1.2rem;
+    font-size: 0.86rem;
+  }
+
+  .exhibit-facts {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    min-width: 0;
+  }
+
+  .exhibit-facts > * {
+    padding-right: 0.5rem;
+    font-size: 0.58rem;
+  }
+
+  .museum-hall--history section[aria-label="中国钓鱼史纵向时间轴"] {
+    margin-left: 0.25rem;
+    padding-left: 2rem;
+  }
+
+  .museum-hall--fish section[aria-label="鱼类馆藏分布"] {
+    grid-template-columns: 1fr;
+  }
+
+  .museum-hall--fish .fish-orbit-stage {
+    height: 34rem;
+    min-height: 34rem;
+  }
+
+  .museum-hall--fish .fish-orbit-image {
+    width: 4rem;
+  }
+
+  .museum-hall--tackle section[aria-label="钓具受力拆解台"] > div {
+    grid-template-columns: 1fr;
+  }
+
+  .law-history-stage {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .law-history-intro {
+    position: static;
+  }
+
+  .ethics-consequence-list {
+    grid-template-columns: 1fr;
+  }
+
+  .ethics-consequence-list article {
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(32, 37, 29, 0.3);
+  }
+
+  .ethics-consequence-list article:last-child {
+    border-bottom: 0;
+  }
+
+  .ethics-consequence-list h3 {
+    margin-top: 2rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .exhibit-facts {
+    grid-template-columns: 1fr;
+  }
+
+  .museum-hall--fish .fish-orbit-planet {
+    width: 4.6rem;
+  }
+
+  .museum-hall--fish section[aria-label="鱼类标本检索"] > div.sticky {
+    position: relative;
+    top: auto;
+  }
+
+  .museum-hall--history nav[aria-label="历史时代筛选"] > div {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0;
+    overflow: visible;
+  }
+
+  .museum-hall--history nav[aria-label="历史时代筛选"] button {
+    min-height: 3.6rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(52, 47, 38, 0.18);
+  }
+
+  .museum-hall--anglers section[aria-label="水边身份图谱"] > nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0;
+    overflow: visible;
+  }
+
+  .museum-hall--anglers section[aria-label="水边身份图谱"] > nav button {
+    min-width: 0;
+    padding: 0.75rem 0.3rem;
+    white-space: normal;
+  }
+
+  .culture-index {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0;
+  }
+
+  .culture-index button {
+    min-width: 0;
+    justify-content: center;
+    padding: 0 0.2rem 0.75rem;
+    font-size: 0.68rem;
+    text-align: center;
+  }
+
+  .angler-reflection-stage {
+    grid-template-columns: 1fr;
+  }
+
+  .hall-submode-switch {
+    flex-direction: row;
+    border-right: 0;
+    border-bottom: 1px solid rgba(57, 40, 43, 0.35);
+  }
+
+  .angler-reflection-content {
+    min-height: 30rem;
+    padding: 1.4rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hall-atmosphere span {
+    width: 100%;
+    animation: none;
+  }
+}

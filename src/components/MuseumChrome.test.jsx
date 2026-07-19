@@ -26,7 +26,10 @@ describe('MuseumChrome', () => {
   })
 
   it('keeps the homepage entry unique and free of the route footer', () => {
-    render(<MemoryRouter initialEntries={['/']}><MuseumChrome /></MemoryRouter>)
+    render(<MemoryRouter initialEntries={['/']}><MuseumChrome><div data-testid="home-scene" /></MuseumChrome></MemoryRouter>)
+    expect(screen.getByTestId('home-scene')).toBeInTheDocument()
+    expect(screen.queryByRole('banner')).not.toBeInTheDocument()
+    expect(screen.queryByRole('button', { name: '展厅地图' })).not.toBeInTheDocument()
     expect(screen.queryByRole('contentinfo')).not.toBeInTheDocument()
     expect(screen.queryByRole('link', { name: /下一厅/ })).not.toBeInTheDocument()
   })

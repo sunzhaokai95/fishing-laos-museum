@@ -1,17 +1,45 @@
 import { motion } from 'motion/react'
-import { Sparkles, Waves } from 'lucide-react'
+import { Waves } from 'lucide-react'
 import { useState } from 'react'
 
 export default function PrologueHall() {
   const [depth, setDepth] = useState(0)
-  const submerged = depth >= 45
-  const underwaterOpacity = depth / 100
-  const surfaceOpacity = 1 - depth / 100
-  return <div className={`relative min-h-[calc(100svh-132px)] transition-colors duration-700 flex flex-col justify-center items-center px-6 py-10 md:py-12 overflow-hidden font-sans ${submerged ? 'bg-[#e2edf2] text-zinc-900' : 'bg-[#f5f5f7] text-zinc-800'}`}>
-    <div className="absolute inset-0 pointer-events-none z-0">
-      <motion.div animate={{ opacity: surfaceOpacity }} className="absolute inset-0"><div className="absolute top-[10%] right-[10%] w-[60%] h-[60%] rounded-full bg-zinc-200/50 blur-[140px]" /><div className="absolute bottom-[5%] left-[5%] w-[45%] h-[45%] rounded-full bg-zinc-300/30 blur-[120px]" /><div className="absolute left-1/2 top-[25%] -translate-x-1/2 opacity-45 flex flex-col items-center"><span className="w-2.5 h-16 bg-zinc-900 rounded-full animate-float relative"><i className="absolute top-1/3 inset-x-0 h-4 bg-zinc-400" /><i className="absolute bottom-1.5 left-1/2 -translate-x-1/2 w-4 h-4 bg-white rounded-full border border-zinc-200" /></span><span className="w-12 h-2.5 rounded-full border border-zinc-400/20 animate-ripple-expand mt-1" /><span className="w-20 h-4 rounded-full border border-zinc-400/10 animate-ripple-expand mt-0.5 [animation-delay:1s]" /></div></motion.div>
-      <motion.div animate={{ opacity: underwaterOpacity }} className="absolute inset-0"><div className="absolute inset-x-0 top-[32%] h-px bg-zinc-400/25" /><div className="absolute inset-x-0 top-[32%] bottom-0 bg-cyan-100/40" /><motion.span animate={{ x: ['-15vw', '115vw'], y: [0, -18, 8] }} transition={{ repeat: Infinity, duration: 16, ease: 'linear' }} className="absolute top-[58%] h-6 w-20 rounded-[55%_40%_48%_55%] bg-zinc-700/10" /><div className="absolute inset-x-0 bottom-0 top-0 overflow-hidden"><span className="bubble x1" /><span className="bubble x2" /><span className="bubble x3" /><span className="bubble x4" /><span className="bubble x5" /></div></motion.div>
-    </div>
-    <div className="relative z-10 max-w-4xl text-center space-y-10"><div className="inline-flex items-center gap-2.5 px-3.5 py-1.5 rounded-full border border-zinc-200 bg-white/75 text-[10px] font-mono"><Sparkles size={12} aria-hidden="true" /><span>PROLOGUE / 序厅</span></div><article className="space-y-6 max-w-2xl mx-auto"><h1 className="text-4xl md:text-6xl font-extrabold leading-none text-zinc-900">水面之下</h1><div className="relative py-8 border-y border-zinc-300/70"><p className="text-sm font-light leading-loose text-left md:text-center text-zinc-700">一根钓线穿过水面以后，人能看见的东西很少。浮漂停在明处，鱼钩和饵沉入暗处。鱼在什么位置，水下有没有流动，温度、溶氧和食物如何变化，都藏在反光之下。钓者借助竿、线、轮、漂和自己的身体，接收那些不完整的信号。参观从这片水面开始。</p></div></article><div className="max-w-md mx-auto w-full space-y-4 pt-4"><div className="flex justify-between text-[10px] font-mono text-zinc-500"><span>OBSERVATION DEPTH / 观察深度</span><strong className="text-zinc-900">{depth} / 100</strong></div><input type="range" aria-label="观察深度" min="0" max="100" value={depth} onChange={(event) => setDepth(Number(event.target.value))} className="block w-full accent-zinc-900" /><div className="grid grid-cols-2 gap-px bg-zinc-300 border border-zinc-300"><button type="button" onClick={() => setDepth(0)} className={`min-h-12 bg-white text-xs ${depth < 45 ? 'font-semibold shadow-[inset_0_-2px_0_#18181b]' : 'text-zinc-500'}`}>水面视角</button><button type="button" onClick={() => setDepth(100)} className={`min-h-12 bg-white text-xs ${depth >= 45 ? 'font-semibold shadow-[inset_0_-2px_0_#18181b]' : 'text-zinc-500'}`}>水下视角</button></div><span className="text-[10px] font-mono text-zinc-500 flex items-center justify-center gap-2"><Waves size={12} aria-hidden="true" />{depth < 25 ? '反光仍遮住大部分水下条件' : depth < 70 ? '表层与水下信号开始叠合' : '水下结构、流动与生物逐渐显现'}</span></div></div>
-  </div>
+
+  return (
+    <main
+      className="prologue-scene min-h-[calc(100svh-132px)]"
+      data-submerged={depth >= 45 ? 'true' : 'false'}
+      style={{ '--observation-depth': depth / 100 }}
+    >
+      <div className="prologue-water" aria-hidden="true">
+        <motion.span
+          className="prologue-float"
+          animate={{ y: depth > 50 ? 34 : [0, 4, 0], rotate: depth > 50 ? 4 : [0, -1, 1, 0] }}
+          transition={{ duration: depth > 50 ? 0.7 : 4, repeat: depth > 50 ? 0 : Infinity }}
+        />
+        <span className="prologue-line" />
+        <motion.i
+          className="prologue-fish"
+          animate={{ x: ['-15vw', '115vw'], y: [0, -16, 7] }}
+          transition={{ repeat: Infinity, duration: 18, ease: 'linear' }}
+        />
+      </div>
+
+      <article className="prologue-copy">
+        <span className="prologue-kicker">PROLOGUE / 序厅</span>
+        <h1>水面之下</h1>
+        <p>一根钓线穿过水面以后，人能看见的东西很少。浮漂停在明处，鱼钩和饵沉入暗处。鱼在什么位置，水下有没有流动，温度、溶氧和食物如何变化，都藏在反光之下。钓者借助竿、线、轮、漂和自己的身体，接收那些不完整的信号。参观从这片水面开始。</p>
+      </article>
+
+      <div className="prologue-control">
+        <div><span>OBSERVATION DEPTH / 观察深度</span><output>{depth} / 100</output></div>
+        <input type="range" aria-label="观察深度" min="0" max="100" value={depth} onChange={(event) => setDepth(Number(event.target.value))} />
+        <div className="prologue-presets">
+          <button type="button" aria-pressed={depth < 45} onClick={() => setDepth(0)}>水面视角</button>
+          <button type="button" aria-pressed={depth >= 45} onClick={() => setDepth(100)}>水下视角</button>
+        </div>
+        <span className="prologue-reading"><Waves size={12} aria-hidden="true" />{depth < 25 ? '反光仍遮住大部分水下条件' : depth < 70 ? '表层与水下信号开始叠合' : '水下结构、流动与生物逐渐显现'}</span>
+      </div>
+    </main>
+  )
 }

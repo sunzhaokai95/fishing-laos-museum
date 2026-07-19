@@ -18,8 +18,7 @@ export default function TackleHall({ hall, data }) {
   }, [data, images])
 
   return (
-    <main className="min-h-screen bg-[#f5f5f7] text-zinc-800 px-4 md:px-8 py-14 md:py-20 relative overflow-hidden font-sans">
-      <div className="absolute top-1/3 -right-40 w-[32rem] h-[32rem] rounded-full bg-zinc-200/50 blur-[140px] pointer-events-none" />
+    <main className="museum-hall museum-hall--tackle min-h-screen" data-motion-language="workbench">
       <div className="max-w-7xl mx-auto relative z-10 space-y-10">
         <ExhibitHeader eyebrow="HALL 03 / 第三展厅" title={hall.title} summary={hall.summary}><span className="px-3 py-1.5 bg-white/70 border border-zinc-200 rounded-lg">{records.length} 条器物记录</span><span className="px-3 py-1.5 bg-white/70 border border-zinc-200 rounded-lg">{METHODS.length} 种系统</span></ExhibitHeader>
         <TackleStressLab records={records} onOpen={setSelected} />
