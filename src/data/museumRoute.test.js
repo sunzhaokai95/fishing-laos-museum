@@ -24,4 +24,11 @@ describe('museum route contract', () => {
     expect(context.previous.url).toBe('/visit/prologue')
     expect(context.next.url).toBe('/visit/fish')
   })
+
+  it('recognizes static-host routes with a trailing slash', () => {
+    const context = routeContext('/visit/fish/')
+
+    expect(context.index).toBe(3)
+    expect(context.current.title).toBe('鱼各有其水')
+  })
 })

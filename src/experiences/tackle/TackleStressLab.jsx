@@ -1,4 +1,4 @@
-import { AnimatePresence, motion } from 'motion/react'
+import { motion } from 'motion/react'
 import { ArrowUpRight } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { TACKLE_SYSTEMS } from './tackleSystems.js'
@@ -29,14 +29,7 @@ export default function TackleStressLab({ records, onOpen }) {
 
       <div className="tackle-object-stage__canvas">
         <div className="tackle-object-stage__heading"><span>当前器物 / SELECTED OBJECT</span><h2>{active?.title || '当前系统暂无记录'}</h2></div>
-        <AnimatePresence mode="wait">
-          {active?.image ? (
-            <motion.figure key={active.id} className="tackle-object-stage__object" initial={{ opacity: 0, scale: .86, rotate: -4 }} animate={{ opacity: 1, scale: 1, rotate: 0 }} exit={{ opacity: 0, scale: 1.08, rotate: 3 }} transition={{ duration: .58, ease: [0.22, 1, 0.36, 1] }}>
-              <img src={active.image} alt={active.title} />
-            </motion.figure>
-          ) : null}
-        </AnimatePresence>
-        {!active?.image && active ? (
+        {active ? (
           <motion.div className="tackle-object-stage__definition" key={`definition-${active.id}`} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}>
             <span>器物释义 / OBJECT NOTE</span>
             <p>{active.description}</p>
@@ -60,11 +53,11 @@ export default function TackleStressLab({ records, onOpen }) {
         <motion.div key={active?.id || system} initial={{ opacity: 0, y: 14 }} animate={{ opacity: 1, y: 0 }}>
           <span>器物说明</span>
           <strong>{active?.title || systemLabel}</strong>
-          {active ? <>{active.image ? <p>{active.description}</p> : null}<button type="button" onClick={() => onOpen(active)} aria-label={`查看${active.title}详情`}>查看完整器物记录 <ArrowUpRight aria-hidden="true" /></button></> : <p>该系统尚无可用器物记录。</p>}
+          {active ? <button type="button" onClick={() => onOpen(active)} aria-label={`查看${active.title}详情`}>查看完整器物记录 <ArrowUpRight aria-hidden="true" /></button> : <p>该系统尚无可用器物记录。</p>}
         </motion.div>
       </aside>
 
-      <small className="tackle-object-stage__note">器物图像与说明用于辨认结构、用途和它在钓组中的位置。没有可靠图像的条目只呈现文字记录。</small>
+      <small className="tackle-object-stage__note">器物释义用于辨认结构、用途，以及它在钓组中的位置。</small>
     </section>
   )
 }

@@ -32,17 +32,29 @@ const legacyRoutes = [
   'collection/folklore',
 ]
 
-function pageHtml(title, description) {
+const routeData = {
+  'visit/history': ['history-timeline', 'images'],
+  'visit/fish': ['fish-library'],
+  'visit/tackle': ['collection-items', 'baike-library'],
+  'visit/anglers': ['collection-items', 'baike-library'],
+  'visit/culture': ['collection-items', 'images'],
+}
+
+function pageHtml(title, description, route = '') {
+  const dataPreloads = (routeData[route] ?? [])
+    .map((name) => `<link rel="preload" as="fetch" crossorigin="anonymous" href="/museums/fishing-laos/content/data/${name}.json" />`)
+    .join('\n    ')
   return template
     .replace(/<title>[^<]*<\/title>/, `<title>${title}</title>`)
     .replace(/<meta name="description" content="[^"]*" \/>/, `<meta name="description" content="${description}" />`)
+    .replace('</head>', `${dataPreloads ? `    ${dataPreloads}\n  ` : ''}</head>`)
 }
 
 for (const [route, title, description] of routes) {
   if (!route) continue
   const directory = join(outputPath, route)
   await mkdir(directory, { recursive: true })
-  await writeFile(join(directory, 'index.html'), pageHtml(title, description))
+  await writeFile(join(directory, 'index.html'), pageHtml(title, description, route))
 }
 
 for (const route of legacyRoutes) {
