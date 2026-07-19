@@ -14,8 +14,25 @@ describe('culture reading modes', () => {
   afterEach(cleanup)
 
   it('uses a folio theatre for the three cultural reading modes', () => {
-    const { container } = render(<CultureHall hall={{ title: '鱼不只活在水里', summary: '鱼文化' }} data={{ 'collection-items': [] }} />)
+    const { container } = render(<CultureHall hall={{ title: '鱼不只活在水里', summary: '鱼文化' }} data={{ 'collection-items': [], images: [] }} />)
     expect(container.querySelector('main')).toHaveClass('culture-theatre')
+  })
+
+  it('opens a complete language entry instead of repeating the preview sentence', () => {
+    render(<CultureHall hall={{ title: '鱼不只活在水里', summary: '鱼文化' }} data={{
+      images: [],
+      'collection-items': [{
+        id: 'term',
+        title: '打龟',
+        collection_type: 'folklore',
+        image_ids: [],
+        body_markdown: '# 打龟\n\n空手而归的社群说法。\n\n它在不同地区的使用范围并不相同。',
+      }],
+    }} />)
+    fireEvent.click(screen.getByRole('button', { name: '钓鱼人的语言' }))
+    fireEvent.click(screen.getByRole('button', { name: '查看完整词条' }))
+    expect(screen.getByRole('dialog', { name: '打龟' })).toBeInTheDocument()
+    expect(screen.getByText('它在不同地区的使用范围并不相同。')).toBeInTheDocument()
   })
 
   it('uses a paged folio for poetry and image culture', () => {

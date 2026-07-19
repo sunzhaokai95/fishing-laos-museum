@@ -16,8 +16,9 @@
   --line: oklch(0.82 0.012 220);
   --night: oklch(0.1 0.025 230);
   --danger: oklch(0.49 0.16 32);
-  --display: 'Songti SC', STSong, 'SimSun', serif;
   --sans: 'Hiragino Sans GB', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --display: var(--sans);
+  --font-serif: var(--sans);
   color: var(--ink);
   background: var(--bg);
   font-family: var(--sans);

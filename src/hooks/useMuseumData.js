@@ -6,7 +6,7 @@ const ROUTE_DATA_FILES = {
   '/visit/fish': ['fish-library'],
   '/visit/tackle': ['collection-items', 'images', 'baike-library'],
   '/visit/anglers': ['collection-items', 'baike-library'],
-  '/visit/culture': ['collection-items'],
+  '/visit/culture': ['collection-items', 'images'],
 }
 
 export function dataFilesForPath(pathname) {

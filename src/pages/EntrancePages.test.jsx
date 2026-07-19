@@ -23,6 +23,12 @@ describe('entrance, prologue and epilogue content contract', () => {
     expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-renderer', 'three')
     expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-effect', 'pointer-water-ripples')
     expect(container.querySelector('canvas')).toBeInTheDocument()
+    expect([...container.querySelectorAll('[data-testid="home-collection-object"] img')].map((image) => image.getAttribute('src'))).toEqual([
+      '/museum-assets/home-collection-fish.webp',
+      '/museum-assets/home-collection-history.webp',
+      '/museum-assets/home-collection-tackle.webp',
+      '/museum-assets/home-collection-culture.webp',
+    ])
     expect(screen.queryByRole('button', { name: '进入空间' })).not.toBeInTheDocument()
   })
 

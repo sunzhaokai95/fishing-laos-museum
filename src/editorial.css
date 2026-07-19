@@ -11,8 +11,9 @@
   --night: oklch(0.15 0.012 240);
   --danger: oklch(0.52 0.19 32);
   --ease-water: cubic-bezier(0.25, 1, 0.5, 1);
-  --display: 'Songti SC', 'STSong', 'Noto Serif SC', 'SimSun', serif;
   --sans: 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif;
+  --display: var(--sans);
+  --font-serif: var(--sans);
 }
 
 body {
