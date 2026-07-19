@@ -2,21 +2,28 @@ import { motion } from 'motion/react'
 
 export default function EpilogueHall() {
   return (
-    <main className="epilogue-scene min-h-[calc(100svh-132px)]">
-      <div className="epilogue-water" aria-hidden="true">
-        {[0, 1, 2].map((index) => (
+    <main className="epilogue-theatre">
+      <span className="epilogue-theatre__ghost" aria-hidden="true">回</span>
+      <div className="epilogue-theatre__water" aria-hidden="true">
+        {[0, 1, 2, 3].map((index) => (
           <motion.span
             key={index}
-            initial={{ scale: 0.25, opacity: 0 }}
-            animate={{ scale: 1.6, opacity: [0, 0.45, 0] }}
-            transition={{ duration: 7, delay: index * 1.8, repeat: Infinity, ease: 'easeOut' }}
+            initial={{ scale: .15, opacity: 0 }}
+            animate={{ scale: 1.45, opacity: [0, .42, 0] }}
+            transition={{ duration: 7.5, delay: index * 1.55, repeat: Infinity, ease: 'easeOut' }}
           />
         ))}
+        <motion.i
+          animate={{ y: [0, -5, 0], rotate: [0, 1.5, 0] }}
+          transition={{ duration: 5.5, repeat: Infinity, ease: 'easeInOut' }}
+        />
       </div>
+
       <motion.article
-        initial={{ opacity: 0, y: 18 }}
+        className="epilogue-theatre__copy"
+        initial={{ opacity: 0, y: 24 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 1 }}
+        transition={{ duration: 1.1, delay: .18, ease: [0.22, 1, 0.36, 1] }}
       >
         <span>EPILOGUE / 尾厅</span>
         <h1>回到水边</h1>

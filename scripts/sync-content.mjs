@@ -4,9 +4,25 @@ import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const projectRoot = resolve(dirname(fileURLToPath(import.meta.url)), '..')
-const workspaceRoot = resolve(projectRoot, '..')
-const contentRoot = resolve(projectRoot, '..', 'content', 'fishing-laos-3.0')
+const mainProjectRoot = resolveMainProjectRoot()
+const workspaceRoot = resolve(process.env.FISHING_MUSEUM_WORKSPACE_ROOT || mainProjectRoot, '..')
+const contentRoot = process.env.FISHING_MUSEUM_CONTENT_ROOT
+  ? resolve(process.env.FISHING_MUSEUM_CONTENT_ROOT)
+  : resolve(workspaceRoot, 'content', 'fishing-laos-3.0')
 const destination = resolve(projectRoot, 'public', 'content')
+
+function resolveMainProjectRoot() {
+  try {
+    const commonGitDir = execFileSync('git', ['rev-parse', '--path-format=absolute', '--git-common-dir'], {
+      cwd: projectRoot,
+      encoding: 'utf8',
+      stdio: ['ignore', 'pipe', 'ignore'],
+    }).trim()
+    return dirname(commonGitDir)
+  } catch {
+    return projectRoot
+  }
+}
 
 execFileSync(
   'python3',

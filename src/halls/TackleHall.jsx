@@ -1,5 +1,5 @@
+import { motion } from 'motion/react'
 import { useMemo, useState } from 'react'
-import ExhibitHeader from '../components/ExhibitHeader.jsx'
 import ObjectDrawer from '../components/ObjectDrawer.jsx'
 import { HISTORICAL_OBJECT_IDS } from '../data/history.js'
 import TackleStressLab from '../experiences/tackle/TackleStressLab.jsx'
@@ -18,13 +18,19 @@ export default function TackleHall({ hall, data }) {
   }, [data, images])
 
   return (
-    <main className="museum-hall museum-hall--tackle min-h-screen" data-motion-language="workbench">
-      <div className="max-w-7xl mx-auto relative z-10 space-y-10">
-        <ExhibitHeader eyebrow="HALL 03 / 第三展厅" title={hall.title} summary={hall.summary}><span className="px-3 py-1.5 bg-white/70 border border-zinc-200 rounded-lg">{records.length} 条器物记录</span><span className="px-3 py-1.5 bg-white/70 border border-zinc-200 rounded-lg">{METHODS.length} 种系统</span></ExhibitHeader>
-        <TackleStressLab records={records} onOpen={setSelected} />
-        <div className="flex flex-wrap gap-2">{METHODS.map((method) => <span className="px-3 py-1.5 rounded-full border border-zinc-300 bg-white/50 text-[10px] font-mono text-zinc-500" key={method}>{method}</span>)}</div>
-      </div>
-      <ObjectDrawer open={Boolean(selected)} title={selected?.title ?? ''} onClose={() => setSelected(null)}>{selected ? <div className="space-y-6 -mt-5">{selected.image ? <img src={selected.image} alt={selected.title} className="w-full max-h-[360px] object-contain rounded-2xl bg-zinc-50 border border-zinc-200 p-4" /> : null}<span className="text-[10px] font-mono text-zinc-500">{selected.kind}</span><h2 className="text-3xl font-bold text-zinc-900">{selected.title}</h2><p className="text-sm leading-8 text-zinc-600">{selected.description}</p></div> : null}</ObjectDrawer>
+    <main className="museum-hall museum-hall--tackle tackle-theatre" data-motion-language="workbench">
+      <header className="tackle-theatre__opening">
+        <span className="tackle-theatre__ghost" aria-hidden="true">器物</span>
+        <motion.div initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: .85 }}>
+          <span>第三展厅 / 钓具拆解台</span>
+          <h1>{hall.title}</h1>
+          <p>{hall.summary}</p>
+        </motion.div>
+        <div><strong>{records.length}</strong><span>条器物记录</span></div>
+      </header>
+      <TackleStressLab records={records} onOpen={setSelected} />
+      <div className="tackle-methods" aria-label="钓法系统">{METHODS.map((method) => <span key={method}>{method}</span>)}</div>
+      <ObjectDrawer open={Boolean(selected)} title={selected?.title ?? ''} onClose={() => setSelected(null)}>{selected ? <div className="tackle-drawer">{selected.image ? <img src={selected.image} alt={selected.title} /> : null}<span>{selected.kind}</span><h2>{selected.title}</h2><p>{selected.description}</p></div> : null}</ObjectDrawer>
     </main>
   )
 }

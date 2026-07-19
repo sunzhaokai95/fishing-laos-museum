@@ -5,7 +5,15 @@ import { useState } from 'react'
 export default function PoetryFolios({ items, onOpen }) {
   const [index, setIndex] = useState(0)
   const item = items[index]
-  if (!item) return <p className="py-12 text-sm text-zinc-500">本册暂无可展示条目。</p>
+  if (!item) return <p className="culture-empty">本册暂无可展示条目。</p>
   const move = (amount) => setIndex((value) => (value + amount + items.length) % items.length)
-  return <section className="relative min-h-[520px] overflow-hidden border-y border-zinc-300 bg-zinc-200/70 p-4 md:p-10" role="region" aria-label="诗画册页"><motion.article key={item.id} initial={{ opacity: 0, rotateY: -7 }} animate={{ opacity: 1, rotateY: 0 }} className={`relative mx-auto grid min-h-[420px] max-w-5xl bg-white shadow-[0_18px_55px_rgba(24,24,27,.1)] ${item.image ? 'md:grid-cols-2' : 'grid-cols-1'}`}>{item.image ? <div className="flex min-h-64 items-center justify-center border-b border-zinc-200 p-7 md:border-b-0 md:border-r"><img src={item.image} alt={item.title} className="max-h-80 w-full object-contain" /></div> : null}<div className="flex flex-col justify-between p-7 md:p-10"><div><small className="font-mono text-[9px] text-zinc-400">FOLIO {String(index + 1).padStart(2, '0')} / POETRY, IMAGE & ALLUSION</small><h2 className="mt-6 font-serif text-3xl leading-tight text-zinc-900">{item.title}</h2><p className="mt-6 text-sm leading-8 text-zinc-600">{item.text}</p></div><button type="button" onClick={() => onOpen(item)} className="mt-7 inline-flex items-center gap-2 self-start border-b border-zinc-800 pb-1 text-xs"><Maximize2 size={13} aria-hidden="true" />展开条目</button></div></motion.article><div className="relative mx-auto mt-5 flex max-w-5xl items-center justify-between"><button type="button" aria-label="上一册页" onClick={() => move(-1)} className="grid h-10 w-10 place-items-center border border-zinc-400 bg-white"><ArrowLeft size={15} /></button><span className="font-mono text-[9px] text-zinc-500">{index + 1} / {items.length}</span><button type="button" aria-label="下一册页" onClick={() => move(1)} className="grid h-10 w-10 place-items-center border border-zinc-400 bg-white"><ArrowRight size={15} /></button></div></section>
+  return (
+    <section className="poetry-folio" role="region" aria-label="诗画册页">
+      <motion.article key={item.id} initial={{ opacity: 0, rotateY: -9, x: 28 }} animate={{ opacity: 1, rotateY: 0, x: 0 }} transition={{ duration: .65 }} className={item.image ? 'has-image' : ''}>
+        {item.image ? <figure><img src={item.image} alt={item.title} /></figure> : null}
+        <div><small>FOLIO {String(index + 1).padStart(2, '0')} / POETRY, IMAGE & ALLUSION</small><h2>{item.title}</h2><p>{item.text}</p><button type="button" onClick={() => onOpen(item)}><Maximize2 aria-hidden="true" />展开条目</button></div>
+      </motion.article>
+      <footer><button type="button" aria-label="上一册页" onClick={() => move(-1)}><ArrowLeft aria-hidden="true" /></button><span>{index + 1} / {items.length}</span><button type="button" aria-label="下一册页" onClick={() => move(1)}><ArrowRight aria-hidden="true" /></button></footer>
+    </section>
+  )
 }

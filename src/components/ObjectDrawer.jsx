@@ -8,21 +8,21 @@ export default function ObjectDrawer({ open, title, onClose, children }) {
   return (
     <AnimatePresence>
       {open ? (
-        <div className="fixed inset-0 z-50 flex justify-end" role="presentation">
-          <motion.button type="button" aria-label="关闭详情背景" initial={{ opacity: 0 }} animate={{ opacity: 0.42 }} exit={{ opacity: 0 }} onClick={onClose} className="absolute inset-0 bg-black cursor-default" />
+        <div className="object-drawer-layer" role="presentation">
+          <motion.button type="button" aria-label="关闭详情背景" initial={{ opacity: 0 }} animate={{ opacity: .52 }} exit={{ opacity: 0 }} onClick={onClose} className="object-drawer-scrim" />
           <motion.aside
             ref={drawerRef}
             initial={{ x: '100%' }}
             animate={{ x: 0 }}
             exit={{ x: '100%' }}
-            transition={{ type: 'spring', damping: 28, stiffness: 220 }}
-            className="relative w-full max-w-xl h-full overflow-y-auto bg-white/95 backdrop-blur-2xl border-l border-zinc-200 shadow-2xl p-6 md:p-8 text-zinc-800"
+            transition={{ duration: .55, ease: [0.76, 0, 0.24, 1] }}
+            className="object-drawer-panel"
             role="dialog"
             aria-modal="true"
             aria-label={title}
             tabIndex={-1}
           >
-            <button className="sticky top-0 ml-auto z-10 w-10 h-10 rounded-full bg-white border border-zinc-200 text-zinc-700 hover:bg-zinc-100 flex items-center justify-center shadow-sm" type="button" onClick={onClose} aria-label="关闭详情">
+            <button className="object-drawer-close" type="button" onClick={onClose} aria-label="关闭详情">
               <X size={17} aria-hidden="true" />
             </button>
             {children}

@@ -21,7 +21,8 @@ describe('history experience', () => {
   afterEach(cleanup)
 
   it('filters the 31-node timeline by era and restores all nodes', () => {
-    render(<HistoryHall hall={{ title: '从生存到垂钓', summary: '中国钓鱼史' }} data={data} />)
+    const { container } = render(<HistoryHall hall={{ title: '从生存到垂钓', summary: '中国钓鱼史' }} data={data} />)
+    expect(container.querySelector('main')).toHaveClass('history-theatre')
     expect(screen.getAllByRole('button', { name: /CHECKPOINT.*节点/ })).toHaveLength(31)
 
     fireEvent.click(screen.getByRole('button', { name: /现代转型/ }))

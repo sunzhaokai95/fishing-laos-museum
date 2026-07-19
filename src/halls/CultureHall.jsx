@@ -1,6 +1,6 @@
 import { BookOpen, MessageCircle, Sparkles } from 'lucide-react'
+import { motion } from 'motion/react'
 import { useMemo, useState } from 'react'
-import ExhibitHeader from '../components/ExhibitHeader.jsx'
 import ObjectDrawer from '../components/ObjectDrawer.jsx'
 import LanguageIndex from '../experiences/culture/LanguageIndex.jsx'
 import MetaphysicsCabinet from '../experiences/culture/MetaphysicsCabinet.jsx'
@@ -26,30 +26,20 @@ export default function CultureHall({ hall, data }) {
   }, [collections, view])
 
   return (
-    <main className="museum-hall museum-hall--culture min-h-screen" data-motion-language="folios">
-      <div className="max-w-7xl mx-auto relative z-10 space-y-10">
-        <ExhibitHeader eyebrow="HALL 06 / 第六展厅" title={hall.title} summary={hall.summary} />
-        <nav className="culture-index" aria-label="鱼文化分类">
-          {VIEWS.map(({ id, label, icon: Icon }) => (
-            <button type="button" aria-pressed={view === id} onClick={() => setView(id)} key={id}>
-              <Icon size={15} aria-hidden="true" />
-              {label}
-            </button>
-          ))}
-        </nav>
+    <main className="museum-hall museum-hall--culture culture-theatre" data-motion-language="folios">
+      <header className="culture-theatre__opening">
+        <span className="culture-theatre__ghost" aria-hidden="true">鱼文</span>
+        <motion.div initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: .85 }}><span>第六展厅 / 鱼文化</span><h1>{hall.title}</h1><p>{hall.summary}</p></motion.div>
+      </header>
+      <nav className="culture-view-rail" aria-label="鱼文化分类">
+        {VIEWS.map(({ id, label, icon: Icon }, index) => <button type="button" aria-pressed={view === id} className={view === id ? 'is-active' : ''} onClick={() => setView(id)} key={id}><small>0{index + 1}</small><Icon aria-hidden="true" /><span>{label}</span></button>)}
+      </nav>
+      <div className="culture-theatre__reading">
         {view === 'works' ? <PoetryFolios items={items} onOpen={setSelected} /> : null}
         {view === 'language' ? <LanguageIndex items={items} onOpen={setSelected} /> : null}
         {view === 'belief' ? <MetaphysicsCabinet items={items} /> : null}
       </div>
-      <ObjectDrawer open={Boolean(selected)} title={selected?.title ?? ''} onClose={() => setSelected(null)}>
-        {selected ? (
-          <div className="space-y-6 -mt-5">
-            <span className="text-[10px] font-mono text-zinc-500">{VIEWS.find((item) => item.id === view)?.label}</span>
-            <h2 className="font-serif text-3xl text-zinc-900">{selected.title}</h2>
-            <p className="text-sm leading-8 text-zinc-600">{selected.text}</p>
-          </div>
-        ) : null}
-      </ObjectDrawer>
+      <ObjectDrawer open={Boolean(selected)} title={selected?.title ?? ''} onClose={() => setSelected(null)}>{selected ? <div className="culture-drawer"><span>{VIEWS.find((item) => item.id === view)?.label}</span><h2>{selected.title}</h2><p>{selected.text}</p></div> : null}</ObjectDrawer>
     </main>
   )
 }
