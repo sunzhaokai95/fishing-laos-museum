@@ -12,6 +12,7 @@ import './editorial.css'
 import './museum-shell.css'
 import './immersive.css'
 import './museum-redesign.css'
+import './collection-theatre.css'
 
 export function ScrollToTop() {
   const { pathname } = useLocation()

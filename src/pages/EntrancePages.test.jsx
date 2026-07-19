@@ -1,4 +1,4 @@
-import { cleanup, fireEvent, render, screen, waitFor } from '@testing-library/react'
+import { cleanup, fireEvent, render, screen } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
 import { afterEach, describe, expect, it } from 'vitest'
 import EpilogueHall from '../halls/EpilogueHall.jsx'
@@ -8,43 +8,32 @@ import HomePage from './HomePage.jsx'
 describe('entrance, prologue and epilogue content contract', () => {
   afterEach(cleanup)
 
-  it('opens with a dedicated curtain before revealing the spatial museum', () => {
+  it('opens directly into one fullscreen four-object collection theatre', () => {
     const { container } = render(
       <MemoryRouter>
         <HomePage />
       </MemoryRouter>,
     )
     expect(screen.getByRole('heading', { name: '钓鱼佬博物馆' })).toBeInTheDocument()
-    expect(screen.getByRole('button', { name: '进入空间' })).toBeInTheDocument()
-    expect(screen.queryByRole('link', { name: '从序厅开始' })).not.toBeInTheDocument()
-    expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-renderer', 'three')
-    expect(screen.getByRole('img', { name: '水边与展厅相连的钓鱼佬博物馆' })).toHaveAttribute(
-      'src',
-      expect.stringContaining('fishing-museum-hero-parallax'),
-    )
-    expect(container.querySelector('canvas')).toBeInTheDocument()
-    expect(container.querySelector('section')).not.toBeInTheDocument()
-  })
-
-  it('reveals one route entry and spatial observation points after entering', () => {
-    render(<MemoryRouter><HomePage /></MemoryRouter>)
-    fireEvent.click(screen.getByRole('button', { name: '进入空间' }))
+    expect(screen.getAllByTestId('home-collection-object')).toHaveLength(4)
     expect(screen.getAllByRole('link')).toHaveLength(1)
-    expect(screen.getByRole('link', { name: '从序厅开始' })).toHaveAttribute('href', '/visit/prologue')
-    expect(screen.getAllByRole('button', { name: /观察/ })).toHaveLength(3)
+    expect(screen.getByRole('link', { name: '开始参观' })).toHaveAttribute('href', '/visit/prologue')
+    expect(screen.getByRole('button', { name: '上一件藏品' })).toBeInTheDocument()
+    expect(screen.getByRole('button', { name: '下一件藏品' })).toBeInTheDocument()
+    expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-renderer', 'three')
+    expect(container.querySelector('canvas')).toBeInTheDocument()
+    expect(screen.queryByRole('button', { name: '进入空间' })).not.toBeInTheDocument()
   })
 
-  it('focuses a museum object and returns to the room', async () => {
+  it('moves the center object, giant label and description as one state', () => {
     render(<MemoryRouter><HomePage /></MemoryRouter>)
-    fireEvent.click(screen.getByRole('button', { name: '进入空间' }))
-    fireEvent.click(screen.getByRole('button', { name: '观察 水下标本' }))
-    expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-focus', 'fish')
-    expect(screen.getByRole('dialog', { name: '水下标本' })).toBeInTheDocument()
-    expect(screen.queryByText('空间观察')).not.toBeInTheDocument()
-    fireEvent.click(screen.getByRole('button', { name: '回到博物馆空间' }))
-    await waitFor(() => {
-      expect(screen.queryByRole('dialog', { name: '水下标本' })).not.toBeInTheDocument()
-    })
+    expect(screen.getByTestId('home-collection-theatre')).toHaveAttribute('data-active-index', '0')
+    expect(screen.getByText('鱼类')).toHaveAttribute('aria-hidden', 'true')
+    expect(screen.getByText('水下不是同一种空间')).toBeInTheDocument()
+    fireEvent.click(screen.getByRole('button', { name: '下一件藏品' }))
+    expect(screen.getByTestId('home-collection-theatre')).toHaveAttribute('data-active-index', '1')
+    expect(screen.getByText('钓史')).toHaveAttribute('aria-hidden', 'true')
+    expect(screen.getByText('时间留下的钩与图像')).toBeInTheDocument()
   })
 
   it('passes bounded pointer coordinates to the spatial scene', () => {
