@@ -29,8 +29,8 @@ function LegacyResolver() {
 }
 
 export default function App() {
-  const { data, error } = useMuseumData()
   const location = useLocation()
+  const { data, error } = useMuseumData(location.pathname)
 
   if (error) {
     return (
