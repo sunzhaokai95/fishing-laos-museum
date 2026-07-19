@@ -94,6 +94,25 @@ export function cleanInlineText(text = '') {
   return text.replace(/[*_`]+/g, '').trim()
 }
 
+export function publicBodyParagraphs(markdown = '') {
+  const body = markdown.includes('## 正文')
+    ? markdown.split('## 正文').slice(1).join('## 正文')
+    : markdown
+
+  return body
+    .split(/\r?\n/)
+    .map((line) => cleanInlineText(line.replace(/^>\s?/, '')))
+    .filter((line) => {
+      if (!line || line.startsWith('#') || line.startsWith('![')) return false
+      if (/^-\s*(?:来源|分类|日期|浏览|图片|https?:)/.test(line)) return false
+      if (/^(?:来源|资料来源|原文|参考链接)[：:]/.test(line)) return false
+      if (/^(?:https?:\/\/|www\.)/.test(line)) return false
+      if (/\.(?:jpe?g|png|webp|gif|svg)(?:\)|$)/i.test(line)) return false
+      if (/本文或来源网络共享文章|不代表本站观点|版权归原作者/.test(line)) return false
+      return true
+    })
+}
+
 export function publicationLabel(status) {
   return PUBLICATION_LABELS[status] ?? status
 }

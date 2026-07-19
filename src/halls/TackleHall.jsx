@@ -4,7 +4,7 @@ import ObjectDrawer from '../components/ObjectDrawer.jsx'
 import { HISTORICAL_OBJECT_IDS } from '../data/history.js'
 import TackleStressLab from '../experiences/tackle/TackleStressLab.jsx'
 import { tackleSystemFor } from '../experiences/tackle/tackleSystems.js'
-import { imageUrl, introParagraphs } from '../lib/content.js'
+import { imageUrl, publicBodyParagraphs } from '../lib/content.js'
 
 const METHODS = ['台钓', '传统钓', '路亚', '飞蝇钓', '冰钓', '筏钓', '矶钓', '延绳钓']
 
@@ -12,8 +12,14 @@ export default function TackleHall({ hall, data }) {
   const [selected, setSelected] = useState(null)
   const images = useMemo(() => new Map(data.images.map((item) => [item.id, item])), [data.images])
   const records = useMemo(() => {
-    const objects = data['collection-items'].filter((item) => item.collection_type === 'objects' && !HISTORICAL_OBJECT_IDS.includes(item.id)).map((item) => ({ id: item.id, title: item.title, description: introParagraphs(item.body_markdown, 1)[0] || item.summary, image: imageUrl(images.get(item.image_ids[0])), kind: '数字器物' }))
-    const baike = data['baike-library'].filter((item) => ['渔具配件', '饵料鱼饵'].includes(item.category_name)).map((item) => ({ id: `baike-${item.article_id}`, title: item.title, description: item.excerpt, image: item.image_urls_local?.[0], kind: item.category_name }))
+    const objects = data['collection-items'].filter((item) => item.collection_type === 'objects' && !HISTORICAL_OBJECT_IDS.includes(item.id)).map((item) => {
+      const details = publicBodyParagraphs(item.body_markdown).filter((line) => line !== item.title)
+      return { id: item.id, title: item.title, description: details[0] || item.summary, details, image: imageUrl(images.get(item.image_ids?.[0])), kind: '数字器物' }
+    })
+    const baike = data['baike-library'].filter((item) => ['渔具配件', '饵料鱼饵'].includes(item.category_name)).map((item) => {
+      const details = publicBodyParagraphs(item.body_markdown).filter((line) => line !== item.title)
+      return { id: `baike-${item.article_id}`, title: item.title, description: details[0] || item.excerpt, details, image: item.image_urls_local?.[0], kind: item.category_name }
+    })
     return [...objects, ...baike].map((item) => ({ ...item, system: tackleSystemFor(item.title) }))
   }, [data, images])
 
@@ -30,7 +36,7 @@ export default function TackleHall({ hall, data }) {
       </header>
       <TackleStressLab records={records} onOpen={setSelected} />
       <div className="tackle-methods" aria-label="钓法系统">{METHODS.map((method) => <span key={method}>{method}</span>)}</div>
-      <ObjectDrawer open={Boolean(selected)} title={selected?.title ?? ''} onClose={() => setSelected(null)}>{selected ? <div className="tackle-drawer">{selected.image ? <img src={selected.image} alt={selected.title} /> : null}<span>{selected.kind}</span><h2>{selected.title}</h2><p>{selected.description}</p></div> : null}</ObjectDrawer>
+      <ObjectDrawer open={Boolean(selected)} title={selected?.title ?? ''} onClose={() => setSelected(null)}>{selected ? <div className="tackle-drawer">{selected.image ? <img src={selected.image} alt={selected.title} /> : null}<span>{selected.kind}</span><h2>{selected.title}</h2><div className="tackle-drawer__body">{selected.details.map((paragraph, index) => <p key={`${selected.id}-${index}`}>{paragraph}</p>)}</div></div> : null}</ObjectDrawer>
     </main>
   )
 }

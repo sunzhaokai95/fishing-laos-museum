@@ -15,6 +15,6 @@ describe('museum route data loading', () => {
     expect(dataFilesForPath('/visit/fish')).toEqual(['fish-library'])
     expect(dataFilesForPath('/visit/tackle')).toEqual(['collection-items', 'images', 'baike-library'])
     expect(dataFilesForPath('/visit/anglers')).toEqual(['collection-items', 'baike-library'])
-    expect(dataFilesForPath('/visit/culture')).toEqual(['collection-items'])
+    expect(dataFilesForPath('/visit/culture')).toEqual(['collection-items', 'images'])
   })
 })

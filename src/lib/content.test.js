@@ -5,6 +5,7 @@ import {
   galleryStage,
   galleryKicker,
   cleanInlineText,
+  publicBodyParagraphs,
   publicationLabel,
   rewriteEditorialTerms,
   rewriteAssetPaths,
@@ -47,5 +48,10 @@ describe('content helpers', () => {
     expect(rewriteEditorialTerms('权利状态：rights_pending')).toBe(
       '权利状态：发布许可待确认',
     )
+  })
+
+  it('keeps full public prose while removing source and image administration', () => {
+    const markdown = '# 鱼钩\n\n- 来源：https://example.com\n\n## 图片\n\n- image.jpg\n\n## 正文\n\n第一段。\n第二段。\n本文或来源网络共享文章：https://example.com'
+    expect(publicBodyParagraphs(markdown)).toEqual(['第一段。', '第二段。'])
   })
 })

@@ -45,6 +45,7 @@ describe('MuseumChrome', () => {
     fireEvent.click(screen.getByRole('button', { name: '打开参观目录' }))
     const map = screen.getByRole('dialog', { name: '参观目录' })
     expect(map).toBeInTheDocument()
+    expect(map.parentElement).toBe(document.body)
     expect(map).toHaveClass('museum-route-overlay')
     expect(screen.getAllByRole('link', { name: /第.*站/ })).toHaveLength(10)
   })

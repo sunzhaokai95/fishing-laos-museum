@@ -22,13 +22,11 @@ describe('tackle stress laboratory', () => {
     expect(onOpen).toHaveBeenCalledWith(records[1])
   })
 
-  it('changes the SVG load path and reports a high relative load', () => {
+  it('keeps the selected instrument explanation central without a relative-load control', () => {
     render(<TackleStressLab records={records} onOpen={() => {}} />)
-    const path = screen.getByTestId('tackle-load-path')
-    const initial = path.getAttribute('d')
-    fireEvent.change(screen.getByLabelText('相对负载'), { target: { value: '90' } })
-    expect(path.getAttribute('d')).not.toBe(initial)
-    expect(screen.getByText('高负载区')).toBeInTheDocument()
-    expect(screen.getByText(/降低持续拉力/)).toBeInTheDocument()
+    expect(screen.queryByRole('slider', { name: '相对负载' })).not.toBeInTheDocument()
+    expect(screen.queryByTestId('tackle-load-path')).not.toBeInTheDocument()
+    expect(screen.getByText('传递动作与受力。')).toBeInTheDocument()
+    expect(screen.getByText('器物说明')).toBeInTheDocument()
   })
 })

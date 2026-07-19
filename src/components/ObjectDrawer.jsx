@@ -1,11 +1,14 @@
 import { AnimatePresence, motion } from 'motion/react'
 import { X } from 'lucide-react'
+import { createPortal } from 'react-dom'
 import useDialogBehavior from '../hooks/useDialogBehavior.js'
 
 export default function ObjectDrawer({ open, title, onClose, children }) {
   const drawerRef = useDialogBehavior(open, onClose)
 
-  return (
+  if (typeof document === 'undefined') return null
+
+  return createPortal(
     <AnimatePresence>
       {open ? (
         <div className="object-drawer-layer" role="presentation">
@@ -29,6 +32,7 @@ export default function ObjectDrawer({ open, title, onClose, children }) {
           </motion.aside>
         </div>
       ) : null}
-    </AnimatePresence>
+    </AnimatePresence>,
+    document.body,
   )
 }

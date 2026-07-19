@@ -1,6 +1,7 @@
 import { AnimatePresence, motion, MotionConfig } from 'motion/react'
 import { ArrowLeft, ArrowRight, Eye, EyeOff, Menu, X } from 'lucide-react'
 import { useCallback, useEffect, useState } from 'react'
+import { createPortal } from 'react-dom'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { MUSEUM_ROUTE, routeContext } from '../data/museumRoute.js'
 import useDialogBehavior from '../hooks/useDialogBehavior.js'
@@ -108,7 +109,7 @@ export default function MuseumChrome({ children }) {
           </footer>
         ) : null}
 
-        <AnimatePresence>
+        {typeof document !== 'undefined' ? createPortal(<AnimatePresence>
           {directoryOpen ? (
             <motion.section
               ref={directoryRef}
@@ -154,7 +155,7 @@ export default function MuseumChrome({ children }) {
               </ol>
             </motion.section>
           ) : null}
-        </AnimatePresence>
+        </AnimatePresence>, document.body) : null}
       </div>
     </MotionConfig>
   )
