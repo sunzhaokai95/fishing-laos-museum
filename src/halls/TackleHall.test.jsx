@@ -1,4 +1,4 @@
-import { cleanup, render, screen } from '@testing-library/react'
+import { cleanup, fireEvent, render, screen } from '@testing-library/react'
 import { afterEach, describe, expect, it } from 'vitest'
 import TackleHall from './TackleHall.jsx'
 
@@ -17,6 +17,11 @@ const data = {
     category_name: '渔具配件',
     image_urls_local: ['/content/reference/rod.jpg'],
     body_markdown: '# 台钓竿\n\n台钓竿承担抛投、控线与传递受力。',
+  }, {
+    article_id: '130',
+    title: '振出式钓竿',
+    category_name: '渔具配件',
+    body_markdown: '# 振出式钓竿',
   }],
 }
 
@@ -29,6 +34,9 @@ describe('tackle hall text collection', () => {
     expect(screen.queryByRole('img')).not.toBeInTheDocument()
     expect(screen.queryByText(/器物图像/)).not.toBeInTheDocument()
     expect(screen.getByText('器物释义用于辨认结构、用途，以及它在钓组中的位置。')).toBeInTheDocument()
+    expect(screen.getByText('专用于悬坠钓法的手竿，多采用可伸缩的振出结构。竿体轻、节段较长，依调性和强度分型，负责抛送钓组、传递鱼讯，并以竿身弹性缓冲鱼的冲击。')).toBeInTheDocument()
+    fireEvent.click(screen.getByRole('button', { name: /振出式钓竿/ }))
+    expect(screen.getByText('多节中空竿节由细至粗套接，使用时逐节抽出并锁定，收纳时缩回底柄。它便于携带、展开迅速；抽收须依次进行，避免接口过紧、夹砂或竿节受损。')).toBeInTheDocument()
     expect(screen.getByRole('heading', { name: '台钓' })).toBeInTheDocument()
     expect(screen.getByText('以竿、线、漂、坠、钩与饵构成可调钓组，通过调漂和饵料状态读取水下信号。')).toBeInTheDocument()
   })

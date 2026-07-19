@@ -17,6 +17,11 @@ const METHODS = [
   { name: '延绳钓', text: '在一条干线上按间距连接多条支线和钓钩，属于成组布设的捕捞器具，规模与使用范围受当地法规约束。' },
 ]
 
+const OBJECT_NOTES = {
+  台钓竿: '专用于悬坠钓法的手竿，多采用可伸缩的振出结构。竿体轻、节段较长，依调性和强度分型，负责抛送钓组、传递鱼讯，并以竿身弹性缓冲鱼的冲击。',
+  振出式钓竿: '多节中空竿节由细至粗套接，使用时逐节抽出并锁定，收纳时缩回底柄。它便于携带、展开迅速；抽收须依次进行，避免接口过紧、夹砂或竿节受损。',
+}
+
 export default function TackleHall({ hall, data }) {
   const [selected, setSelected] = useState(null)
   const records = useMemo(() => {
@@ -26,7 +31,7 @@ export default function TackleHall({ hall, data }) {
     })
     const baike = data['baike-library'].filter((item) => ['渔具配件', '饵料鱼饵'].includes(item.category_name)).map((item) => {
       const details = publicBodyParagraphs(item.body_markdown).filter((line) => line !== item.title)
-      return { id: `baike-${item.article_id}`, title: item.title, description: details[0] || item.excerpt, details, kind: item.category_name }
+      return { id: `baike-${item.article_id}`, title: item.title, description: OBJECT_NOTES[item.title] || details[0] || item.excerpt, details, kind: item.category_name }
     })
     return [...objects, ...baike].map((item) => ({ ...item, system: tackleSystemFor(item.title) }))
   }, [data])
