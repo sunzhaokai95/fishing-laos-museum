@@ -45,7 +45,8 @@ describe('fish orbit canopy', () => {
   })
 
   it('filters the catalogue by difficulty and resets all filters', () => {
-    render(<FishHall hall={{ title: '鱼各有其水', summary: '鱼类标本' }} data={{ 'fish-library': fish }} />)
+    const { container } = render(<FishHall hall={{ title: '鱼各有其水', summary: '鱼类标本' }} data={{ 'fish-library': fish }} />)
+    expect(container.querySelector('main')).toHaveClass('fish-theatre')
     fireEvent.change(screen.getByLabelText('钓获难度'), { target: { value: '4' } })
     expect(screen.getByText('当前水域找到 1 种')).toBeInTheDocument()
     fireEvent.click(screen.getByRole('button', { name: '重置全部筛选' }))

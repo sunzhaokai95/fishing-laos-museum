@@ -13,7 +13,8 @@ describe('tackle stress laboratory', () => {
 
   it('switches systems and opens the selected real record', () => {
     const onOpen = vi.fn()
-    render(<TackleStressLab records={records} onOpen={onOpen} />)
+    const { container } = render(<TackleStressLab records={records} onOpen={onOpen} />)
+    expect(container.querySelector('section')).toHaveClass('tackle-object-stage')
     expect(screen.getByRole('heading', { name: '手竿' })).toBeInTheDocument()
     fireEvent.click(screen.getByRole('button', { name: '选择轮系统' }))
     expect(screen.getByRole('heading', { name: '纺车轮' })).toBeInTheDocument()
