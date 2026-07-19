@@ -20,11 +20,14 @@ const fragmentShader = `
     pointerUv.y = 1.0 - pointerUv.y;
     float waveA = sin(vUv.x * 22.0 + vUv.y * 7.0 - uTime * 0.65);
     float waveB = sin(vUv.x * 9.0 - vUv.y * 18.0 + uTime * 0.42);
-    float ring = sin(distance(vUv, pointerUv) * 58.0 - uTime * 2.2) * exp(-distance(vUv, pointerUv) * 7.0);
+    float pointerDistance = distance(vUv, pointerUv);
+    float ring = sin(pointerDistance * 58.0 - uTime * 2.2) * exp(-pointerDistance * 6.5);
     float light = (waveA + waveB) * 0.5 + ring * uMotion;
-    float edge = smoothstep(0.0, 0.7, vUv.y);
-    float alpha = (0.018 + abs(light) * 0.035) * edge;
-    gl_FragColor = vec4(vec3(1.0), alpha);
+    float edge = smoothstep(0.02, 0.72, vUv.y);
+    float rippleHighlight = max(ring, 0.0) * uMotion;
+    float alpha = (0.036 + abs(light) * 0.078 + rippleHighlight * 0.07) * edge;
+    vec3 waterLight = vec3(0.88, 0.98, 0.96);
+    gl_FragColor = vec4(waterLight, clamp(alpha, 0.0, 0.17));
   }
 `
 
@@ -47,7 +50,13 @@ export default function MuseumHeroScene({ pointerRef, reducedMotion = false }) {
       try {
         const THREE = await import('three')
         if (disposed) return
-        renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true, powerPreference: 'high-performance' })
+        renderer = new THREE.WebGLRenderer({
+          canvas,
+          antialias: true,
+          alpha: true,
+          powerPreference: 'high-performance',
+          preserveDrawingBuffer: true,
+        })
         renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 1.6))
         renderer.setClearColor(0x000000, 0)
         const scene = new THREE.Scene()
@@ -111,6 +120,7 @@ export default function MuseumHeroScene({ pointerRef, reducedMotion = false }) {
       className={`museum-hero-scene is-${status}`}
       data-testid="museum-hero-scene"
       data-renderer="three"
+      data-effect="pointer-water-ripples"
       data-pointer-ready={pointerRef.current.active ? 'true' : 'false'}
     >
       <canvas ref={canvasRef} data-museum-hero-canvas aria-hidden="true" />

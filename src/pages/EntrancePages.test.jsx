@@ -21,6 +21,7 @@ describe('entrance, prologue and epilogue content contract', () => {
     expect(screen.getByRole('button', { name: '上一件藏品' })).toBeInTheDocument()
     expect(screen.getByRole('button', { name: '下一件藏品' })).toBeInTheDocument()
     expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-renderer', 'three')
+    expect(screen.getByTestId('museum-hero-scene')).toHaveAttribute('data-effect', 'pointer-water-ripples')
     expect(container.querySelector('canvas')).toBeInTheDocument()
     expect(screen.queryByRole('button', { name: '进入空间' })).not.toBeInTheDocument()
   })
